@@ -18,7 +18,7 @@ from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = (
-    "Mozilla/5.0 (compatible; EngReads/1.0; +https://github.com/; company-blog aggregator) "
+    "Mozilla/5.0 (compatible; EnggReads/1.0; +https://github.com/; company-blog aggregator) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 )
 CONCURRENCY = 6
@@ -100,6 +100,19 @@ KEYWORDS = [
         ),
     ),
 ]
+
+SKIP_TITLE = re.compile(
+    r"\b("
+    r"generally available|now generally available|now available|"
+    r"weekly roundup|week in review|what.?s new|"
+    r"we.?re hiring|now hiring|join our team|internship program|"
+    r"customer stor(?:y|ies)|case study|"
+    r"register now|join us at|save your seat|"
+    r"product launch|pricing update|new pricing|"
+    r"changelog|patch notes"
+    r")\b",
+    re.I,
+)
 
 CTX = ssl.create_default_context()
 
@@ -246,7 +259,11 @@ def fetch_one(source: dict) -> tuple[dict, str | None, list[dict]]:
         return source, f"XML {err}", []
 
     posts = []
-    for item in parsed[:PER_FEED]:
+    for item in parsed:
+        if SKIP_TITLE.search(item["title"]):
+            continue
+        if len(posts) >= PER_FEED:
+            break
         posts.append(
             {
                 "id": f"{source['id']}:{item['link']}",

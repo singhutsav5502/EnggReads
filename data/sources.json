@@ -50,15 +50,6 @@
       "tags": ["engineering", "internal", "data", "infrastructure"]
     },
     {
-      "id": "stripe",
-      "name": "Stripe",
-      "blog": "Stripe Blog",
-      "url": "https://stripe.com/blog",
-      "feed": "https://stripe.com/blog/feed.rss",
-      "tags": ["engineering", "backend"],
-      "recommended": true
-    },
-    {
       "id": "cloudflare",
       "name": "Cloudflare",
       "blog": "Cloudflare Blog",
@@ -118,15 +109,6 @@
       "tags": ["ai"]
     },
     {
-      "id": "openai",
-      "name": "OpenAI",
-      "blog": "OpenAI News",
-      "url": "https://openai.com/news",
-      "feed": "https://openai.com/news/rss.xml",
-      "tags": ["ai", "engineering"],
-      "recommended": true
-    },
-    {
       "id": "deepmind",
       "name": "Google DeepMind",
       "blog": "DeepMind Blog",
@@ -145,14 +127,6 @@
       "recommended": true
     },
     {
-      "id": "google-ai",
-      "name": "Google AI",
-      "blog": "The Keyword — AI",
-      "url": "https://blog.google/technology/ai",
-      "feed": "https://blog.google/technology/ai/rss/",
-      "tags": ["ai"]
-    },
-    {
       "id": "ms-research",
       "name": "Microsoft Research",
       "blog": "Microsoft Research",
@@ -160,14 +134,6 @@
       "feed": "https://www.microsoft.com/en-us/research/feed/",
       "tags": ["ai", "engineering"],
       "recommended": true
-    },
-    {
-      "id": "amazon-science",
-      "name": "Amazon Science",
-      "blog": "Amazon Science",
-      "url": "https://www.amazon.science",
-      "feed": "https://www.amazon.science/index.rss",
-      "tags": ["ai", "engineering"]
     },
     {
       "id": "apple-ml",
@@ -178,14 +144,6 @@
       "tags": ["ai", "mobile"]
     },
     {
-      "id": "nvidia",
-      "name": "NVIDIA",
-      "blog": "NVIDIA Technical Blog",
-      "url": "https://developer.nvidia.com/blog",
-      "feed": "https://developer.nvidia.com/blog/feed",
-      "tags": ["ai", "engineering", "infrastructure"]
-    },
-    {
       "id": "huggingface",
       "name": "Hugging Face",
       "blog": "Hugging Face Blog",
@@ -193,31 +151,6 @@
       "feed": "https://huggingface.co/blog/feed.xml",
       "tags": ["ai", "engineering"],
       "recommended": true
-    },
-    {
-      "id": "together",
-      "name": "Together AI",
-      "blog": "Together AI Blog",
-      "url": "https://www.together.ai/blog",
-      "feed": "https://www.together.ai/blog/rss.xml",
-      "tags": ["ai", "infrastructure"],
-      "recommended": true
-    },
-    {
-      "id": "wandb",
-      "name": "Weights & Biases",
-      "blog": "W&B Fully Connected",
-      "url": "https://wandb.ai/fully-connected",
-      "feed": "https://wandb.ai/fully-connected/rss.xml",
-      "tags": ["ai", "engineering"]
-    },
-    {
-      "id": "replicate",
-      "name": "Replicate",
-      "blog": "Replicate Blog",
-      "url": "https://replicate.com/blog",
-      "feed": "https://replicate.com/blog/rss",
-      "tags": ["ai", "engineering"]
     },
     {
       "id": "ollama",
@@ -236,30 +169,6 @@
       "tags": ["ai", "engineering", "infrastructure"]
     },
     {
-      "id": "character",
-      "name": "Character.AI",
-      "blog": "Character.AI Blog",
-      "url": "https://blog.character.ai",
-      "feed": "https://blog.character.ai/rss/",
-      "tags": ["ai", "engineering"]
-    },
-    {
-      "id": "lightning",
-      "name": "Lightning AI",
-      "blog": "Lightning AI",
-      "url": "https://lightning.ai/pages",
-      "feed": "https://lightning.ai/pages/feed/",
-      "tags": ["ai", "engineering"]
-    },
-    {
-      "id": "weaviate",
-      "name": "Weaviate",
-      "blog": "Weaviate Blog",
-      "url": "https://weaviate.io/blog",
-      "feed": "https://weaviate.io/blog/rss.xml",
-      "tags": ["ai", "databases"]
-    },
-    {
       "id": "bair",
       "name": "BAIR",
       "blog": "Berkeley AI Research",
@@ -267,46 +176,6 @@
       "feed": "https://bair.berkeley.edu/blog/feed.xml",
       "tags": ["ai"],
       "recommended": true
-    },
-    {
-      "id": "sourcegraph",
-      "name": "Sourcegraph",
-      "blog": "Sourcegraph Blog",
-      "url": "https://sourcegraph.com/blog",
-      "feed": "https://sourcegraph.com/blog/rss.xml",
-      "tags": ["ai", "engineering", "internal"]
-    },
-    {
-      "id": "aws",
-      "name": "AWS",
-      "blog": "AWS News Blog",
-      "url": "https://aws.amazon.com/blogs/aws",
-      "feed": "https://aws.amazon.com/blogs/aws/feed/",
-      "tags": ["infrastructure", "devops", "engineering"]
-    },
-    {
-      "id": "google-cloud",
-      "name": "Google Cloud",
-      "blog": "Google Cloud Blog",
-      "url": "https://cloud.google.com/blog",
-      "feed": "https://cloudblog.withgoogle.com/rss/",
-      "tags": ["infrastructure", "ai", "data"]
-    },
-    {
-      "id": "google-developers",
-      "name": "Google",
-      "blog": "Google Developers Blog",
-      "url": "https://developers.googleblog.com",
-      "feed": "https://developers.googleblog.com/atom.xml",
-      "tags": ["engineering", "ai", "mobile"]
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "blog": "Microsoft DevBlogs",
-      "url": "https://devblogs.microsoft.com",
-      "feed": "https://devblogs.microsoft.com/feed/",
-      "tags": ["engineering", "ai", "devops"]
     },
     {
       "id": "datadog",
@@ -318,60 +187,12 @@
       "recommended": true
     },
     {
-      "id": "hashicorp",
-      "name": "HashiCorp",
-      "blog": "HashiCorp Blog",
-      "url": "https://www.hashicorp.com/blog",
-      "feed": "https://www.hashicorp.com/blog/feed.xml",
-      "tags": ["infrastructure", "devops", "security"]
-    },
-    {
-      "id": "grafana",
-      "name": "Grafana",
-      "blog": "Grafana Blog",
-      "url": "https://grafana.com/blog",
-      "feed": "https://grafana.com/blog/index.xml",
-      "tags": ["reliability", "infrastructure", "engineering"]
-    },
-    {
-      "id": "elastic",
-      "name": "Elastic",
-      "blog": "Elastic Blog",
-      "url": "https://www.elastic.co/blog",
-      "feed": "https://www.elastic.co/blog/feed",
-      "tags": ["data", "infrastructure", "security"]
-    },
-    {
-      "id": "mongodb",
-      "name": "MongoDB",
-      "blog": "MongoDB Blog",
-      "url": "https://www.mongodb.com/blog",
-      "feed": "https://www.mongodb.com/blog/rss",
-      "tags": ["databases", "engineering"]
-    },
-    {
-      "id": "snowflake",
-      "name": "Snowflake",
-      "blog": "Snowflake Blog",
-      "url": "https://medium.com/snowflake",
-      "feed": "https://medium.com/feed/snowflake",
-      "tags": ["data", "engineering", "ai"]
-    },
-    {
       "id": "planetscale",
       "name": "PlanetScale",
       "blog": "PlanetScale Blog",
       "url": "https://planetscale.com/blog",
       "feed": "https://planetscale.com/blog/rss.xml",
       "tags": ["databases", "engineering", "infrastructure"]
-    },
-    {
-      "id": "redis",
-      "name": "Redis",
-      "blog": "Redis Blog",
-      "url": "https://redis.io/blog",
-      "feed": "https://redis.com/blog/feed/",
-      "tags": ["databases", "infrastructure"]
     },
     {
       "id": "supabase",
@@ -391,44 +212,12 @@
       "recommended": true
     },
     {
-      "id": "vercel",
-      "name": "Vercel",
-      "blog": "Vercel Blog",
-      "url": "https://vercel.com/blog",
-      "feed": "https://vercel.com/atom",
-      "tags": ["frontend", "infrastructure", "engineering", "ai"]
-    },
-    {
       "id": "kubernetes",
       "name": "Kubernetes",
       "blog": "Kubernetes Blog",
       "url": "https://kubernetes.io/blog",
       "feed": "https://kubernetes.io/feed.xml",
       "tags": ["infrastructure", "devops"]
-    },
-    {
-      "id": "cncf",
-      "name": "CNCF",
-      "blog": "CNCF Blog",
-      "url": "https://www.cncf.io/blog",
-      "feed": "https://www.cncf.io/feed/",
-      "tags": ["infrastructure", "devops", "culture"]
-    },
-    {
-      "id": "docker",
-      "name": "Docker",
-      "blog": "Docker Blog",
-      "url": "https://www.docker.com/blog",
-      "feed": "https://www.docker.com/blog/feed/",
-      "tags": ["devops", "infrastructure"]
-    },
-    {
-      "id": "gitlab",
-      "name": "GitLab",
-      "blog": "GitLab Blog",
-      "url": "https://about.gitlab.com/blog",
-      "feed": "https://about.gitlab.com/atom.xml",
-      "tags": ["devops", "engineering", "internal", "culture"]
     },
     {
       "id": "sentry",
@@ -455,28 +244,12 @@
       "tags": ["engineering", "internal", "data", "infrastructure"]
     },
     {
-      "id": "doordash",
-      "name": "DoorDash",
-      "blog": "DoorDash Engineering",
-      "url": "https://doordash.engineering",
-      "feed": "https://medium.com/feed/doordash",
-      "tags": ["engineering", "internal", "infrastructure", "data"]
-    },
-    {
       "id": "pinterest",
       "name": "Pinterest",
       "blog": "Pinterest Engineering",
       "url": "https://medium.com/pinterest-engineering",
       "feed": "https://medium.com/feed/pinterest-engineering",
       "tags": ["engineering", "internal", "data", "ai"]
-    },
-    {
-      "id": "discord",
-      "name": "Discord",
-      "blog": "Discord Blog",
-      "url": "https://discord.com/blog",
-      "feed": "https://discord.com/blog/rss.xml",
-      "tags": ["engineering", "internal", "infrastructure"]
     },
     {
       "id": "canva",
@@ -487,77 +260,12 @@
       "tags": ["engineering", "internal", "frontend", "infrastructure"]
     },
     {
-      "id": "figma",
-      "name": "Figma",
-      "blog": "Figma Blog",
-      "url": "https://www.figma.com/blog",
-      "feed": "https://medium.com/feed/@figma",
-      "tags": ["engineering", "internal", "frontend"]
-    },
-    {
       "id": "gusto",
       "name": "Gusto",
       "blog": "Gusto Engineering",
       "url": "https://engineering.gusto.com",
       "feed": "https://engineering.gusto.com/feed",
       "tags": ["engineering", "internal", "backend"]
-    },
-    {
-      "id": "plaid",
-      "name": "Plaid",
-      "blog": "Plaid Blog",
-      "url": "https://plaid.com/blog",
-      "feed": "https://plaid.com/blog/rss.xml",
-      "tags": ["engineering", "internal", "backend"]
-    },
-    {
-      "id": "posthog",
-      "name": "PostHog",
-      "blog": "PostHog Blog",
-      "url": "https://posthog.com/blog",
-      "feed": "https://posthog.com/blog/rss.xml",
-      "tags": ["engineering", "internal", "culture"]
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "blog": "Inside Intercom",
-      "url": "https://www.intercom.com/blog",
-      "feed": "https://www.intercom.com/blog/feed",
-      "tags": ["engineering", "internal", "culture"]
-    },
-    {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "blog": "HubSpot Product Blog",
-      "url": "https://product.hubspot.com/blog",
-      "feed": "https://product.hubspot.com/blog/rss.xml",
-      "tags": ["engineering", "internal", "frontend"]
-    },
-    {
-      "id": "auth0",
-      "name": "Auth0",
-      "blog": "Auth0 Blog",
-      "url": "https://auth0.com/blog",
-      "feed": "https://auth0.com/blog/rss.xml",
-      "tags": ["engineering", "internal", "security"]
-    },
-    {
-      "id": "salesforce-eng",
-      "name": "Salesforce",
-      "blog": "Salesforce Engineering",
-      "url": "https://engineering.salesforce.com",
-      "feed": "https://engineering.salesforce.com/feed/",
-      "tags": ["engineering", "internal", "ai"]
-    },
-    {
-      "id": "twosigma",
-      "name": "Two Sigma",
-      "blog": "Two Sigma",
-      "url": "https://www.twosigma.com",
-      "feed": "https://www.twosigma.com/articles/feed/",
-      "tags": ["engineering", "internal", "ai", "data"],
-      "recommended": true
     },
     {
       "id": "janestreet",
@@ -583,47 +291,6 @@
       "url": "https://building.nubank.com.br",
       "feed": "https://building.nubank.com.br/feed.xml",
       "tags": ["engineering", "internal", "backend"]
-    },
-    {
-      "id": "duolingo",
-      "name": "Duolingo",
-      "blog": "Duolingo Blog",
-      "url": "https://blog.duolingo.com",
-      "feed": "https://blog.duolingo.com/rss/",
-      "tags": ["engineering", "internal", "ai", "mobile"]
-    },
-    {
-      "id": "stackoverflow",
-      "name": "Stack Overflow",
-      "blog": "Stack Overflow Blog",
-      "url": "https://stackoverflow.blog",
-      "feed": "https://stackoverflow.blog/feed/",
-      "tags": ["engineering", "internal", "culture"]
-    },
-    {
-      "id": "twilio",
-      "name": "Twilio",
-      "blog": "Twilio Engineering",
-      "url": "https://www.twilio.com/blog/engineering",
-      "feed": "https://www.twilio.com/blog/feed",
-      "tags": ["engineering", "backend"]
-    },
-    {
-      "id": "databricks",
-      "name": "Databricks",
-      "blog": "Databricks Blog",
-      "url": "https://www.databricks.com/blog",
-      "feed": "https://www.databricks.com/feed",
-      "tags": ["data", "ai", "engineering"]
-    },
-    {
-      "id": "palantir",
-      "name": "Palantir",
-      "blog": "Palantir Blog",
-      "url": "https://blog.palantir.com",
-      "feed": "https://blog.palantir.com/feed",
-      "tags": ["engineering", "internal", "data", "ai"],
-      "recommended": true
     },
     {
       "id": "etsy",
@@ -692,20 +359,60 @@
       "recommended": true
     },
     {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "blog": "DigitalOcean Blog",
-      "url": "https://www.digitalocean.com/blog",
-      "feed": "https://www.digitalocean.com/rss/blog.atom",
-      "tags": ["infrastructure", "devops", "engineering"]
+      "id": "yelp",
+      "name": "Yelp",
+      "blog": "Yelp Engineering",
+      "url": "https://engineeringblog.yelp.com",
+      "feed": "https://engineeringblog.yelp.com/feed.xml",
+      "tags": ["engineering", "internal", "data"]
     },
     {
-      "id": "heroku",
-      "name": "Heroku",
-      "blog": "Heroku Blog",
-      "url": "https://blog.heroku.com",
-      "feed": "https://blog.heroku.com/feed",
-      "tags": ["devops", "engineering", "infrastructure"]
+      "id": "ebay",
+      "name": "eBay",
+      "blog": "eBay Tech Blog",
+      "url": "https://tech.ebayinc.com",
+      "feed": "https://tech.ebayinc.com/rss",
+      "tags": ["engineering", "internal", "infrastructure"]
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "blog": "PayPal Tech",
+      "url": "https://medium.com/paypal-tech",
+      "feed": "https://medium.com/feed/paypal-tech",
+      "tags": ["engineering", "internal", "backend"]
+    },
+    {
+      "id": "zendesk",
+      "name": "Zendesk",
+      "blog": "Zendesk Engineering",
+      "url": "https://medium.com/zendesk-engineering",
+      "feed": "https://medium.com/feed/zendesk-engineering",
+      "tags": ["engineering", "internal", "backend"]
+    },
+    {
+      "id": "mercari",
+      "name": "Mercari",
+      "blog": "Mercari Engineering",
+      "url": "https://engineering.mercari.com/en/blog",
+      "feed": "https://engineering.mercari.com/en/blog/feed.xml",
+      "tags": ["engineering", "internal", "infrastructure"]
+    },
+    {
+      "id": "deliveroo",
+      "name": "Deliveroo",
+      "blog": "Deliveroo Engineering",
+      "url": "https://deliveroo.engineering",
+      "feed": "https://deliveroo.engineering/feed",
+      "tags": ["engineering", "internal", "data"]
+    },
+    {
+      "id": "asos",
+      "name": "ASOS",
+      "blog": "ASOS Tech Blog",
+      "url": "https://medium.com/asos-techblog",
+      "feed": "https://medium.com/feed/asos-techblog",
+      "tags": ["engineering", "internal", "infrastructure"]
     }
   ]
 }

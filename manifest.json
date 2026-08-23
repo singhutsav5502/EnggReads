@@ -1,7 +1,7 @@
 {
-  "name": "EngReads",
-  "short_name": "EngReads",
-  "description": "Company engineering, infrastructure, and AI blogs in one feed.",
+  "name": "EnggReads",
+  "short_name": "EnggReads",
+  "description": "Company engineering blogs in one reading list.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f6f3ee",

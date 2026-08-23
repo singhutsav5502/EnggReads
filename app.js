@@ -212,11 +212,13 @@ function applyTheme(theme) {
     "content",
     next === "night" ? "#121110" : "#f6f3ee",
   );
-  localStorage.setItem("engreads-theme", next);
+  localStorage.setItem("enggreads-theme", next);
 }
 
 function initTheme() {
-  const saved = localStorage.getItem("engreads-theme");
+  const saved =
+    localStorage.getItem("enggreads-theme") ||
+    localStorage.getItem("engreads-theme");
   if (saved) applyTheme(saved);
   else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
     applyTheme("night");

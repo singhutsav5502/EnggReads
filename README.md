@@ -1,8 +1,8 @@
-# EngReads
+# EnggReads
 
-A quiet, mobile-first reading list of company engineering, infrastructure, and AI blogs.
+A quiet, mobile-first reading list of company **engineering** blogs — how teams build and operate systems, not product marketing.
 
-Posts stay on each company’s site. EngReads indexes public RSS/Atom feeds.
+Posts stay on each company’s site. EnggReads indexes public RSS/Atom feeds.
 
 Live site (after Pages is enabled): [https://singhutsav5502.github.io/EnggReads/](https://singhutsav5502.github.io/EnggReads/)
 
