@@ -102,17 +102,64 @@ KEYWORDS = [
 ]
 
 SKIP_TITLE = re.compile(
-    r"\b("
-    r"generally available|now generally available|now available|"
-    r"weekly roundup|week in review|what.?s new|"
-    r"we.?re hiring|now hiring|join our team|internship program|"
-    r"customer stor(?:y|ies)|case study|"
-    r"register now|join us at|save your seat|"
-    r"product launch|pricing update|new pricing|"
-    r"changelog|patch notes"
-    r")\b",
+    r"("
+    r"\bgenerally available\b|"
+    r"\bnow available\b|"
+    r"\bweekly roundup\b|"
+    r"\bweek in review\b|"
+    r"what.?s new\b|"
+    r"we.?re hiring|"
+    r"\bnow hiring\b|"
+    r"join our team|"
+    r"\binternship(s| program)?\b|"
+    r"\bintern program\b|"
+    r"\bhiring\b|"
+    r"customer stor(?:y|ies)\b|"
+    r"\bcase study\b|"
+    r"register now|"
+    r"join us at|"
+    r"save your seat|"
+    r"\bproduct launch(es)?\b|"
+    r"\blaunch week\b|"
+    r"\bpricing\b|"
+    r"\bchangelog\b|"
+    r"\bpatch notes\b|"
+    r"\bintroducing\b|"
+    r"\bannouncing\b|"
+    r"everything we launched|"
+    r"\bis now (in )?(public |open )?(beta|alpha|ga)\b|"
+    r"\bnow in (public |open )?(beta|alpha|ga)\b"
+    r")",
     re.I,
 )
+
+SKIP_EXCERPT = re.compile(
+    r"("
+    r"\bgenerally available\b|"
+    r"\bnow generally available\b|"
+    r"\bnow available\b|"
+    r"\bweekly roundup\b|"
+    r"\bweek in review\b|"
+    r"we.?re hiring|"
+    r"join our team|"
+    r"\binternship program\b|"
+    r"\bnew pricing\b|"
+    r"\bpricing update\b|"
+    r"\bproduct launch(es)?\b|"
+    r"\blaunch week\b|"
+    r"\bchangelog\b|"
+    r"\bpatch notes\b|"
+    r"\bis now (in )?(public |open )?(beta|alpha|ga)\b|"
+    r"\bnow in (public |open )?(beta|alpha|ga)\b"
+    r")",
+    re.I,
+)
+
+
+def should_skip(title: str, excerpt: str) -> bool:
+    if SKIP_TITLE.search(title or ""):
+        return True
+    return bool(SKIP_EXCERPT.search(excerpt or ""))
 
 CTX = ssl.create_default_context()
 
@@ -260,7 +307,8 @@ def fetch_one(source: dict) -> tuple[dict, str | None, list[dict]]:
 
     posts = []
     for item in parsed:
-        if SKIP_TITLE.search(item["title"]):
+        excerpt = item["summary"][:240]
+        if should_skip(item["title"], excerpt):
             continue
         if len(posts) >= PER_FEED:
             break
@@ -271,7 +319,7 @@ def fetch_one(source: dict) -> tuple[dict, str | None, list[dict]]:
                 "title": item["title"],
                 "url": item["link"],
                 "publishedAt": to_iso(item["date"]),
-                "excerpt": item["summary"][:240],
+                "excerpt": excerpt,
                 "tags": tagged(item, source),
             }
         )

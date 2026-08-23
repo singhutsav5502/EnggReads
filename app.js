@@ -244,9 +244,9 @@ async function load() {
     }
 
     if (state.generatedAt) {
-      els.status.textContent = `Updated ${relativeTime(state.generatedAt)} · ${state.sources.length} sources`;
+      els.status.textContent = `Updated ${relativeTime(state.generatedAt)} · ${state.sources.length} internal blogs`;
     } else {
-      els.status.textContent = `${state.sources.length} sources`;
+      els.status.textContent = `${state.sources.length} internal blogs`;
     }
 
     if (!state.posts.length) {

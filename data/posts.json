@@ -1,23 +1,9 @@
 {
-  "generatedAt": "2026-08-23T18:02:06.612280+00:00",
-  "feedCount": 48,
-  "fetchedOk": 47,
-  "postCount": 493,
+  "generatedAt": "2026-08-23T18:27:48.980003+00:00",
+  "feedCount": 37,
+  "fetchedOk": 37,
+  "postCount": 380,
   "posts": [
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/bot-preference-sync/",
-      "sourceId": "cloudflare",
-      "title": "Say it once: introducing Bot Preference Sync",
-      "url": "https://blog.cloudflare.com/bot-preference-sync/",
-      "publishedAt": "2026-08-21T23:19:57+00:00",
-      "excerpt": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering"
-      ]
-    },
     {
       "id": "netflix:https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
@@ -32,31 +18,6 @@
         "infrastructure",
         "data",
         "frontend"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "sourceId": "deepmind",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "publishedAt": "2026-08-21T11:59:48+00:00",
-      "excerpt": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/asr-benchmark-optimization",
-      "sourceId": "huggingface",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "publishedAt": "2026-08-21T00:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -85,34 +46,8 @@
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "sourceId": "huggingface",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "publishedAt": "2026-08-20T16:52:57+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
-      "sourceId": "ms-research",
-      "title": "Broadening access to Skala creates a faster path to predictive DFT",
-      "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
-      "publishedAt": "2026-08-20T16:00:00+00:00",
-      "excerpt": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational perf",
-      "tags": [
-        "recommended",
-        "ai",
         "engineering",
-        "frontend"
+        "internal"
       ]
     },
     {
@@ -126,42 +61,6 @@
         "engineering",
         "internal",
         "infrastructure",
-        "mobile"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
-      "sourceId": "apple-ml",
-      "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
-      "url": "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions",
-      "publishedAt": "2026-08-20T00:00:00+00:00",
-      "excerpt": "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge required for many downstream tasks invo",
-      "tags": [
-        "ai",
-        "mobile"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
-      "sourceId": "apple-ml",
-      "title": "Scaling Laws for Mixture Pretraining Under Data Constraints",
-      "url": "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining",
-      "publishedAt": "2026-08-20T00:00:00+00:00",
-      "excerpt": "As language models scale, the amount of data they require grows \u2013 yet many target data sources, such as low-resource languages or specialized domains, are inherently limited in size. A common strategy is to mix this scarce but valuable targ",
-      "tags": [
-        "ai",
-        "mobile"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling",
-      "sourceId": "apple-ml",
-      "title": "Progressive Refinement: An Iterative Pseudo-Labeling Approach for Mandarin-English Code-Switching ASR",
-      "url": "https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling",
-      "publishedAt": "2026-08-20T00:00:00+00:00",
-      "excerpt": "Code-switching (CS), alternating languages within the same utterance, poses significant challenges for automatic speech recognition (ASR) due to limited CS training data. This paper applies an iterative pseudo-labeling training approach to ",
-      "tags": [
-        "ai",
         "mobile"
       ]
     },
@@ -204,31 +103,8 @@
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/human-like-behaviors-llms",
-      "sourceId": "apple-ml",
-      "title": "Examining Human-Like Behaviors in LLMs: A Multi-Dimensional Analysis of Model Behaviors, User Factors, and System Prompts",
-      "url": "https://machinelearning.apple.com/research/human-like-behaviors-llms",
-      "publishedAt": "2026-08-19T00:00:00+00:00",
-      "excerpt": "Large language models (LLMs) exhibit a wide range of human-like behaviors, from expressing thoughts and emotions, to engaging in relationship-building with users, to refusing requests and maintaining boundaries. Despite their prevalence, re",
-      "tags": [
-        "ai",
-        "mobile"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal",
-      "sourceId": "apple-ml",
-      "title": "The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs",
-      "url": "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal",
-      "publishedAt": "2026-08-19T00:00:00+00:00",
-      "excerpt": "Modern AI agents increasingly rely on search infrastructure to execute complex, neuro-symbolic reasoning workflows. These workflows often compile into deeply nested, non-monotonic Boolean queries over text fields. However, standard query ev",
-      "tags": [
-        "ai",
-        "mobile"
+        "engineering",
+        "internal"
       ]
     },
     {
@@ -244,19 +120,6 @@
         "internal",
         "reliability",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "sourceId": "huggingface",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "publishedAt": "2026-08-18T18:09:38+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -288,107 +151,6 @@
       ]
     },
     {
-      "id": "modular:https://www.modular.com/blog/mojo-open-source",
-      "sourceId": "modular",
-      "title": "Modular: Mojo\ud83d\udd25 is now open source!",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "publishedAt": "2026-08-18T14:30:00+00:00",
-      "excerpt": "Mojo\ud83d\udd25 is now open source!",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/connect-client-traces-to-your-logs",
-      "sourceId": "supabase",
-      "title": "Connect client traces to your logs",
-      "url": "https://supabase.com/blog/connect-client-traces-to-your-logs",
-      "publishedAt": "2026-08-18T07:00:00+00:00",
-      "excerpt": "supabase-js now propagates W3C Trace Context to Supabase, so a client trace and the matching Supabase log share one trace_id.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/grpo-beyond-english",
-      "sourceId": "apple-ml",
-      "title": "GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings",
-      "url": "https://machinelearning.apple.com/research/grpo-beyond-english",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "Reinforcement Learning with Verifiable Rewards (RLVR), often optimized with Group Relative Policy Optimization (GRPO), has become a central recipe for improving the reasoning capabilities of pretrained language models but current studies re",
-      "tags": [
-        "ai",
-        "mobile"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/mvicad2-delays-dilations",
-      "sourceId": "apple-ml",
-      "title": "MVICAD2: Multi-View Independent Component Analysis with Delays and Dilations",
-      "url": "https://machinelearning.apple.com/research/mvicad2-delays-dilations",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "Machine learning techniques in multi-view settings face significant challenges, particularly when integrating heterogeneous data, aligning feature spaces, and managing view-specific biases. These issues are prominent in neuroscience, where ",
-      "tags": [
-        "ai",
-        "mobile"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/semismooth-newton-optimal-transport",
-      "sourceId": "apple-ml",
-      "title": "A Specialized Semismooth Newton Method for Kernel-Based Optimal Transport",
-      "url": "https://machinelearning.apple.com/research/semismooth-newton-optimal-transport",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "Kernel-based optimal transport (OT) estimators offer an alternative, functional estimation procedure to address OT problems from samples. Recent works suggest that these estimators are more statistically efficient than plug-in (linear progr",
-      "tags": [
-        "ai",
-        "mobile"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/multi-vector-encoder",
-      "sourceId": "huggingface",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "modular:https://www.modular.com/blog/modcon-qualcomm",
-      "sourceId": "modular",
-      "title": "Modular: Modular and Qualcomm: Same code, new silicon",
-      "url": "https://www.modular.com/blog/modcon-qualcomm",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "Modular and Qualcomm: Same code, new silicon",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "modular:https://www.modular.com/blog/modcon-announcements",
-      "sourceId": "modular",
-      "title": "Modular: ModCon 2026: Open source, open cloud, open silicon",
-      "url": "https://www.modular.com/blog/modcon-announcements",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "ModCon 2026: Open source, open cloud, open silicon",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/postgres-poisoned-connection-pools",
       "sourceId": "planetscale",
       "title": "Poisoned Postgres connection pools",
@@ -398,20 +160,8 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "sourceId": "huggingface",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "publishedAt": "2026-08-17T19:46:21+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -424,8 +174,8 @@
       "tags": [
         "databases",
         "engineering",
-        "infrastructure",
-        "internal"
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -439,7 +189,8 @@
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
+        "engineering",
+        "internal"
       ]
     },
     {
@@ -453,20 +204,8 @@
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "sourceId": "huggingface",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "publishedAt": "2026-08-14T00:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
+        "engineering",
+        "internal"
       ]
     },
     {
@@ -493,7 +232,8 @@
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
+        "engineering",
+        "internal"
       ]
     },
     {
@@ -512,32 +252,6 @@
       ]
     },
     {
-      "id": "huggingface:https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "sourceId": "huggingface",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "publishedAt": "2026-08-13T17:16:04+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering",
-        "devops"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "sourceId": "deepmind",
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "publishedAt": "2026-08-13T17:04:18+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/claude-routines-agent-triage/",
       "sourceId": "sentry",
       "title": "Automated agent triage with Agent Tracing and Claude Routines",
@@ -549,31 +263,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/unlearning-low-influence-points",
-      "sourceId": "apple-ml",
-      "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
-      "url": "https://machinelearning.apple.com/research/unlearning-low-influence-points",
-      "publishedAt": "2026-08-13T00:00:00+00:00",
-      "excerpt": "As concerns around data privacy in machine learning grow, the ability to unlearn, or remove, specific data points from trained models becomes increasingly important. While state of the art unlearning methods have emerged in response, they t",
-      "tags": [
-        "ai",
-        "mobile"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/icml-2026-open-reproductions",
-      "sourceId": "huggingface",
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "publishedAt": "2026-08-13T00:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -589,44 +278,6 @@
         "data",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "sourceId": "huggingface",
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "publishedAt": "2026-08-12T16:14:36+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
-      "sourceId": "ms-research",
-      "title": "MindTopo reveals VLMs\u2019 spatial reasoning abilities",
-      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
-      "publishedAt": "2026-08-12T16:00:00+00:00",
-      "excerpt": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning. The post MindTopo reveals VLMs\u2019 spatial reasoning",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "sourceId": "deepmind",
-      "title": "Putting sign language AI into users\u2019 hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "publishedAt": "2026-08-12T14:01:59+00:00",
-      "excerpt": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "tags": [
-        "recommended",
-        "ai"
       ]
     },
     {
@@ -661,44 +312,6 @@
       ]
     },
     {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
-      "sourceId": "kubernetes",
-      "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
-      "url": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
-      "publishedAt": "2026-08-11T18:00:00+00:00",
-      "excerpt": "YAML has been the standard way to write Kubernetes manifests for years. Every example, tutorial, and configuration file you come across is written in it. The problem isn't that YAML is a bad format. It's that YAML gives you a lot of choices",
-      "tags": [
-        "infrastructure",
-        "devops"
-      ]
-    },
-    {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-      "sourceId": "ms-research",
-      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-      "publishedAt": "2026-08-11T16:00:00+00:00",
-      "excerpt": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation. The post Introducing CARE-X: Towards",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "sourceId": "huggingface",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "publishedAt": "2026-08-11T13:37:10+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
       "id": "cloudflare:https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
       "sourceId": "cloudflare",
       "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
@@ -709,32 +322,8 @@
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/nemotron-3-5-lightning",
-      "sourceId": "ollama",
-      "title": "NVIDIA Nemotron 3.5 Lightning",
-      "url": "https://ollama.com/blog/nemotron-3-5-lightning",
-      "publishedAt": "2026-08-11T00:00:00+00:00",
-      "excerpt": "NVIDIA Nemotron 3.5 Lightning is now available on Ollama. It's a 30 billion parameter (3B active) open model built for agents that stay running, gathering context, calling tools, and working through multi-step tasks on your own hardware.",
-      "tags": [
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "modular:https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "sourceId": "modular",
-      "title": "Modular: Modular 26.5: Mojo 1.0 is here!",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "publishedAt": "2026-08-11T00:00:00+00:00",
-      "excerpt": "Modular 26.5: Mojo 1.0 is here!",
-      "tags": [
-        "ai",
         "engineering",
-        "infrastructure"
+        "internal"
       ]
     },
     {
@@ -762,6 +351,7 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure",
         "reliability"
       ]
@@ -779,33 +369,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/agents-week-review-august-2026/",
-      "sourceId": "cloudflare",
-      "title": "Everything we launched during Agents Week",
-      "url": "https://blog.cloudflare.com/agents-week-review-august-2026/",
-      "publishedAt": "2026-08-10T18:34:10+00:00",
-      "excerpt": "Our latest Agents Week has come to a close. Here\u2019s a recap of all the announcements we made from Wallets to Radar.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "sourceId": "huggingface",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "publishedAt": "2026-08-10T16:25:36+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -835,20 +398,8 @@
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
-      ]
-    },
-    {
-      "id": "huggingface:https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "sourceId": "huggingface",
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "publishedAt": "2026-08-10T10:05:36+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
+        "engineering",
+        "internal"
       ]
     },
     {
@@ -878,46 +429,24 @@
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
+        "engineering",
+        "internal"
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/introducing-radar-researcher/",
+      "id": "cloudflare:https://blog.cloudflare.com/workers-ai-gateway-unification/",
       "sourceId": "cloudflare",
-      "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
-      "url": "https://blog.cloudflare.com/introducing-radar-researcher/",
+      "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+      "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
       "publishedAt": "2026-08-07T13:00:00+00:00",
-      "excerpt": "Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare's Developer Platform, it turns natural language queries into real, interac",
+      "excerpt": "Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and model-first routing ",
       "tags": [
         "recommended",
         "infrastructure",
         "security",
-        "engineering"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/supabase-is-now-a-connector-on-perplexity-computer",
-      "sourceId": "supabase",
-      "title": "Supabase is now a connector on Perplexity Computer",
-      "url": "https://supabase.com/blog/supabase-is-now-a-connector-on-perplexity-computer",
-      "publishedAt": "2026-08-07T07:00:00+00:00",
-      "excerpt": "Supabase is now a connector on Perplexity Computer. Query your Postgres data, look up users, and invoke Edge Functions from a Perplexity chat.",
-      "tags": [
-        "databases",
         "engineering",
-        "backend"
-      ]
-    },
-    {
-      "id": "apple-ml:https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
-      "sourceId": "apple-ml",
-      "title": "Scaling Categorical Flow Maps",
-      "url": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "excerpt": "Continuous diffusion and flow matching models could represent a powerful alternative to autoregressive approaches for language modelling (LM), as they unlock a host of advantages currently reserved for continuous modalities, including accel",
-      "tags": [
-        "ai",
-        "mobile"
+        "internal",
+        "reliability"
       ]
     },
     {
@@ -930,20 +459,39 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure",
         "reliability"
       ]
     },
     {
-      "id": "deepmind:https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "sourceId": "deepmind",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "publishedAt": "2026-08-06T15:06:15+00:00",
-      "excerpt": "",
+      "id": "cloudflare:https://blog.cloudflare.com/mcp-v2/",
+      "sourceId": "cloudflare",
+      "title": "The next generation of MCP",
+      "url": "https://blog.cloudflare.com/mcp-v2/",
+      "publishedAt": "2026-08-06T13:00:00+00:00",
+      "excerpt": "The next version of MCP has a rewritten, stateless core that just works on Workers. We cover upgrades to the protocol, the new feature lifecycle and SDK migration path, and hear from early adopters already running it in production.",
       "tags": [
         "recommended",
-        "ai"
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/aeo/",
+      "sourceId": "cloudflare",
+      "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
+      "url": "https://blog.cloudflare.com/aeo/",
+      "publishedAt": "2026-08-06T13:00:00+00:00",
+      "excerpt": "More than half of requests now come from machines, not people. Agent Readiness shows how well agents can discover and read your site, while Answer Engine Optimization tracks how often AI assistants recommend you.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
       ]
     },
     {
@@ -987,19 +535,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/postgres-changes-filters-and-column-selection",
-      "sourceId": "supabase",
-      "title": "Postgres Changes gets AND filters, new operators, and column selection",
-      "url": "https://supabase.com/blog/postgres-changes-filters-and-column-selection",
-      "publishedAt": "2026-08-05T07:00:00+00:00",
-      "excerpt": "Postgres Changes subscriptions can now combine filters with AND, match on more operators, and select only the columns you need in the payload.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
       ]
     },
     {
@@ -1076,32 +611,6 @@
       ]
     },
     {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
-      "sourceId": "kubernetes",
-      "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
-      "url": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
-      "publishedAt": "2026-08-03T16:00:00+00:00",
-      "excerpt": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0 , which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive service networking in ",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "security"
-      ]
-    },
-    {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
-      "sourceId": "ms-research",
-      "title": "Orchard: An open framework for scalable agentic AI",
-      "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
-      "publishedAt": "2026-08-03T16:00:00+00:00",
-      "excerpt": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infras",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/how-ai-is-transforming-analytics",
       "sourceId": "grab",
       "title": "How AI is transforming analytics at Grab",
@@ -1166,32 +675,6 @@
       ]
     },
     {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
-      "sourceId": "kubernetes",
-      "title": "Kubernetes v1.37 Sneak Peek",
-      "url": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
-      "publishedAt": "2026-07-31T16:00:00+00:00",
-      "excerpt": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of the planned changes ",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "security"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/introducing-supabase-evals",
-      "sourceId": "supabase",
-      "title": "Introducing Supabase Evals",
-      "url": "https://supabase.com/blog/introducing-supabase-evals",
-      "publishedAt": "2026-07-31T07:00:00+00:00",
-      "excerpt": "Our open-source benchmark for how well AI coding agents build with Supabase.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/massively-parallel-postgres-backups",
       "sourceId": "planetscale",
       "title": "Massively parallel Postgres backups",
@@ -1201,9 +684,9 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure",
-        "security",
-        "internal"
+        "security"
       ]
     },
     {
@@ -1223,41 +706,17 @@
       ]
     },
     {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
-      "sourceId": "ms-research",
-      "title": "Echoverse: Deep, evolving environments for computer-use agents",
-      "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
-      "publishedAt": "2026-07-30T17:00:00+00:00",
-      "excerpt": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and env",
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
+      "sourceId": "mercari",
+      "title": "Bridging the Gap Between Passwords and Passkeys with Risk-Based Authentication",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
+      "publishedAt": "2026-07-30T18:15:04+00:00",
+      "excerpt": "This is the third post in our series on passkeys and phishing-resistant accounts at Mercari. The earlier posts are: Mercari\u2019s Passkey Adoption (2023) and Mercari Phishing-Resistant Accounts with Passkey (2025). Background: A Recap of Our Jo",
       "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-      "sourceId": "ms-research",
-      "title": "EvoLib: Turning experience into evolving knowledge",
-      "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-      "publishedAt": "2026-07-30T16:00:00+00:00",
-      "excerpt": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment. The post EvoLib: Turning experience ",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "sourceId": "deepmind",
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "publishedAt": "2026-07-30T15:00:59+00:00",
-      "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "tags": [
-        "recommended",
-        "ai"
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
       ]
     },
     {
@@ -1277,32 +736,6 @@
       ]
     },
     {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
-      "sourceId": "kubernetes",
-      "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
-      "url": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
-      "publishedAt": "2026-07-29T18:00:00+00:00",
-      "excerpt": "This article has been revised since it was first published, to correct several significant technical inaccuracies in the original text. Kubernetes has long been the default platform for distributed workloads, and writing your own controller",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "ai",
-        "frontend"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "sourceId": "deepmind",
-      "title": "We\u2019re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "publishedAt": "2026-07-29T16:02:10+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "github:https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
       "sourceId": "github",
       "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
@@ -1319,44 +752,6 @@
       ]
     },
     {
-      "id": "bair:http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
-      "sourceId": "bair",
-      "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
-      "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
-      "publishedAt": "2026-07-29T09:00:00+00:00",
-      "excerpt": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction. We face a new epoch in computing. Hardware is changing",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/sign-in-with-chatgpt-beta",
-      "sourceId": "supabase",
-      "title": "Sign in with ChatGPT is in beta on Supabase",
-      "url": "https://supabase.com/blog/sign-in-with-chatgpt-beta",
-      "publishedAt": "2026-07-29T07:00:00+00:00",
-      "excerpt": "Use your ChatGPT account to sign in to Supabase, and connect Supabase inside ChatGPT and Codex.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
-      ]
-    },
-    {
-      "id": "modular:https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular",
-      "sourceId": "modular",
-      "title": "Modular: Qualcomm Completes Acquisition of Modular",
-      "url": "https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular",
-      "publishedAt": "2026-07-29T00:00:00+00:00",
-      "excerpt": "Qualcomm Completes Acquisition of Modular",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "airbnb:https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
       "sourceId": "airbnb",
       "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
@@ -1370,18 +765,6 @@
         "infrastructure",
         "ai",
         "reliability"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "sourceId": "deepmind",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "publishedAt": "2026-07-28T13:21:37+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "ai"
       ]
     },
     {
@@ -1441,18 +824,6 @@
       ]
     },
     {
-      "id": "bair:http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-      "sourceId": "bair",
-      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-      "publishedAt": "2026-07-26T09:00:00+00:00",
-      "excerpt": "Overview of ABBEL compared to traditional recursive summarization. Beliefs replace the full interaction history as the agent\u2019s working context, and belief grading improves performance by supervising the contents of each belief state.. As ta",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/session-replay-unreal-engine/",
       "sourceId": "sentry",
       "title": "Session Replay for Unreal Engine: see the crash before the crash",
@@ -1487,6 +858,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "sourceId": "planetscale",
+      "title": "Postgres backups under the hood",
+      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "publishedAt": "2026-07-24T00:00:00+00:00",
+      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "fly:https://fly.io/blog/kurt-scott-money-sprites/",
       "sourceId": "fly",
       "title": "Turn And Face The Strange",
@@ -1497,24 +882,11 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "ai",
         "security",
-        "databases",
-        "internal"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "sourceId": "planetscale",
-      "title": "Postgres backups under the hood",
-      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "publishedAt": "2026-07-24T00:00:00+00:00",
-      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
-      "tags": [
-        "databases",
-        "engineering",
-        "infrastructure"
+        "databases"
       ]
     },
     {
@@ -1543,50 +915,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/observability-for-every-supabase-project-with-grafana-cloud",
-      "sourceId": "supabase",
-      "title": "Observability for every Supabase project with Grafana Cloud",
-      "url": "https://supabase.com/blog/observability-for-every-supabase-project-with-grafana-cloud",
-      "publishedAt": "2026-07-23T07:00:00+00:00",
-      "excerpt": "Connect your Supabase project to Grafana Cloud in one click. A pre-built dashboard, alerting, and metrics: available on every plan, including free.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend",
-        "reliability"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/securing-infrastructure-at-scale-introducing-pinterests-resource-provisioner-pipeline-rpp-8283bb12cbe5?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Securing Infrastructure at Scale: Introducing Pinterest\u2019s Resource Provisioner Pipeline (RPP)",
-      "url": "https://medium.com/pinterest-engineering/securing-infrastructure-at-scale-introducing-pinterests-resource-provisioner-pipeline-rpp-8283bb12cbe5?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-07-22T16:01:02+00:00",
-      "excerpt": "Ammar Ekbote | Senior Software Engineer Chan Kim | Senior Software Engineer Managing Infrastructure as Code (IaC) across a massive organization comes with a unique set of security and logistical challenges, particularly when operating withi",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "security",
-        "devops"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "sourceId": "deepmind",
-      "title": "Accelerating the frontiers of scientific discovery: Google\u2019s $40M commitment to the Genesis Mission",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "publishedAt": "2026-07-22T13:38:54+00:00",
-      "excerpt": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-      "tags": [
-        "recommended",
-        "ai"
       ]
     },
     {
@@ -1634,18 +962,6 @@
       ]
     },
     {
-      "id": "deepmind:https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "sourceId": "deepmind",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "publishedAt": "2026-07-21T15:16:30+00:00",
-      "excerpt": "We\u2019re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/structure-a-log/",
       "sourceId": "sentry",
       "title": "How to structure a log",
@@ -1657,19 +973,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/supabase-pipelines-public-alpha",
-      "sourceId": "supabase",
-      "title": "Supabase Pipelines is now in Public Alpha",
-      "url": "https://supabase.com/blog/supabase-pipelines-public-alpha",
-      "publishedAt": "2026-07-21T07:00:00+00:00",
-      "excerpt": "Supabase Pipelines is now in public alpha with schema change support, a faster initial sync, and a new destination request form for ClickHouse, Snowflake, and DuckLake.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
       ]
     },
     {
@@ -1725,6 +1028,7 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure"
       ]
     },
@@ -1763,30 +1067,6 @@
       ]
     },
     {
-      "id": "deepmind:https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "sourceId": "deepmind",
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "publishedAt": "2026-07-17T15:00:11+00:00",
-      "excerpt": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "sourceId": "deepmind",
-      "title": "Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "publishedAt": "2026-07-16T09:30:42+00:00",
-      "excerpt": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/seer-agent-page-context/",
       "sourceId": "sentry",
       "title": "Your agent should understand what you see",
@@ -1798,19 +1078,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/unified-logs-open-beta",
-      "sourceId": "supabase",
-      "title": "Unified Logs is now in open beta",
-      "url": "https://supabase.com/blog/unified-logs-open-beta",
-      "publishedAt": "2026-07-16T07:00:00+00:00",
-      "excerpt": "One searchable view for logs across every Supabase service, with live tail, filtering, and a timeline.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
       ]
     },
     {
@@ -1852,24 +1119,8 @@
       "tags": [
         "databases",
         "engineering",
-        "infrastructure",
-        "internal"
-      ]
-    },
-    {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/",
-      "sourceId": "kubernetes",
-      "title": "Building a Custom Metrics Exporter for Kubernetes",
-      "url": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/",
-      "publishedAt": "2026-07-14T18:00:00+00:00",
-      "excerpt": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the last batch job took, h",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "reliability",
-        "security",
-        "frontend",
-        "databases"
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1967,37 +1218,6 @@
       ]
     },
     {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/",
-      "sourceId": "kubernetes",
-      "title": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
-      "url": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/",
-      "publishedAt": "2026-07-13T20:00:00+00:00",
-      "excerpt": "Kubernetes has quietly become the default platform for AI and machine learning. Whether you run notebook servers for data scientists, schedule distributed training jobs, tune hyperparameters, or orchestrate multi-step ML pipelines, those wo",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "ai",
-        "reliability",
-        "data",
-        "databases"
-      ]
-    },
-    {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/",
-      "sourceId": "kubernetes",
-      "title": "Kubernetes Dashboard to Headlamp: A Step-by-Step Guide",
-      "url": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/",
-      "publishedAt": "2026-07-13T18:00:00+00:00",
-      "excerpt": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to connect to one or more cl",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "security",
-        "frontend",
-        "internal"
-      ]
-    },
-    {
       "id": "meta:https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
       "sourceId": "meta",
       "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
@@ -2013,31 +1233,6 @@
       ]
     },
     {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-      "sourceId": "ms-research",
-      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
-      "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-      "publishedAt": "2026-07-13T16:00:00+00:00",
-      "excerpt": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves. The post Verifying Rust c",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "deepmind:https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "sourceId": "deepmind",
-      "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "publishedAt": "2026-07-13T12:37:28+00:00",
-      "excerpt": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue",
       "sourceId": "planetscale",
       "title": "When the Postgres query planner goes rogue",
@@ -2047,6 +1242,7 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure",
         "reliability"
       ]
@@ -2111,19 +1307,6 @@
       ]
     },
     {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
-      "sourceId": "ms-research",
-      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
-      "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
-      "publishedAt": "2026-07-09T16:46:22+00:00",
-      "excerpt": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications. The post Aurora 1.5: Exten",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/logging-best-practices/",
       "sourceId": "sentry",
       "title": "When and what should I be logging?",
@@ -2135,32 +1318,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "sourceId": "supabase",
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "publishedAt": "2026-07-09T07:00:00+00:00",
-      "excerpt": "Add field-level encryption to your Supabase project with CipherStash. Searchable ciphertext, zero-knowledge key management, and no schema changes required.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend",
-        "security"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/all-aboard-open-models",
-      "sourceId": "ollama",
-      "title": "Ollama: all aboard open models",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "publishedAt": "2026-07-09T00:00:00+00:00",
-      "excerpt": "Serving 8.9 million developers, Ollama has raised $88M from Benchmark, Theory Ventures, 8VC, Y Combinator, and many incredible angel investors.",
-      "tags": [
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -2179,34 +1336,6 @@
       ]
     },
     {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
-      "sourceId": "ms-research",
-      "title": "Flint: A visualization language for the AI era",
-      "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
-      "publishedAt": "2026-07-08T16:00:00+00:00",
-      "excerpt": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifica",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/",
-      "sourceId": "kubernetes",
-      "title": "Announcing etcd v3.7.0",
-      "url": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/",
-      "publishedAt": "2026-07-08T12:00:00+00:00",
-      "excerpt": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0 , the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-requested RangeStream fe",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "reliability",
-        "security",
-        "databases"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/deadlocks-and-downtime",
       "sourceId": "planetscale",
       "title": "Deadlocks and downtime",
@@ -2216,22 +1345,8 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "bair:http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
-      "sourceId": "bair",
-      "title": "Intelligence is Free, Now What? Data Systems for, of, and by Agents",
-      "url": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
-      "publishedAt": "2026-07-07T09:00:00+00:00",
-      "excerpt": "... government of the people, by the people, for the people ... \u2014 Abraham Lincoln, Gettysburg Address (1863) The cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly $30 per million tokens in early 2023; today the same runs",
-      "tags": [
-        "recommended",
-        "ai",
-        "data",
-        "databases",
-        "internal"
       ]
     },
     {
@@ -2338,19 +1453,6 @@
       ]
     },
     {
-      "id": "bair:http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
-      "sourceId": "bair",
-      "title": "2026 BAIR Graduate Showcase",
-      "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
-      "publishedAt": "2026-07-01T09:00:00+00:00",
-      "excerpt": "Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose curiosity, creativity, and perseverance have pushed the frontiers of art",
-      "tags": [
-        "recommended",
-        "ai",
-        "internal"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/spot-checking-ai-agents/",
       "sourceId": "sentry",
       "title": "Reading the agent traces is how you make the call your eval can't",
@@ -2394,19 +1496,6 @@
       ]
     },
     {
-      "id": "ms-research:https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
-      "sourceId": "ms-research",
-      "title": "SkillOpt: Agent skills as trainable parameters",
-      "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
-      "publishedAt": "2026-06-30T16:50:02+00:00",
-      "excerpt": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model w",
-      "tags": [
-        "recommended",
-        "ai",
-        "engineering"
-      ]
-    },
-    {
       "id": "meta:https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
       "sourceId": "meta",
       "title": "10 Years of Meta\u2019s Commitment to Python",
@@ -2419,19 +1508,6 @@
         "internal",
         "ai",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/agentic-coding-on-supabase-with-opencode",
-      "sourceId": "supabase",
-      "title": "Agentic Coding on Supabase with OpenCode",
-      "url": "https://supabase.com/blog/agentic-coding-on-supabase-with-opencode",
-      "publishedAt": "2026-06-30T07:00:00+00:00",
-      "excerpt": "OpenCode integrates with Supabase. Connect your agent to your database, Edge Functions, and logs. MCP setup is configured automatically.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
       ]
     },
     {
@@ -2466,6 +1542,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
+      "sourceId": "mercari",
+      "title": "Rethinking Payment APIs at Merpay: The Exchange Abstraction",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
+      "publishedAt": "2026-06-29T11:00:26+00:00",
+      "excerpt": "This article is the 19th entry in Merpay & Mercoin Tech Openness Month 2026. Background We are the Payment Platform team at Merpay. Our systems sit beneath almost every movement of money in the Merpay ecosystem \u2014 customers paying partners, ",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "sentry:https://blog.sentry.io/nextjs-export-traces-opentelemetry/",
       "sourceId": "sentry",
       "title": "Next.js already traces your requests. Here's how to export them with OpenTelemetry.",
@@ -2480,31 +1569,6 @@
       ]
     },
     {
-      "id": "ollama:https://ollama.com/blog/faster-gemma-4-mlx-mtp",
-      "sourceId": "ollama",
-      "title": "Faster Gemma 4 on MLX with multi-token prediction",
-      "url": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
-      "publishedAt": "2026-06-29T00:00:00+00:00",
-      "excerpt": "Gemma 4 is now significantly faster in Ollama 0.31 on Apple Silicon via multi-token prediction (MTP), powered by MLX. Performance is now up to 90% faster when used with coding agents, as measured using the Aider polyglot benchmark.",
-      "tags": [
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/",
-      "sourceId": "kubernetes",
-      "title": "Open source maintainership in the age of AI",
-      "url": "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/",
-      "publishedAt": "2026-06-26T18:00:00+00:00",
-      "excerpt": "AI has really changed the game around software development. More people are leveraging AI than ever to contribute patches to projects they use. To me, this is a good thing as more folks will contribute patches rather than fork or not fix th",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "ai"
-      ]
-    },
-    {
       "id": "uber:https://medium.com/uber-under-the-hood/the-1-barrier-to-ev-adoption-has-shifted-heres-what-that-means-for-drivers-6fe032e78a55?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "The #1 Barrier to EV Adoption Has Shifted. Here\u2019s What That Means for Drivers",
@@ -2516,46 +1580,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/",
-      "sourceId": "kubernetes",
-      "title": "Introducing the Cluster API plugin for Headlamp",
-      "url": "https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/",
-      "publishedAt": "2026-06-25T22:00:00+00:00",
-      "excerpt": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources directly from a browser. Cluster API (CAPI) is a Kubernetes sub-project that brings declarative, Kubernetes-st",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/",
-      "sourceId": "kubernetes",
-      "title": "Inspect Volcano workloads faster with Headlamp",
-      "url": "https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/",
-      "publishedAt": "2026-06-25T20:00:00+00:00",
-      "excerpt": "Volcano is a cloud native batch scheduler for Kubernetes, built for high-performance computing, AI/ML, and other batch workloads. Headlamp is an extensible Kubernetes web UI. With its plugin system, Headlamp can surface APIs and workflows b",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "reliability"
-      ]
-    },
-    {
-      "id": "kubernetes:https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/",
-      "sourceId": "kubernetes",
-      "title": "See your serverless: introducing the Headlamp plugin for Knative",
-      "url": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/",
-      "publishedAt": "2026-06-25T18:00:00+00:00",
-      "excerpt": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources. Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscaling, and revision manage",
-      "tags": [
-        "infrastructure",
-        "devops",
-        "reliability"
       ]
     },
     {
@@ -2597,6 +1621,7 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure",
         "security",
         "devops"
@@ -2633,19 +1658,6 @@
       ]
     },
     {
-      "id": "modular:https://www.modular.com/blog/qualcomm-to-acquire-modular",
-      "sourceId": "modular",
-      "title": "Modular: Qualcomm to Acquire Modular",
-      "url": "https://www.modular.com/blog/qualcomm-to-acquire-modular",
-      "publishedAt": "2026-06-24T00:00:00+00:00",
-      "excerpt": "Qualcomm to Acquire Modular",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "meta:https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
       "sourceId": "meta",
       "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
@@ -2669,6 +1681,7 @@
       "excerpt": "This is the technical companion to our update on Distilled, \u201cKeeping the web open and private in the bot era.\u201d Here we take a deeper look at the problem space, the design we\u2019re proposing, and the problems still left to solve. Bots (and priv",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
         "security"
       ]
@@ -2730,6 +1743,19 @@
         "internal",
         "infrastructure",
         "data"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
+      "sourceId": "mercari",
+      "title": "Scaling Myself: How I Run 22 Claude Code Sessions for DS4 Migration",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
+      "publishedAt": "2026-06-22T10:00:24+00:00",
+      "excerpt": "This article is the 15th entry in Merpay & Mercoin Tech Openness Month 2026. In this age of AI, most of us have built our own work setups around it. This article is not a proclamation that mine is the best; other setups might work better fo",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -2817,32 +1843,6 @@
       ]
     },
     {
-      "id": "modular:https://www.modular.com/blog/modular-26-4-sota-moe-serving-model-bringup-via-agent-skills-mojo-beta-2-and-more",
-      "sourceId": "modular",
-      "title": "Modular: Modular 26.4: SOTA MoE Serving, Model Bringup via Agent Skills, Mojo 1.0 Beta 2 and More",
-      "url": "https://www.modular.com/blog/modular-26-4-sota-moe-serving-model-bringup-via-agent-skills-mojo-beta-2-and-more",
-      "publishedAt": "2026-06-18T00:00:00+00:00",
-      "excerpt": "Modular 26.4: SOTA MoE Serving, Model Bringup via Agent Skills, Mojo 1.0 Beta 2 and More",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "modular:https://www.modular.com/blog/modcon-2026-modular-s-developer-conference",
-      "sourceId": "modular",
-      "title": "Modular: ModCon 2026: Modular\u2019s Developer Conference",
-      "url": "https://www.modular.com/blog/modcon-2026-modular-s-developer-conference",
-      "publishedAt": "2026-06-17T00:00:00+00:00",
-      "excerpt": "ModCon 2026: Modular\u2019s Developer Conference",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "gusto:https://engineering.gusto.com/storage-is-the-missing-piece-for-agent-built-software-ede96ac7ac27?source=rss----645edd256348---4",
       "sourceId": "gusto",
       "title": "Storage Is the Missing Piece for Agent-Built Software",
@@ -2884,10 +1884,10 @@
       "tags": [
         "databases",
         "engineering",
+        "internal",
         "infrastructure",
         "reliability",
-        "devops",
-        "internal"
+        "devops"
       ]
     },
     {
@@ -2901,6 +1901,21 @@
         "engineering",
         "internal",
         "backend"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
+      "sourceId": "mercari",
+      "title": "Build First, Discuss Later: How Prototypes Speed Up Product Decisions",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
+      "publishedAt": "2026-06-15T10:00:16+00:00",
+      "excerpt": "I\u2019m Kubomi, an iOS engineer at Merpay, Inc. This article is the 10th entry in Merpay & Mercoin Tech Openness Month 2026. Generative AI has made it easier for engineers to build prototypes quickly. Recently, I tried building a working protot",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "ai",
+        "mobile"
       ]
     },
     {
@@ -2943,31 +1958,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/mlx-performance",
-      "sourceId": "ollama",
-      "title": "Ollama's highest performance on Apple Silicon yet with MLX",
-      "url": "https://ollama.com/blog/mlx-performance",
-      "publishedAt": "2026-06-11T00:00:00+00:00",
-      "excerpt": "Ollama's MLX engine has been updated to deliver its highest performance on Apple Silicon yet. Models output higher quality responses, respond faster, and use less memory.",
-      "tags": [
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "modular:https://www.modular.com/blog/day-zero-minimax-m3-open-weights-on-modular-cloud",
-      "sourceId": "modular",
-      "title": "Modular: Day Zero: MiniMax M3 Open Weights on Modular Cloud",
-      "url": "https://www.modular.com/blog/day-zero-minimax-m3-open-weights-on-modular-cloud",
-      "publishedAt": "2026-06-11T00:00:00+00:00",
-      "excerpt": "Day Zero: MiniMax M3 Open Weights on Modular Cloud",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
       ]
     },
     {
@@ -3016,16 +2006,17 @@
       ]
     },
     {
-      "id": "modular:https://www.modular.com/blog/modverse-55-mojo-1-0-beta-community-mojo-libraries-and-real-time-patient-conversations-powered-by-max",
-      "sourceId": "modular",
-      "title": "Modular: Modverse #55: Mojo 1.0 Beta, Community Mojo Libraries, and Real-Time Patient Conversations Powered by MAX",
-      "url": "https://www.modular.com/blog/modverse-55-mojo-1-0-beta-community-mojo-libraries-and-real-time-patient-conversations-powered-by-max",
-      "publishedAt": "2026-06-10T00:00:00+00:00",
-      "excerpt": "Modverse #55: Mojo 1.0 Beta, Community Mojo Libraries, and Real-Time Patient Conversations Powered by MAX",
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
+      "sourceId": "mercari",
+      "title": "Four Mechanisms Behind EGP Code, an AI-Powered Landing Page Editor",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
+      "publishedAt": "2026-06-10T11:00:58+00:00",
+      "excerpt": "Hi, I\u2019m @mattsuu a frontend engineer at Merpay. This is Day 7 of Merpay & Mercoin Tech Openness Month 2026. EGP Code is an internal editor for building landing pages (LPs) with AI. We covered the background in Why we built EGP Code, an HTML",
       "tags": [
-        "ai",
         "engineering",
-        "infrastructure"
+        "internal",
+        "infrastructure",
+        "frontend"
       ]
     },
     {
@@ -3060,6 +2051,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
+      "sourceId": "mercari",
+      "title": "Designing a Credit-Management Microservice for Partner Invoice Payment",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
+      "publishedAt": "2026-06-09T10:00:59+00:00",
+      "excerpt": "Hello. I\u2019m imamu, a Backend Engineer on Merpay\u2019s Payment & Customer Platform (PCP) team. This article is Day 6 of Merpay & Mercoin Tech Openness Month 2026. Introduction \"Partner invoicing\" is a deferred payment method for partners (such as",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "nytimes:https://open.nytimes.com/building-the-crossplay-board-6de68c8574f9?source=rss----51e1d1745b32---4",
       "sourceId": "nytimes",
       "title": "Building the Crossplay Board",
@@ -3087,21 +2091,9 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "security"
-      ]
-    },
-    {
-      "id": "zalando:https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html",
-      "sourceId": "zalando",
-      "title": "Introducing Lightstep UQL to PromQL Translator",
-      "url": "https://engineering.zalando.com/posts/2026/06/introducing-lightstep-uql-to-promql-translator.html",
-      "publishedAt": "2026-06-07T22:00:00+00:00",
-      "excerpt": "Automate telemetry query migration from Lightstep UQL to PromQL with this open-source Go SDK and Web UI.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -3150,31 +2142,6 @@
       ]
     },
     {
-      "id": "ollama:https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
-      "sourceId": "ollama",
-      "title": "Improved performance and model support with GGUF",
-      "url": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
-      "publishedAt": "2026-06-05T00:00:00+00:00",
-      "excerpt": "Ollama 0.30 is now available with improved performance and GGUF model compatibility through llama.cpp. This augments Ollama's MLX engine on Apple silicon, bringing support to more models on a wider range of hardware.",
-      "tags": [
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "modular:https://www.modular.com/blog/why-llm-inference-needs-a-new-kind-of-router-part-3",
-      "sourceId": "modular",
-      "title": "Modular: Why LLM Inference Needs a New Kind of Router - Part 3",
-      "url": "https://www.modular.com/blog/why-llm-inference-needs-a-new-kind-of-router-part-3",
-      "publishedAt": "2026-06-05T00:00:00+00:00",
-      "excerpt": "Why LLM Inference Needs a New Kind of Router - Part 3",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "airbnb:https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
       "sourceId": "airbnb",
       "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
@@ -3188,44 +2155,6 @@
         "infrastructure",
         "reliability",
         "databases"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/multigres-v0-1-alpha",
-      "sourceId": "supabase",
-      "title": "Multigres v0.1 Alpha: an operating system for Postgres",
-      "url": "https://supabase.com/blog/multigres-v0-1-alpha",
-      "publishedAt": "2026-06-04T07:00:00+00:00",
-      "excerpt": "Today we're releasing Multigres v0.1 alpha to the open source community, bringing Vitess-grade horizontal scaling, high availability, and operational simplicity to Postgres.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
-      ]
-    },
-    {
-      "id": "supabase:https://supabase.com/blog/supabase-series-f",
-      "sourceId": "supabase",
-      "title": "Supabase Series F",
-      "url": "https://supabase.com/blog/supabase-series-f",
-      "publishedAt": "2026-06-04T07:00:00+00:00",
-      "excerpt": "Supabase has raised a $500M Series F at a $10B pre-money valuation, led by GIC.",
-      "tags": [
-        "databases",
-        "engineering",
-        "backend"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/nemotron-3-ultra",
-      "sourceId": "ollama",
-      "title": "NVIDIA Nemotron 3 Ultra",
-      "url": "https://ollama.com/blog/nemotron-3-ultra",
-      "publishedAt": "2026-06-04T00:00:00+00:00",
-      "excerpt": "NVIDIA Nemotron 3 Ultra is built for high-throughput reasoning and long-running agent workflows.",
-      "tags": [
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -3256,6 +2185,20 @@
         "data",
         "infrastructure",
         "devops"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
+      "sourceId": "mercari",
+      "title": "Why we built EGP Code, an HTML-based AI editor for landing pages",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
+      "publishedAt": "2026-06-03T10:00:35+00:00",
+      "excerpt": "Hi, I\u2019m @mattsuu, a frontend engineer at Merpay. This is Day 2 of Merpay & Mercoin Tech Openness Month 2026. Our team is responsible for developing Engagement Platform (EGP), a suite of internal tools for marketers and Project Managers (PMs",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "frontend"
       ]
     },
     {
@@ -3316,19 +2259,6 @@
         "reliability",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "modular:https://www.modular.com/blog/three-trends-from-mlsys-2026",
-      "sourceId": "modular",
-      "title": "Modular: Three trends from MLSys 2026",
-      "url": "https://www.modular.com/blog/three-trends-from-mlsys-2026",
-      "publishedAt": "2026-05-29T00:00:00+00:00",
-      "excerpt": "Three trends from MLSys 2026",
-      "tags": [
-        "ai",
-        "engineering",
-        "infrastructure"
       ]
     },
     {
@@ -3420,19 +2350,6 @@
       ]
     },
     {
-      "id": "mozilla:https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/",
-      "sourceId": "mozilla",
-      "title": "Announcing Web Serial Support in Firefox",
-      "url": "https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/",
-      "publishedAt": "2026-05-21T18:00:05+00:00",
-      "excerpt": "Support for Web Serial in Firefox 151 for Desktop Firefox can now connect directly to microcontrollers, development boards, 3D printers, power meters, and other serial-connected hardware from the web. Starting in Firefox 151 for Desktop, su",
-      "tags": [
-        "engineering",
-        "frontend",
-        "security"
-      ]
-    },
-    {
       "id": "pinterest:https://medium.com/pinterest-engineering/making-user-sequence-data-more-cost-efficient-faster-and-easier-to-use-2a56a928cae1?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
       "title": "Making User-Sequence Data More Cost-Efficient, Faster, and Easier to Use",
@@ -3445,19 +2362,6 @@
         "data",
         "ai",
         "reliability"
-      ]
-    },
-    {
-      "id": "dropbox:https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents",
-      "sourceId": "dropbox",
-      "title": "Introducing Nova, our internal platform for coding agents",
-      "url": "https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents",
-      "publishedAt": "2026-05-21T16:00:00+00:00",
-      "excerpt": "Nova lets engineers run multiple coding sessions in parallel and lets internal systems use AI agents as part of automated workflows.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -3639,18 +2543,6 @@
       ]
     },
     {
-      "id": "bair:http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
-      "sourceId": "bair",
-      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-      "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
-      "publishedAt": "2026-05-08T09:00:00+00:00",
-      "excerpt": "Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to coordinate them based on the problem at hand",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "uber:https://medium.com/uber-under-the-hood/unlocking-the-promise-of-autonomy-2d64af657706?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "Unlocking the Promise of Autonomy",
@@ -3674,9 +2566,9 @@
       "excerpt": "Two weeks ago we announced that we had identified and fixed an unprecedented number of latent security bugs in Firefox with the help of Claude Mythos Preview and other AI models. In this post, we\u2019ll go into more detail about how we approach",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
-        "security",
-        "internal"
+        "security"
       ]
     },
     {
@@ -3716,6 +2608,7 @@
       "excerpt": "The open web is a critical platform for applications that handle highly sensitive data, from private communications to financial transactions and medical records. Traditionally, servers are trusted to deliver the appropriate code and resour",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
         "security"
       ]
@@ -3768,6 +2661,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
+      "sourceId": "mercari",
+      "title": "mercari-pm-agent Design \u2014 Automating the PM Workflow with Claude Code Skills and MCP",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
+      "publishedAt": "2026-04-28T10:00:04+00:00",
+      "excerpt": "Introduction Hello. I\u2019m Shogo Kikuchi, a PM intern on Mercari. During my internship, I developed a Claude Code Skill called mercari-pm-agent. It is an agent that can handle, within a single session, the end-to-end workflow PMs go through: \u201c",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "pinterest:https://medium.com/pinterest-engineering/from-clicks-to-conversions-architecting-shopping-conversion-candidate-generation-at-pinterest-04cae5e1455b?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
       "title": "From Clicks to Conversions: Architecting Shopping Conversion Candidate Generation at Pinterest",
@@ -3793,21 +2699,6 @@
         "internal",
         "data",
         "infrastructure",
-        "reliability"
-      ]
-    },
-    {
-      "id": "uber:https://medium.com/uber-under-the-hood/what-happens-when-surge-pricing-is-banned-evidence-from-nevada-abee7e1e5dd9?source=rss----d3cda1fa1866---4",
-      "sourceId": "uber",
-      "title": "What Happens When Surge Pricing is Banned? Evidence from Nevada",
-      "url": "https://medium.com/uber-under-the-hood/what-happens-when-surge-pricing-is-banned-evidence-from-nevada-abee7e1e5dd9?source=rss----d3cda1fa1866---4",
-      "publishedAt": "2026-04-23T18:01:46+00:00",
-      "excerpt": "Summary : Surge pricing keeps Uber reliable. It pulls more drivers onto the road when demand spikes, so riders can get a car when they need one. When surge pricing was restricted in Nevada during COVID, reliability deteriorated dramatically",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "mobile",
         "reliability"
       ]
     },
@@ -3882,18 +2773,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "bair:http://bair.berkeley.edu/blog/2026/04/20/grasp/",
-      "sourceId": "bair",
-      "title": "Gradient-based Planning for World Models at Longer Horizons",
-      "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
-      "publishedAt": "2026-04-20T09:00:00+00:00",
-      "excerpt": "GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel across time, (2) adding stochasticity dire",
-      "tags": [
-        "recommended",
-        "ai"
       ]
     },
     {
@@ -4045,12 +2924,39 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
+      "sourceId": "mercari",
+      "title": "Enabling AI usage at Mercari with Secure Devin Management",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
+      "publishedAt": "2026-04-03T10:25:21+00:00",
+      "excerpt": "Introduction Hello. I am @hi120ki, an AI Security engineer at Mercari. At Mercari, we have rolled out Devin, an AI Agent service, to multiple teams across the company. Devin is a service that can autonomously investigate code, write code, a",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
+      ]
+    },
+    {
       "id": "dropbox:https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
       "sourceId": "dropbox",
       "title": "Improving storage efficiency in Magic Pocket, our immutable blob store",
       "url": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
       "publishedAt": "2026-04-02T17:00:00+00:00",
       "excerpt": "By turning compaction into a layered, adaptive pipeline and strengthening our monitoring and controls, we made Magic Pocket more resilient to workload changes.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260401-legacy-image-provider-to-cloudflare-images-traffic-estimation-and-safe-rollout/",
+      "sourceId": "mercari",
+      "title": "Legacy Image Provider to Cloudflare Images: Traffic Estimation and Safe Rollout",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260401-legacy-image-provider-to-cloudflare-images-traffic-estimation-and-safe-rollout/",
+      "publishedAt": "2026-04-02T09:00:26+00:00",
+      "excerpt": "Abstract Retiring a legacy image resizing path sounds straightforward until you realize how many \u201cinvisible\u201d callers exist: long-lived app versions, embedded clients, partner integrations, and bots. In our case, Mercari Platform Network tea",
       "tags": [
         "engineering",
         "internal",
@@ -4087,6 +2993,21 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260327-876b78716e/",
+      "sourceId": "mercari",
+      "title": "Safe Chunked Execution for Large-Scale Data Updates and Deletions",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260327-876b78716e/",
+      "publishedAt": "2026-03-30T16:38:44+00:00",
+      "excerpt": "I\u2019m taka-h from the DBRE (DataBase Reliability Engineering) team. Large-scale data updates and deletions can often be expressed straightforwardly in SQL, but executing them all at once introduces significant operational risk. For example, l",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "reliability",
+        "databases"
+      ]
+    },
+    {
       "id": "lyft:https://eng.lyft.com/predicting-rider-conversion-in-sparse-data-environments-with-bayesian-trees-07227ff92789?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "Predicting Rider Conversion in Sparse Data Environments with Bayesian Trees",
@@ -4099,18 +3020,6 @@
         "data",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/mlx",
-      "sourceId": "ollama",
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "url": "https://ollama.com/blog/mlx",
-      "publishedAt": "2026-03-30T00:00:00+00:00",
-      "excerpt": "Today, we're previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple's machine learning framework.",
-      "tags": [
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -4140,21 +3049,6 @@
       ]
     },
     {
-      "id": "uber:https://medium.com/uber-under-the-hood/how-flexible-pricing-keeps-uber-predictable-and-reliable-for-everyone-b5c3ccb5d8bf?source=rss----d3cda1fa1866---4",
-      "sourceId": "uber",
-      "title": "How Flexible Pricing Keeps Uber Predictable and Reliable for Everyone",
-      "url": "https://medium.com/uber-under-the-hood/how-flexible-pricing-keeps-uber-predictable-and-reliable-for-everyone-b5c3ccb5d8bf?source=rss----d3cda1fa1866---4",
-      "publishedAt": "2026-03-26T20:11:41+00:00",
-      "excerpt": "A few years ago, Uber introduced a more flexible pricing model. Instead of taking a fixed percentage of the rider fare,[1] rider and driver fares are now calculated separately, which means Uber\u2019s Service Fee (the amount that goes to Uber ou",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "mobile",
-        "reliability"
-      ]
-    },
-    {
       "id": "dropbox:https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity",
       "sourceId": "dropbox",
       "title": "Reducing our monorepo size to improve developer velocity",
@@ -4165,19 +3059,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2026/03/firefox-developer-edition-and-beta-try-out-mozillas-rpm-package/",
-      "sourceId": "mozilla",
-      "title": "Firefox Developer Edition and Beta: Try out Mozilla\u2019s .rpm package!",
-      "url": "https://hacks.mozilla.org/2026/03/firefox-developer-edition-and-beta-try-out-mozillas-rpm-package/",
-      "publishedAt": "2026-03-25T16:17:11+00:00",
-      "excerpt": "In January, we introduced our Nightly package for RPM-based Linux distributions. Today, we are thrilled to announce it is now available for Firefox Beta! Firefox Beta is great for testing your sites in a version of Firefox that will reach r",
-      "tags": [
-        "engineering",
-        "frontend",
-        "security"
       ]
     },
     {
@@ -4387,18 +3268,6 @@
       ]
     },
     {
-      "id": "bair:http://bair.berkeley.edu/blog/2026/03/13/spex/",
-      "sourceId": "bair",
-      "title": "Identifying Interactions at Scale for LLMs",
-      "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
-      "publishedAt": "2026-03-13T09:00:00+00:00",
-      "excerpt": "--> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research aims to make the decision-making process mor",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "snap:https://eng.snap.com/spatial_interaction",
       "sourceId": "snap",
       "title": "Building the Spatial Interaction and Interface Frameworks for Specs",
@@ -4437,6 +3306,7 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "frontend"
       ]
@@ -4540,6 +3410,7 @@
       "excerpt": "This post is an expanded version of a presentation I gave at the 2025 WebAssembly CG meeting in Munich. WebAssembly has come a long way since its first release in 2017. The first version of WebAssembly was already a great fit for low-level ",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
         "security"
       ]
@@ -4558,17 +3429,6 @@
       ]
     },
     {
-      "id": "meta-ai:https://engineering.fb.com/2026/02/24/data-center-engineering/rrcclx-innovating-gpu-communications-amd-platforms-meta/",
-      "sourceId": "meta-ai",
-      "title": "RCCLX: Innovating GPU Communications on AMD Platforms",
-      "url": "https://engineering.fb.com/2026/02/24/data-center-engineering/rrcclx-innovating-gpu-communications-amd-platforms-meta/",
-      "publishedAt": "2026-02-24T21:30:54+00:00",
-      "excerpt": "We are open-sourcing the initial version of RCCLX \u2013 an enhanced version of RCCL that we developed and tested on Meta\u2019s internal workloads. RCCLX is fully integrated with Torchcomms and aims to empower researchers and developers to accelerat",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "id": "mozilla:https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
       "sourceId": "mozilla",
       "title": "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148",
@@ -4577,6 +3437,7 @@
       "excerpt": "Cross-site scripting (XSS) remains one of the most prevalent vulnerabilities on the web. The new standardized Sanitizer API provides a straightforward way for web developers to sanitize untrusted HTML before inserting it into the DOM. Firef",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
         "security"
       ]
@@ -4608,18 +3469,6 @@
         "internal",
         "backend",
         "ai"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/openclaw-tutorial",
-      "sourceId": "ollama",
-      "title": "The simplest and fastest way to setup OpenClaw",
-      "url": "https://ollama.com/blog/openclaw-tutorial",
-      "publishedAt": "2026-02-23T00:00:00+00:00",
-      "excerpt": "Setup OpenClaw in under two minutes with a single Ollama command.",
-      "tags": [
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -4673,15 +3522,16 @@
       ]
     },
     {
-      "id": "ollama:https://ollama.com/blog/web-search-subagents-claude-code",
-      "sourceId": "ollama",
-      "title": "Subagents and web search in Claude Code",
-      "url": "https://ollama.com/blog/web-search-subagents-claude-code",
-      "publishedAt": "2026-02-16T00:00:00+00:00",
-      "excerpt": "Ollama now supports subagents and web search in Claude Code.",
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260216-turborepo-remote-cache-accelerating-ci-to-move-fast/",
+      "sourceId": "mercari",
+      "title": "Turborepo Remote Cache: Accelerating CI to \u201cMove Fast\u201d",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260216-turborepo-remote-cache-accelerating-ci-to-move-fast/",
+      "publishedAt": "2026-02-17T10:00:47+00:00",
+      "excerpt": "Hi, I\u2019m @Zuma. I\u2019ve been with the Web Platform Team for three months, and I\u2019m excited to share my internship project: Turborepo remote cache. Note: This article was originally written in March 2025. Please note that the implementation detai",
       "tags": [
-        "ai",
-        "engineering"
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -4707,6 +3557,7 @@
       "excerpt": "The Interop Project is a cross-browser initiative to improve web compatibility in areas that offer the most benefit to both users and developers. The group, including Apple, Google, Igalia, Microsoft, and Mozilla, takes proposals of feature",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
         "security"
       ]
@@ -4804,18 +3655,6 @@
       ]
     },
     {
-      "id": "ollama:https://ollama.com/blog/openclaw",
-      "sourceId": "ollama",
-      "title": "OpenClaw",
-      "url": "https://ollama.com/blog/openclaw",
-      "publishedAt": "2026-02-01T00:00:00+00:00",
-      "excerpt": "OpenClaw is a personal AI assistant that connects your messaging apps to local AI coding agents, all running on your own device.",
-      "tags": [
-        "ai",
-        "engineering"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/litestream-writable-vfs/",
       "sourceId": "fly",
       "title": "Litestream Writable VFS",
@@ -4826,6 +3665,7 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "databases"
       ]
@@ -4841,30 +3681,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/launch",
-      "sourceId": "ollama",
-      "title": "ollama launch",
-      "url": "https://ollama.com/blog/launch",
-      "publishedAt": "2026-01-23T00:00:00+00:00",
-      "excerpt": "ollama launch is a new command which sets up and runs coding tools like Claude Code, OpenCode, and Codex with local or cloud models. No environment variables or config files needed.",
-      "tags": [
-        "ai",
-        "engineering"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/image-generation",
-      "sourceId": "ollama",
-      "title": "Image generation (experimental)",
-      "url": "https://ollama.com/blog/image-generation",
-      "publishedAt": "2026-01-20T00:00:00+00:00",
-      "excerpt": "Generate images locally with Ollama on macOS. Windows and Linux support coming soon.",
-      "tags": [
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -4920,10 +3736,10 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "security",
-        "databases",
-        "internal"
+        "databases"
       ]
     },
     {
@@ -4947,18 +3763,6 @@
       ]
     },
     {
-      "id": "bair:http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
-      "sourceId": "bair",
-      "title": "Information-Driven Design of Imaging Systems",
-      "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
-      "publishedAt": "2026-01-10T09:00:00+00:00",
-      "excerpt": "An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how well measurements distinguish objects. Many",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/code-and-let-live/",
       "sourceId": "fly",
       "title": "Code And Let Live",
@@ -4969,9 +3773,9 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
-        "databases",
-        "internal"
+        "databases"
       ]
     },
     {
@@ -5060,6 +3864,7 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "databases"
       ]
@@ -5149,6 +3954,7 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "ai",
         "security",
@@ -5188,20 +3994,6 @@
       ]
     },
     {
-      "id": "bair:http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
-      "sourceId": "bair",
-      "title": "RL without TD learning",
-      "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
-      "publishedAt": "2025-11-01T09:00:00+00:00",
-      "excerpt": "In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer . Unlike traditional methods, this algorithm is not based on temporal difference (TD) learning (which has scalabilit",
-      "tags": [
-        "recommended",
-        "ai",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "etsy:https://www.etsy.com/codeascraft/search-prefetching-performance?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
       "sourceId": "etsy",
       "title": "Improving performance by prefetching product pages from Etsy Search",
@@ -5229,10 +4021,10 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "reliability",
-        "databases",
-        "internal"
+        "databases"
       ]
     },
     {
@@ -5250,18 +4042,6 @@
       ]
     },
     {
-      "id": "meta-ai:https://engineering.fb.com/2025/10/17/ai-research/scaling-llm-inference-innovations-tensor-parallelism-context-parallelism-expert-parallelism/",
-      "sourceId": "meta-ai",
-      "title": "Scaling LLM Inference: Innovations in Tensor Parallelism, Context Parallelism, and Expert Parallelism",
-      "url": "https://engineering.fb.com/2025/10/17/ai-research/scaling-llm-inference-innovations-tensor-parallelism-context-parallelism-expert-parallelism/",
-      "publishedAt": "2025-10-17T16:00:50+00:00",
-      "excerpt": "At Meta, we are constantly pushing the boundaries of LLM inference systems to power applications such as the Meta AI App. We\u2019re sharing how we developed and implemented advanced parallelism techniques to optimize key performance metrics rel",
-      "tags": [
-        "ai",
-        "internal"
-      ]
-    },
-    {
       "id": "nytimes:https://open.nytimes.com/designing-a-digital-times-museum-for-all-405331352189?source=rss----51e1d1745b32---4",
       "sourceId": "nytimes",
       "title": "Designing a Digital New York Times Museum",
@@ -5275,23 +4055,6 @@
         "culture",
         "data",
         "frontend"
-      ]
-    },
-    {
-      "id": "asos:https://medium.com/asos-techblog/introducing-test-driven-vibe-development-0effe6430691?source=rss----6757df096022---4",
-      "sourceId": "asos",
-      "title": "Introducing Test-Driven Vibe Development",
-      "url": "https://medium.com/asos-techblog/introducing-test-driven-vibe-development-0effe6430691?source=rss----6757df096022---4",
-      "publishedAt": "2025-10-15T10:38:39+00:00",
-      "excerpt": "Note: The draft was submitted on the 8th of August. Some of the processes and challenges mentioned in this article have been refined since. We\u2019ll be sharing these updates soon. In the coding sphere, technology is sprinting at a breakneck pa",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "ai",
-        "security",
-        "frontend",
-        "data"
       ]
     },
     {
@@ -5340,6 +4103,7 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
         "reliability",
         "security",
@@ -5389,42 +4153,9 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops",
-        "databases",
-        "internal"
-      ]
-    },
-    {
-      "id": "meta-ai:https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/",
-      "sourceId": "meta-ai",
-      "title": "LLMs Are the Key to Mutation Testing and Better Compliance",
-      "url": "https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/",
-      "publishedAt": "2025-09-30T16:00:08+00:00",
-      "excerpt": "Following our keynote presentations at FSE 2025 and Eurostar 2025, we\u2019re delving further into the development of Meta\u2019s Automated Compliance Hardening (ACH) tool, an LLM-based tool for software testing that is automating aspects of complian",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "meta-ai:https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/",
-      "sourceId": "meta-ai",
-      "title": "Meta 3D AssetGen: Generating 3D Worlds With AI",
-      "url": "https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/",
-      "publishedAt": "2025-09-29T14:00:42+00:00",
-      "excerpt": "Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In his keynote, Mark Zuckerberg shared his v",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "meta-ai:https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/",
-      "sourceId": "meta-ai",
-      "title": "Meta\u2019s Infrastructure Evolution and the Advent of AI",
-      "url": "https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/",
-      "publishedAt": "2025-09-29T13:00:15+00:00",
-      "excerpt": "Over the past 21 years, Meta has grown exponentially from a small social network connecting a few thousand people in a handful of universities in the U.S. into several apps and novel hardware products that serve over 3.4 billion people thro",
-      "tags": [
-        "ai"
+        "databases"
       ]
     },
     {
@@ -5441,6 +4172,20 @@
         "culture",
         "data",
         "frontend"
+      ]
+    },
+    {
+      "id": "zalando:https://engineering.zalando.com/posts/2025/09/dead-ends-or-data-goldmines-ai-powered-postmortem-analysis.html",
+      "sourceId": "zalando",
+      "title": "Dead Ends or Data Goldmines? Investment Insights from Two Years of AI-Powered Postmortem Analysis",
+      "url": "https://engineering.zalando.com/posts/2025/09/dead-ends-or-data-goldmines-ai-powered-postmortem-analysis.html",
+      "publishedAt": "2025-09-24T22:00:00+00:00",
+      "excerpt": "Your incidents hold the blueprint to your most strategic infrastructure wins \u2014 if you're listening correctly.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "reliability"
       ]
     },
     {
@@ -5507,18 +4252,6 @@
       ]
     },
     {
-      "id": "bair:http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
-      "sourceId": "bair",
-      "title": "What exactly does word2vec learn?",
-      "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
-      "publishedAt": "2025-09-01T09:00:00+00:00",
-      "excerpt": "What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec is a well-known precursor to modern lang",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/wrought-2025/",
       "sourceId": "janestreet",
       "title": "What the interns have wrought, 2025 edition",
@@ -5543,6 +4276,7 @@
         "recommended",
         "infrastructure",
         "engineering",
+        "internal",
         "devops"
       ]
     },
@@ -5572,21 +4306,10 @@
       "excerpt": "Firefox is now the first and the only browser to deploy fast and comprehensive certificate revocation checking that does not reveal your browsing activity to anyone (not even to Mozilla). Tens of millions of TLS server certificates are issu",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
         "security",
         "devops"
-      ]
-    },
-    {
-      "id": "meta-ai:https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/",
-      "sourceId": "meta-ai",
-      "title": "Diff Risk Score: AI-driven risk-aware software development",
-      "url": "https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/",
-      "publishedAt": "2025-08-06T17:50:51+00:00",
-      "excerpt": "The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a fine-tuned Llama LLM, DRS evaluates code ",
-      "tags": [
-        "ai",
-        "reliability"
       ]
     },
     {
@@ -5810,20 +4533,6 @@
       ]
     },
     {
-      "id": "ebay:https://innovation.ebayinc.com/stories/introducing-a-new-way-to-use-generative-ai-for-social-selling/",
-      "sourceId": "ebay",
-      "title": "Introducing a New Way to Use Generative AI for Social Selling",
-      "url": "https://innovation.ebayinc.com/stories/introducing-a-new-way-to-use-generative-ai-for-social-selling/",
-      "publishedAt": "2025-05-13T07:00:00+00:00",
-      "excerpt": "Effortless social video content creation is here.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "ai"
-      ]
-    },
-    {
       "id": "ebay:https://innovation.ebayinc.com/stories/ebay-uses-agentic-ai-to-supercharge-personalized-ecommerce/",
       "sourceId": "ebay",
       "title": "eBay Uses Agentic AI to Supercharge Personalized Ecommerce",
@@ -5950,6 +4659,7 @@
       "excerpt": "Beginning in version 138, Firefox will offer an alternative to DLL injection for Data Loss Prevention (DLP) deployments in enterprise environments. DLL Injection DLL injection into Firefox is a topic we\u2019ve covered on the Hacks blog before. ",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
         "security"
       ]
@@ -6075,20 +4785,6 @@
       ]
     },
     {
-      "id": "square:https://developer.squareup.com/blog/announcing-mobile-payments-sdk-ga-and-new-terminal-api-features",
-      "sourceId": "square",
-      "title": "Announcing Mobile Payments SDK GA and New Terminal API Features",
-      "url": "https://developer.squareup.com/blog/announcing-mobile-payments-sdk-ga-and-new-terminal-api-features",
-      "publishedAt": "2025-02-24T07:00:00+00:00",
-      "excerpt": "Expand your reach and drive remarkable in-person payment experiences.",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "mobile"
-      ]
-    },
-    {
       "id": "canva:https://www.canva.dev/blog/engineering/behind-the-scenes-of-canvas-designdna-campaign/",
       "sourceId": "canva",
       "title": "Behind the scenes of Canva's DesignDNA campaign",
@@ -6158,6 +4854,7 @@
       "excerpt": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024\u2019s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements,",
       "tags": [
         "engineering",
+        "internal",
         "frontend",
         "security"
       ]
@@ -6316,19 +5013,6 @@
       ]
     },
     {
-      "id": "ebay:https://innovation.ebayinc.com/stories/ebay-openai-operator-assistant/",
-      "sourceId": "ebay",
-      "title": "Announcing a New Collaboration Between eBay and OpenAI",
-      "url": "https://innovation.ebayinc.com/stories/ebay-openai-operator-assistant/",
-      "publishedAt": "2025-01-23T08:00:00+00:00",
-      "excerpt": "We're leveraging the latest advances in AI to redefine the future of ecommerce for enthusiasts.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "ebay:https://innovation.ebayinc.com/stories/scaling-large-language-models-for-e-commerce-the-development-of-a-llama-based-customized-llm-for-e-commerce/",
       "sourceId": "ebay",
       "title": "Scaling Large Language Models for e-Commerce: The Development of a Llama-Based Customized LLM",
@@ -6401,20 +5085,6 @@
       ]
     },
     {
-      "id": "square:https://developer.squareup.com/blog/announcing-the-square-go-sdk",
-      "sourceId": "square",
-      "title": "Announcing the Square Go SDK",
-      "url": "https://developer.squareup.com/blog/announcing-the-square-go-sdk",
-      "publishedAt": "2024-12-18T17:00:00+00:00",
-      "excerpt": "Easier Square integrations with your Go backend",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "mobile"
-      ]
-    },
-    {
       "id": "square:https://developer.squareup.com/blog/enhanced-authorization-with-square",
       "sourceId": "square",
       "title": "Enhanced Authorization with Square",
@@ -6443,19 +5113,6 @@
       ]
     },
     {
-      "id": "mozilla:https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
-      "sourceId": "mozilla",
-      "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
-      "url": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/",
-      "publishedAt": "2024-12-04T19:38:01+00:00",
-      "excerpt": "Mozilla and Filament have introduced Uniffi for React Native, a tool that allows developers to leverage the safety and performance benefits of Rust in cross-platform React Native apps. The post Introducing Uniffi for React Native: Rust-Powe",
-      "tags": [
-        "engineering",
-        "frontend",
-        "security"
-      ]
-    },
-    {
       "id": "zendesk:https://zendesk.engineering/simplifying-datastore-provisioning-with-kubernetes-operators-a403d9ecd99c?source=rss----a88376ea904a---4",
       "sourceId": "zendesk",
       "title": "Simplifying Datastore Provisioning with Kubernetes Operators",
@@ -6473,6 +5130,20 @@
       ]
     },
     {
+      "id": "mozilla:https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+      "sourceId": "mozilla",
+      "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+      "url": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+      "publishedAt": "2024-10-16T13:32:30+00:00",
+      "excerpt": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
+      ]
+    },
+    {
       "id": "square:https://developer.squareup.com/blog/enhancing-data-quality-using-better-designed-etls",
       "sourceId": "square",
       "title": "Enhancing Data Quality Using Better Designed ETLs",
@@ -6485,6 +5156,32 @@
         "backend",
         "mobile",
         "data"
+      ]
+    },
+    {
+      "id": "ebay:https://innovation.ebayinc.com/stories/ebay-empowers-sellers-with-innovative-tools-at-ebay-open-2024/",
+      "sourceId": "ebay",
+      "title": "eBay Empowers Sellers with Innovative Tools at eBay Open 2024",
+      "url": "https://innovation.ebayinc.com/stories/ebay-empowers-sellers-with-innovative-tools-at-ebay-open-2024/",
+      "publishedAt": "2024-09-25T07:00:00+00:00",
+      "excerpt": "eBay's commitment to innovation takes center stage at eBay Open 2024.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "ebay:https://innovation.ebayinc.com/stories/how-ebays-ai-tools-helped-this-seller-work-smarter-not-harder/",
+      "sourceId": "ebay",
+      "title": "How eBay\u2019s AI Tools Helped This Seller \u2018Work Smarter, Not Harder\u2019",
+      "url": "https://innovation.ebayinc.com/stories/how-ebays-ai-tools-helped-this-seller-work-smarter-not-harder/",
+      "publishedAt": "2024-09-25T07:00:00+00:00",
+      "excerpt": "Ashley Moulder uses eBay\u2019s background removal tool to save time and make her listings shine.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -6527,6 +5224,21 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "mozilla:https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+      "sourceId": "mozilla",
+      "title": "0Din: A GenAI Bug Bounty Program \u2013 Securing Tomorrow\u2019s AI Together",
+      "url": "https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+      "publishedAt": "2024-08-08T18:39:13+00:00",
+      "excerpt": "As AI continues to evolve, so do the threats against it. As these GenAI systems become more sophisticated and widely adopted, ensuring their security and ethical use becomes paramount. 0Din is a groundbreaking GenAI bug bounty program dedic",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security",
+        "ai"
       ]
     },
     {
@@ -6573,6 +5285,34 @@
       ]
     },
     {
+      "id": "mozilla:https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/",
+      "sourceId": "mozilla",
+      "title": "Snapshots for IPC Fuzzing",
+      "url": "https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/",
+      "publishedAt": "2024-06-27T16:18:49+00:00",
+      "excerpt": "Process separation remains one of the most important parts of the Firefox security model and securing our IPC (Inter-Process Communication) interfaces is crucial to keep privileges in the different processes separated. We take a more detail",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
+      ]
+    },
+    {
+      "id": "square:https://developer.squareup.com/blog/recap-square-unboxed-2024",
+      "sourceId": "square",
+      "title": "Recap: Square Unboxed 2024",
+      "url": "https://developer.squareup.com/blog/recap-square-unboxed-2024",
+      "publishedAt": "2024-06-24T16:00:00+00:00",
+      "excerpt": "Top highlight's from this year's event",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "mobile"
+      ]
+    },
+    {
       "id": "asos:https://medium.com/asos-techblog/observations-from-the-london-devops-conference-2024-91d034502e10?source=rss----6757df096022---4",
       "sourceId": "asos",
       "title": "Observations from the London DevOps Conference 2024",
@@ -6605,155 +5345,18 @@
       ]
     },
     {
-      "id": "google-research:http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-      "sourceId": "google-research",
-      "title": "Generative AI to quantify uncertainty in weather forecasting",
-      "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-      "publishedAt": "2024-03-29T18:03:00+00:00",
-      "excerpt": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people\u2019s lives, from helping make routine decisions, like what to pack for a day\u2019s act",
+      "id": "square:https://developer.squareup.com/blog/leveraging-linux-internals-to-supercharge-osquery-malware-detection",
+      "sourceId": "square",
+      "title": "Leveraging Linux Internals to Supercharge Osquery Malware Detection",
+      "url": "https://developer.squareup.com/blog/leveraging-linux-internals-to-supercharge-osquery-malware-detection",
+      "publishedAt": "2024-03-27T16:00:00+00:00",
+      "excerpt": "Using /proc to find fileless malware",
       "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-      "sourceId": "google-research",
-      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-      "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-      "publishedAt": "2024-03-28T20:53:00+00:00",
-      "excerpt": "Posted by Urs K\u00f6ster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patt",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-      "sourceId": "google-research",
-      "title": "Computer-aided diagnosis for lung cancer screening",
-      "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-      "publishedAt": "2024-03-20T20:54:00+00:00",
-      "excerpt": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 2020. Late diagnosis dramatically reduces ",
-      "tags": [
-        "recommended",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-      "sourceId": "google-research",
-      "title": "Using AI to expand global access to reliable flood forecasts",
-      "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-      "publishedAt": "2024-03-20T16:06:00+00:00",
-      "excerpt": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in annual financial damages worldwide. The ra",
-      "tags": [
-        "recommended",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "security",
-        "mobile"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-      "sourceId": "google-research",
-      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-      "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-      "publishedAt": "2024-03-19T20:15:00+00:00",
-      "excerpt": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human communication and human-machine interactio",
-      "tags": [
-        "recommended",
-        "ai",
-        "mobile"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-      "sourceId": "google-research",
-      "title": "SCIN: A new resource for representative dermatology images",
-      "url": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
-      "publishedAt": "2024-03-19T15:00:00+00:00",
-      "excerpt": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real world. For example, dermatology condition",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
-      "sourceId": "google-research",
-      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
-      "url": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
-      "publishedAt": "2024-03-18T18:41:00+00:00",
-      "excerpt": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily infer what an object looks like in whole, e",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
-      "sourceId": "google-research",
-      "title": "HEAL: A framework for health equity assessment of machine learning performance",
-      "url": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
-      "publishedAt": "2024-03-15T18:22:00+00:00",
-      "excerpt": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core Health equity is a major societal concern worldwide with disparities having many causes. These sources incl",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
-      "sourceId": "google-research",
-      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
-      "url": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
-      "publishedAt": "2024-03-14T19:38:00+00:00",
-      "excerpt": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks within an instruction-following framework.",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-      "sourceId": "google-research",
-      "title": "Talk like a graph: Encoding graphs for large language models",
-      "url": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-      "publishedAt": "2024-03-12T21:15:00+00:00",
-      "excerpt": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you \u2014 your friends, tools in your kitchen, or even the parts of your bike. They are all connected in different ways. In computer s",
-      "tags": [
-        "recommended",
-        "ai",
-        "reliability",
-        "internal"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
-      "sourceId": "google-research",
-      "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
-      "url": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
-      "publishedAt": "2024-03-11T19:08:00+00:00",
-      "excerpt": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessible format. Due to the ubiquity of such t",
-      "tags": [
-        "recommended",
-        "ai"
-      ]
-    },
-    {
-      "id": "google-research:http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
-      "sourceId": "google-research",
-      "title": "Health-specific embedding tools for dermatology and pathology",
-      "url": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
-      "publishedAt": "2024-03-08T19:33:00+00:00",
-      "excerpt": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There\u2019s a worldwide shortage of access to medical imaging expert interpretation across specialties including radiology , ",
-      "tags": [
-        "recommended",
-        "ai"
+        "engineering",
+        "internal",
+        "backend",
+        "mobile",
+        "security"
       ]
     },
     {

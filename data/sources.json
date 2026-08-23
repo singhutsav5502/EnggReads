@@ -55,7 +55,7 @@
       "blog": "Cloudflare Blog",
       "url": "https://blog.cloudflare.com",
       "feed": "https://blog.cloudflare.com/rss/",
-      "tags": ["infrastructure", "security", "engineering"],
+      "tags": ["infrastructure", "security", "engineering", "internal"],
       "recommended": true
     },
     {
@@ -101,83 +101,6 @@
       "recommended": true
     },
     {
-      "id": "meta-ai",
-      "name": "Meta AI",
-      "blog": "Meta AI Research",
-      "url": "https://ai.meta.com/blog",
-      "feed": "https://engineering.fb.com/category/ai-research/feed/",
-      "tags": ["ai"]
-    },
-    {
-      "id": "deepmind",
-      "name": "Google DeepMind",
-      "blog": "DeepMind Blog",
-      "url": "https://deepmind.google/discover/blog",
-      "feed": "https://deepmind.google/blog/rss.xml",
-      "tags": ["ai"],
-      "recommended": true
-    },
-    {
-      "id": "google-research",
-      "name": "Google Research",
-      "blog": "Google Research Blog",
-      "url": "https://blog.research.google",
-      "feed": "https://blog.research.google/feeds/posts/default",
-      "tags": ["ai"],
-      "recommended": true
-    },
-    {
-      "id": "ms-research",
-      "name": "Microsoft Research",
-      "blog": "Microsoft Research",
-      "url": "https://www.microsoft.com/en-us/research/blog",
-      "feed": "https://www.microsoft.com/en-us/research/feed/",
-      "tags": ["ai", "engineering"],
-      "recommended": true
-    },
-    {
-      "id": "apple-ml",
-      "name": "Apple",
-      "blog": "Apple Machine Learning Research",
-      "url": "https://machinelearning.apple.com",
-      "feed": "https://machinelearning.apple.com/rss.xml",
-      "tags": ["ai", "mobile"]
-    },
-    {
-      "id": "huggingface",
-      "name": "Hugging Face",
-      "blog": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog",
-      "feed": "https://huggingface.co/blog/feed.xml",
-      "tags": ["ai", "engineering"],
-      "recommended": true
-    },
-    {
-      "id": "ollama",
-      "name": "Ollama",
-      "blog": "Ollama Blog",
-      "url": "https://ollama.com/blog",
-      "feed": "https://ollama.com/blog/rss.xml",
-      "tags": ["ai", "engineering"]
-    },
-    {
-      "id": "modular",
-      "name": "Modular",
-      "blog": "Modular Blog",
-      "url": "https://www.modular.com/blog",
-      "feed": "https://www.modular.com/blog/rss.xml",
-      "tags": ["ai", "engineering", "infrastructure"]
-    },
-    {
-      "id": "bair",
-      "name": "BAIR",
-      "blog": "Berkeley AI Research",
-      "url": "https://bair.berkeley.edu/blog",
-      "feed": "https://bair.berkeley.edu/blog/feed.xml",
-      "tags": ["ai"],
-      "recommended": true
-    },
-    {
       "id": "datadog",
       "name": "Datadog",
       "blog": "Datadog Engineering",
@@ -189,18 +112,10 @@
     {
       "id": "planetscale",
       "name": "PlanetScale",
-      "blog": "PlanetScale Blog",
+      "blog": "PlanetScale Engineering",
       "url": "https://planetscale.com/blog",
       "feed": "https://planetscale.com/blog/rss.xml",
-      "tags": ["databases", "engineering", "infrastructure"]
-    },
-    {
-      "id": "supabase",
-      "name": "Supabase",
-      "blog": "Supabase Blog",
-      "url": "https://supabase.com/blog",
-      "feed": "https://supabase.com/rss.xml",
-      "tags": ["databases", "engineering", "backend"]
+      "tags": ["databases", "engineering", "internal", "infrastructure"]
     },
     {
       "id": "fly",
@@ -208,16 +123,8 @@
       "blog": "Fly.io Blog",
       "url": "https://fly.io/blog",
       "feed": "https://fly.io/blog/feed.xml",
-      "tags": ["infrastructure", "engineering", "devops"],
+      "tags": ["infrastructure", "engineering", "internal", "devops"],
       "recommended": true
-    },
-    {
-      "id": "kubernetes",
-      "name": "Kubernetes",
-      "blog": "Kubernetes Blog",
-      "url": "https://kubernetes.io/blog",
-      "feed": "https://kubernetes.io/feed.xml",
-      "tags": ["infrastructure", "devops"]
     },
     {
       "id": "sentry",
@@ -347,7 +254,7 @@
       "blog": "Mozilla Hacks",
       "url": "https://hacks.mozilla.org",
       "feed": "https://hacks.mozilla.org/feed/",
-      "tags": ["engineering", "frontend", "security"]
+      "tags": ["engineering", "internal", "frontend", "security"]
     },
     {
       "id": "nytimes",

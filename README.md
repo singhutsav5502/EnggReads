@@ -1,6 +1,6 @@
 # EnggReads
 
-A quiet, mobile-first reading list of company **engineering** blogs — how teams build and operate systems, not product marketing.
+A quiet, mobile-first reading list of company **internal engineering** blogs — how teams actually build, operate, and scale systems (infra, SRE, platform, data pipelines, architecture, incident writeups). Not product marketing, not research-news, not “what’s new in our product.”
 
 Posts stay on each company’s site. EnggReads indexes public RSS/Atom feeds.
 
@@ -37,6 +37,8 @@ Edit `data/sources.json`:
   "tags": ["engineering", "infrastructure"]
 }
 ```
+
+Prefer an engineering-specific feed (for example `/engineering`) over a company-wide blog. Only add a source if recent posts are internals — how the team builds and operates systems — not product launches or research announcements.
 
 Genre ids: `recommended`, `engineering`, `internal`, `infrastructure`, `ai`, `security`, `data`, `databases`, `frontend`, `backend`, `devops`, `reliability`, `mobile`, `culture`.
 
