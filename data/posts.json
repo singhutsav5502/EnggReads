@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T18:27:48.980003+00:00",
+  "generatedAt": "2026-08-23T18:33:16.678701+00:00",
   "feedCount": 37,
-  "fetchedOk": 37,
-  "postCount": 380,
+  "fetchedOk": 36,
+  "postCount": 368,
   "posts": [
     {
       "id": "netflix:https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
@@ -706,20 +706,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
-      "sourceId": "mercari",
-      "title": "Bridging the Gap Between Passwords and Passkeys with Risk-Based Authentication",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
-      "publishedAt": "2026-07-30T18:15:04+00:00",
-      "excerpt": "This is the third post in our series on passkeys and phishing-resistant accounts at Mercari. The earlier posts are: Mercari\u2019s Passkey Adoption (2023) and Mercari Phishing-Resistant Accounts with Passkey (2025). Background: A Recap of Our Jo",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "security"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/crowdsourced-taxonomy-verification",
       "sourceId": "grab",
       "title": "Crowdsourced taxonomy verification: A feedback-driven framework for refining knowledge graph relationships via online search interactions",
@@ -858,20 +844,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "sourceId": "planetscale",
-      "title": "Postgres backups under the hood",
-      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "publishedAt": "2026-07-24T00:00:00+00:00",
-      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/kurt-scott-money-sprites/",
       "sourceId": "fly",
       "title": "Turn And Face The Strange",
@@ -887,6 +859,20 @@
         "ai",
         "security",
         "databases"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "sourceId": "planetscale",
+      "title": "Postgres backups under the hood",
+      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "publishedAt": "2026-07-24T00:00:00+00:00",
+      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1542,19 +1528,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
-      "sourceId": "mercari",
-      "title": "Rethinking Payment APIs at Merpay: The Exchange Abstraction",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
-      "publishedAt": "2026-06-29T11:00:26+00:00",
-      "excerpt": "This article is the 19th entry in Merpay & Mercoin Tech Openness Month 2026. Background We are the Payment Platform team at Merpay. Our systems sit beneath almost every movement of money in the Merpay ecosystem \u2014 customers paying partners, ",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/nextjs-export-traces-opentelemetry/",
       "sourceId": "sentry",
       "title": "Next.js already traces your requests. Here's how to export them with OpenTelemetry.",
@@ -1746,19 +1719,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
-      "sourceId": "mercari",
-      "title": "Scaling Myself: How I Run 22 Claude Code Sessions for DS4 Migration",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
-      "publishedAt": "2026-06-22T10:00:24+00:00",
-      "excerpt": "This article is the 15th entry in Merpay & Mercoin Tech Openness Month 2026. In this age of AI, most of us have built our own work setups around it. This article is not a proclamation that mine is the best; other setups might work better fo",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/scaling-out-distroless-adoption-with-ai",
       "sourceId": "grab",
       "title": "Scaling out Distroless adoption With AI",
@@ -1904,21 +1864,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
-      "sourceId": "mercari",
-      "title": "Build First, Discuss Later: How Prototypes Speed Up Product Decisions",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
-      "publishedAt": "2026-06-15T10:00:16+00:00",
-      "excerpt": "I\u2019m Kubomi, an iOS engineer at Merpay, Inc. This article is the 10th entry in Merpay & Mercoin Tech Openness Month 2026. Generative AI has made it easier for engineers to build prototypes quickly. Recently, I tried building a working protot",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "ai",
-        "mobile"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/oxcaml-typesafe-reference-counting-python/",
       "sourceId": "janestreet",
       "title": "Using OxCaml to implement type-safe reference counting between OCaml and Python",
@@ -2006,20 +1951,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
-      "sourceId": "mercari",
-      "title": "Four Mechanisms Behind EGP Code, an AI-Powered Landing Page Editor",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
-      "publishedAt": "2026-06-10T11:00:58+00:00",
-      "excerpt": "Hi, I\u2019m @mattsuu a frontend engineer at Merpay. This is Day 7 of Merpay & Mercoin Tech Openness Month 2026. EGP Code is an internal editor for building landing pages (LPs) with AI. We covered the background in Why we built EGP Code, an HTML",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "frontend"
-      ]
-    },
-    {
       "id": "lyft:https://eng.lyft.com/from-chaos-to-clarity-2ab50856d0c8?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "From Chaos to Clarity: How We Built a Unified, Self-Routing Support Ops Ticketing System at Lyft",
@@ -2048,19 +1979,6 @@
         "data",
         "infrastructure",
         "databases"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
-      "sourceId": "mercari",
-      "title": "Designing a Credit-Management Microservice for Partner Invoice Payment",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
-      "publishedAt": "2026-06-09T10:00:59+00:00",
-      "excerpt": "Hello. I\u2019m imamu, a Backend Engineer on Merpay\u2019s Payment & Customer Platform (PCP) team. This article is Day 6 of Merpay & Mercoin Tech Openness Month 2026. Introduction \"Partner invoicing\" is a deferred payment method for partners (such as",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -2185,20 +2103,6 @@
         "data",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
-      "sourceId": "mercari",
-      "title": "Why we built EGP Code, an HTML-based AI editor for landing pages",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
-      "publishedAt": "2026-06-03T10:00:35+00:00",
-      "excerpt": "Hi, I\u2019m @mattsuu, a frontend engineer at Merpay. This is Day 2 of Merpay & Mercoin Tech Openness Month 2026. Our team is responsible for developing Engagement Platform (EGP), a suite of internal tools for marketers and Project Managers (PMs",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "frontend"
       ]
     },
     {
@@ -2661,19 +2565,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
-      "sourceId": "mercari",
-      "title": "mercari-pm-agent Design \u2014 Automating the PM Workflow with Claude Code Skills and MCP",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
-      "publishedAt": "2026-04-28T10:00:04+00:00",
-      "excerpt": "Introduction Hello. I\u2019m Shogo Kikuchi, a PM intern on Mercari. During my internship, I developed a Claude Code Skill called mercari-pm-agent. It is an agent that can handle, within a single session, the end-to-end workflow PMs go through: \u201c",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "pinterest:https://medium.com/pinterest-engineering/from-clicks-to-conversions-architecting-shopping-conversion-candidate-generation-at-pinterest-04cae5e1455b?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
       "title": "From Clicks to Conversions: Architecting Shopping Conversion Candidate Generation at Pinterest",
@@ -2924,39 +2815,12 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
-      "sourceId": "mercari",
-      "title": "Enabling AI usage at Mercari with Secure Devin Management",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
-      "publishedAt": "2026-04-03T10:25:21+00:00",
-      "excerpt": "Introduction Hello. I am @hi120ki, an AI Security engineer at Mercari. At Mercari, we have rolled out Devin, an AI Agent service, to multiple teams across the company. Devin is a service that can autonomously investigate code, write code, a",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "security"
-      ]
-    },
-    {
       "id": "dropbox:https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
       "sourceId": "dropbox",
       "title": "Improving storage efficiency in Magic Pocket, our immutable blob store",
       "url": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
       "publishedAt": "2026-04-02T17:00:00+00:00",
       "excerpt": "By turning compaction into a layered, adaptive pipeline and strengthening our monitoring and controls, we made Magic Pocket more resilient to workload changes.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260401-legacy-image-provider-to-cloudflare-images-traffic-estimation-and-safe-rollout/",
-      "sourceId": "mercari",
-      "title": "Legacy Image Provider to Cloudflare Images: Traffic Estimation and Safe Rollout",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260401-legacy-image-provider-to-cloudflare-images-traffic-estimation-and-safe-rollout/",
-      "publishedAt": "2026-04-02T09:00:26+00:00",
-      "excerpt": "Abstract Retiring a legacy image resizing path sounds straightforward until you realize how many \u201cinvisible\u201d callers exist: long-lived app versions, embedded clients, partner integrations, and bots. In our case, Mercari Platform Network tea",
       "tags": [
         "engineering",
         "internal",
@@ -2990,21 +2854,6 @@
         "internal",
         "backend",
         "reliability"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260327-876b78716e/",
-      "sourceId": "mercari",
-      "title": "Safe Chunked Execution for Large-Scale Data Updates and Deletions",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260327-876b78716e/",
-      "publishedAt": "2026-03-30T16:38:44+00:00",
-      "excerpt": "I\u2019m taka-h from the DBRE (DataBase Reliability Engineering) team. Large-scale data updates and deletions can often be expressed straightforwardly in SQL, but executing them all at once introduces significant operational risk. For example, l",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability",
-        "databases"
       ]
     },
     {
@@ -3519,19 +3368,6 @@
         "ai",
         "reliability",
         "devops"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260216-turborepo-remote-cache-accelerating-ci-to-move-fast/",
-      "sourceId": "mercari",
-      "title": "Turborepo Remote Cache: Accelerating CI to \u201cMove Fast\u201d",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260216-turborepo-remote-cache-accelerating-ci-to-move-fast/",
-      "publishedAt": "2026-02-17T10:00:47+00:00",
-      "excerpt": "Hi, I\u2019m @Zuma. I\u2019ve been with the Web Platform Team for three months, and I\u2019m excited to share my internship project: Turborepo remote cache. Note: This article was originally written in March 2025. Please note that the implementation detai",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
