@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta
+      name="description"
+      content="A quiet reading list of company engineering, infrastructure, and AI blogs."
+    />
+    <meta name="theme-color" content="#f6f3ee" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <title>EngReads</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#feed">Skip to reading</a>
+
+    <header class="top">
+      <div class="brand">
+        <p class="logo">EngReads</p>
+        <p class="status" id="status">Company technical writing</p>
+      </div>
+      <button
+        class="ghost"
+        id="theme-btn"
+        type="button"
+        aria-label="Switch theme"
+      >
+        Theme
+      </button>
+    </header>
+
+    <div class="controls">
+      <label class="search">
+        <span class="sr-only">Search posts</span>
+        <input
+          id="q"
+          type="search"
+          placeholder="Search"
+          autocomplete="off"
+          enterkeyhint="search"
+        />
+      </label>
+      <button class="ghost" id="sources-btn" type="button">Sources</button>
+    </div>
+
+    <nav class="filters" id="filters" aria-label="Genres"></nav>
+    <p class="count" id="count">Loading…</p>
+
+    <div class="page">
+      <aside class="rail" aria-label="Companies">
+        <p class="rail-label">Sources</p>
+        <ul id="company-list"></ul>
+      </aside>
+      <main id="feed" tabindex="-1"></main>
+    </div>
+
+    <footer class="foot">
+      Original posts remain on each company’s blog. EngReads indexes public
+      feeds.
+    </footer>
+
+    <dialog class="sheet" id="sources-sheet">
+      <form method="dialog" class="sheet-head">
+        <p>Sources</p>
+        <button class="ghost" value="close" aria-label="Close">Close</button>
+      </form>
+      <ul id="sheet-list"></ul>
+    </dialog>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

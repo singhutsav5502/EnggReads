@@ -1,0 +1,16 @@
+{
+  "name": "EngReads",
+  "short_name": "EngReads",
+  "description": "Company engineering, infrastructure, and AI blogs in one feed.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#f6f3ee",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
