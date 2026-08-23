@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-08-23T00:46:53.732073+00:00",
+  "generatedAt": "2026-08-23T17:07:53.200455+00:00",
   "feedCount": 84,
-  "fetchedOk": 84,
-  "postCount": 898,
+  "fetchedOk": 83,
+  "postCount": 888,
   "posts": [
+    {
+      "id": "snowflake:https://medium.com/snowflake/snowflake-in-a-nutshell-ai-inventory-3c787c4d5515?source=rss----34b6daafc07---4",
+      "sourceId": "snowflake",
+      "title": "Snowflake in a Nutshell\u00a9 : AI Inventory",
+      "url": "https://medium.com/snowflake/snowflake-in-a-nutshell-ai-inventory-3c787c4d5515?source=rss----34b6daafc07---4",
+      "publishedAt": "2026-08-23T14:01:01+00:00",
+      "excerpt": "Snowflake Data Platform AI Agent Governance Tip: The New Agents Inventory AI Agent Governance : enable AI security scanner. Credit: Dan Galavan This tab gives us quick access to information such as: \u2192 The agents configured within the Snowfl",
+      "tags": [
+        "data",
+        "engineering",
+        "ai",
+        "security"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/bot-preference-sync/",
       "sourceId": "cloudflare",
@@ -455,21 +469,6 @@
       ]
     },
     {
-      "id": "grab:https://engineering.grab.com/jarvis-pro-route-firsr-answer-later",
-      "sourceId": "grab",
-      "title": "Building Jarvis Pro: Route first, answer later",
-      "url": "https://engineering.grab.com/jarvis-pro-route-firsr-answer-later",
-      "publishedAt": "2026-08-21T00:00:00+00:00",
-      "excerpt": "Introduction The first Jarvis Pro prototype could produce answers that sounded right. That was the problem. One early answer looked polished: it named the merchant, summarized the week, and recommended pushing promotions before the next rev",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai"
-      ]
-    },
-    {
       "id": "twilio:https://www.twilio.com/en-us/blog/insights/trends/user-authentication-trends",
       "sourceId": "twilio",
       "title": "Top user authentication trends for 2026",
@@ -492,6 +491,21 @@
         "engineering",
         "backend",
         "security"
+      ]
+    },
+    {
+      "id": "grab:https://engineering.grab.com/jarvis-pro-route-firsr-answer-later",
+      "sourceId": "grab",
+      "title": "Building Jarvis Pro: Route first, answer later",
+      "url": "https://engineering.grab.com/jarvis-pro-route-firsr-answer-later",
+      "publishedAt": "2026-08-21T00:00:00+00:00",
+      "excerpt": "Introduction The first Jarvis Pro prototype could produce answers that sounded right. That was the problem. One early answer looked polished: it named the merchant, summarized the week, and recommended pushing promotions before the next rev",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "ai"
       ]
     },
     {
@@ -844,21 +858,6 @@
       ]
     },
     {
-      "id": "google-cloud:https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
-      "sourceId": "google-cloud",
-      "title": "Announcing quantum-safe key import in Cloud KMS",
-      "url": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
-      "publishedAt": "2026-08-20T16:00:00+00:00",
-      "excerpt": "As enterprises increasingly adopt multicloud architectures, bring your own key (BYOK) has become a fundamental pillar for maintaining data sovereignty and helping protect critical cloud workloads. At the same time, quantum computing has rap",
-      "tags": [
-        "infrastructure",
-        "ai",
-        "data",
-        "security",
-        "internal"
-      ]
-    },
-    {
       "id": "google-cloud:https://cloud.google.com/blog/topics/developers-practitioners/10-questions-for-your-startup-developers/",
       "sourceId": "google-cloud",
       "title": "10 questions every startup should answer before moving to production with their AI prototype",
@@ -874,6 +873,21 @@
         "frontend",
         "mobile",
         "devops"
+      ]
+    },
+    {
+      "id": "google-cloud:https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
+      "sourceId": "google-cloud",
+      "title": "Announcing quantum-safe key import in Cloud KMS",
+      "url": "https://cloud.google.com/blog/products/identity-security/announcing-quantum-safe-key-import-in-cloud-kms/",
+      "publishedAt": "2026-08-20T16:00:00+00:00",
+      "excerpt": "As enterprises increasingly adopt multicloud architectures, bring your own key (BYOK) has become a fundamental pillar for maintaining data sovereignty and helping protect critical cloud workloads. At the same time, quantum computing has rap",
+      "tags": [
+        "infrastructure",
+        "ai",
+        "data",
+        "security",
+        "internal"
       ]
     },
     {
@@ -1057,19 +1071,6 @@
       ]
     },
     {
-      "id": "sourcegraph:https://sourcegraph.com/blog/claude-code-file-picker-symbol-ranking",
-      "sourceId": "sourcegraph",
-      "title": "Filenames are the wrong index for Claude Code @ mentions",
-      "url": "https://sourcegraph.com/blog/claude-code-file-picker-symbol-ranking",
-      "publishedAt": "2026-08-20T00:00:00+00:00",
-      "excerpt": "Claude Code's @ picker matches characters in a path, so it can't find the file where a function lives. This fileSuggestion hook ranks by symbol instead.",
-      "tags": [
-        "ai",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "elastic:https://www.elastic.co/blog/whats-new-elastic-cloud-on-kubernetes-3-5",
       "sourceId": "elastic",
       "title": "What's new in ECK 3.5",
@@ -1106,6 +1107,48 @@
         "data",
         "infrastructure",
         "security"
+      ]
+    },
+    {
+      "id": "sourcegraph:https://sourcegraph.com/blog/claude-code-file-picker-symbol-ranking",
+      "sourceId": "sourcegraph",
+      "title": "Filenames are the wrong index for Claude Code @ mentions",
+      "url": "https://sourcegraph.com/blog/claude-code-file-picker-symbol-ranking",
+      "publishedAt": "2026-08-20T00:00:00+00:00",
+      "excerpt": "Claude Code's @ picker matches characters in a path, so it can't find the file where a function lives. This fileSuggestion hook ranks by symbol instead.",
+      "tags": [
+        "ai",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "vercel:https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
+      "sourceId": "vercel",
+      "title": "Vercel Agent is now available in Slack code channels",
+      "url": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
+      "publishedAt": "2026-08-20T00:00:00+00:00",
+      "excerpt": "Vercel Agent now works in Slack code channels, a new kind of channel launched today for working with a coding agent. Anyone in the channel can follow the work, give Agent new instructions, and review the code it writes.Choose Create a code ",
+      "tags": [
+        "frontend",
+        "infrastructure",
+        "engineering",
+        "ai"
+      ]
+    },
+    {
+      "id": "vercel:https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli",
+      "sourceId": "vercel",
+      "title": "Manage Vercel Container Registry with Vercel CLI",
+      "url": "https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli",
+      "publishedAt": "2026-08-20T00:00:00+00:00",
+      "excerpt": "You can now manage Vercel Container Registry with Vercel CLI. The new vercel vcr command group lets you:Connect your existing container toolingBuild and push images in one stepCreate and inspect repositories, images, and tagsAuthenticate yo",
+      "tags": [
+        "frontend",
+        "infrastructure",
+        "engineering",
+        "ai",
+        "devops"
       ]
     },
     {
@@ -1166,35 +1209,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "vercel:https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
-      "sourceId": "vercel",
-      "title": "Vercel Agent is now available in Slack code channels",
-      "url": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
-      "publishedAt": "2026-08-20T00:00:00+00:00",
-      "excerpt": "Vercel Agent now works in Slack code channels, a new kind of channel launched today for working with a coding agent. Anyone in the channel can follow the work, give Agent new instructions, and review the code it writes.Choose Create a code ",
-      "tags": [
-        "frontend",
-        "infrastructure",
-        "engineering",
-        "ai"
-      ]
-    },
-    {
-      "id": "vercel:https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli",
-      "sourceId": "vercel",
-      "title": "Manage Vercel Container Registry with Vercel CLI",
-      "url": "https://vercel.com/changelog/manage-vercel-container-registry-with-vercel-cli",
-      "publishedAt": "2026-08-20T00:00:00+00:00",
-      "excerpt": "You can now manage Vercel Container Registry with Vercel CLI. The new vercel vcr command group lets you:Connect your existing container toolingBuild and push images in one stepCreate and inspect repositories, images, and tagsAuthenticate yo",
-      "tags": [
-        "frontend",
-        "infrastructure",
-        "engineering",
-        "ai",
-        "devops"
       ]
     },
     {
@@ -1540,19 +1554,6 @@
       ]
     },
     {
-      "id": "auth0:https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-3-sending-email-with-token-vault/",
-      "sourceId": "auth0",
-      "title": "Building Secure AI Agents with Microsoft Agent Framework and Auth0: Sending Email with Token Vault",
-      "url": "https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-3-sending-email-with-token-vault/",
-      "publishedAt": "2026-08-19T00:00:00+00:00",
-      "excerpt": "Allow your .NET AI agent to send emails on your behalf securely using the Auth0 Token Vault.",
-      "tags": [
-        "engineering",
-        "internal",
-        "security"
-      ]
-    },
-    {
       "id": "posthog:https://posthog.com/blog/semantic-layer",
       "sourceId": "posthog",
       "title": "Building a semantic layer: What it is and how we did it at PostHog",
@@ -1563,6 +1564,19 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "auth0:https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-3-sending-email-with-token-vault/",
+      "sourceId": "auth0",
+      "title": "Building Secure AI Agents with Microsoft Agent Framework and Auth0: Sending Email with Token Vault",
+      "url": "https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-3-sending-email-with-token-vault/",
+      "publishedAt": "2026-08-19T00:00:00+00:00",
+      "excerpt": "Allow your .NET AI agent to send emails on your behalf securely using the Auth0 Token Vault.",
+      "tags": [
+        "engineering",
+        "internal",
+        "security"
       ]
     },
     {
@@ -1682,33 +1696,17 @@
       ]
     },
     {
-      "id": "snowflake:https://medium.com/snowflake/managing-ai-costs-step-by-step-tutorial-to-set-up-a-per-user-quota-to-control-your-ai-spend-0cba55f29424?source=rss----34b6daafc07---4",
-      "sourceId": "snowflake",
-      "title": "Managing AI Costs: Step-by-Step Tutorial to Set Up a Per-User Quota to Control Your AI Spend",
-      "url": "https://medium.com/snowflake/managing-ai-costs-step-by-step-tutorial-to-set-up-a-per-user-quota-to-control-your-ai-spend-0cba55f29424?source=rss----34b6daafc07---4",
-      "publishedAt": "2026-08-18T16:14:43+00:00",
-      "excerpt": "Any user with access to Cortex AI can run an AI_COMPLETE over a billion-row table or hammer an agent in a loop and burn credits fast. By the time that spend lands in the usage views, the credits are already gone. If you have a whole enginee",
-      "tags": [
-        "data",
-        "engineering",
-        "ai",
-        "databases",
-        "devops"
-      ]
-    },
-    {
-      "id": "google-cloud:https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "id": "google-cloud:https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
       "sourceId": "google-cloud",
-      "title": "Governance on autopilot, minus the turbulence",
-      "url": "https://cloud.google.com/blog/products/data-analytics/governance-on-autopilot-automate-data-governance-with-lineage/",
+      "title": "How Box is unlocking multimodal enterprise agents with Gemini Embeddings 2",
+      "url": "https://cloud.google.com/blog/topics/partners/box-ai-agents-gemini-embeddings-multimodal-enterprise-ai/",
       "publishedAt": "2026-08-18T16:00:00+00:00",
-      "excerpt": "Every data team knows the moment. Someone opens a table, sees a column called cust_seg_flg , and has to go ask around to find out what it means, whether it's safe to use, and whether anyone has already answered that question in another dash",
+      "excerpt": "Enterprise content management is experiencing its biggest architectural shift since the cloud migration era. For years, enterprises have stored trillions of gigabytes of critical data in Box: financial models, clinical trial protocols, M&A ",
       "tags": [
         "infrastructure",
         "ai",
         "data",
-        "reliability",
-        "devops"
+        "security"
       ]
     },
     {
@@ -1939,19 +1937,6 @@
       ]
     },
     {
-      "id": "together:https://www.together.ai/blog/deepseek-v4-pro-0813-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
-      "sourceId": "together",
-      "title": "DeepSeek V4 Pro 0813 vs GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing",
-      "url": "https://www.together.ai/blog/deepseek-v4-pro-0813-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "We ran 904 DeepSWE rollouts on DeepSeek V4 Pro 0813 and GPT-5.6 Sol. Sol leads pass@1 by 10 points at 35x the cost; Pro wins pass@4, and a Pro-first cascade hits 83.0%.",
-      "tags": [
-        "recommended",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "apple-ml:https://machinelearning.apple.com/research/grpo-beyond-english",
       "sourceId": "apple-ml",
       "title": "GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings",
@@ -1985,6 +1970,19 @@
       "tags": [
         "ai",
         "mobile"
+      ]
+    },
+    {
+      "id": "together:https://www.together.ai/blog/deepseek-v4-pro-0813-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
+      "sourceId": "together",
+      "title": "DeepSeek V4 Pro 0813 vs GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing",
+      "url": "https://www.together.ai/blog/deepseek-v4-pro-0813-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
+      "publishedAt": "2026-08-18T00:00:00+00:00",
+      "excerpt": "We ran 904 DeepSWE rollouts on DeepSeek V4 Pro 0813 and GPT-5.6 Sol. Sol leads pass@1 by 10 points at 35x the cost; Pro wins pass@4, and a Pro-first cascade hits 83.0%.",
+      "tags": [
+        "recommended",
+        "ai",
+        "infrastructure"
       ]
     },
     {
@@ -2063,19 +2061,6 @@
         "databases",
         "infrastructure",
         "frontend"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/postgres-poisoned-connection-pools",
-      "sourceId": "planetscale",
-      "title": "Poisoned Postgres connection pools",
-      "url": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "Did you know you can poison your Postgres connection pool? Most people have no idea what this means, but it could take down your entire database if you're not careful managing your connection pooler. An engineer's worst nightmare is waking ",
-      "tags": [
-        "databases",
-        "engineering",
-        "infrastructure"
       ]
     },
     {
@@ -2158,6 +2143,19 @@
       "tags": [
         "engineering",
         "backend"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/postgres-poisoned-connection-pools",
+      "sourceId": "planetscale",
+      "title": "Poisoned Postgres connection pools",
+      "url": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+      "publishedAt": "2026-08-18T00:00:00+00:00",
+      "excerpt": "Did you know you can poison your Postgres connection pool? Most people have no idea what this means, but it could take down your entire database if you're not careful managing your connection pooler. An engineer's worst nightmare is waking ",
+      "tags": [
+        "databases",
+        "engineering",
+        "infrastructure"
       ]
     },
     {
@@ -2370,20 +2368,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/what-is-a-data-topology",
-      "sourceId": "planetscale",
-      "title": "What is a data topology?",
-      "url": "https://planetscale.com/blog/what-is-a-data-topology",
-      "publishedAt": "2026-08-17T00:00:00+00:00",
-      "excerpt": "\u201cVitess for PostgreSQL\u201d is a useful shorthand for the ambition behind Neki, but it significantly understates the architecture we have built. Neki carries forward what we learned from Vitess in a new sharding architecture designed around Pos",
-      "tags": [
-        "databases",
-        "engineering",
-        "infrastructure",
-        "internal"
-      ]
-    },
-    {
       "id": "gitlab:https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-4-released/",
       "sourceId": "gitlab",
       "title": "GitLab Critical Patch Release: 19.2.4, 19.1.6, 19.0.8, 18.11.11",
@@ -2462,6 +2446,20 @@
       "tags": [
         "engineering",
         "backend"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/what-is-a-data-topology",
+      "sourceId": "planetscale",
+      "title": "What is a data topology?",
+      "url": "https://planetscale.com/blog/what-is-a-data-topology",
+      "publishedAt": "2026-08-17T00:00:00+00:00",
+      "excerpt": "\u201cVitess for PostgreSQL\u201d is a useful shorthand for the ambition behind Neki, but it significantly understates the architecture we have built. Neki carries forward what we learned from Vitess in a new sharding architecture designed around Pos",
+      "tags": [
+        "databases",
+        "engineering",
+        "infrastructure",
+        "internal"
       ]
     },
     {
@@ -3226,6 +3224,18 @@
       ]
     },
     {
+      "id": "ollama:https://ollama.com/blog/nemotron-3-5-lightning",
+      "sourceId": "ollama",
+      "title": "NVIDIA Nemotron 3.5 Lightning",
+      "url": "https://ollama.com/blog/nemotron-3-5-lightning",
+      "publishedAt": "2026-08-11T00:00:00+00:00",
+      "excerpt": "NVIDIA Nemotron 3.5 Lightning is now available on Ollama. It's a 30 billion parameter (3B active) open model built for agents that stay running, gathering context, calling tools, and working through multi-step tasks on your own hardware.",
+      "tags": [
+        "ai",
+        "engineering"
+      ]
+    },
+    {
       "id": "modular:https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
       "sourceId": "modular",
       "title": "Modular: Modular 26.5: Mojo 1.0 is here!",
@@ -3236,18 +3246,6 @@
         "ai",
         "engineering",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/nemotron-3-5-lightning",
-      "sourceId": "ollama",
-      "title": "NVIDIA Nemotron 3.5 Lightning",
-      "url": "https://ollama.com/blog/nemotron-3-5-lightning",
-      "publishedAt": "2026-08-11T00:00:00+00:00",
-      "excerpt": "NVIDIA Nemotron 3.5 Lightning is now available on Ollama. It's a 30 billion parameter (3B active) open model built for agents that stay running, gathering context, calling tools, and working through multi-step tasks on your own hardware.",
-      "tags": [
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -3291,20 +3289,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
-      "sourceId": "planetscale",
-      "title": "The dangers of Postgres subtransactions",
-      "url": "https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
-      "publishedAt": "2026-08-11T00:00:00+00:00",
-      "excerpt": "A single transaction that accumulates numerous subtransaction IDs can significantly reduce throughput across an entire PostgreSQL cluster. It can also stop a new read replica from accepting queries, even as the replica continues to replay W",
-      "tags": [
-        "databases",
-        "engineering",
-        "infrastructure",
-        "reliability"
-      ]
-    },
-    {
       "id": "discord:https://discord.com/blog/link-world-of-warcraft-with-discord",
       "sourceId": "discord",
       "title": "Link Discord and WoW to Keep the Guild Chatting Wherever You Are",
@@ -3341,6 +3325,20 @@
         "engineering",
         "internal",
         "security"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
+      "sourceId": "planetscale",
+      "title": "The dangers of Postgres subtransactions",
+      "url": "https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
+      "publishedAt": "2026-08-11T00:00:00+00:00",
+      "excerpt": "A single transaction that accumulates numerous subtransaction IDs can significantly reduce throughput across an entire PostgreSQL cluster. It can also stop a new read replica from accepting queries, even as the replica continues to replay W",
+      "tags": [
+        "databases",
+        "engineering",
+        "infrastructure",
+        "reliability"
       ]
     },
     {
@@ -3727,19 +3725,6 @@
       ]
     },
     {
-      "id": "auth0:https://auth0.com/blog/xaa-protocol-auth0-ai-agents/",
-      "sourceId": "auth0",
-      "title": "Adopting the Cross App Access Protocol: Get Ready for MCP Enterprise-Managed Authorization with Auth0",
-      "url": "https://auth0.com/blog/xaa-protocol-auth0-ai-agents/",
-      "publishedAt": "2026-08-06T00:00:00+00:00",
-      "excerpt": "Explore how to expose APIs and MCP servers to trusted AI agents using Auth0 and the Cross App Access (XAA) protocol.",
-      "tags": [
-        "engineering",
-        "internal",
-        "security"
-      ]
-    },
-    {
       "id": "posthog:https://posthog.com/blog/agents-killing-ui",
       "sourceId": "posthog",
       "title": "Are agents really killing UI?",
@@ -3750,6 +3735,19 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "auth0:https://auth0.com/blog/xaa-protocol-auth0-ai-agents/",
+      "sourceId": "auth0",
+      "title": "Adopting the Cross App Access Protocol: Get Ready for MCP Enterprise-Managed Authorization with Auth0",
+      "url": "https://auth0.com/blog/xaa-protocol-auth0-ai-agents/",
+      "publishedAt": "2026-08-06T00:00:00+00:00",
+      "excerpt": "Explore how to expose APIs and MCP servers to trusted AI agents using Auth0 and the Cross App Access (XAA) protocol.",
+      "tags": [
+        "engineering",
+        "internal",
+        "security"
       ]
     },
     {
@@ -3899,6 +3897,19 @@
       ]
     },
     {
+      "id": "posthog:https://posthog.com/blog/on-doing-more-weird",
+      "sourceId": "posthog",
+      "title": "We spend $45,000 on doing more weird every month",
+      "url": "https://posthog.com/blog/on-doing-more-weird",
+      "publishedAt": "2026-08-05T00:00:00+00:00",
+      "excerpt": "\"Do more weird\" is an actual PostHog company value , and we have a discretionary $45k/mo budget that anyone can use to bring weird ideas to life\u2026",
+      "tags": [
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
       "id": "janestreet:https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
       "sourceId": "janestreet",
       "title": "Can you reverse engineer an ASIC?",
@@ -3907,19 +3918,6 @@
       "excerpt": "",
       "tags": [
         "recommended",
-        "engineering",
-        "internal",
-        "culture"
-      ]
-    },
-    {
-      "id": "posthog:https://posthog.com/blog/on-doing-more-weird",
-      "sourceId": "posthog",
-      "title": "We spend $45,000 on doing more weird every month",
-      "url": "https://posthog.com/blog/on-doing-more-weird",
-      "publishedAt": "2026-08-05T00:00:00+00:00",
-      "excerpt": "\"Do more weird\" is an actual PostHog company value , and we have a discretionary $45k/mo budget that anyone can use to bring weird ideas to life\u2026",
-      "tags": [
         "engineering",
         "internal",
         "culture"
@@ -4281,20 +4279,6 @@
       ]
     },
     {
-      "id": "grafana:https://grafana.com/blog/ai-week-recap/",
-      "sourceId": "grafana",
-      "title": "Reflections on AI Week, and the future of solving problems with observability and AI",
-      "url": "https://grafana.com/blog/ai-week-recap/",
-      "publishedAt": "2026-07-31T09:34:12+00:00",
-      "excerpt": "Thank you for spending AI Week with us. We\u2019re thrilled by the reaction and we all enjoyed replying to your questions. Thanks for engaging. Some of my favorite quotes from LinkedIn and Reddit include: \u201cGrafana\u2019s latest announcements aren\u2019t j",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "hashicorp:https://www.hashicorp.com/blog/consul-cyberark-wim-external-ca-for-the-service-mesh",
       "sourceId": "hashicorp",
       "title": "Consul + CyberArk WIM: External CA for the service mesh",
@@ -4347,6 +4331,19 @@
       ]
     },
     {
+      "id": "posthog:https://posthog.com/blog/replay-vision",
+      "sourceId": "posthog",
+      "title": "Replay Vision watches the session recordings you never will",
+      "url": "https://posthog.com/blog/replay-vision",
+      "publishedAt": "2026-07-31T00:00:00+00:00",
+      "excerpt": "Somewhere in your session recordings is the moment a user rageclicked a dead button and walked out. There was no error thrown, and nobody filed a\u2026",
+      "tags": [
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
       "id": "planetscale:https://planetscale.com/blog/massively-parallel-postgres-backups",
       "sourceId": "planetscale",
       "title": "Massively parallel Postgres backups",
@@ -4359,19 +4356,6 @@
         "infrastructure",
         "security",
         "internal"
-      ]
-    },
-    {
-      "id": "posthog:https://posthog.com/blog/replay-vision",
-      "sourceId": "posthog",
-      "title": "Replay Vision watches the session recordings you never will",
-      "url": "https://posthog.com/blog/replay-vision",
-      "publishedAt": "2026-07-31T00:00:00+00:00",
-      "excerpt": "Somewhere in your session recordings is the moment a user rageclicked a dead button and walked out. There was no error thrown, and nobody filed a\u2026",
-      "tags": [
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
@@ -4482,21 +4466,6 @@
       ]
     },
     {
-      "id": "grafana:https://grafana.com/blog/how-to-build-a-trust-platform-for-your-agent-with-grafana-agent-observability/",
-      "sourceId": "grafana",
-      "title": "How to build a trust platform for your agent with Grafana Agent Observability",
-      "url": "https://grafana.com/blog/how-to-build-a-trust-platform-for-your-agent-with-grafana-agent-observability/",
-      "publishedAt": "2026-07-30T09:36:46+00:00",
-      "excerpt": "Observing fast-growing agentic workloads is no small feat, especially if you try to build your own monitoring stack or rely solely on tools built for a time before LLMs. At Grafana Labs, we know this all too well. Grafana Assistant went fro",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering",
-        "ai",
-        "devops"
-      ]
-    },
-    {
       "id": "weaviate:https://weaviate.io/blog/building-foundry-ai-creative-workflows",
       "sourceId": "weaviate",
       "title": "Building Foundry: AI isn\u2019t replacing creativity, it\u2019s removing friction",
@@ -4589,22 +4558,6 @@
       "tags": [
         "ai",
         "engineering"
-      ]
-    },
-    {
-      "id": "grafana:https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/",
-      "sourceId": "grafana",
-      "title": "Automate all the things: How to use Grafana Cloud's AI to relieve the operational burden",
-      "url": "https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/",
-      "publishedAt": "2026-07-29T09:17:56+00:00",
-      "excerpt": "Continuous integration and continuous delivery (CI/CD) have dramatically changed how we ship software. But once code reaches production, the operational work is still surprisingly manual. Engineers continually monitor systems, investigate u",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering",
-        "frontend",
-        "devops",
-        "internal"
       ]
     },
     {
@@ -4811,21 +4764,6 @@
       ]
     },
     {
-      "id": "grafana:https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/",
-      "sourceId": "grafana",
-      "title": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
-      "url": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/",
-      "publishedAt": "2026-07-28T09:31:42+00:00",
-      "excerpt": "You\u2019re about to click \"Merge\" on a PR, but you feel more anxious about it than you used to. Why? You did everything properly, by today\u2019s standards: You used Claude to create a plan, giving it context from a GitHub issue and some Slack threa",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering",
-        "frontend",
-        "devops"
-      ]
-    },
-    {
       "id": "snap:https://eng.snap.com/casper",
       "sourceId": "snap",
       "title": "Casper: Snap\u2019s fleet of friendly AI teammates",
@@ -4940,37 +4878,6 @@
       ]
     },
     {
-      "id": "grafana:https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/",
-      "sourceId": "grafana",
-      "title": "Smarter onboarding and planning with Grafana Assistant: How to ensure observability is baked in from the start",
-      "url": "https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/",
-      "publishedAt": "2026-07-27T10:17:34+00:00",
-      "excerpt": "It's Monday afternoon and that feature you've been working on is mostly done. There's just one item still sitting untouched at the bottom of the ticket: \"Add monitoring.\" You know you should. You also know the sprint ends tomorrow, nobody o",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering",
-        "devops",
-        "internal"
-      ]
-    },
-    {
-      "id": "grafana:https://grafana.com/blog/explore-what-s-next-in-agentic-operations-introducing-ai-week/",
-      "sourceId": "grafana",
-      "title": "Explore what's next in agentic operations: Introducing AI Week",
-      "url": "https://grafana.com/blog/explore-what-s-next-in-agentic-operations-introducing-ai-week/",
-      "publishedAt": "2026-07-27T06:46:22+00:00",
-      "excerpt": "For a full rundown of all the new features we announced (including a few not listed here), check out my AI Week recap blog post . Observability has traditionally been tacked on after your code hits production, but with agentic operations on",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering",
-        "ai",
-        "mobile",
-        "internal"
-      ]
-    },
-    {
       "id": "sourcegraph:https://sourcegraph.com/blog/compliance-first-ai-proving-agent-provenance",
       "sourceId": "sourcegraph",
       "title": "Compliance-first AI: proving agent provenance for regulated engineering teams",
@@ -5067,19 +4974,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "sourceId": "planetscale",
-      "title": "Postgres backups under the hood",
-      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "publishedAt": "2026-07-24T00:00:00+00:00",
-      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
-      "tags": [
-        "databases",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/kurt-scott-money-sprites/",
       "sourceId": "fly",
       "title": "Turn And Face The Strange",
@@ -5095,6 +4989,19 @@
         "security",
         "databases",
         "internal"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "sourceId": "planetscale",
+      "title": "Postgres backups under the hood",
+      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "publishedAt": "2026-07-24T00:00:00+00:00",
+      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
+      "tags": [
+        "databases",
+        "engineering",
+        "infrastructure"
       ]
     },
     {
@@ -5179,19 +5086,6 @@
       ]
     },
     {
-      "id": "grafana:https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know/",
-      "sourceId": "grafana",
-      "title": "A new allowlists design for Grafana Cloud IP addresses: What you need to know",
-      "url": "https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know/",
-      "publishedAt": "2026-07-23T13:52:13+00:00",
-      "excerpt": "If your network restricts inbound or outbound traffic, you likely maintain an allowlist of Grafana Cloud IP addresses so your systems and Grafana Cloud can talk to each other. Today we're introducing a new allowlists design : a single, stru",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering"
-      ]
-    },
-    {
       "id": "duolingo:https://blog.duolingo.com/how-is-the-international-phonetic-alphabet-used/",
       "sourceId": "duolingo",
       "title": "What\u2019s the International Phonetic Alphabet, and how do I use it?",
@@ -5217,23 +5111,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "grafana:https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/",
-      "sourceId": "grafana",
-      "title": "How to monitor your Supabase projects: connect Grafana Cloud in one click",
-      "url": "https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/",
-      "publishedAt": "2026-07-23T08:40:08+00:00",
-      "excerpt": "As AI agents accelerate software development and spin up applications at scale, visibility into what's happening behind the scenes, including query performance and database health, has never been more important. Gaining that level of insigh",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering",
-        "frontend",
-        "databases",
-        "devops",
-        "internal"
       ]
     },
     {
@@ -5264,19 +5141,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/whats-new-in-postgres-19",
-      "sourceId": "planetscale",
-      "title": "What's new in Postgres 19",
-      "url": "https://planetscale.com/blog/whats-new-in-postgres-19",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "excerpt": "Postgres has never had a great built-in way to shrink a bloated table. VACUUM identifies dead space for reuse, but doesn't return it to the operating system. VACUUM FULL and CLUSTER do, but they lock the table for the whole rewrite. For a d",
-      "tags": [
-        "databases",
-        "engineering",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "posthog:https://posthog.com/blog/repositioning-posthog",
       "sourceId": "posthog",
       "title": "Repositioning PostHog",
@@ -5287,6 +5151,19 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/whats-new-in-postgres-19",
+      "sourceId": "planetscale",
+      "title": "What's new in Postgres 19",
+      "url": "https://planetscale.com/blog/whats-new-in-postgres-19",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "excerpt": "Postgres has never had a great built-in way to shrink a bloated table. VACUUM identifies dead space for reuse, but doesn't return it to the operating system. VACUUM FULL and CLUSTER do, but they lock the table for the whole rewrite. For a d",
+      "tags": [
+        "databases",
+        "engineering",
+        "infrastructure"
       ]
     },
     {
@@ -5340,19 +5217,6 @@
       "excerpt": "",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "grafana:https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/",
-      "sourceId": "grafana",
-      "title": "Cost attribution in Grafana Cloud: Manage spend across observability and testing workflows",
-      "url": "https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/",
-      "publishedAt": "2026-07-22T09:57:07+00:00",
-      "excerpt": "Knowing what you're spending on observability is useful. Knowing which team, service, or project is driving that spend is what actually lets you act on that information. Cost attribution is a core part of how Grafana Cloud approaches cost m",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering"
       ]
     },
     {
@@ -5664,22 +5528,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "grafana:https://grafana.com/blog/beyond-performance-monitoring-understand-the-user-experience-with-grafana-cloud-frontend-observability/",
-      "sourceId": "grafana",
-      "title": "Beyond performance monitoring: Understand the user experience with Grafana Cloud Frontend Observability",
-      "url": "https://grafana.com/blog/beyond-performance-monitoring-understand-the-user-experience-with-grafana-cloud-frontend-observability/",
-      "publishedAt": "2026-07-20T10:30:44+00:00",
-      "excerpt": "You've optimized your Largest Contentful Paint . Your Time to First Byte is under 200ms. Your Lighthouse scores are green. And yet, your checkout conversion rate is quietly dropping. A segment of users in Southeast Asia is churning. Your su",
-      "tags": [
-        "reliability",
-        "infrastructure",
-        "engineering",
-        "frontend",
-        "devops",
-        "internal"
       ]
     },
     {
@@ -7226,6 +7074,19 @@
       ]
     },
     {
+      "id": "discord:https://discord.com/blog/discord-update-june-25-2026-changelog",
+      "sourceId": "discord",
+      "title": "Discord Update: June 25, 2026 Changelog",
+      "url": "https://discord.com/blog/discord-update-june-25-2026-changelog",
+      "publishedAt": "2026-06-25T00:00:00+00:00",
+      "excerpt": "Here's the Discord Changelog from June 25, 2026, so you can stay informed on what\u2019s new in recent app updates!",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "planetscale:https://planetscale.com/blog/one-postgres-cluster-many-apps",
       "sourceId": "planetscale",
       "title": "One Postgres cluster, many apps",
@@ -7238,19 +7099,6 @@
         "infrastructure",
         "security",
         "devops"
-      ]
-    },
-    {
-      "id": "discord:https://discord.com/blog/discord-update-june-25-2026-changelog",
-      "sourceId": "discord",
-      "title": "Discord Update: June 25, 2026 Changelog",
-      "url": "https://discord.com/blog/discord-update-june-25-2026-changelog",
-      "publishedAt": "2026-06-25T00:00:00+00:00",
-      "excerpt": "Here's the Discord Changelog from June 25, 2026, so you can stay informed on what\u2019s new in recent app updates!",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -7848,6 +7696,18 @@
       ]
     },
     {
+      "id": "ollama:https://ollama.com/blog/mlx-performance",
+      "sourceId": "ollama",
+      "title": "Ollama's highest performance on Apple Silicon yet with MLX",
+      "url": "https://ollama.com/blog/mlx-performance",
+      "publishedAt": "2026-06-11T00:00:00+00:00",
+      "excerpt": "Ollama's MLX engine has been updated to deliver its highest performance on Apple Silicon yet. Models output higher quality responses, respond faster, and use less memory.",
+      "tags": [
+        "ai",
+        "engineering"
+      ]
+    },
+    {
       "id": "modular:https://www.modular.com/blog/day-zero-minimax-m3-open-weights-on-modular-cloud",
       "sourceId": "modular",
       "title": "Modular: Day Zero: MiniMax M3 Open Weights on Modular Cloud",
@@ -7858,18 +7718,6 @@
         "ai",
         "engineering",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/mlx-performance",
-      "sourceId": "ollama",
-      "title": "Ollama's highest performance on Apple Silicon yet with MLX",
-      "url": "https://ollama.com/blog/mlx-performance",
-      "publishedAt": "2026-06-11T00:00:00+00:00",
-      "excerpt": "Ollama's MLX engine has been updated to deliver its highest performance on Apple Silicon yet. Models output higher quality responses, respond faster, and use less memory.",
-      "tags": [
-        "ai",
-        "engineering"
       ]
     },
     {
@@ -8127,6 +7975,18 @@
       ]
     },
     {
+      "id": "ollama:https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
+      "sourceId": "ollama",
+      "title": "Improved performance and model support with GGUF",
+      "url": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
+      "publishedAt": "2026-06-05T00:00:00+00:00",
+      "excerpt": "Ollama 0.30 is now available with improved performance and GGUF model compatibility through llama.cpp. This augments Ollama's MLX engine on Apple silicon, bringing support to more models on a wider range of hardware.",
+      "tags": [
+        "ai",
+        "engineering"
+      ]
+    },
+    {
       "id": "modular:https://www.modular.com/blog/why-llm-inference-needs-a-new-kind-of-router-part-3",
       "sourceId": "modular",
       "title": "Modular: Why LLM Inference Needs a New Kind of Router - Part 3",
@@ -8137,18 +7997,6 @@
         "ai",
         "engineering",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "ollama:https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
-      "sourceId": "ollama",
-      "title": "Improved performance and model support with GGUF",
-      "url": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
-      "publishedAt": "2026-06-05T00:00:00+00:00",
-      "excerpt": "Ollama 0.30 is now available with improved performance and GGUF model compatibility through llama.cpp. This augments Ollama's MLX engine on Apple silicon, bringing support to more models on a wider range of hardware.",
-      "tags": [
-        "ai",
-        "engineering"
       ]
     },
     {
