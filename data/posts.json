@@ -1,9 +1,67 @@
 {
-  "generatedAt": "2026-08-24T13:15:37.726291+00:00",
+  "generatedAt": "2026-08-24T19:01:36.390749+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
-  "postCount": 368,
+  "postCount": 369,
   "posts": [
+    {
+      "id": "meta:https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+      "sourceId": "meta",
+      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+      "publishedAt": "2026-08-24T18:02:29+00:00",
+      "excerpt": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE \u2013 a clean-sheet RDMA transport protocol purpose-b",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+      "sourceId": "meta",
+      "title": "MTIA 300: Meta\u2019s First Training Chip with Built-in NICs and Communication-Offloading Engines",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+      "publishedAt": "2026-08-24T17:45:52+00:00",
+      "excerpt": "MTIA 300 is the first of Meta\u2019s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We\u2019re sharing how MTIA 300\u2019s built-in NIC chiplets allow it to meet the communication needs ass",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "mozilla:https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+      "sourceId": "mozilla",
+      "title": "Intent to Ship: JPEG XL",
+      "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+      "publishedAt": "2026-08-24T15:32:15+00:00",
+      "excerpt": "It isn\u2019t often that new image formats land in browsers. In the early 2000s we had JPEG, GIF, and PNG. The 2010s gave us WebP, which was a modest step up from JPEG. But the 2020s have given us two new image formats that are a big step up fro",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/the-history-of-postgres-sharding",
+      "sourceId": "planetscale",
+      "title": "The history of Postgres sharding",
+      "url": "https://planetscale.com/blog/the-history-of-postgres-sharding",
+      "publishedAt": "2026-08-24T00:00:00+00:00",
+      "excerpt": "Over the past 20 years, many companies have achieved such a scale that their database could no longer support the workload assigned to it. The solution is almost universally to shard the database, but only when absolutely necessary due to t",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "netflix:https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
@@ -1631,21 +1689,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
-      "sourceId": "meta",
-      "title": "How Meta Engineered Ultra-Narrow Batteries for AI Glasses",
-      "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
-      "publishedAt": "2026-06-23T16:00:38+00:00",
-      "excerpt": "Smart glasses like the Ray-Ban Meta and Oakley Meta Vanguards need to pack enough energy to power features like cameras, speakers, AI workloads, and even a display. But it all has to fit into the glasses\u2019 temple arms. So how do you place a ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "mozilla:https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
       "sourceId": "mozilla",
       "title": "PACT: Anonymous Credentials for the Web",
@@ -1832,22 +1875,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/the-feedback-loops-behind-kubernetes",
-      "sourceId": "planetscale",
-      "title": "The feedback loops behind Kubernetes",
-      "url": "https://planetscale.com/blog/the-feedback-loops-behind-kubernetes",
-      "publishedAt": "2026-06-16T00:00:00+00:00",
-      "excerpt": "For the last decade, Kubernetes has been the backdrop to most of my work: operating clusters, helping build hosted Kubernetes, and writing Kubernetes operators. At PlanetScale, that now means running stateful systems like Postgres and MySQL",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability",
-        "devops"
       ]
     },
     {
@@ -5118,20 +5145,6 @@
         "internal",
         "backend",
         "mobile"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/",
-      "sourceId": "mozilla",
-      "title": "Snapshots for IPC Fuzzing",
-      "url": "https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/",
-      "publishedAt": "2024-06-27T16:18:49+00:00",
-      "excerpt": "Process separation remains one of the most important parts of the Firefox security model and securing our IPC (Inter-Process Communication) interfaces is crucial to keep privileges in the different processes separated. We take a more detail",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
       ]
     },
     {
