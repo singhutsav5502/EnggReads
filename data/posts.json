@@ -1,9 +1,41 @@
 {
-  "generatedAt": "2026-08-24T19:01:36.390749+00:00",
+  "generatedAt": "2026-08-25T01:54:12.545160+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 369,
   "posts": [
+    {
+      "id": "github:https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "sourceId": "github",
+      "title": "Your alt text passes automated checks. That doesn\u2019t mean it\u2019s any good.",
+      "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "publishedAt": "2026-08-24T20:56:32+00:00",
+      "excerpt": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn\u2019t mean it\u2019s any good. appeared first on The GitHub Blo",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops",
+        "frontend"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+      "sourceId": "cloudflare",
+      "title": "The Cloudflare Blog \u2013 Brought to you by EmDash",
+      "url": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+      "publishedAt": "2026-08-24T19:00:00+00:00",
+      "excerpt": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "frontend"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
       "sourceId": "meta",
@@ -529,21 +561,6 @@
       "url": "https://blog.cloudflare.com/mcp-v2/",
       "publishedAt": "2026-08-06T13:00:00+00:00",
       "excerpt": "The next version of MCP has a rewritten, stateless core that just works on Workers. We cover upgrades to the protocol, the new feature lifecycle and SDK migration path, and hear from early adopters already running it in production.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/aeo/",
-      "sourceId": "cloudflare",
-      "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
-      "url": "https://blog.cloudflare.com/aeo/",
-      "publishedAt": "2026-08-06T13:00:00+00:00",
-      "excerpt": "More than half of requests now come from machines, not people. Agent Readiness shows how well agents can discover and read your site, while Answer Engine Optimization tracks how often AI assistants recommend you.",
       "tags": [
         "recommended",
         "infrastructure",
@@ -2824,21 +2841,6 @@
         "infrastructure",
         "reliability",
         "databases"
-      ]
-    },
-    {
-      "id": "github:https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
-      "sourceId": "github",
-      "title": "The uphill climb of making diff lines performant",
-      "url": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
-      "publishedAt": "2026-04-03T16:00:00+00:00",
-      "excerpt": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Blog .",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "devops"
       ]
     },
     {
