@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-08-26T13:18:23.839650+00:00",
+  "generatedAt": "2026-08-26T20:05:45.603878+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/scaling-conditional-learned-retrieval-for-pinterest-home-feed-ecfba7e5a426?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Scaling Conditional Learned Retrieval for Pinterest Home Feed",
+      "url": "https://medium.com/pinterest-engineering/scaling-conditional-learned-retrieval-for-pinterest-home-feed-ecfba7e5a426?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-08-26T14:01:05+00:00",
+      "excerpt": "Devin Kreuzer | Sr. Machine Learning Engineer; Yichi Wang | Machine Learning Engineer I; Sujan Reddy Ale | Machine Learning Engineer I; Zelun Wang | Sr. Machine Learning Engineer; Hongtao Lin | Sr. Machine Learning Engineer; Piyush Maheshwa",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/evaluate-session-replay-software/",
+      "sourceId": "sentry",
+      "title": "How to evaluate session replay software: a developer's guide",
+      "url": "https://blog.sentry.io/evaluate-session-replay-software/",
+      "publishedAt": "2026-08-26T09:00:00+00:00",
+      "excerpt": "Compare session replay tools on recording methodology, privacy architecture, integration depth, overhead, AI-readability, and mobile support",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
     {
       "id": "planetscale:https://planetscale.com/blog/dealing-with-large-tables-in-postgres",
       "sourceId": "planetscale",
@@ -1618,20 +1646,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/nextjs-export-traces-opentelemetry/",
-      "sourceId": "sentry",
-      "title": "Next.js already traces your requests. Here's how to export them with OpenTelemetry.",
-      "url": "https://blog.sentry.io/nextjs-export-traces-opentelemetry/",
-      "publishedAt": "2026-06-29T09:00:00+00:00",
-      "excerpt": "Next.js creates OpenTelemetry traces automatically. Learn how to export them to Sentry or any OTLP backend with @vercel/otel.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "uber:https://medium.com/uber-under-the-hood/the-1-barrier-to-ev-adoption-has-shifted-heres-what-that-means-for-drivers-6fe032e78a55?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "The #1 Barrier to EV Adoption Has Shifted. Here\u2019s What That Means for Drivers",
@@ -2662,21 +2676,6 @@
         "internal",
         "reliability",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/smarter-url-normalization-at-scale-how-miqps-powers-content-deduplication-at-pinterest-4aa42e807d7d?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Smarter URL Normalization at Scale: How MIQPS Powers Content Deduplication at Pinterest",
-      "url": "https://medium.com/pinterest-engineering/smarter-url-normalization-at-scale-how-miqps-powers-content-deduplication-at-pinterest-4aa42e807d7d?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-04-20T16:01:04+00:00",
-      "excerpt": "Shanhai Liao | Senior Software Engineer, Content Acquisition and Media Platform; Di Ruan, | Senior Staff Software Engineer, Content Acquisition and Media Platform; Evan Li, | Senior Engineering Manager, Content Acquisition and Media Platfor",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability"
       ]
     },
     {
