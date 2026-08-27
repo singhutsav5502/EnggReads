@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-08-27T09:53:27.130705+00:00",
+  "generatedAt": "2026-08-27T22:17:47.746170+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "sourceId": "cloudflare",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1\u2019s DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "publishedAt": "2026-08-27T17:02:35+00:00",
+      "excerpt": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "booking:https://medium.com/booking-com-development/beyond-the-dashboard-accelerating-real-time-intelligence-in-the-age-of-ai-6f1f0f9c123f?source=rss----1c36c35f9c76---4",
+      "sourceId": "booking",
+      "title": "Beyond the Dashboard: Accelerating Real-Time Intelligence in the Age of AI",
+      "url": "https://medium.com/booking-com-development/beyond-the-dashboard-accelerating-real-time-intelligence-in-the-age-of-ai-6f1f0f9c123f?source=rss----1c36c35f9c76---4",
+      "publishedAt": "2026-08-27T11:15:58+00:00",
+      "excerpt": "When an urgent request for a report or dashboard arrives, often just before an executive meeting, data and engineering teams must drop planned work to respond. One request may be reasonable, but repeated interruptions come at a cost: import",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai",
+        "reliability",
+        "frontend",
+        "databases",
+        "devops"
+      ]
+    },
     {
       "id": "pinterest:https://medium.com/pinterest-engineering/scaling-conditional-learned-retrieval-for-pinterest-home-feed-ecfba7e5a426?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
@@ -595,21 +629,6 @@
         "internal",
         "infrastructure",
         "reliability"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/mcp-v2/",
-      "sourceId": "cloudflare",
-      "title": "The next generation of MCP",
-      "url": "https://blog.cloudflare.com/mcp-v2/",
-      "publishedAt": "2026-08-06T13:00:00+00:00",
-      "excerpt": "The next version of MCP has a rewritten, stateless core that just works on Workers. We cover upgrades to the protocol, the new feature lifecycle and SDK migration path, and hear from early adopters already running it in production.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -4840,23 +4859,6 @@
         "backend",
         "mobile",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "booking:https://medium.com/booking-com-development/quick-steps-for-a-scrum-team-to-improve-the-process-11c0c53b0adc?source=rss----1c36c35f9c76---4",
-      "sourceId": "booking",
-      "title": "Quick Steps for a Scrum Team to Improve the Process",
-      "url": "https://medium.com/booking-com-development/quick-steps-for-a-scrum-team-to-improve-the-process-11c0c53b0adc?source=rss----1c36c35f9c76---4",
-      "publishedAt": "2025-01-24T13:40:14+00:00",
-      "excerpt": "Scrum, Agile Make your stand-ups short and concise, focus on value added source Scrum is a framework that gives teams the freedom to build their own processes. Unfortunately, teams often create complex, bloated processes that eat up all the",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "frontend",
-        "databases",
-        "devops"
       ]
     },
     {
