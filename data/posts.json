@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-08-28T11:27:35.013518+00:00",
+  "generatedAt": "2026-08-28T22:23:30.548074+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "netflix:https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "MAPS: Netflix\u2019s Multimodal Asset Personalization at Scale",
+      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-08-28T16:01:02+00:00",
+      "excerpt": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the artwork on a title to the",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/botbase-for-operators/",
+      "sourceId": "cloudflare",
+      "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+      "url": "https://blog.cloudflare.com/botbase-for-operators/",
+      "publishedAt": "2026-08-28T12:59:44+00:00",
+      "excerpt": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/datacollection-control-panel/",
+      "sourceId": "sentry",
+      "title": "From one switch to a control panel: meet `dataCollection`",
+      "url": "https://blog.sentry.io/datacollection-control-panel/",
+      "publishedAt": "2026-08-28T09:00:00+00:00",
+      "excerpt": "Sentry SDKs replace the `sendDefaultPii` boolean with `dataCollection`, granular options for user data, headers, bodies, GenAI data, and more.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "ai"
+      ]
+    },
     {
       "id": "grab:https://engineering.grab.com/data-mesh-at-grab-part-three",
       "sourceId": "grab",
@@ -615,22 +661,6 @@
         "security",
         "engineering",
         "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/workers-ai-gateway-unification/",
-      "sourceId": "cloudflare",
-      "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
-      "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
-      "publishedAt": "2026-08-07T13:00:00+00:00",
-      "excerpt": "Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and model-first routing ",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "reliability"
       ]
     },
     {
@@ -1593,20 +1623,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/spot-checking-ai-agents/",
-      "sourceId": "sentry",
-      "title": "Reading the agent traces is how you make the call your eval can't",
-      "url": "https://blog.sentry.io/spot-checking-ai-agents/",
-      "publishedAt": "2026-07-01T09:00:00+00:00",
-      "excerpt": "I gave the free tier a cheaper model and it invented conference speakers who don't exist. What that taught me about model tradeoffs, evals, and reading agent traces.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "snap:https://eng.snap.com/code_search",
       "sourceId": "snap",
       "title": "Code Search: How Agents search across Snap\u2019s codebase",
@@ -1861,23 +1877,6 @@
         "reliability",
         "security",
         "frontend"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "The Data Canary: How Netflix Validates Catalog Metadata",
-      "url": "https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-06-19T23:54:17+00:00",
-      "excerpt": "By Celina Amados At Netflix, our catalog metadata is crucial to our member experience, and a single corrupted data state can impact millions of viewers immediately. To protect streaming reliability, we built an automated data canary system ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai",
-        "reliability"
       ]
     },
     {
