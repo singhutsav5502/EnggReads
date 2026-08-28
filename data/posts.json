@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-08-27T22:17:47.746170+00:00",
+  "generatedAt": "2026-08-28T11:27:35.013518+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "grab:https://engineering.grab.com/data-mesh-at-grab-part-three",
+      "sourceId": "grab",
+      "title": "Data Mesh at Grab (Part III): Operationalizing data reliability with automated DPIs",
+      "url": "https://engineering.grab.com/data-mesh-at-grab-part-three",
+      "publishedAt": "2026-08-28T00:00:00+00:00",
+      "excerpt": "Introduction In the first two parts of this series , we described how Grab approaches data mesh through the Signals Marketplace: a way for teams to publish, discover, and reuse trusted data products across domains. Part II introduced the fo",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "ai",
+        "reliability",
+        "databases"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
       "sourceId": "cloudflare",
@@ -1861,24 +1878,6 @@
         "data",
         "ai",
         "reliability"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/palana-part-1-secure-platform-for-ai-agents",
-      "sourceId": "grab",
-      "title": "Palana (Part 1): Why Grab built a secure platform for autonomous AI Agents",
-      "url": "https://engineering.grab.com/palana-part-1-secure-platform-for-ai-agents",
-      "publishedAt": "2026-06-19T00:00:00+00:00",
-      "excerpt": "Abstract Artificial intelligence (AI) agents are moving from experiments into everyday engineering workflows. They can read code, call application programming interfaces (APIs), run tests, create merge requests, answer Slack messages, and k",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai",
-        "infrastructure",
-        "security",
-        "frontend"
       ]
     },
     {
