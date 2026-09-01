@@ -1,9 +1,96 @@
 {
-  "generatedAt": "2026-09-01T11:42:22.630742+00:00",
+  "generatedAt": "2026-09-01T16:42:29.013051+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/becoming-an-ai-team-866d6b567803?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Becoming an AI Team",
+      "url": "https://medium.com/pinterest-engineering/becoming-an-ai-team-866d6b567803?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-09-01T15:01:06+00:00",
+      "excerpt": "John Grass | Sr. Manager, Engineering A Fundamental Transformation An AI team is fundamentally more than just a group whose members incorporate AI tools into their existing workflows. The journey to becoming an AI team necessitates a fundam",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "reliability",
+        "databases"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/cache-transcoding/",
+      "sourceId": "cloudflare",
+      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "publishedAt": "2026-09-01T12:59:00+00:00",
+      "excerpt": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/metrics-caught-ai-size-estimate/",
+      "sourceId": "sentry",
+      "title": "Application Metrics caught my broken size estimator",
+      "url": "https://blog.sentry.io/metrics-caught-ai-size-estimate/",
+      "publishedAt": "2026-09-01T09:00:00+00:00",
+      "excerpt": "The numbers your app lives on don't belong in logs or on sampled spans. Here's how a browser video converter's KPIs made the case for Application Metrics.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/rust-tracing-opentelemetry/",
+      "sourceId": "datadog",
+      "title": "Making Rust observability reliable at scale with OpenTelemetry",
+      "url": "https://www.datadoghq.com/blog/engineering/rust-tracing-opentelemetry/",
+      "publishedAt": "2026-09-01T00:00:00+00:00",
+      "excerpt": "Learn how Datadog improved Rust tracing by building an opinionated OpenTelemetry-based library to help ensure consistent sampling, propagation, and trace quality at scale.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/what-is-a-neki-router",
+      "sourceId": "planetscale",
+      "title": "What is a Neki router?",
+      "url": "https://planetscale.com/blog/what-is-a-neki-router",
+      "publishedAt": "2026-09-01T00:00:00+00:00",
+      "excerpt": "The core challenge in operating a sharded database is deciding which shard(s) should execute a query. Each query passes through two plans. The Neki router builds the first plan using the data topology to decide which shard(s) receive the wo",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "zalando:https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html",
+      "sourceId": "zalando",
+      "title": "Scaling Reliable Experimentation in a Two-Sided AdTech Marketplace: ZMS Budget Split",
+      "url": "https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html",
+      "publishedAt": "2026-08-31T22:00:00+00:00",
+      "excerpt": "Budget Split and Orthogonal Concurrency reduce budget cannibalization bias and enable reliable concurrent experiments in two-sided AdTech marketplaces.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "lyft:https://eng.lyft.com/rerouting-the-stream-how-lyft-moved-to-the-apache-flink-operator-36f20246d250?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
@@ -690,21 +777,6 @@
         "infrastructure",
         "data",
         "security"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
-      "sourceId": "cloudflare",
-      "title": "Unveiling good and bad behaviors on the Agentic Internet",
-      "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
-      "publishedAt": "2026-08-07T13:01:00+00:00",
-      "excerpt": "Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor \u2014 and try out ou",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -1447,21 +1519,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue",
-      "sourceId": "planetscale",
-      "title": "When the Postgres query planner goes rogue",
-      "url": "https://planetscale.com/blog/when-the-postgres-query-planner-goes-rogue",
-      "publishedAt": "2026-07-13T00:00:00+00:00",
-      "excerpt": "Everyone\u2019s least favorite alert: nothing changed, everything is on fire. No new deploys, no database failovers, no spike in client query load or inbound requests. Yet suddenly, the database CPU has jumped from 20% utilization to 100% and qu",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability"
-      ]
-    },
-    {
       "id": "github:https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
       "sourceId": "github",
       "title": "Better tools made Copilot code review worse. Here\u2019s how we actually improved it.",
@@ -1578,20 +1635,6 @@
         "reliability",
         "databases",
         "devops"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/apple-update-breaks-app/",
-      "sourceId": "sentry",
-      "title": "Any Apple update can break our app. Here's how we find out first.",
-      "url": "https://blog.sentry.io/apple-update-breaks-app/",
-      "publishedAt": "2026-07-02T09:00:00+00:00",
-      "excerpt": "How the Usage app uses Sentry to catch crashes, silent errors, and build regressions before 1.6 million users notice.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
       ]
     },
     {
@@ -2653,20 +2696,6 @@
       ]
     },
     {
-      "id": "pinterest:https://medium.com/pinterest-engineering/from-clicks-to-conversions-architecting-shopping-conversion-candidate-generation-at-pinterest-04cae5e1455b?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "From Clicks to Conversions: Architecting Shopping Conversion Candidate Generation at Pinterest",
-      "url": "https://medium.com/pinterest-engineering/from-clicks-to-conversions-architecting-shopping-conversion-candidate-generation-at-pinterest-04cae5e1455b?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-04-27T16:01:05+00:00",
-      "excerpt": "Authors: Richard Huang | Machine Learning Engineer II; Yu Liu | Senior Machine Learning Engineer; Ziwei Guo | Senior Machine Learning Engineer; Andy Mao | Staff Machine Learning Engineer; Supeng Ge | Sr. Staff Machine Learning Engineer Intr",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
-      ]
-    },
-    {
       "id": "lyft:https://eng.lyft.com/how-we-built-a-smarter-pickup-experience-for-gated-communities-47416e9df029?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "How We Built a Smarter Pickup Experience for Gated Communities",
@@ -3225,21 +3254,6 @@
       "url": "https://www.datadoghq.com/blog/engineering/stopping-hackerbot-claw-with-bewaire/",
       "publishedAt": "2026-03-09T00:00:00+00:00",
       "excerpt": "Learn how Datadog detected and resolved issues from hackerbot-claw, an AI-powered automated attack campaign.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/mcp-server-agent-tools/",
-      "sourceId": "datadog",
-      "title": "Designing MCP tools for agents: Lessons from building Datadog\u2019s MCP server",
-      "url": "https://www.datadoghq.com/blog/engineering/mcp-server-agent-tools/",
-      "publishedAt": "2026-03-04T00:00:00+00:00",
-      "excerpt": "We share lessons learned building Datadog\u2019s MCP server, from designing agent-friendly tools and managing context windows to using queries instead of raw data retrieval.",
       "tags": [
         "recommended",
         "engineering",
@@ -4037,20 +4051,6 @@
         "culture",
         "data",
         "frontend"
-      ]
-    },
-    {
-      "id": "zalando:https://engineering.zalando.com/posts/2025/09/dead-ends-or-data-goldmines-ai-powered-postmortem-analysis.html",
-      "sourceId": "zalando",
-      "title": "Dead Ends or Data Goldmines? Investment Insights from Two Years of AI-Powered Postmortem Analysis",
-      "url": "https://engineering.zalando.com/posts/2025/09/dead-ends-or-data-goldmines-ai-powered-postmortem-analysis.html",
-      "publishedAt": "2025-09-24T22:00:00+00:00",
-      "excerpt": "Your incidents hold the blueprint to your most strategic infrastructure wins \u2014 if you're listening correctly.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability"
       ]
     },
     {
