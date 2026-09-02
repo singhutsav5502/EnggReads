@@ -1,21 +1,51 @@
 {
-  "generatedAt": "2026-09-02T16:37:12.528756+00:00",
+  "generatedAt": "2026-09-02T21:05:46.012336+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
     {
-      "id": "nubank:https://building.nubank.com/when-ai-skills-become-supply-chain-dependencies/",
+      "id": "github:https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "sourceId": "github",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "publishedAt": "2026-09-02T18:00:00+00:00",
+      "excerpt": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nubank.com/when-ai-skills-become-supply-chain-dependencies-2/",
       "sourceId": "nubank",
       "title": "When AI skills become supply-chain dependencies",
-      "url": "https://building.nubank.com/when-ai-skills-become-supply-chain-dependencies/",
-      "publishedAt": "2026-09-02T16:27:25+00:00",
+      "url": "https://building.nubank.com/when-ai-skills-become-supply-chain-dependencies-2/",
+      "publishedAt": "2026-09-02T16:47:57+00:00",
       "excerpt": "How Nubank vetted 2,000+ AI skills before distribution, building security into the developer workflow without turning safety into a separate gate The post When AI skills become supply-chain dependencies appeared first on Building Nubank .",
       "tags": [
         "engineering",
         "internal",
         "backend",
         "security"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+      "sourceId": "meta",
+      "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+      "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+      "publishedAt": "2026-09-02T09:00:29+00:00",
+      "excerpt": "We\u2019ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a typical domain-specif",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
       ]
     },
     {
@@ -1739,21 +1769,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
-      "sourceId": "meta",
-      "title": "10 Years of Meta\u2019s Commitment to Python",
-      "url": "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
-      "publishedAt": "2026-06-30T16:00:46+00:00",
-      "excerpt": "This year marks Meta\u2019s 10th consecutive year as a sponsor of the Python Software Foundation (PSF), the charitable organization dedicated to advancing, supporting, and protecting the open-source Python programming language and the community ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "instacart:https://tech.instacart.com/leveraging-pyfixest-for-high-cardinality-marketplace-modeling-at-instacart-3913df91a04b?source=rss----587883b5d2ee---4",
       "sourceId": "instacart",
       "title": "Leveraging PyFixest for High-Cardinality Marketplace Modeling at Instacart",
@@ -2780,21 +2795,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "github:https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
-      "sourceId": "github",
-      "title": "How GitHub uses eBPF to improve deployment safety",
-      "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
-      "publishedAt": "2026-04-16T16:00:00+00:00",
-      "excerpt": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog .",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "devops"
       ]
     },
     {
