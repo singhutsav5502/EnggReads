@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-09-02T11:22:55.181786+00:00",
+  "generatedAt": "2026-09-02T16:37:12.528756+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "nubank:https://building.nubank.com/when-ai-skills-become-supply-chain-dependencies/",
+      "sourceId": "nubank",
+      "title": "When AI skills become supply-chain dependencies",
+      "url": "https://building.nubank.com/when-ai-skills-become-supply-chain-dependencies/",
+      "publishedAt": "2026-09-02T16:27:25+00:00",
+      "excerpt": "How Nubank vetted 2,000+ AI skills before distribution, building security into the developer workflow without turning safety into a separate gate The post When AI skills become supply-chain dependencies appeared first on Building Nubank .",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "security"
+      ]
+    },
     {
       "id": "pinterest:https://medium.com/pinterest-engineering/becoming-an-ai-team-866d6b567803?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
@@ -2604,20 +2618,6 @@
         "internal",
         "frontend",
         "security"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nubank.com/a-day-in-the-life-of-an-analytics-engineer-at-nubank/",
-      "sourceId": "nubank",
-      "title": "A day in the life of an Analytics Engineer at Nubank",
-      "url": "https://building.nubank.com/a-day-in-the-life-of-an-analytics-engineer-at-nubank/",
-      "publishedAt": "2026-05-07T14:00:00+00:00",
-      "excerpt": "By Marlon Ferrari \u2013 Senior Analytics Engineer at Nubank If you\u2019ve ever been curious about what an Analytics Engineer actually does day to day, including their responsibilities, tools, decisions, and what the pace of work looks like inside t",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "data"
       ]
     },
     {
