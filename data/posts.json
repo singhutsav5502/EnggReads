@@ -1,9 +1,67 @@
 {
-  "generatedAt": "2026-09-03T11:19:03.091193+00:00",
+  "generatedAt": "2026-09-03T16:28:16.596278+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "spotify:https://engineering.atspotify.com/2026/9/spotifys-backstage-portal-cut-my-claude-code-token-usage-by-90/",
+      "sourceId": "spotify",
+      "title": "Spotify\u2019s Backstage Portal cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/spotifys-backstage-portal-cut-my-claude-code-token-usage-by-90/",
+      "publishedAt": "2026-09-03T16:06:40+00:00",
+      "excerpt": "Most of what an AI coding agent does for me isn't thinking. It's I/O. The post Spotify\u2019s Backstage Portal cut my Claude Code token usage by 90% appeared first on Spotify Engineering .",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "instacart:https://tech.instacart.com/agentic-machine-learning-modeling-at-instacart-fb3ecd295ee7?source=rss----587883b5d2ee---4",
+      "sourceId": "instacart",
+      "title": "Agentic Machine Learning Modeling at Instacart",
+      "url": "https://tech.instacart.com/agentic-machine-learning-modeling-at-instacart-fb3ecd295ee7?source=rss----587883b5d2ee---4",
+      "publishedAt": "2026-09-03T16:05:30+00:00",
+      "excerpt": "Tilman Drerup, Moe Moazzami, Shih-Ting Lin, Greg Reda (and many more) Introduction At Instacart, artificial intelligence is fundamentally changing the way our machine learning engineers operate. In a prior blog post , we used one of our tea",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai",
+        "devops"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+      "sourceId": "meta",
+      "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+      "url": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+      "publishedAt": "2026-09-03T16:00:20+00:00",
+      "excerpt": "We\u2019re introducing ZGateway, the proxy we are using to unify traffic through ZippyDB, Meta\u2019s most widely-used key value store. As a bonus, it also enables admission control, load balancing, cross-region resilience, and richer operations. Zip",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nubank.com/how-we-built-a-benchmarking-framework-to-horizontally-accelerate-transaction-model-research/",
+      "sourceId": "nubank",
+      "title": "How we built a benchmarking framework to horizontally accelerate transaction model research",
+      "url": "https://building.nubank.com/how-we-built-a-benchmarking-framework-to-horizontally-accelerate-transaction-model-research/",
+      "publishedAt": "2026-09-03T13:53:30+00:00",
+      "excerpt": "The framework that transformed weeks of manual experimentation into automated pipelines for horizontal transaction model research The post How we built a benchmarking framework to horizontally accelerate transaction model research appeared ",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
     {
       "id": "fly:https://fly.io/blog/sprites-mcp/",
       "sourceId": "fly",
@@ -1728,21 +1786,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
-      "sourceId": "meta",
-      "title": "Meta\u2019s AI Storage Blueprint at Scale",
-      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
-      "publishedAt": "2026-07-01T16:00:36+00:00",
-      "excerpt": "Over the past several years, model capabilities and training dataset sizes have experienced exponential growth. During the past year or so, the time between new-frontier-model releases has gone down from months to weeks. Reliable and fast a",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "nubank:https://building.nubank.com/how-nubank-distributes-infrastructure-ownership-to-operate-more-than-21-thousand-databases-with-a-lean-team/",
       "sourceId": "nubank",
       "title": "How Nubank distributes infrastructure ownership to operate more than 21 thousand databases with a lean team",
@@ -2283,21 +2326,6 @@
       ]
     },
     {
-      "id": "spotify:https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/",
-      "sourceId": "spotify",
-      "title": "Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify",
-      "url": "https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/",
-      "publishedAt": "2026-06-03T15:50:18+00:00",
-      "excerpt": "At Code with Claude, Spotify\u2019s chief architect shared how we make both teams and AI agents more effective. The post Coding Is No Longer the Constraint: Scaling Developer Experience to Teams and Agents at Spotify appeared first on Spotify En",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "devops"
-      ]
-    },
-    {
       "id": "instacart:https://tech.instacart.com/from-scoring-to-spelling-rebuilding-ads-retrieval-at-instacart-cf36b4e8d1bb?source=rss----587883b5d2ee---4",
       "sourceId": "instacart",
       "title": "From Scoring to Spelling: Rebuilding Ads Retrieval at Instacart",
@@ -2546,19 +2574,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nubank.com/from-complexity-to-simplicity-a-principled-approach-to-big-data-understanding/",
-      "sourceId": "nubank",
-      "title": "From complexity to simplicity: A principled approach to big data understanding",
-      "url": "https://building.nubank.com/from-complexity-to-simplicity-a-principled-approach-to-big-data-understanding/",
-      "publishedAt": "2026-05-14T14:30:00+00:00",
-      "excerpt": "Written by: Rodrigo Medina, Ivette Ayala At Nubank, hundreds of teams generate thousands of data assets to serve more than 130 million customers across multiple countries. The distributed architecture that enables this scale also introduces",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
@@ -3409,23 +3424,6 @@
         "reliability",
         "security",
         "databases"
-      ]
-    },
-    {
-      "id": "instacart:https://tech.instacart.com/turning-data-into-velocity-capers-edge-and-cloud-data-flywheel-with-capsight-544a49ca3db7?source=rss----587883b5d2ee---4",
-      "sourceId": "instacart",
-      "title": "Turning Data into Velocity: Caper\u2019s Edge and Cloud Data Flywheel with Capsight",
-      "url": "https://tech.instacart.com/turning-data-into-velocity-capers-edge-and-cloud-data-flywheel-with-capsight-544a49ca3db7?source=rss----587883b5d2ee---4",
-      "publishedAt": "2026-02-17T16:24:56+00:00",
-      "excerpt": "Key Contributors: Youming Luo, Andrew Tanner, Matas Sriubiskis, Sylvia Lin, Sikun Zhu, Lei Li, Xiao Zhou Introduction Caper is Instacart\u2019s AI-powered smart cart that provides customers with a fast, seamless, and intuitive shopping experienc",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai",
-        "reliability",
-        "devops"
       ]
     },
     {
