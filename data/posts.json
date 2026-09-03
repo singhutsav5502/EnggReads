@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-09-03T04:36:49.694959+00:00",
+  "generatedAt": "2026-09-03T11:19:03.091193+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "fly:https://fly.io/blog/sprites-mcp/",
+      "sourceId": "fly",
+      "title": "Your Agent Speaks MCP. Give It a Computer.",
+      "url": "https://fly.io/blog/sprites-mcp/",
+      "publishedAt": "2026-09-03T00:00:00+00:00",
+      "excerpt": "Sprites are disposable cloud computers. They appear instantly, always include durable filesystems, and cost practically nothing when idle. They\u2019re the best and safest place on the Internet to run agents and we want you to create dozens of t",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "ai"
+      ]
+    },
     {
       "id": "github:https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
       "sourceId": "github",
@@ -3229,22 +3245,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/unfortunately-mcp/",
-      "sourceId": "fly",
-      "title": "Unfortunately, Sprites Now Speak MCP",
-      "url": "https://fly.io/blog/unfortunately-mcp/",
-      "publishedAt": "2026-03-10T00:00:00+00:00",
-      "excerpt": "Sprites are disposable cloud computers. They appear instantly, always include durable filesystems, and cost practically nothing when idle. They\u2019re the best and safest place on the Internet to run agents and we want you to create dozens of t",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "frontend"
       ]
     },
     {
