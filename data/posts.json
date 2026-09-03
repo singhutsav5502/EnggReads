@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-03T16:28:16.596278+00:00",
+  "generatedAt": "2026-09-03T21:04:43.543882+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
     {
-      "id": "spotify:https://engineering.atspotify.com/2026/9/spotifys-backstage-portal-cut-my-claude-code-token-usage-by-90/",
+      "id": "spotify:https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/",
       "sourceId": "spotify",
-      "title": "Spotify\u2019s Backstage Portal cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/spotifys-backstage-portal-cut-my-claude-code-token-usage-by-90/",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/",
       "publishedAt": "2026-09-03T16:06:40+00:00",
-      "excerpt": "Most of what an AI coding agent does for me isn't thinking. It's I/O. The post Spotify\u2019s Backstage Portal cut my Claude Code token usage by 90% appeared first on Spotify Engineering .",
+      "excerpt": "Most of what an AI coding agent does for me isn't thinking. It's I/O. The post Portal by Spotify cut my Claude Code token usage by 90% appeared first on Spotify Engineering .",
       "tags": [
         "engineering",
         "internal",
