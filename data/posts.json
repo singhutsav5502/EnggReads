@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-09-04T11:22:27.147125+00:00",
+  "generatedAt": "2026-09-04T16:24:24.364303+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "nubank:https://building.nubank.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
+      "sourceId": "nubank",
+      "title": "NFR Brain: challenging the status quo of risk management with data",
+      "url": "https://building.nubank.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
+      "publishedAt": "2026-09-04T14:18:41+00:00",
+      "excerpt": "Author : Mayara Zenati At Nubank, we believe the most meaningful problems for customers and for the business rarely come with ready-made answers. That is why we challenge the status quo: not to innovate for innovation\u2019s sake, but to remove ",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
     {
       "id": "spotify:https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/",
       "sourceId": "spotify",
@@ -2513,19 +2526,6 @@
         "internal",
         "data",
         "devops"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nubank.com/the-principles-that-uphold-nubanks-culture/",
-      "sourceId": "nubank",
-      "title": "The principles that uphold Nubank\u2019s culture",
-      "url": "https://building.nubank.com/the-principles-that-uphold-nubanks-culture/",
-      "publishedAt": "2026-05-19T21:00:00+00:00",
-      "excerpt": "The complexity of our operations has grown alongside Nubank. New products, new geographies, hundreds of teams and thousands of people have come to operate in different contexts, all of which require daily decisions that push us to never sto",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
