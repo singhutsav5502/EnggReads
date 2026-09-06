@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T20:25:24.428200+00:00",
+  "generatedAt": "2026-09-06T04:43:41.007733+00:00",
   "feedCount": 37,
-  "fetchedOk": 36,
-  "postCount": 368,
+  "fetchedOk": 35,
+  "postCount": 358,
   "posts": [
     {
       "id": "nubank:https://building.nubank.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
@@ -3292,22 +3292,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2026/02/27/unlocking-ai-innovation-through-automated-governance.html",
-      "sourceId": "deliveroo",
-      "title": "Unlocking AI innovation through automated governance",
-      "url": "https://deliveroo.engineering/2026/02/27/unlocking-ai-innovation-through-automated-governance.html",
-      "publishedAt": "2026-02-27T00:00:00+00:00",
-      "excerpt": "Over the past two years, we\u2019ve witnessed a Cambrian explosion of AI development, with Generative and Agentic AI capturing stakeholders\u2019 attention. AI/ML Engineers are delivering real business value by intermixing LLMs and agentic systems wi",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability",
-        "devops"
-      ]
-    },
-    {
       "id": "instacart:https://tech.instacart.com/our-early-journey-to-transform-instacarts-discovery-recommendations-with-llms-cf4591a8602b?source=rss----587883b5d2ee---4",
       "sourceId": "instacart",
       "title": "Our Early Journey to Transform Instacart\u2019s Discovery Recommendations with LLMs",
@@ -3424,20 +3408,6 @@
         "reliability",
         "security",
         "databases"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2026/02/16/demystifying-ai-agents.html",
-      "sourceId": "deliveroo",
-      "title": "De-mystifying AI Agent Applications",
-      "url": "https://deliveroo.engineering/2026/02/16/demystifying-ai-agents.html",
-      "publishedAt": "2026-02-16T00:00:00+00:00",
-      "excerpt": "LLMs, MCPs, RAG. There are lots of acronyms in the AI space, but what do they all mean? Dear reader, despite being a software engineer who works in the machine learning space, I confess there was a time I wasn\u2019t really sure. Fortunately, wi",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
       ]
     },
     {
@@ -3839,22 +3809,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
-      "sourceId": "deliveroo",
-      "title": "Engineering at Deliveroo India: How We Build, Collaborate, and Grow",
-      "url": "https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
-      "publishedAt": "2025-11-06T00:00:00+00:00",
-      "excerpt": "Hey everyone, I\u2019m Kartik Visvanathan , an Engineering Manager at Deliveroo, based in India. I joined the team in 2023, and it\u2019s been an exciting ride ever since. I\u2019ve built some truly impactful products here, including an advertising platfo",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability",
-        "mobile"
-      ]
-    },
-    {
       "id": "asos:https://medium.com/asos-techblog/android-clean-architecture-understanding-the-data-layer-a8df03b508c2?source=rss----6757df096022---4",
       "sourceId": "asos",
       "title": "Android Clean Architecture: Understanding the Data Layer",
@@ -4066,20 +4020,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2025/09/12/cost-optimisation-in-ecs.html",
-      "sourceId": "deliveroo",
-      "title": "Cost Optimisation in ECS: Integrating Spot Instances at Scale",
-      "url": "https://deliveroo.engineering/2025/09/12/cost-optimisation-in-ecs.html",
-      "publishedAt": "2025-09-12T00:00:00+00:00",
-      "excerpt": "At Deliveroo, we\u2019re always refining how we scale - especially when it comes to managing compute costs in the cloud. After optimising our Amazon ECS workloads with Reserved Instances and Savings Plans, we saw an opportunity to push further u",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "reliability"
-      ]
-    },
-    {
       "id": "zendesk:https://zendesk.engineering/heartbeats-75cd476b7b04?source=rss----a88376ea904a---4",
       "sourceId": "zendesk",
       "title": "Heartbeats",
@@ -4217,23 +4157,6 @@
         "data",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2025/07/02/deliveroo-ml-platform.html",
-      "sourceId": "deliveroo",
-      "title": "Deliveroo's Machine Learning Platform: Powering the Future of ML",
-      "url": "https://deliveroo.engineering/2025/07/02/deliveroo-ml-platform.html",
-      "publishedAt": "2025-07-02T00:00:00+00:00",
-      "excerpt": "Enter Deliveroo\u2019s ML Platform For the past three years, we have been building Deliveroo\u2019s Machine Learning Platform, or the ML Platform as we like to call it. The ML Platform boosts our model-building and deployment capabilities by standard",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "databases"
       ]
     },
     {
@@ -4528,19 +4451,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2025/03/24/my-journey-so-far-as-a-senior-staff-engineer.html",
-      "sourceId": "deliveroo",
-      "title": "Antonio Troina: My Journey So Far as a Senior Staff Software Engineer",
-      "url": "https://deliveroo.engineering/2025/03/24/my-journey-so-far-as-a-senior-staff-engineer.html",
-      "publishedAt": "2025-03-24T00:00:00+00:00",
-      "excerpt": "Could you introduce yourself and your role at Deliveroo? I\u2019m Antonio, a Senior Staff Engineer at Deliveroo. I have been with Deliveroo for six and a half years, overseeing the entire New Verticals domain as well as the Catalogues space, as ",
-      "tags": [
-        "engineering",
-        "internal",
-        "data"
-      ]
-    },
-    {
       "id": "zendesk:https://zendesk.engineering/less-is-more-improving-job-execution-by-ditching-the-job-executor-d00eff680de4?source=rss----a88376ea904a---4",
       "sourceId": "zendesk",
       "title": "Less is More: Improving job execution by ditching the job executor",
@@ -4553,21 +4463,6 @@
         "backend",
         "infrastructure",
         "databases"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2025/03/13/roo-tech-showcase-blog.html",
-      "sourceId": "deliveroo",
-      "title": "Women in Tech presents: Roo Tech Showcase",
-      "url": "https://deliveroo.engineering/2025/03/13/roo-tech-showcase-blog.html",
-      "publishedAt": "2025-03-13T00:00:00+00:00",
-      "excerpt": "The Women in Tech Employee Resource Group (ERG) at Deliveroo was officially founded in 2023, and we are proud to represent an amazing community of female employees who identify as working in Tech at Deliveroo. This includes, but is not limi",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "frontend",
-        "mobile"
       ]
     },
     {
@@ -4660,19 +4555,6 @@
         "frontend",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2025/02/20/my-journey-so-far.html",
-      "sourceId": "deliveroo",
-      "title": "Gina Wiley: My Journey So Far as a Senior Engineering Manager",
-      "url": "https://deliveroo.engineering/2025/02/20/my-journey-so-far.html",
-      "publishedAt": "2025-02-20T00:00:00+00:00",
-      "excerpt": "Could you introduce yourself and your role at Deliveroo? I\u2019m Gina, I\u2019m a Senior Engineering Manager at Deliveroo. I lead our Consumer Experience group in our New Verticals engineering team, and I\u2019ve been at Deliveroo for five years. Could y",
-      "tags": [
-        "engineering",
-        "internal",
-        "data"
       ]
     },
     {
@@ -4770,19 +4652,6 @@
         "internal",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2025/02/06/experimentation-principles.html",
-      "sourceId": "deliveroo",
-      "title": "Deliveroo experimentation principles",
-      "url": "https://deliveroo.engineering/2025/02/06/experimentation-principles.html",
-      "publishedAt": "2025-02-06T00:00:00+00:00",
-      "excerpt": "Experimentation at Deliveroo has significantly boosted our innovation as a company. It has allowed us to explore new ideas, protected us from unforeseen challenges by preventing wasted time and resources on ineffective initiatives, and prom",
-      "tags": [
-        "engineering",
-        "internal",
-        "data"
       ]
     },
     {
@@ -5262,19 +5131,6 @@
         "backend",
         "security",
         "frontend"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2023/10/09/from-code-to-leadership.html",
-      "sourceId": "deliveroo",
-      "title": "From Code to Leadership: Empowering Women in Engineering at our New India Hub",
-      "url": "https://deliveroo.engineering/2023/10/09/from-code-to-leadership.html",
-      "publishedAt": "2023-10-09T10:30:04+00:00",
-      "excerpt": "Could you introduce yourself and your role at Deliveroo? I\u2019m Prachi, and I joined Deliveroo in August last year. I\u2019m located in India, and I bring with me about 10 years of work experience. Initially, I joined Deliveroo as a Senior Software",
-      "tags": [
-        "engineering",
-        "internal",
-        "data"
       ]
     },
     {
