@@ -1,21 +1,22 @@
 {
-  "generatedAt": "2026-09-09T11:27:48.859485+00:00",
+  "generatedAt": "2026-09-09T16:41:25.625836+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
     {
-      "id": "spotify:https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
-      "sourceId": "spotify",
-      "title": "Why Spotify Is Not Using Bayesian A/B Testing",
-      "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
-      "publishedAt": "2026-09-08T13:18:44+00:00",
-      "excerpt": "Clearing the confusion about what Bayesian A/B testing is. The post Why Spotify Is Not Using Bayesian A/B Testing appeared first on Spotify Engineering .",
+      "id": "cloudflare:https://blog.cloudflare.com/workers-module-registry-nodejs/",
+      "sourceId": "cloudflare",
+      "title": "How we rebuilt Cloudflare Workers\u2019 module registry for Node.js compatibility",
+      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+      "publishedAt": "2026-09-09T13:00:00+00:00",
+      "excerpt": "Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors.",
       "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
         "engineering",
-        "internal",
-        "data",
-        "infrastructure"
+        "internal"
       ]
     },
     {
@@ -830,21 +831,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
-      "sourceId": "cloudflare",
-      "title": "Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave",
-      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-h1/",
-      "publishedAt": "2026-08-11T13:00:00+00:00",
-      "excerpt": "In the first half of 2026, Cloudflare detected a 519% surge in hyper-volumetric DDos attacks across its network. These attacks were driven heavily by DNS and CLDAP reflection vectors. This report breaks down how major geopolitical conflicts",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -2196,6 +2182,20 @@
         "ai",
         "reliability",
         "frontend"
+      ]
+    },
+    {
+      "id": "spotify:https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/",
+      "sourceId": "spotify",
+      "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant",
+      "url": "https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/",
+      "publishedAt": "2026-06-10T13:01:14+00:00",
+      "excerpt": "At Spotify, data problems used to follow a specific pattern. You'd look for the relevant dashboard, there... The post Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant appeared first on Spotify Engineering .",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure"
       ]
     },
     {
