@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-09T16:41:25.625836+00:00",
+  "generatedAt": "2026-09-09T20:58:21.000156+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "gusto:https://engineering.gusto.com/mcp-explained-by-a-cat-plotting-world-domination-80607945fcab?source=rss----645edd256348---4",
+      "sourceId": "gusto",
+      "title": "MCP, Explained by a Cat Plotting World Domination",
+      "url": "https://engineering.gusto.com/mcp-explained-by-a-cat-plotting-world-domination-80607945fcab?source=rss----645edd256348---4",
+      "publishedAt": "2026-09-09T17:52:58+00:00",
+      "excerpt": "An Abyssinian Blue sits at a laptop, paw on the trackpad planning a dire conspiracy. Every hat we take off a small business owner\u2019s head becomes a promise. Payroll has to talk to accounting software, calendars have to talk to HR systems and",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "ai",
+        "security"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/workers-module-registry-nodejs/",
       "sourceId": "cloudflare",
@@ -17,6 +32,20 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "spotify:https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
+      "sourceId": "spotify",
+      "title": "Why Spotify Is Not Using Bayesian A/B Testing",
+      "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
+      "publishedAt": "2026-09-08T13:18:44+00:00",
+      "excerpt": "Clearing the confusion about what Bayesian A/B testing is. The post Why Spotify Is Not Using Bayesian A/B Testing appeared first on Spotify Engineering .",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure"
       ]
     },
     {
@@ -2185,20 +2214,6 @@
       ]
     },
     {
-      "id": "spotify:https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/",
-      "sourceId": "spotify",
-      "title": "Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant",
-      "url": "https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/",
-      "publishedAt": "2026-06-10T13:01:14+00:00",
-      "excerpt": "At Spotify, data problems used to follow a specific pattern. You'd look for the relevant dashboard, there... The post Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant appeared first on Spotify Engineering .",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "lyft:https://eng.lyft.com/from-chaos-to-clarity-2ab50856d0c8?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "From Chaos to Clarity: How We Built a Unified, Self-Routing Support Ops Ticketing System at Lyft",
@@ -3376,20 +3391,6 @@
         "engineering",
         "internal",
         "culture",
-        "ai"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/universal-document-processing-at-gusto-from-one-off-parsers-to-a-self-service-platform-5be6c9764f09?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Universal Document Processing at Gusto: From One-Off Parsers to a Self-Service Platform",
-      "url": "https://engineering.gusto.com/universal-document-processing-at-gusto-from-one-off-parsers-to-a-self-service-platform-5be6c9764f09?source=rss----645edd256348---4",
-      "publishedAt": "2026-02-23T18:48:09+00:00",
-      "excerpt": "Co-author: Praveen Awasthy Processing documents into structured data Introduction If you work anywhere near operations, compliance, payroll, benefits, or support, you already know: documents are everywhere. Forms, notices, letters, PDFs, sc",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
         "ai"
       ]
     },
