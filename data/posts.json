@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-09-10T11:24:09.690265+00:00",
+  "generatedAt": "2026-09-10T16:27:08.546689+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "lyft:https://eng.lyft.com/refreshing-the-travel-time-map-behind-lyfts-marketplace-rebuilding-neighborhood-reachability-5be3efbc82ea?source=rss----25cd379abb8---4",
+      "sourceId": "lyft",
+      "title": "Refreshing the Travel-Time Map Behind Lyft\u2019s Marketplace: Rebuilding Neighborhood Reachability\u2026",
+      "url": "https://eng.lyft.com/refreshing-the-travel-time-map-behind-lyfts-marketplace-rebuilding-neighborhood-reachability-5be3efbc82ea?source=rss----25cd379abb8---4",
+      "publishedAt": "2026-09-10T16:12:28+00:00",
+      "excerpt": "Refreshing the Travel-Time Map Behind Lyft\u2019s Marketplace: Rebuilding Neighborhood Reachability Signals Every time Lyft calculates pricing to balance a market, nudges a driver toward an under-served pocket of a city, or paints a heatmap of w",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "sourceId": "cloudflare",
+      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "publishedAt": "2026-09-10T13:00:00+00:00",
+      "excerpt": "1.1.1.1 now validates DNSSEC signatures using NIST\u2019s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query",
+      "sourceId": "planetscale",
+      "title": "The lifecycle of a sharded Postgres query",
+      "url": "https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query",
+      "publishedAt": "2026-09-10T00:00:00+00:00",
+      "excerpt": "Follow a SQL query through the router, across four Postgres shards, and back.",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "gusto:https://engineering.gusto.com/mcp-explained-by-a-cat-plotting-world-domination-80607945fcab?source=rss----645edd256348---4",
       "sourceId": "gusto",
@@ -773,21 +817,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
-      "sourceId": "cloudflare",
-      "title": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
-      "url": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/",
-      "publishedAt": "2026-08-13T19:58:01+00:00",
-      "excerpt": "Cloudflare's data shows a clear impact on Internet traffic from Iceland to Spain and Portugal, following the path of totality of the total solar eclipse that occurred on August 12, 2026.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "spotify:https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/",
       "sourceId": "spotify",
       "title": "When Can LLMs Replace Humans in A/B Tests?",
@@ -1552,20 +1581,6 @@
         "engineering",
         "internal",
         "ai",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/making-768-servers-look-like-1",
-      "sourceId": "planetscale",
-      "title": "Making 768 servers look like 1",
-      "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
-      "publishedAt": "2026-07-15T00:00:00+00:00",
-      "excerpt": "This is 768 servers. To some, that looks like a lot of computers. To those managing the infrastructure for apps with millions of customers, executing millions of queries per second, pretty normal. Products at this scale frequently require t",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
         "infrastructure"
       ]
     },
@@ -3669,25 +3684,6 @@
         "internal",
         "devops",
         "databases"
-      ]
-    },
-    {
-      "id": "lyft:https://eng.lyft.com/lyfts-feature-store-architecture-optimization-and-evolution-7835f8962b99?source=rss----25cd379abb8---4",
-      "sourceId": "lyft",
-      "title": "Lyft\u2019s Feature Store: Architecture, Optimization, and Evolution",
-      "url": "https://eng.lyft.com/lyfts-feature-store-architecture-optimization-and-evolution-7835f8962b99?source=rss----25cd379abb8---4",
-      "publishedAt": "2026-01-06T18:10:32+00:00",
-      "excerpt": "Written by Rohan Varshney , with support from Devon Mittow & Janice Lee . This article expands upon a presentation from the Feature Store Summit 2025, which can be viewed in full here . There is also another video available on the evolution",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "ai",
-        "reliability",
-        "frontend",
-        "databases",
-        "devops"
       ]
     },
     {
