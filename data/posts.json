@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:27:08.546689+00:00",
+  "generatedAt": "2026-09-10T20:54:07.737297+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
@@ -32,6 +32,20 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "snap:https://eng.snap.com/ds_agent",
+      "sourceId": "snap",
+      "title": "Page",
+      "url": "https://eng.snap.com/ds_agent",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "excerpt": "",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "mobile"
       ]
     },
     {
@@ -3270,20 +3284,6 @@
       "title": "Building the Spatial Interaction and Interface Frameworks for Specs",
       "url": "https://eng.snap.com/spatial_interaction",
       "publishedAt": "2026-03-13T07:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "mobile"
-      ]
-    },
-    {
-      "id": "snap:https://eng.snap.com/agent-format",
-      "sourceId": "snap",
-      "title": "A Declarative Standard for AI Agents",
-      "url": "https://eng.snap.com/agent-format",
-      "publishedAt": "2026-03-11T07:00:00+00:00",
       "excerpt": "",
       "tags": [
         "engineering",
