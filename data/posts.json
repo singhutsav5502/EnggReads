@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-09-11T16:31:20.322976+00:00",
+  "generatedAt": "2026-09-11T21:00:10.227680+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "nubank:https://building.nubank.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
+      "sourceId": "nubank",
+      "title": "Why this year\u2019s Clojure/Conj matters beyond the conference",
+      "url": "https://building.nubank.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
+      "publishedAt": "2026-09-11T17:39:44+00:00",
+      "excerpt": "Making technical knowledge more accessible strengthens the entire developer community The post Why this year\u2019s Clojure/Conj matters beyond the conference appeared first on Building Nubank .",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
     {
       "id": "pinterest:https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
@@ -2241,20 +2254,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nubank.com/feature-stores-for-real-time-ml-why-and-when-to-centralize-feature-logic/",
-      "sourceId": "nubank",
-      "title": "Feature stores for real-time ML: Why and when to centralize feature logic",
-      "url": "https://building.nubank.com/feature-stores-for-real-time-ml-why-and-when-to-centralize-feature-logic/",
-      "publishedAt": "2026-06-10T19:26:27+00:00",
-      "excerpt": "What it looks like to use feature stores in real-time machine learning systems, along with their pros and cons. The post Feature stores for real-time ML: Why and when to centralize feature logic appeared first on Building Nubank .",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai"
       ]
     },
     {
