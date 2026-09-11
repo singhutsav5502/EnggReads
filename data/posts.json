@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-09-10T20:54:07.737297+00:00",
+  "generatedAt": "2026-09-11T04:45:12.496302+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/building-pinterests-vlm-serving-stack-on-nvidia-dynamo-0dce6e93d0f3?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Building Pinterest\u2019s VLM Serving Stack on NVIDIA Dynamo",
+      "url": "https://medium.com/pinterest-engineering/building-pinterests-vlm-serving-stack-on-nvidia-dynamo-0dce6e93d0f3?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-09-10T23:08:16+00:00",
+      "excerpt": "Lei Pan | Senior Software Engineer; Salina Wu | Senior Software Engineer; Cristian Lopez | Software Engineer I; Guangtong Bai | Staff Software Engineer; Soam Acharya | Principal Engineer; Saurabh Vishwas Joshi | Principal Engineer; Chia-Wei",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "infrastructure",
+        "reliability",
+        "frontend",
+        "devops"
+      ]
+    },
     {
       "id": "lyft:https://eng.lyft.com/refreshing-the-travel-time-map-behind-lyfts-marketplace-rebuilding-neighborhood-reachability-5be3efbc82ea?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
@@ -2766,22 +2784,6 @@
         "infrastructure",
         "data",
         "ai",
-        "devops"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/optimizing-ml-workload-network-efficiency-part-i-feature-trimmer-ae20beb08d69?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Optimizing ML Workload Network Efficiency (Part I): Feature Trimmer",
-      "url": "https://medium.com/pinterest-engineering/optimizing-ml-workload-network-efficiency-part-i-feature-trimmer-ae20beb08d69?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-05-01T16:01:02+00:00",
-      "excerpt": "Guangtong Bai | Staff Software Engineer, Product ML Infrastructure*; Shantam Shorewala | Software Engineer II, Product ML Infrastructure*; Chi Zhang | Staff Software Engineer, AI Platform*; Neha Upadhyay | Software Engineer II, AI Platform*",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability",
         "devops"
       ]
     },
