@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-09-11T11:26:14.761888+00:00",
+  "generatedAt": "2026-09-11T16:31:20.322976+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Evolving Pinterest\u2019s Embedding Retrieval Platform",
+      "url": "https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-09-11T15:01:03+00:00",
+      "excerpt": "Authors: Bowen Zhou | Staff Software Engineer; Shan Gao | Senior Software Engineer; Jingwen Hu | Software Engineer II; Wenjiang Chu | Staff Software Engineer The Billion-Embedding Challenge At Pinterest, the \u201csignal\u201d is our lifeblood. Wheth",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+      "sourceId": "planetscale",
+      "title": "118 million queries per second on Neki",
+      "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+      "publishedAt": "2026-09-11T00:00:00+00:00",
+      "excerpt": "We released Neki in platform preview yesterday. To celebrate the release, we wanted to test out running 1 million queries per second on Neki. We hit this goal pretty quickly on 5 shards and decided to see how much further we could push it. ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "pinterest:https://medium.com/pinterest-engineering/building-pinterests-vlm-serving-stack-on-nvidia-dynamo-0dce6e93d0f3?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
@@ -1526,20 +1554,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/postgresql-mvcc",
-      "sourceId": "planetscale",
-      "title": "Every UPDATE Leaves a Ghost: MVCC, Bloat, and VACUUM in PostgreSQL",
-      "url": "https://planetscale.com/blog/postgresql-mvcc",
-      "publishedAt": "2026-07-20T00:00:00+00:00",
-      "excerpt": "Imagine running a big SELECT * on the order table while another process updates the same records concurrently. Your query completes displaying the original data, and the other sees successful data modification. This is Multi-Version Concurr",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "In-House LLM Serving at Netflix",
@@ -2666,20 +2680,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/enhancing-ad-relevance-integrating-real-time-context-into-sequential-recommender-models-bc3a2f9b682e?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Enhancing Ad Relevance: Integrating Real-Time Context into Sequential Recommender Models",
-      "url": "https://medium.com/pinterest-engineering/enhancing-ad-relevance-integrating-real-time-context-into-sequential-recommender-models-bc3a2f9b682e?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-05-08T19:01:00+00:00",
-      "excerpt": "Huiqin Xin | Machine Learning Engineer II, Ads Vertical Modeling; Lakshmi Manoharan | Senior Machine Learning Engineer, Ads Vertical Modeling; Karthik Jayasurya | Staff Machine Learning Engineer, Ads Signals; Ziwei Guo | Senior Machine Lear",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
       ]
     },
     {
