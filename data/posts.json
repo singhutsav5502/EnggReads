@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-09-14T05:00:44.350491+00:00",
+  "generatedAt": "2026-09-14T12:53:40.922537+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "booking:https://medium.com/booking-com-development/how-we-built-automated-capacity-testing-for-kafka-consumers-1853623bce78?source=rss----1c36c35f9c76---4",
+      "sourceId": "booking",
+      "title": "How We Built Automated Capacity Testing for Kafka Consumers",
+      "url": "https://medium.com/booking-com-development/how-we-built-automated-capacity-testing-for-kafka-consumers-1853623bce78?source=rss----1c36c35f9c76---4",
+      "publishedAt": "2026-09-14T09:46:34+00:00",
+      "excerpt": "Photo by GuerrillaBuzz on Unsplash Kafka makes it easy to distribute work across consumer instances. It is much harder to prove, safely and repeatedly, how those instances behave when the distribution changes and one of them has to carry mo",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "reliability",
+        "frontend"
+      ]
+    },
     {
       "id": "nubank:https://building.nubank.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
       "sourceId": "nubank",
@@ -4781,22 +4797,6 @@
         "engineering",
         "internal",
         "data"
-      ]
-    },
-    {
-      "id": "booking:https://medium.com/booking-com-development/use-compression-luke-cut-20-of-the-cloud-cost-with-a-single-code-change-510d14d96891?source=rss----1c36c35f9c76---4",
-      "sourceId": "booking",
-      "title": "Use Compression, Luke: Cut 20% of the Cloud Cost with a Single Code Change!",
-      "url": "https://medium.com/booking-com-development/use-compression-luke-cut-20-of-the-cloud-cost-with-a-single-code-change-510d14d96891?source=rss----1c36c35f9c76---4",
-      "publishedAt": "2025-02-05T14:42:55+00:00",
-      "excerpt": "Okay, yes, the title is a bit clickbaity \u2014 but stick with me because this is a real story about SRE work, cost optimization, Golang, and open source. An Introduction and Context I apologize for the clickbait title, but I promise this is a r",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "reliability",
-        "devops"
       ]
     },
     {
