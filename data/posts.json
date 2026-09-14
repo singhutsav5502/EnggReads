@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-09-14T12:53:40.922537+00:00",
+  "generatedAt": "2026-09-14T21:51:41.709553+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "nubank:https://building.nubank.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
+      "sourceId": "nubank",
+      "title": "From AI demos to real work: How Engineering and Operations learn side by side",
+      "url": "https://building.nubank.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
+      "publishedAt": "2026-09-14T16:28:23+00:00",
+      "excerpt": "Building shared technical understanding so operational expertise can turn AI into practical improvements The post From AI demos to real work: How Engineering and Operations learn side by side appeared first on Building Nubank .",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
     {
       "id": "booking:https://medium.com/booking-com-development/how-we-built-automated-capacity-testing-for-kafka-consumers-1853623bce78?source=rss----1c36c35f9c76---4",
       "sourceId": "booking",
@@ -18,6 +31,20 @@
         "infrastructure",
         "reliability",
         "frontend"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+      "sourceId": "janestreet",
+      "title": "A study of sequence weighting at scale",
+      "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+      "publishedAt": "2026-09-14T00:00:00+00:00",
+      "excerpt": "TL;DR: We study the scaling laws of data weighting across in-house and open-weight LMs, finding non-monotonic behavior across scales. We vary the weight assigned to sequences during training and measure how strongly the model\u2019s loss reducti",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
       ]
     },
     {
@@ -45,6 +72,20 @@
         "internal",
         "data",
         "ai"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/debugging-our-ai-search-assistant-with-agent-tracing/",
+      "sourceId": "sentry",
+      "title": "Debugging our AI search assistant with agent tracing",
+      "url": "https://blog.sentry.io/debugging-our-ai-search-assistant-with-agent-tracing/",
+      "publishedAt": "2026-09-11T09:00:00+00:00",
+      "excerpt": "See how Sentry engineers used AI Conversations to debug a natural language search assistant and fix a tricky query generation bug.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
       ]
     },
     {
@@ -1828,20 +1869,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/logging-best-practices/",
-      "sourceId": "sentry",
-      "title": "When and what should I be logging?",
-      "url": "https://blog.sentry.io/logging-best-practices/",
-      "publishedAt": "2026-07-09T09:00:00+00:00",
-      "excerpt": "Learn logging best practices: what to log, how to structure messages, and what to avoid. Practical tips with Sentry's structured logging.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "github:https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
       "sourceId": "github",
       "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
@@ -2170,19 +2197,6 @@
         "reliability",
         "security",
         "frontend"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nubank.com/feature-stores-for-real-time-ml-part-2-lessons-learned-from-production/",
-      "sourceId": "nubank",
-      "title": "Feature stores for real-time ML: Part 2 \u2013 Lessons learned from production",
-      "url": "https://building.nubank.com/feature-stores-for-real-time-ml-part-2-lessons-learned-from-production/",
-      "publishedAt": "2026-06-18T12:09:16+00:00",
-      "excerpt": "After years operating feature stores across several workflows, here are some lessons that shaped our approach. The post Feature stores for real-time ML: Part 2 \u2013 Lessons learned from production appeared first on Building Nubank .",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
@@ -4126,20 +4140,6 @@
         "reliability",
         "ai",
         "data"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/wrought-2025/",
-      "sourceId": "janestreet",
-      "title": "What the interns have wrought, 2025 edition",
-      "url": "https://blog.janestreet.com/wrought-2025/",
-      "publishedAt": "2025-08-27T00:00:00+00:00",
-      "excerpt": "Yet again, we\u2019re at the end of our internship season, and so it\u2019s time to summarize what the interns were up to!",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
