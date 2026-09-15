@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-09-15T11:48:12.367131+00:00",
+  "generatedAt": "2026-09-15T17:03:36.892690+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "sourceId": "cloudflare",
+      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "publishedAt": "2026-09-15T13:00:00+00:00",
+      "excerpt": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/workers-granular-authorization/",
+      "sourceId": "cloudflare",
+      "title": "Give every teammate and agent the right level of access to your Workers",
+      "url": "https://blog.cloudflare.com/workers-granular-authorization/",
+      "publishedAt": "2026-09-15T13:00:00+00:00",
+      "excerpt": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "devops"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nubank.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
+      "sourceId": "nubank",
+      "title": "Beyond the data: what a Business Analyst does at Nubank",
+      "url": "https://building.nubank.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
+      "publishedAt": "2026-09-15T12:14:41+00:00",
+      "excerpt": "Understand how Business Analysts at Nubank use data, context, and experimentation to guide product decisions. The post Beyond the data: what a Business Analyst does at Nubank appeared first on Building Nubank .",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
     {
       "id": "nubank:https://building.nubank.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
       "sourceId": "nubank",
@@ -901,36 +945,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/mcp-security-updates/",
-      "sourceId": "cloudflare",
-      "title": "How Cloudflare detects MCP traffic and helps secure it",
-      "url": "https://blog.cloudflare.com/mcp-security-updates/",
-      "publishedAt": "2026-08-14T13:12:12+00:00",
-      "excerpt": "Cloudflare Gateway identifies MCP requests using protocol-level heuristics. Security teams can use that signal to find shadow MCP traffic, enforce Portal-only access for approved servers, and block direct connections on managed network path",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/workers-protected-by-access/",
-      "sourceId": "cloudflare",
-      "title": "Secure all your internal vibe-coded applications \u2014 in one click",
-      "url": "https://blog.cloudflare.com/workers-protected-by-access/",
-      "publishedAt": "2026-08-14T13:00:00+00:00",
-      "excerpt": "Introducing Cloudflare Access for Workers. Attach an Access policy directly to a Worker and it applies everywhere that Worker runs \u2014 routes, custom domains, workers.dev, and previews \u2014 automatically.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -2075,19 +2089,6 @@
         "reliability",
         "databases",
         "devops"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nubank.com/from-feature-to-platform-how-nubank-reinvented-its-conversation-architecture/",
-      "sourceId": "nubank",
-      "title": "From feature to platform: how Nubank reinvented its conversation architecture",
-      "url": "https://building.nubank.com/from-feature-to-platform-how-nubank-reinvented-its-conversation-architecture/",
-      "publishedAt": "2026-06-24T15:30:00+00:00",
-      "excerpt": "How the engineering team transformed a monolithic support system into a conversational infrastructure ready for AI and multiple channels The post From feature to platform: how Nubank reinvented its conversation architecture appeared first o",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
