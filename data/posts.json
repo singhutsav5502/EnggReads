@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-15T17:03:36.892690+00:00",
+  "generatedAt": "2026-09-15T21:24:13.789419+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "airbnb:https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
+      "sourceId": "airbnb",
+      "title": "Beyond the model: Engineering AI infra with scientific judgement",
+      "url": "https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
+      "publishedAt": "2026-09-15T17:06:18+00:00",
+      "excerpt": "How Airbnb\u2019s agent harness transforms unstructured data exploration by encoding scientific methodology into scalable, reproducible, and audit-ready infrastructure. By : Wren Dougherty Ask a coding agent to analyze 100,000 customer support c",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
       "sourceId": "cloudflare",
@@ -2635,22 +2650,6 @@
       ]
     },
     {
-      "id": "airbnb:https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4",
-      "sourceId": "airbnb",
-      "title": "Scaling Airbnb\u2019s identity graph with a unified knowledge graph infrastructure",
-      "url": "https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4",
-      "publishedAt": "2026-05-19T17:01:01+00:00",
-      "excerpt": "How Airbnb shifts from PaaS to an internal knowledge graph infrastructure at scale. By: Lucen Zhao , Shukun Yang , Ashish Jain Knowledge graphs offer a natural and powerful way to represent relationships between entities. Many real-world sy",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "reliability",
-        "databases"
-      ]
-    },
-    {
       "id": "instacart:https://tech.instacart.com/scaling-personalized-marketing-for-multi-tenant-commerce-platforms-816f0c6a046b?source=rss----587883b5d2ee---4",
       "sourceId": "instacart",
       "title": "Scaling Personalized Marketing for Multi-Tenant Commerce Platforms",
@@ -2710,6 +2709,20 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "yelp:https://engineeringblog.yelp.com/2026/05/ml-ranking-with-nrtsearch.html",
+      "sourceId": "yelp",
+      "title": "ML based ranking using Nrtsearch",
+      "url": "https://engineeringblog.yelp.com/2026/05/ml-ranking-with-nrtsearch.html",
+      "publishedAt": "2026-05-11T00:00:00+00:00",
+      "excerpt": "We\u2019ve extended Nrtsearch with the Inference Plugin, which embeds ML-based ranking directly in the search layer \u2014 eliminating the need for a standalone scoring service. We use Nrtsearch (read more information on the blog post), a Lucene-base",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
@@ -3076,19 +3089,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "yelp:https://engineeringblog.yelp.com/2026/03/building-baa-from-prototype-to-product.html",
-      "sourceId": "yelp",
-      "title": "Building Biz Ask Anything: From Prototype to Product",
-      "url": "https://engineeringblog.yelp.com/2026/03/building-baa-from-prototype-to-product.html",
-      "publishedAt": "2026-03-27T00:00:00+00:00",
-      "excerpt": "Introduction Users have access to a wealth of information on Yelp business pages \u2013 from reviews and photos to structured information, menus, and Ask the Community feature on the business page, a single business page can be an ocean of conte",
-      "tags": [
-        "engineering",
-        "internal",
-        "data"
       ]
     },
     {
