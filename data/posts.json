@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-09-16T11:40:24.001634+00:00",
+  "generatedAt": "2026-09-16T17:01:28.984023+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "nubank:https://building.nubank.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
+      "sourceId": "nubank",
+      "title": "Designing Claude for ears, not eyes: An accessibility skill for blind and low-vision users",
+      "url": "https://building.nubank.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
+      "publishedAt": "2026-09-16T14:09:16+00:00",
+      "excerpt": "How a cognitively diverse IT team at Nubank, they coded screen reader-friendly rules into Claude's instructions, treating auditory comprehension as an engineering constraint The post Designing Claude for ears, not eyes: An accessibility ski",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "frontend"
+      ]
+    },
     {
       "id": "airbnb:https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
       "sourceId": "airbnb",
@@ -1971,19 +1985,6 @@
         "internal",
         "backend",
         "ai"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nubank.com/how-nubank-distributes-infrastructure-ownership-to-operate-more-than-21-thousand-databases-with-a-lean-team/",
-      "sourceId": "nubank",
-      "title": "How Nubank distributes infrastructure ownership to operate more than 21 thousand databases with a lean team",
-      "url": "https://building.nubank.com/how-nubank-distributes-infrastructure-ownership-to-operate-more-than-21-thousand-databases-with-a-lean-team/",
-      "publishedAt": "2026-07-01T15:47:24+00:00",
-      "excerpt": "How automation, distributed ownership and lifecycle management help Nubank operate thousands of databases at global scale The post How Nubank distributes infrastructure ownership to operate more than 21 thousand databases with a lean team a",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
