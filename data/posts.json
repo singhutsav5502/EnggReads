@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-09-16T17:01:28.984023+00:00",
+  "generatedAt": "2026-09-16T21:20:56.757820+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+      "sourceId": "cloudflare",
+      "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+      "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+      "publishedAt": "2026-09-16T20:06:17+00:00",
+      "excerpt": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "ai",
+        "data"
+      ]
+    },
     {
       "id": "nubank:https://building.nubank.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
       "sourceId": "nubank",
@@ -16,6 +33,20 @@
         "internal",
         "backend",
         "frontend"
+      ]
+    },
+    {
+      "id": "yelp:https://engineeringblog.yelp.com/2026/09/ml-ranking-with-nrtsearch.html",
+      "sourceId": "yelp",
+      "title": "ML based ranking using Nrtsearch",
+      "url": "https://engineeringblog.yelp.com/2026/09/ml-ranking-with-nrtsearch.html",
+      "publishedAt": "2026-09-16T00:00:00+00:00",
+      "excerpt": "We\u2019ve extended Nrtsearch with the Inference Plugin, which embeds ML-based ranking directly in the search layer \u2014 eliminating the need for a standalone scoring service. We use Nrtsearch (read more information on the blog post), a Lucene-base",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
@@ -931,21 +962,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/rfc9234-bgp-role-model/",
-      "sourceId": "cloudflare",
-      "title": "BGP Role model: tracking the adoption of RFC 9234",
-      "url": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
-      "publishedAt": "2026-08-18T15:21:32+00:00",
-      "excerpt": "RFC 9234 lets routers reject route leaks on their own, using BGP Roles and the Only to Customer attribute. We measured who has deployed it, and found two Tier 1 networks unexpectedly stripping OTC.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -2710,20 +2726,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "yelp:https://engineeringblog.yelp.com/2026/05/ml-ranking-with-nrtsearch.html",
-      "sourceId": "yelp",
-      "title": "ML based ranking using Nrtsearch",
-      "url": "https://engineeringblog.yelp.com/2026/05/ml-ranking-with-nrtsearch.html",
-      "publishedAt": "2026-05-11T00:00:00+00:00",
-      "excerpt": "We\u2019ve extended Nrtsearch with the Inference Plugin, which embeds ML-based ranking directly in the search layer \u2014 eliminating the need for a standalone scoring service. We use Nrtsearch (read more information on the blog post), a Lucene-base",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
       ]
     },
     {
