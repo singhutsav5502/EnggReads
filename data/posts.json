@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-09-17T11:46:14.234160+00:00",
+  "generatedAt": "2026-09-17T17:02:55.154385+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "nubank:https://building.nu.com/when-the-team-plays-pix-pauses-what-the-world-cup-teaches-us-about-outliers/",
+      "sourceId": "nubank",
+      "title": "When the team plays, Pix pauses: what the World Cup teaches us about outliers",
+      "url": "https://building.nu.com/when-the-team-plays-pix-pauses-what-the-world-cup-teaches-us-about-outliers/",
+      "publishedAt": "2026-09-17T15:17:19+00:00",
+      "excerpt": "How World Cup matches turn everyday payment patterns into outliers and what those anomalies can teach us about data, risk, and reliability The post When the team plays, Pix pauses: what the World Cup teaches us about outliers appeared first",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "reliability"
+      ]
+    },
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/beyond-two-towers-launching-the-3-tower-engagement-co-train-model-part-2-0b96167d2c14?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Beyond Two Towers: Launching the 3-Tower Engagement Co-Train Model (Part 2)",
+      "url": "https://medium.com/pinterest-engineering/beyond-two-towers-launching-the-3-tower-engagement-co-train-model-part-2-0b96167d2c14?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-09-17T15:01:05+00:00",
+      "excerpt": "Authors: Longyu Zhao (Staff Machine Learning Engineer), Gwendolyn Zhao (Staff Machine Learning Engineer), Peng Yan (Senior Machine Learning Engineer), Yuanlu Bai (Senior Machine Learning Engineer), Yuan Wang (Senior Machine Learning Enginee",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "devops"
+      ]
+    },
     {
       "id": "canva:https://www.canva.dev/blog/engineering/worker-backpressure-part-1-how-we-taught-our-queue-workers-to-slow-down/",
       "sourceId": "canva",
@@ -36,10 +65,25 @@
       ]
     },
     {
-      "id": "nubank:https://building.nubank.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
+      "id": "spotify:https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
+      "sourceId": "spotify",
+      "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
+      "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
+      "publishedAt": "2026-09-16T19:13:53+00:00",
+      "excerpt": "Quality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex... The post AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity appeared first on Spotify Engin",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "reliability"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
       "sourceId": "nubank",
       "title": "Designing Claude for ears, not eyes: An accessibility skill for blind and low-vision users",
-      "url": "https://building.nubank.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
+      "url": "https://building.nu.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
       "publishedAt": "2026-09-16T14:09:16+00:00",
       "excerpt": "How a cognitively diverse IT team at Nubank, they coded screen reader-friendly rules into Claude's instructions, treating auditory comprehension as an engineering constraint The post Designing Claude for ears, not eyes: An accessibility ski",
       "tags": [
@@ -110,10 +154,10 @@
       ]
     },
     {
-      "id": "nubank:https://building.nubank.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
+      "id": "nubank:https://building.nu.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
       "sourceId": "nubank",
       "title": "Beyond the data: what a Business Analyst does at Nubank",
-      "url": "https://building.nubank.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
+      "url": "https://building.nu.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
       "publishedAt": "2026-09-15T12:14:41+00:00",
       "excerpt": "Understand how Business Analysts at Nubank use data, context, and experimentation to guide product decisions. The post Beyond the data: what a Business Analyst does at Nubank appeared first on Building Nubank .",
       "tags": [
@@ -123,10 +167,10 @@
       ]
     },
     {
-      "id": "nubank:https://building.nubank.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
+      "id": "nubank:https://building.nu.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
       "sourceId": "nubank",
       "title": "From AI demos to real work: How Engineering and Operations learn side by side",
-      "url": "https://building.nubank.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
+      "url": "https://building.nu.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
       "publishedAt": "2026-09-14T16:28:23+00:00",
       "excerpt": "Building shared technical understanding so operational expertise can turn AI into practical improvements The post From AI demos to real work: How Engineering and Operations learn side by side appeared first on Building Nubank .",
       "tags": [
@@ -166,10 +210,10 @@
       ]
     },
     {
-      "id": "nubank:https://building.nubank.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
+      "id": "nubank:https://building.nu.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
       "sourceId": "nubank",
       "title": "Why this year\u2019s Clojure/Conj matters beyond the conference",
-      "url": "https://building.nubank.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
+      "url": "https://building.nu.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
       "publishedAt": "2026-09-11T17:39:44+00:00",
       "excerpt": "Making technical knowledge more accessible strengthens the entire developer community The post Why this year\u2019s Clojure/Conj matters beyond the conference appeared first on Building Nubank .",
       "tags": [
@@ -356,10 +400,10 @@
       ]
     },
     {
-      "id": "nubank:https://building.nubank.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
+      "id": "nubank:https://building.nu.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
       "sourceId": "nubank",
       "title": "NFR Brain: challenging the status quo of risk management with data",
-      "url": "https://building.nubank.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
+      "url": "https://building.nu.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
       "publishedAt": "2026-09-04T14:18:41+00:00",
       "excerpt": "Author : Mayara Zenati At Nubank, we believe the most meaningful problems for customers and for the business rarely come with ready-made answers. That is why we challenge the status quo: not to innovate for innovation\u2019s sake, but to remove ",
       "tags": [
@@ -414,10 +458,10 @@
       ]
     },
     {
-      "id": "nubank:https://building.nubank.com/how-we-built-a-benchmarking-framework-to-horizontally-accelerate-transaction-model-research/",
+      "id": "nubank:https://building.nu.com/how-we-built-a-benchmarking-framework-to-horizontally-accelerate-transaction-model-research/",
       "sourceId": "nubank",
       "title": "How we built a benchmarking framework to horizontally accelerate transaction model research",
-      "url": "https://building.nubank.com/how-we-built-a-benchmarking-framework-to-horizontally-accelerate-transaction-model-research/",
+      "url": "https://building.nu.com/how-we-built-a-benchmarking-framework-to-horizontally-accelerate-transaction-model-research/",
       "publishedAt": "2026-09-03T13:53:30+00:00",
       "excerpt": "The framework that transformed weeks of manual experimentation into automated pipelines for horizontal transaction model research The post How we built a benchmarking framework to horizontally accelerate transaction model research appeared ",
       "tags": [
@@ -458,10 +502,10 @@
       ]
     },
     {
-      "id": "nubank:https://building.nubank.com/when-ai-skills-become-supply-chain-dependencies-2/",
+      "id": "nubank:https://building.nu.com/when-ai-skills-become-supply-chain-dependencies-2/",
       "sourceId": "nubank",
       "title": "When AI skills become supply-chain dependencies",
-      "url": "https://building.nubank.com/when-ai-skills-become-supply-chain-dependencies-2/",
+      "url": "https://building.nu.com/when-ai-skills-become-supply-chain-dependencies-2/",
       "publishedAt": "2026-09-02T16:47:57+00:00",
       "excerpt": "How Nubank vetted 2,000+ AI skills before distribution, building security into the developer workflow without turning safety into a separate gate The post When AI skills become supply-chain dependencies appeared first on Building Nubank .",
       "tags": [
@@ -1536,6 +1580,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "sourceId": "planetscale",
+      "title": "Postgres backups under the hood",
+      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "publishedAt": "2026-07-24T00:00:00+00:00",
+      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "fly:https://fly.io/blog/kurt-scott-money-sprites/",
       "sourceId": "fly",
       "title": "Turn And Face The Strange",
@@ -1551,20 +1609,6 @@
         "ai",
         "security",
         "databases"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "sourceId": "planetscale",
-      "title": "Postgres backups under the hood",
-      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "publishedAt": "2026-07-24T00:00:00+00:00",
-      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1651,21 +1695,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "spotify:https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/",
-      "sourceId": "spotify",
-      "title": "Content Ingestion & Podcast Video Incident Report",
-      "url": "https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/",
-      "publishedAt": "2026-07-20T16:24:48+00:00",
-      "excerpt": "Over the past two months, podcast creators have experienced a series of reliability issues on Spotify. This... The post Content Ingestion & Podcast Video Incident Report appeared first on Spotify Engineering .",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "reliability"
       ]
     },
     {
@@ -1957,10 +1986,10 @@
       ]
     },
     {
-      "id": "nubank:https://building.nubank.com/inside-the-nu-young-apprentice-program-2026/",
+      "id": "nubank:https://building.nu.com/inside-the-nu-young-apprentice-program-2026/",
       "sourceId": "nubank",
       "title": "Inside the Nu Young Apprentice Program 2026",
-      "url": "https://building.nubank.com/inside-the-nu-young-apprentice-program-2026/",
+      "url": "https://building.nu.com/inside-the-nu-young-apprentice-program-2026/",
       "publishedAt": "2026-07-06T14:00:00+00:00",
       "excerpt": "Written by: Nubank Editorial 1. The First Step in Your Career Rarely in life does a young person get the chance to start their career at one of the fastest-growing technology companies in the world. Nubank is a dynamic place that moves fast",
       "tags": [
@@ -2001,20 +2030,6 @@
         "data",
         "ai",
         "devops"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nubank.com/how-nubank-uses-causality-machine-learning-and-python-to-support-credit-limit-increase-decisions/",
-      "sourceId": "nubank",
-      "title": "How Nubank uses causality, machine learning and Python to support credit limit increase decisions",
-      "url": "https://building.nubank.com/how-nubank-uses-causality-machine-learning-and-python-to-support-credit-limit-increase-decisions/",
-      "publishedAt": "2026-07-01T16:16:31+00:00",
-      "excerpt": "A technical, high-level view of how data science helps build more responsible and scalable credit decisions The post How Nubank uses causality, machine learning and Python to support credit limit increase decisions appeared first on Buildin",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai"
       ]
     },
     {
@@ -2710,22 +2725,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/an-engineers-guide-to-better-ai-skills-implementing-a-testing-process-to-optimize-agent-a000c9c9abcd?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "An Engineer\u2019s Guide to Better AI Skills: Implementing a Testing Process to Optimize Agent\u2026",
-      "url": "https://medium.com/pinterest-engineering/an-engineers-guide-to-better-ai-skills-implementing-a-testing-process-to-optimize-agent-a000c9c9abcd?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-05-12T16:01:00+00:00",
-      "excerpt": "An Engineer\u2019s Guide to Better AI Skills: Implementing a Testing Process to Optimize Agent Performance in Any Repository or Skill Author: Daniel Reed The tech industry is currently seeing a massive overhaul in the way we work and many are en",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability",
-        "mobile"
       ]
     },
     {
