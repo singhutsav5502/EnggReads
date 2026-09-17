@@ -1,9 +1,41 @@
 {
-  "generatedAt": "2026-09-17T17:02:55.154385+00:00",
+  "generatedAt": "2026-09-17T21:25:26.711643+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "nytimes:https://open.nytimes.com/designing-the-front-door-to-our-subscriptions-6bb2ed3f5338?source=rss----51e1d1745b32---4",
+      "sourceId": "nytimes",
+      "title": "Designing the Front Door to Our Subscriptions",
+      "url": "https://open.nytimes.com/designing-the-front-door-to-our-subscriptions-6bb2ed3f5338?source=rss----51e1d1745b32---4",
+      "publishedAt": "2026-09-17T18:00:05+00:00",
+      "excerpt": "Illustration by Suvi Suitiala By Tracie Lee (VP of Design, Growth & Platforms) & Pamela Glass (Director of Design, Growth) The mission of The New York Times is clear: We seek the truth and help people understand the world. Fulfilling that t",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture",
+        "data",
+        "frontend"
+      ]
+    },
+    {
+      "id": "airbnb:https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4",
+      "sourceId": "airbnb",
+      "title": "The guest journey, updated in real time: extending Airbnb\u2019s sequence recommender with Chronon",
+      "url": "https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4",
+      "publishedAt": "2026-09-17T17:01:02+00:00",
+      "excerpt": "How two new Chronon capabilities, Push Mode and NRT Model Transform, allows us to provide more relevant search results instantly as a guest explores, rather than waiting for the next batch run. By : Pengyu Hou , Yuli Han , Daochen Zha , Hao",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai",
+        "frontend"
+      ]
+    },
     {
       "id": "nubank:https://building.nu.com/when-the-team-plays-pix-pauses-what-the-world-cup-teaches-us-about-outliers/",
       "sourceId": "nubank",
@@ -1580,20 +1612,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "sourceId": "planetscale",
-      "title": "Postgres backups under the hood",
-      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "publishedAt": "2026-07-24T00:00:00+00:00",
-      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/kurt-scott-money-sprites/",
       "sourceId": "fly",
       "title": "Turn And Face The Strange",
@@ -1609,6 +1627,20 @@
         "ai",
         "security",
         "databases"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "sourceId": "planetscale",
+      "title": "Postgres backups under the hood",
+      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
+      "publishedAt": "2026-07-24T00:00:00+00:00",
+      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -2518,20 +2550,6 @@
         "infrastructure",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "airbnb:https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4",
-      "sourceId": "airbnb",
-      "title": "When history fails you, borrow from geography",
-      "url": "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4",
-      "publishedAt": "2026-06-02T17:01:04+00:00",
-      "excerpt": "How Airbnb used sequential geographic recovery signals and prior propagation to generate reliable corridor-level forecasts when local data was scarce. By: Harrison Katz The problem with unprecedented shocks Almost every forecasting system i",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure"
       ]
     },
     {
@@ -4378,22 +4396,6 @@
         "security",
         "databases",
         "devops"
-      ]
-    },
-    {
-      "id": "nytimes:https://open.nytimes.com/developing-an-internal-tool-for-our-puzzle-editor-d5dc7a9a6464?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "Developing an Internal Tool for Our Puzzle Editor",
-      "url": "https://open.nytimes.com/developing-an-internal-tool-for-our-puzzle-editor-d5dc7a9a6464?source=rss----51e1d1745b32---4",
-      "publishedAt": "2025-06-02T15:54:44+00:00",
-      "excerpt": "How we developed a dashboard tool created to help ease the workflow of managing puzzles for our Connections editor. Illustration by Su Yun Song By Shafik Quoraishee and Wyna Liu In the game Connections, every puzzle is a meticulously crafte",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data",
-        "frontend"
       ]
     },
     {
