@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-09-17T04:56:33.672171+00:00",
+  "generatedAt": "2026-09-17T11:46:14.234160+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "canva:https://www.canva.dev/blog/engineering/worker-backpressure-part-1-how-we-taught-our-queue-workers-to-slow-down/",
+      "sourceId": "canva",
+      "title": "Worker Backpressure (Part 1)",
+      "url": "https://www.canva.dev/blog/engineering/worker-backpressure-part-1-how-we-taught-our-queue-workers-to-slow-down/",
+      "publishedAt": "2026-09-17T00:00:00+00:00",
+      "excerpt": "How we taught Canva's queue workers to slow down when dependencies fail, then speed back up on their own.",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "infrastructure"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
       "sourceId": "cloudflare",
@@ -4944,20 +4958,6 @@
         "internal",
         "backend",
         "mobile"
-      ]
-    },
-    {
-      "id": "canva:https://www.canva.dev/blog/engineering/the-science-of-routing-print-orders/",
-      "sourceId": "canva",
-      "title": "The science of routing print orders",
-      "url": "https://www.canva.dev/blog/engineering/the-science-of-routing-print-orders/",
-      "publishedAt": "2024-12-10T00:00:00+00:00",
-      "excerpt": "How Canva uses graph traversal to handle the complexity of getting print orders to our customers.",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "infrastructure"
       ]
     },
     {
