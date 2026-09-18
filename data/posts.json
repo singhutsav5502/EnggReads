@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-18T16:27:08.188035+00:00",
+  "generatedAt": "2026-09-18T20:56:43.749695+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "sourceId": "cloudflare",
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "publishedAt": "2026-09-18T17:23:58+00:00",
+      "excerpt": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here\u2019s how we reduced one of our Pingora-based service's RAM usage wit",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "netflix:https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
@@ -18,6 +33,20 @@
         "infrastructure",
         "data",
         "security"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/the-architecture-of-neki",
+      "sourceId": "planetscale",
+      "title": "The architecture of Neki",
+      "url": "https://planetscale.com/blog/the-architecture-of-neki",
+      "publishedAt": "2026-09-18T00:00:00+00:00",
+      "excerpt": "Meet Neki: sharding for Postgres. Neki allows applications to connect to massive, sharded databases over a single connection string. This post takes apart the architecture from the bottom up, one piece at a time, starting with what's undern",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1028,21 +1057,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-      "sourceId": "cloudflare",
-      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
-      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-      "publishedAt": "2026-08-19T16:00:28+00:00",
-      "excerpt": "In 2024 and 2025, we reassessed remote Spectre attacks on our Workers infrastructure. We share details about the new attack primitives like Spectre gadgets, remote timers, achieving co-location and how new defenses further harden Cloudflare",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/gitretriever/",
       "sourceId": "datadog",
       "title": "20\u00d7 the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
@@ -1643,20 +1657,6 @@
         "ai",
         "security",
         "databases"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "sourceId": "planetscale",
-      "title": "Postgres backups under the hood",
-      "url": "https://planetscale.com/blog/postgres-backups-under-the-hood",
-      "publishedAt": "2026-07-24T00:00:00+00:00",
-      "excerpt": "Data integrity is one of the most important pillars for a database system. If your database goes down, backups are how you stay safe and recover in case of disaster. Backups should be taken often, and recovery needs to stay fast. With backu",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
