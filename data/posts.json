@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-09-18T11:20:17.370141+00:00",
+  "generatedAt": "2026-09-18T16:27:08.188035+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "netflix:https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Leave the Class Path in the Rearview Mirror",
+      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-09-18T16:01:02+00:00",
+      "excerpt": "Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier than ever to start a ",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "security"
+      ]
+    },
     {
       "id": "nytimes:https://open.nytimes.com/designing-the-front-door-to-our-subscriptions-6bb2ed3f5338?source=rss----51e1d1745b32---4",
       "sourceId": "nytimes",
@@ -2240,21 +2256,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "How Netflix Simplified Batch Compute with Kueue",
-      "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-06-22T21:35:01+00:00",
-      "excerpt": "By Alvin Bao , Alex Petrov , Jennifer Lai , Aidan Sherr , and Samartha Chandrashekar As a part of the journey to transition Netflix\u2019s compute infrastructure to be more Kubernetes-native, we have leaned into incorporating components from the",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data"
       ]
     },
     {
