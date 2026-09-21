@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-09-21T12:53:44.660636+00:00",
+  "generatedAt": "2026-09-21T22:00:19.410001+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
-  "postCount": 368,
+  "postCount": 367,
   "posts": [
+    {
+      "id": "gusto:https://engineering.gusto.com/judgment-based-api-governance-at-scale-43fe38e0dcb0?source=rss----645edd256348---4",
+      "sourceId": "gusto",
+      "title": "Judgment-Based API Governance at Scale",
+      "url": "https://engineering.gusto.com/judgment-based-api-governance-at-scale-43fe38e0dcb0?source=rss----645edd256348---4",
+      "publishedAt": "2026-09-21T17:48:28+00:00",
+      "excerpt": "Introduction As products and engineering organizations grow, their API grows with them. New features get shipped, old design patterns coexist with new ones, and decisions that once felt obvious become harder to apply consistently across the",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "ai"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
+      "sourceId": "meta",
+      "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
+      "url": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
+      "publishedAt": "2026-09-21T16:00:37+00:00",
+      "excerpt": "We\u2019re open-sourcing Rebalancer, the assignment-problem solver that has been used to solve resource allocation problems throughout Meta for over nine years. Rebalancer separates several related concerns: how to specify an assignment problem,",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
       "sourceId": "meta",
@@ -18,6 +47,37 @@
         "ai",
         "infrastructure",
         "devops"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/sentry-laravel-ai-integration/",
+      "sourceId": "sentry",
+      "title": "Building Sentry's Laravel AI Integration",
+      "url": "https://blog.sentry.io/sentry-laravel-ai-integration/",
+      "publishedAt": "2026-09-21T09:00:00+00:00",
+      "excerpt": "How we built zero-config Agent Tracing for Laravel AI, from AI code review to matching LLM calls with HTTP requests.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover",
+      "sourceId": "planetscale",
+      "title": "Blocking cutovers to save replication slots",
+      "url": "https://planetscale.com/blog/how-to-make-a-replication-slot-survive-a-cutover",
+      "publishedAt": "2026-09-21T00:00:00+00:00",
+      "excerpt": "Reliability is kinda our whole thing at PlanetScale. We maintain a flawless uptime record and preach the gospel of high availability. It might seem counterintuitive, but this involves embracing failure. A resilient system anticipates the se",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "reliability",
+        "data"
       ]
     },
     {
@@ -669,6 +729,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/what-is-a-neki-router",
+      "sourceId": "planetscale",
+      "title": "What is a Neki router?",
+      "url": "https://planetscale.com/blog/what-is-a-neki-router",
+      "publishedAt": "2026-09-01T00:00:00+00:00",
+      "excerpt": "The core challenge in operating a sharded database is deciding which shard(s) should execute a query. Each query passes through two plans. The Neki router builds the first plan using the data topology to decide which shard(s) receive the wo",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/rust-tracing-opentelemetry/",
       "sourceId": "datadog",
       "title": "Making Rust observability reliable at scale with OpenTelemetry",
@@ -680,20 +754,6 @@
         "engineering",
         "internal",
         "reliability",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/what-is-a-neki-router",
-      "sourceId": "planetscale",
-      "title": "What is a Neki router?",
-      "url": "https://planetscale.com/blog/what-is-a-neki-router",
-      "publishedAt": "2026-09-01T00:00:00+00:00",
-      "excerpt": "The core challenge in operating a sharded database is deciding which shard(s) should execute a query. Each query passes through two plans. The Neki router builds the first plan using the data topology to decide which shard(s) receive the wo",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
         "infrastructure"
       ]
     },
@@ -1217,21 +1277,6 @@
       ]
     },
     {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/improving-apm-java-startup-with-a-prefix-trie/",
-      "sourceId": "datadog",
-      "title": "How we improved APM Java startup by encoding a prefix trie as a JVM constant",
-      "url": "https://www.datadoghq.com/blog/engineering/improving-apm-java-startup-with-a-prefix-trie/",
-      "publishedAt": "2026-08-11T00:00:00+00:00",
-      "excerpt": "Learn how the Datadog APM team improved Java startup performance by encoding a prefix trie as a JVM string constant.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/the-dangers-of-postgres-subtransactions",
       "sourceId": "planetscale",
       "title": "The dangers of Postgres subtransactions",
@@ -1244,6 +1289,21 @@
         "internal",
         "infrastructure",
         "reliability"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/improving-apm-java-startup-with-a-prefix-trie/",
+      "sourceId": "datadog",
+      "title": "How we improved APM Java startup by encoding a prefix trie as a JVM constant",
+      "url": "https://www.datadoghq.com/blog/engineering/improving-apm-java-startup-with-a-prefix-trie/",
+      "publishedAt": "2026-08-11T00:00:00+00:00",
+      "excerpt": "Learn how the Datadog APM team improved Java startup performance by encoding a prefix trie as a JVM string constant.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
       ]
     },
     {
@@ -1486,21 +1546,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/massively-parallel-postgres-backups",
-      "sourceId": "planetscale",
-      "title": "Massively parallel Postgres backups",
-      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
-      "publishedAt": "2026-07-31T00:00:00+00:00",
-      "excerpt": "Every 12 hours, a backup system must turn the entire state of a busy database into a consistent, encrypted snapshot, with no impact to production queries. Such backups are crucially important and simultaneously something that most engineers",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "security"
       ]
     },
     {
@@ -1824,20 +1869,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/seer-agent-page-context/",
-      "sourceId": "sentry",
-      "title": "Your agent should understand what you see",
-      "url": "https://blog.sentry.io/seer-agent-page-context/",
-      "publishedAt": "2026-07-16T09:00:00+00:00",
-      "excerpt": "How Sentry replaced ASCII page snapshots with structured semantic context to make Seer Agent faster, cheaper, and ready for agentic actions.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "yelp:https://engineeringblog.yelp.com/2026/07/migrating-to-graphql-codegen.html",
       "sourceId": "yelp",
       "title": "Migrating from Apollo Tooling to GraphQL Codegen at Yelp",
@@ -1849,21 +1880,6 @@
         "internal",
         "data",
         "frontend"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
-      "sourceId": "meta",
-      "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
-      "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
-      "publishedAt": "2026-07-15T17:00:52+00:00",
-      "excerpt": "Hierarchical Interest Representation is a research area for Meta Ads. We\u2019re exploring an upstream representation layer over the universe of Ads entities \u2013 users, advertisers, products, services \u2013 learning unified embeddings that connect use",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
       ]
     },
     {
@@ -3027,21 +3043,6 @@
       ]
     },
     {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/",
-      "sourceId": "datadog",
-      "title": "How we built a real-world evaluation platform for autonomous SRE agents at scale",
-      "url": "https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "excerpt": "Find out how we built a scalable evaluation platform for Datadog\u2019s Bits AI SRE agent that replays real incidents, detects regressions, and measures agent performance across production scenarios.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "yelp:https://engineeringblog.yelp.com/2026/04/zero-downtime-upgrade-yelp-cassandra-upgrade-story.html",
       "sourceId": "yelp",
       "title": "Zero downtime Upgrade: Yelp\u2019s Cassandra 4.x Upgrade Story",
@@ -3055,6 +3056,21 @@
         "infrastructure",
         "reliability",
         "databases"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/",
+      "sourceId": "datadog",
+      "title": "How we built a real-world evaluation platform for autonomous SRE agents at scale",
+      "url": "https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/",
+      "publishedAt": "2026-04-07T00:00:00+00:00",
+      "excerpt": "Find out how we built a scalable evaluation platform for Datadog\u2019s Bits AI SRE agent that replays real incidents, detects regressions, and measures agent performance across production scenarios.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
       ]
     },
     {
@@ -3260,19 +3276,6 @@
       ]
     },
     {
-      "id": "dropbox:https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy",
-      "sourceId": "dropbox",
-      "title": "How we optimized Dash's relevance judge with DSPy",
-      "url": "https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy",
-      "publishedAt": "2026-03-17T17:00:00+00:00",
-      "excerpt": "We used DSPy to turn prompt engineering for our relevance judge into a measurable, automated optimization loop, improving task performance, cost, and how reliably it works in production.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "snap:https://eng.snap.com/flowrida",
       "sourceId": "snap",
       "title": "From Monolith to Multi-Cluster",
@@ -3298,19 +3301,6 @@
         "internal",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/the-best-work-partners-are-a-little-bit-annoying-d42b898fbe52?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "The Best Work Partners Are a Little Bit Annoying",
-      "url": "https://engineering.gusto.com/the-best-work-partners-are-a-little-bit-annoying-d42b898fbe52?source=rss----645edd256348---4",
-      "publishedAt": "2026-03-16T22:49:27+00:00",
-      "excerpt": "Great Work Partners Keep You on Your Toes I\u2019ve been trying to pinpoint why some work relationships feel like pulling teeth while others feel like a relief. And in my reflection, I found it wasn\u2019t about raw skill or ability. For example, I w",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
