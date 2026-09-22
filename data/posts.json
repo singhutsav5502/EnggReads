@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-09-22T11:43:39.908657+00:00",
+  "generatedAt": "2026-09-22T16:59:43.722051+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "sourceId": "planetscale",
+      "title": "Anatomy of a (Postgres) search engine",
+      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "sourceId": "deliveroo",
+      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
+      ]
+    },
     {
       "id": "gusto:https://engineering.gusto.com/judgment-based-api-governance-at-scale-43fe38e0dcb0?source=rss----645edd256348---4",
       "sourceId": "gusto",
@@ -1351,21 +1379,6 @@
         "infrastructure",
         "data",
         "security"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql",
-      "sourceId": "planetscale",
-      "title": "Concurrency vs. Throughput: why more parallelism can make databases slower",
-      "url": "https://planetscale.com/blog/concurrency-vs-throughput-vitess-mysql",
-      "publishedAt": "2026-08-07T00:00:00+00:00",
-      "excerpt": "Not long ago we watched a production MySQL database melt down for sixteen minutes. The errors started as a trickle, a handful per minute, then fed on themselves: minute errors/min queries/s 0 5 15,000 2 60 3,900 4 300 2,500 6 550 2,000 8 90",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability"
       ]
     },
     {
@@ -5257,19 +5270,6 @@
         "backend",
         "security",
         "frontend"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2023/10/09/from-code-to-leadership.html",
-      "sourceId": "deliveroo",
-      "title": "From Code to Leadership: Empowering Women in Engineering at our New India Hub",
-      "url": "https://deliveroo.engineering/2023/10/09/from-code-to-leadership.html",
-      "publishedAt": "2023-10-09T10:30:04+00:00",
-      "excerpt": "Could you introduce yourself and your role at Deliveroo? I\u2019m Prachi, and I joined Deliveroo in August last year. I\u2019m located in India, and I bring with me about 10 years of work experience. Initially, I joined Deliveroo as a Senior Software",
-      "tags": [
-        "engineering",
-        "internal",
-        "data"
       ]
     },
     {
