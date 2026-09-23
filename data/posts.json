@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-23T17:05:46.762599+00:00",
+  "generatedAt": "2026-09-23T21:32:27.397937+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "github:https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "sourceId": "github",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "publishedAt": "2026-09-23T18:29:49+00:00",
+      "excerpt": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops"
+      ]
+    },
     {
       "id": "dropbox:https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale",
       "sourceId": "dropbox",
@@ -2770,21 +2785,6 @@
         "data",
         "reliability",
         "frontend",
-        "devops"
-      ]
-    },
-    {
-      "id": "github:https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
-      "sourceId": "github",
-      "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
-      "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
-      "publishedAt": "2026-05-14T16:00:00+00:00",
-      "excerpt": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub Blo",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
         "devops"
       ]
     },
