@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-09-23T04:48:55.065622+00:00",
+  "generatedAt": "2026-09-23T11:42:20.251153+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "dropbox:https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale",
+      "sourceId": "dropbox",
+      "title": "What Dropbox has learned from deploying AI at company scale",
+      "url": "https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale",
+      "publishedAt": "2026-09-23T07:00:00+00:00",
+      "excerpt": "Learnings from deploying AI at company scale, and what organizations need to consider as they move from AI adoption to broader transformation.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
       "sourceId": "deliveroo",
@@ -3154,19 +3167,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "dropbox:https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity",
-      "sourceId": "dropbox",
-      "title": "Reducing our monorepo size to improve developer velocity",
-      "url": "https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity",
-      "publishedAt": "2026-03-25T17:00:00+00:00",
-      "excerpt": "Monorepos will continue to grow as products evolve, but growth doesn\u2019t have to mean friction.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
