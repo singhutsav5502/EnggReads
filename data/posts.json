@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-23T21:32:27.397937+00:00",
+  "generatedAt": "2026-09-24T04:56:15.125841+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "meta:https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
+      "sourceId": "meta",
+      "title": "Bringing Private Processing to Meta AI Glasses",
+      "url": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
+      "publishedAt": "2026-09-24T00:00:00+00:00",
+      "excerpt": "We believe glasses are the best form factor for having AI help throughout your day. They can understand your personal context better than other kinds of devices and keep you present without picking up a mobile phone. Most of the time, glass",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
     {
       "id": "github:https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
       "sourceId": "github",
@@ -1507,21 +1522,6 @@
         "backend",
         "ai",
         "frontend"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
-      "sourceId": "meta",
-      "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
-      "url": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
-      "publishedAt": "2026-08-03T18:00:17+00:00",
-      "excerpt": "Meta\u2019s Generative Ads Recommendation Model (GEM), the foundation model behind ads recommendations across Instagram and Facebook, now trains at LLM scale on several thousand of the latest-generation GPUs. This post goes into the details on h",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
       ]
     },
     {
