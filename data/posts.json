@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-24T11:50:46.809893+00:00",
+  "generatedAt": "2026-09-24T17:14:40.140518+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "sourceId": "cloudflare",
+      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "publishedAt": "2026-09-24T15:00:00+00:00",
+      "excerpt": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to ",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
       "sourceId": "meta",
@@ -1158,21 +1173,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/task-based-oauth-consent/",
-      "sourceId": "cloudflare",
-      "title": "From all-or-nothing to task-based OAuth consent",
-      "url": "https://blog.cloudflare.com/task-based-oauth-consent/",
-      "publishedAt": "2026-08-20T17:03:03+00:00",
-      "excerpt": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
