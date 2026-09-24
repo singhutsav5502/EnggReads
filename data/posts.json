@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:14:40.140518+00:00",
+  "generatedAt": "2026-09-24T21:33:26.973101+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -32,6 +32,20 @@
         "internal",
         "ai",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/bfcache-metrics/",
+      "sourceId": "sentry",
+      "title": "Measuring the back/forward cache with Application Metrics",
+      "url": "https://blog.sentry.io/bfcache-metrics/",
+      "publishedAt": "2026-09-24T00:00:00+00:00",
+      "excerpt": "A bfcache hit leaves no trace in ordinary metrics. Here's how Sentry's bfcacheMetricsIntegration makes back/forward cache health measurable.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
       ]
     },
     {
@@ -77,20 +91,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "sourceId": "planetscale",
-      "title": "Anatomy of a (Postgres) search engine",
-      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
       "sourceId": "deliveroo",
       "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
@@ -102,6 +102,20 @@
         "internal",
         "data",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "sourceId": "planetscale",
+      "title": "Anatomy of a (Postgres) search engine",
+      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1857,21 +1871,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/mongodb-query-tracing-dotnet-sentry/",
-      "sourceId": "sentry",
-      "title": "MongoDB Query Tracing in .NET with Sentry + OTLP",
-      "url": "https://blog.sentry.io/mongodb-query-tracing-dotnet-sentry/",
-      "publishedAt": "2026-07-20T09:00:00+00:00",
-      "excerpt": "Trace MongoDB queries in .NET using OpenTelemetry and Sentry's OTLP ingestion. See spans, query data, and error correlation in Sentry.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend",
-        "databases"
       ]
     },
     {
