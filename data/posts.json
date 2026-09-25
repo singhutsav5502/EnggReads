@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T17:15:18.736212+00:00",
+  "generatedAt": "2026-09-25T21:37:25.797723+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -42,7 +42,7 @@
       "title": "Improving site performance by shipping more CSS",
       "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
       "publishedAt": "2026-09-25T15:00:00+00:00",
-      "excerpt": "A look at how a design system shipped major changes without breaking the world. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
+      "excerpt": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
       "tags": [
         "recommended",
         "engineering",
