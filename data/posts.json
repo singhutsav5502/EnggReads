@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-09-25T11:54:33.788870+00:00",
+  "generatedAt": "2026-09-25T17:15:18.736212+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "netflix:https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+      "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-09-25T16:01:03+00:00",
+      "excerpt": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is t",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "reliability",
+        "security"
+      ]
+    },
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ingestion-framework-4c7da6e4cc8f?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Partition Finalization in Pinterest\u2019s Next-Generation DB Ingestion Framework",
+      "url": "https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ingestion-framework-4c7da6e4cc8f?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-09-25T15:01:03+00:00",
+      "excerpt": "Qianrui Zhang | Sr Software Engineer, Logging Platform Kanchi Masalia | Software Engineer II, Stream Processing Platform Liang Mou | Sr Staff Software Engineer, Logging Platform Yi Pan | Principal Engineer, Agent Platform Introduction This ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "databases"
+      ]
+    },
+    {
+      "id": "github:https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "sourceId": "github",
+      "title": "Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "publishedAt": "2026-09-25T15:00:00+00:00",
+      "excerpt": "A look at how a design system shipped major changes without breaking the world. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops",
+        "frontend"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/turnstile-spin/",
+      "sourceId": "cloudflare",
+      "title": "Agents can now set up your website\u2019s security with Turnstile Spin",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "publishedAt": "2026-09-25T13:00:00+00:00",
+      "excerpt": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "zalando:https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html",
+      "sourceId": "zalando",
+      "title": "Agentic Platform: Open-Sourcing the Agentic Identity Broker",
+      "url": "https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html",
+      "publishedAt": "2026-09-24T22:00:00+00:00",
+      "excerpt": "As part of our agentic platform initiative, we are open-sourcing the Agentic Identity Broker, a central component for user-to-agent delegation, consent, and token exchange that lets agents act on behalf of users without ever holding provide",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
       "sourceId": "cloudflare",
@@ -1085,22 +1175,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
-      "sourceId": "cloudflare",
-      "title": "The Cloudflare Blog \u2014 brought to you by EmDash",
-      "url": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
-      "publishedAt": "2026-08-24T19:00:00+00:00",
-      "excerpt": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "frontend"
-      ]
-    },
-    {
       "id": "meta:https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
       "sourceId": "meta",
       "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
@@ -1266,20 +1340,6 @@
       "url": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
       "publishedAt": "2026-08-18T00:00:00+00:00",
       "excerpt": "Did you know you can poison your Postgres connection pool? Most people have no idea what this means, but it could take down your entire database if you're not careful managing your connection pooler. An engineer's worst nightmare is waking ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/what-is-a-data-topology",
-      "sourceId": "planetscale",
-      "title": "What is a data topology?",
-      "url": "https://planetscale.com/blog/what-is-a-data-topology",
-      "publishedAt": "2026-08-17T00:00:00+00:00",
-      "excerpt": "\u201cVitess for PostgreSQL\u201d is a useful shorthand for the ambition behind Neki, but it significantly understates the architecture we have built. Neki carries forward what we learned from Vitess in a new sharding architecture designed around Pos",
       "tags": [
         "databases",
         "engineering",
@@ -2075,21 +2135,6 @@
       ]
     },
     {
-      "id": "github:https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-      "sourceId": "github",
-      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
-      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-      "publishedAt": "2026-07-08T21:11:56+00:00",
-      "excerpt": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on T",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "devops"
-      ]
-    },
-    {
       "id": "nubank:https://building.nu.com/inside-the-nu-young-apprentice-program-2026/",
       "sourceId": "nubank",
       "title": "Inside the Nu Young Apprentice Program 2026",
@@ -2268,22 +2313,6 @@
         "internal",
         "frontend",
         "security"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
-      "url": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-06-23T00:31:01+00:00",
-      "excerpt": "By Zhuoning Yuan , Ta-Ying Cheng , Benjamin Klein , Bahareh Azarnoush Introduction At Netflix, we build technology to help storytellers bring their creative visions to life and to help members discover the stories they love. To connect stor",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai"
       ]
     },
     {
@@ -2726,21 +2755,6 @@
         "ai",
         "frontend",
         "devops"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/making-user-sequence-data-more-cost-efficient-faster-and-easier-to-use-2a56a928cae1?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Making User-Sequence Data More Cost-Efficient, Faster, and Easier to Use",
-      "url": "https://medium.com/pinterest-engineering/making-user-sequence-data-more-cost-efficient-faster-and-easier-to-use-2a56a928cae1?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-05-21T16:01:00+00:00",
-      "excerpt": "Authors ( listed alphabetically ) Ads Feature Engineering Infra team: Ajay Venkatakrishnan, Le Zhang Core ML Infra team: Eric Shang, Pihui Wei ML Data team: Connor Votroubek, Yi He User Understanding team: Camilo Munoz, Simin Li If you work",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability"
       ]
     },
     {
@@ -4068,21 +4082,6 @@
         "data",
         "ai",
         "devops"
-      ]
-    },
-    {
-      "id": "zalando:https://engineering.zalando.com/posts/2025/10/accelerating-mobile-app-development-at-zalando-with-rendering-engine-and-react-native.html",
-      "sourceId": "zalando",
-      "title": "Accelerating Mobile App development at Zalando with Rendering Engine and React Native",
-      "url": "https://engineering.zalando.com/posts/2025/10/accelerating-mobile-app-development-at-zalando-with-rendering-engine-and-react-native.html",
-      "publishedAt": "2025-10-02T22:00:00+00:00",
-      "excerpt": "We present how we combined our internal React-based UI composition framework Rendering Engine with React Native in a brownfield integration approach that enables us to gradually modernise our mobile app technology stack while at the same ti",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "frontend",
-        "mobile"
       ]
     },
     {
