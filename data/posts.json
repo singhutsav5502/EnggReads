@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:33:26.973101+00:00",
+  "generatedAt": "2026-09-25T05:01:06.912039+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -91,20 +91,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "sourceId": "deliveroo",
-      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
-      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
       "sourceId": "planetscale",
       "title": "Anatomy of a (Postgres) search engine",
@@ -116,6 +102,20 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "sourceId": "deliveroo",
+      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
