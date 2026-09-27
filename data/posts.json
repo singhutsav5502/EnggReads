@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-09-27T17:00:16.917404+00:00",
+  "generatedAt": "2026-09-27T21:23:33.995892+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+      "sourceId": "cloudflare",
+      "title": "Cloudflare\u2019s 2026 Annual Founders\u2019 Letter",
+      "url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+      "publishedAt": "2026-09-27T17:00:00+00:00",
+      "excerpt": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, ",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "netflix:https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
@@ -1079,21 +1094,6 @@
         "ai",
         "reliability",
         "databases"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "sourceId": "cloudflare",
-      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1\u2019s DNS cache",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "publishedAt": "2026-08-27T17:02:35+00:00",
-      "excerpt": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
