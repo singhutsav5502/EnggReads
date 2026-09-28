@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-09-28T14:01:14.713369+00:00",
+  "generatedAt": "2026-09-28T23:18:54.418864+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 359,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/how-fast-is-the-web/",
+      "sourceId": "cloudflare",
+      "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+      "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
+      "publishedAt": "2026-09-28T14:43:05+00:00",
+      "excerpt": "Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/beyond-a-b-testing-designing-experiments-when-the-space-is-too-large-to-explore/",
+      "sourceId": "nubank",
+      "title": "Beyond A/B Testing: Designing Experiments When the Space Is Too Large to Explore",
+      "url": "https://building.nu.com/beyond-a-b-testing-designing-experiments-when-the-space-is-too-large-to-explore/",
+      "publishedAt": "2026-09-28T14:21:31+00:00",
+      "excerpt": "A practical guide to D-optimal designs, Fedorov's algorithm, and how business restrictions shape what we can test and estimate The post Beyond A/B Testing: Designing Experiments When the Space Is Too Large to Explore appeared first on Build",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/voidzero-update/",
       "sourceId": "cloudflare",
@@ -64,6 +92,20 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/hot-shards-hotter-tenants",
+      "sourceId": "planetscale",
+      "title": "Handling hot shards",
+      "url": "https://planetscale.com/blog/hot-shards-hotter-tenants",
+      "publishedAt": "2026-09-28T00:00:00+00:00",
+      "excerpt": "Since the launch of Neki we've talked a lot about sharding with basic examples to demonstrate how Neki splits a table's rows evenly across shards. Neki's router reads your data topology to handle the placement of writes and to find the corr",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -187,6 +229,20 @@
       ]
     },
     {
+      "id": "sentry:https://blog.sentry.io/bfcache-metrics/",
+      "sourceId": "sentry",
+      "title": "Measuring the back/forward cache with Application Metrics",
+      "url": "https://blog.sentry.io/bfcache-metrics/",
+      "publishedAt": "2026-09-24T00:00:00+00:00",
+      "excerpt": "A bfcache hit leaves no trace in ordinary metrics. Here's how Sentry's bfcacheMetricsIntegration makes back/forward cache health measurable.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
       "id": "meta:https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
       "sourceId": "meta",
       "title": "Bringing Private Processing to Meta AI Glasses",
@@ -199,20 +255,6 @@
         "internal",
         "ai",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/bfcache-metrics/",
-      "sourceId": "sentry",
-      "title": "Measuring the back/forward cache with Application Metrics",
-      "url": "https://blog.sentry.io/bfcache-metrics/",
-      "publishedAt": "2026-09-24T00:00:00+00:00",
-      "excerpt": "A bfcache hit leaves no trace in ordinary metrics. Here's how Sentry's bfcacheMetricsIntegration makes back/forward cache health measurable.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
       ]
     },
     {
@@ -716,21 +758,6 @@
         "data",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/post-quantum-dnssec-1111/",
-      "sourceId": "cloudflare",
-      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
-      "publishedAt": "2026-09-10T13:00:00+00:00",
-      "excerpt": "1.1.1.1 now validates DNSSEC signatures using NIST\u2019s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -1293,20 +1320,6 @@
         "engineering",
         "internal",
         "reliability",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/postgres-poisoned-connection-pools",
-      "sourceId": "planetscale",
-      "title": "Poisoned Postgres connection pools",
-      "url": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
-      "publishedAt": "2026-08-18T00:00:00+00:00",
-      "excerpt": "Did you know you can poison your Postgres connection pool? Most people have no idea what this means, but it could take down your entire database if you're not careful managing your connection pooler. An engineer's worst nightmare is waking ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
         "infrastructure"
       ]
     },
@@ -2082,19 +2095,6 @@
         "data",
         "infrastructure",
         "frontend"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nu.com/inside-the-nu-young-apprentice-program-2026/",
-      "sourceId": "nubank",
-      "title": "Inside the Nu Young Apprentice Program 2026",
-      "url": "https://building.nu.com/inside-the-nu-young-apprentice-program-2026/",
-      "publishedAt": "2026-07-06T14:00:00+00:00",
-      "excerpt": "Written by: Nubank Editorial 1. The First Step in Your Career Rarely in life does a young person get the chance to start their career at one of the fastest-growing technology companies in the world. Nubank is a dynamic place that moves fast",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
