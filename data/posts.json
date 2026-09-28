@@ -1,9 +1,71 @@
 {
-  "generatedAt": "2026-09-28T05:28:34.852805+00:00",
+  "generatedAt": "2026-09-28T14:01:14.713369+00:00",
   "feedCount": 37,
-  "fetchedOk": 36,
-  "postCount": 367,
+  "fetchedOk": 35,
+  "postCount": 359,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/voidzero-update/",
+      "sourceId": "cloudflare",
+      "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
+      "url": "https://blog.cloudflare.com/voidzero-update/",
+      "publishedAt": "2026-09-28T13:00:00+00:00",
+      "excerpt": "Since joining Cloudflare, VoidZero has delivered more than 80 releases that drastically speed up JavaScript compilation, linting, and testing. From a 10x faster React compiler to Vite+ 1.0, here\u2019s how we are building faster tools for develo",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "frontend"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/kitesurf-update/",
+      "sourceId": "cloudflare",
+      "title": "The road to the agentic browser: A Kitesurf update",
+      "url": "https://blog.cloudflare.com/kitesurf-update/",
+      "publishedAt": "2026-09-28T13:00:00+00:00",
+      "excerpt": "We\u2019ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "frontend"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/emdash-cms-plugin-registry/",
+      "sourceId": "cloudflare",
+      "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+      "url": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
+      "publishedAt": "2026-09-28T13:00:00+00:00",
+      "excerpt": "EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/rust-workers-emscripten-target/",
+      "sourceId": "cloudflare",
+      "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
+      "url": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
+      "publishedAt": "2026-09-28T13:00:00+00:00",
+      "excerpt": "With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare\u2019s global Workers platform, including upcoming supp",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
       "sourceId": "cloudflare",
@@ -166,19 +228,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "dropbox:https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale",
-      "sourceId": "dropbox",
-      "title": "Dropbox CTO Ali Dasdan on moving from AI adoption to transformation",
-      "url": "https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale",
-      "publishedAt": "2026-09-23T07:00:00+00:00",
-      "excerpt": "Meaningful AI gains depend on rethinking workflows, measuring real outcomes, and keeping human judgment at the center of how work gets done.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -728,21 +777,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/workers-module-registry-nodejs/",
-      "sourceId": "cloudflare",
-      "title": "How we rebuilt Cloudflare Workers\u2019 module registry for Node.js compatibility",
-      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
-      "publishedAt": "2026-09-09T13:00:00+00:00",
-      "excerpt": "Workers now enables Node.js compatibility by default, supports applications up to 64 mebibytes, and adds a URL-based module registry with import.meta, lazy compilation, shared code caches, and clearer errors.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "spotify:https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
       "sourceId": "spotify",
       "title": "Why Spotify Is Not Using Bayesian A/B Testing",
@@ -754,21 +788,6 @@
         "internal",
         "data",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "sourceId": "cloudflare",
-      "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "publishedAt": "2026-09-08T13:10:00+00:00",
-      "excerpt": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -919,21 +938,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/cache-transcoding/",
-      "sourceId": "cloudflare",
-      "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
-      "url": "https://blog.cloudflare.com/cache-transcoding/",
-      "publishedAt": "2026-09-01T12:59:00+00:00",
-      "excerpt": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/metrics-caught-ai-size-estimate/",
       "sourceId": "sentry",
       "title": "Application Metrics caught my broken size estimator",
@@ -1007,19 +1011,6 @@
       ]
     },
     {
-      "id": "dropbox:https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces",
-      "sourceId": "dropbox",
-      "title": "Testing cookie behavior across hundreds of web surfaces with our in-house auditor",
-      "url": "https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces",
-      "publishedAt": "2026-08-31T17:00:00+00:00",
-      "excerpt": "Our cookie auditor acts like a privacy-conscious user by visiting web pages and checking that they only load cookies consistent with that user\u2019s preferences.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/debugging-live-database-connections",
       "sourceId": "planetscale",
       "title": "How one connection kills a database",
@@ -1047,21 +1038,6 @@
         "infrastructure",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/botbase-for-operators/",
-      "sourceId": "cloudflare",
-      "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
-      "url": "https://blog.cloudflare.com/botbase-for-operators/",
-      "publishedAt": "2026-08-28T12:59:44+00:00",
-      "excerpt": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -1317,19 +1293,6 @@
         "engineering",
         "internal",
         "reliability",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "dropbox:https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai",
-      "sourceId": "dropbox",
-      "title": "Improving infrastructure efficiency for growing demand in the age of AI",
-      "url": "https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai",
-      "publishedAt": "2026-08-18T17:00:00+00:00",
-      "excerpt": "As demand for AI continues to grow, so does the infrastructure needed to support it.",
-      "tags": [
-        "engineering",
-        "internal",
         "infrastructure"
       ]
     },
@@ -1921,19 +1884,6 @@
       ]
     },
     {
-      "id": "dropbox:https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond",
-      "sourceId": "dropbox",
-      "title": "How our universal content processing platform Riviera evolved for AI and beyond",
-      "url": "https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond",
-      "publishedAt": "2026-07-20T15:00:00+00:00",
-      "excerpt": "Riviera is the Dropbox content processing platform that\u2019s been iteratively improving content transformation in our products for roughly a decade.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "In-House LLM Serving at Netflix",
@@ -2256,20 +2206,6 @@
       ]
     },
     {
-      "id": "dropbox:https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat",
-      "sourceId": "dropbox",
-      "title": "How we used DSPy to turn AI evaluations into better responses in Dash chat",
-      "url": "https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat",
-      "publishedAt": "2026-06-25T16:30:00+00:00",
-      "excerpt": "We used DSPy to improve LLM judges and optimize our chat experience, creating an evaluation-driven feedback loop that produced better outputs.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "ai"
-      ]
-    },
-    {
       "id": "pinterest:https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
       "title": "Achieving Near-Linear Training Scalability for Pinterest\u2019s Foundation Models",
@@ -2437,20 +2373,6 @@
         "internal",
         "culture",
         "ai"
-      ]
-    },
-    {
-      "id": "dropbox:https://dropbox.tech/security/dropbox-mcp-dash-design-code-security",
-      "sourceId": "dropbox",
-      "title": "How Dropbox uses MCP and Dash to close the design-to-code security gap",
-      "url": "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security",
-      "publishedAt": "2026-06-12T18:00:00+00:00",
-      "excerpt": "Using an agentic AI system to surface threat models during code review and spot gaps between security requirements and implementation.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "security"
       ]
     },
     {
@@ -2667,19 +2589,6 @@
         "reliability",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "dropbox:https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents",
-      "sourceId": "dropbox",
-      "title": "Beyond code generation: rethinking engineering productivity in the age of AI agents",
-      "url": "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents",
-      "publishedAt": "2026-05-28T18:00:00+00:00",
-      "excerpt": "How Dropbox is moving from AI tools that assist engineers to agentic systems that can execute scoped tasks, and how we\u2019re building platforms to support those workflows.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -3109,19 +3018,6 @@
         "infrastructure",
         "reliability",
         "databases"
-      ]
-    },
-    {
-      "id": "dropbox:https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
-      "sourceId": "dropbox",
-      "title": "Improving storage efficiency in Magic Pocket, our immutable blob store",
-      "url": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
-      "publishedAt": "2026-04-02T17:00:00+00:00",
-      "excerpt": "By turning compaction into a layered, adaptive pipeline and strengthening our monitoring and controls, we made Magic Pocket more resilient to workload changes.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
