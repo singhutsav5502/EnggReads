@@ -1,9 +1,219 @@
 {
-  "generatedAt": "2026-09-29T12:57:48.137186+00:00",
+  "generatedAt": "2026-09-29T22:18:59.016934+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "airbnb:https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
+      "sourceId": "airbnb",
+      "title": "Personalization without user identity",
+      "url": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
+      "publishedAt": "2026-09-29T17:01:01+00:00",
+      "excerpt": "How Airbnb uses proximity signals to personalize without relying on individual user history. By : Wei Jiang , Bin Xu , Bharathi Thangamani , Weiwei Guo , Sundar Srinivasavaradhan , Tracy Yu , Huiji Gao , Swapnil Ghike , Michael Kinoti Great",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai",
+        "frontend"
+      ]
+    },
+    {
+      "id": "etsy:https://www.etsy.com/codeascraft/that-which-we-can-do-sustainability-in-a-world-of-ai?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
+      "sourceId": "etsy",
+      "title": "That Which We CAN Do: Sustainability in a World of AI",
+      "url": "https://www.etsy.com/codeascraft/that-which-we-can-do-sustainability-in-a-world-of-ai?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
+      "publishedAt": "2026-09-29T13:25:10+00:00",
+      "excerpt": "As computing use grows, so does its environmental footprint. While hardware and software have become significantly more efficient, AI demand is growing even faster, outpacing those efficiency gains and increasing the overall environmental i",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture",
+        "reliability",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "booking:https://medium.com/booking-com-development/node-js-at-scale-rebalanced-how-we-cut-cost-by-38-62ce247a3002?source=rss----1c36c35f9c76---4",
+      "sourceId": "booking",
+      "title": "Node.js at scale, rebalanced: how we cut cost by 38%",
+      "url": "https://medium.com/booking-com-development/node-js-at-scale-rebalanced-how-we-cut-cost-by-38-62ce247a3002?source=rss----1c36c35f9c76---4",
+      "publishedAt": "2026-09-29T13:15:32+00:00",
+      "excerpt": "By optimizing our biggest Node.js service, we cut our compute costs by 38 % By optimizing our biggest Node.js service, we cut our compute costs by 38%: we ran 30% fewer pods, reduced memory usage by 20% per remaining pod, and took up to 10%",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "frontend",
+        "devops"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+      "sourceId": "cloudflare",
+      "title": "Using AI to chart a course for our post-quantum migration",
+      "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "We\u2019re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here\u2019s what we\u2019ve learned so far.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/cloudflare-certificate-authority/",
+      "sourceId": "cloudflare",
+      "title": "Building a certificate authority for the whole Internet",
+      "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open web",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/ai-era-framework/",
+      "sourceId": "cloudflare",
+      "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+      "url": "https://blog.cloudflare.com/ai-era-framework/",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/pq-ca-with-mtcs/",
+      "sourceId": "cloudflare",
+      "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare\u2019s new certificate authority will support MTC issuance at",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/adaptive-ai-waf-testing/",
+      "sourceId": "cloudflare",
+      "title": "We tested our own WAF with frontier AI models. Here\u2019s what we found",
+      "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "We built a WAF tester that adapted each request based on what the WAF blocked or passed. This helped us explore variations that a fixed test might miss. We ran it across six attack categories on an authorized staging environment and discove",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/post-quantum-visibility/",
+      "sourceId": "cloudflare",
+      "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
+      "url": "https://blog.cloudflare.com/post-quantum-visibility/",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "data"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/application-profiles/",
+      "sourceId": "cloudflare",
+      "title": "Enforce positive security with Cloudflare Application Profiles",
+      "url": "https://blog.cloudflare.com/application-profiles/",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/ipsec-downgrade-protection/",
+      "sourceId": "cloudflare",
+      "title": "Preventing quantum downgrade attacks against IPsec",
+      "url": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "A sophisticated attacker with a quantum computer can exploit a protocol design flaw to downgrade post-quantum IPsec tunnels to classical crypto. We helped the IETF develop a transcript authentication extension to prevent these attacks.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "dropbox:https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native",
+      "sourceId": "dropbox",
+      "title": "Evolving our calendar assistant Reclaim to be AI-native without starting over",
+      "url": "https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native",
+      "publishedAt": "2026-09-29T13:00:00+00:00",
+      "excerpt": "How we redesigned Reclaim for AI and natural-language requests while preserving the scheduling experience people rely on.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/big-improvements-to-seer-agent/",
+      "sourceId": "sentry",
+      "title": "Big improvements to Seer Agent",
+      "url": "https://blog.sentry.io/big-improvements-to-seer-agent/",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "excerpt": "Seer Agent can now write to your Sentry projects and pull in infrastructure data from Datadog and Google Cloud Platform \u2014 turning it from a debugging rubber duck into a full-time assistant.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "yelp:https://engineeringblog.yelp.com/2026/09/the-making-of-the-yelp-assistant-ui.html",
+      "sourceId": "yelp",
+      "title": "The making of the Yelp Assistant UI",
+      "url": "https://engineeringblog.yelp.com/2026/09/the-making-of-the-yelp-assistant-ui.html",
+      "publishedAt": "2026-09-29T00:00:00+00:00",
+      "excerpt": "As simple as it may look, a chat application is made up of thousands of small decisions that we make along the way, all with the goal to build a delightful experience for users. But each decision comes with a cost, often paid in time. If yo",
+      "tags": [
+        "engineering",
+        "internal",
+        "data"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/how-fast-is-the-web/",
       "sourceId": "cloudflare",
@@ -80,21 +290,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/rust-workers-emscripten-target/",
-      "sourceId": "cloudflare",
-      "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
-      "url": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
-      "publishedAt": "2026-09-28T13:00:00+00:00",
-      "excerpt": "With the new experimental support for the Emscripten target in Rust Workers, many previously unsupported Rust libraries and applications can now be built and deployed directly to Cloudflare\u2019s global Workers platform, including upcoming supp",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/hot-shards-hotter-tenants",
       "sourceId": "planetscale",
       "title": "Handling hot shards",
@@ -106,21 +301,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
-      "sourceId": "cloudflare",
-      "title": "Cloudflare\u2019s 2026 Annual Founders\u2019 Letter",
-      "url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
-      "publishedAt": "2026-09-27T17:00:00+00:00",
-      "excerpt": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, ",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -172,21 +352,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/turnstile-spin/",
-      "sourceId": "cloudflare",
-      "title": "Agents can now set up your website\u2019s security with Turnstile Spin",
-      "url": "https://blog.cloudflare.com/turnstile-spin/",
-      "publishedAt": "2026-09-25T13:00:00+00:00",
-      "excerpt": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
       "sourceId": "planetscale",
       "title": "When to choose x86-64 vs aarch64",
@@ -211,21 +376,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-      "sourceId": "cloudflare",
-      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-      "publishedAt": "2026-09-24T15:00:00+00:00",
-      "excerpt": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took to ",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -404,21 +554,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "sourceId": "cloudflare",
-      "title": "Saving another 100TB of RAM with math (and Rust)",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "publishedAt": "2026-09-18T17:23:58+00:00",
-      "excerpt": "Cloudflare's global network is immense but not limitless. As we look for small ways to trim our resource usage, we sometimes get lucky and we can cut significantly more. Here\u2019s how we reduced one of our Pingora-based service's RAM usage wit",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "Leave the Class Path in the Rearview Mirror",
@@ -524,23 +659,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
-      "sourceId": "cloudflare",
-      "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
-      "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
-      "publishedAt": "2026-09-16T20:06:17+00:00",
-      "excerpt": "A modern storefront can look healthy while malicious JavaScript quietly siphons revenue, hijacks clicks, or rewrites analytics. See how Cloudflare's machine learning models surface evasive client-side attacks for analyst investigation.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "ai",
-        "data"
-      ]
-    },
-    {
       "id": "spotify:https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
       "sourceId": "spotify",
       "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
@@ -596,37 +714,6 @@
         "data",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "sourceId": "cloudflare",
-      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "publishedAt": "2026-09-15T13:00:00+00:00",
-      "excerpt": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/workers-granular-authorization/",
-      "sourceId": "cloudflare",
-      "title": "Give every teammate and agent the right level of access to your Workers",
-      "url": "https://blog.cloudflare.com/workers-granular-authorization/",
-      "publishedAt": "2026-09-15T13:00:00+00:00",
-      "excerpt": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "devops"
       ]
     },
     {
@@ -1922,20 +2009,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/structure-a-log/",
-      "sourceId": "sentry",
-      "title": "How to structure a log",
-      "url": "https://blog.sentry.io/structure-a-log/",
-      "publishedAt": "2026-07-21T09:00:00+00:00",
-      "excerpt": "A practical guide to writing structured, queryable, lint-enforceable logs with consistent event names, attributes, severity, and schema checks.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "dropbox:https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond",
       "sourceId": "dropbox",
       "title": "How our universal content processing platform Riviera evolved for AI and beyond",
@@ -2595,22 +2668,6 @@
       ]
     },
     {
-      "id": "airbnb:https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
-      "sourceId": "airbnb",
-      "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
-      "url": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
-      "publishedAt": "2026-06-04T17:01:04+00:00",
-      "excerpt": "How Airbnb built a Kubernetes sidecar to deliver dynamic configuration reliably at scale. By : Bo Teng , Cosmo Qiu , Siyuan Zhou , Ankur Soni , Xin Huang , Willis Harvey Introduction In our previous post , we explored Airbnb\u2019s dynamic confi",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "reliability",
-        "databases"
-      ]
-    },
-    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/",
       "sourceId": "datadog",
       "title": "When failover isn\u2019t safe: Building high-availability PostgreSQL on Kubernetes",
@@ -3094,35 +3151,6 @@
         "engineering",
         "internal",
         "reliability",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "yelp:https://engineeringblog.yelp.com/2026/04/zero-downtime-upgrade-yelp-cassandra-upgrade-story.html",
-      "sourceId": "yelp",
-      "title": "Zero downtime Upgrade: Yelp\u2019s Cassandra 4.x Upgrade Story",
-      "url": "https://engineeringblog.yelp.com/2026/04/zero-downtime-upgrade-yelp-cassandra-upgrade-story.html",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "excerpt": "The Database Reliability Engineering team at Yelp seamlessly upgraded more than a thousand Cassandra nodes with zero downtime. This post takes you behind the scenes of our upgrade strategy, from planning sessions to flawless rollouts. Backg",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "reliability",
-        "databases"
-      ]
-    },
-    {
-      "id": "dropbox:https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
-      "sourceId": "dropbox",
-      "title": "Improving storage efficiency in Magic Pocket, our immutable blob store",
-      "url": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
-      "publishedAt": "2026-04-02T17:00:00+00:00",
-      "excerpt": "By turning compaction into a layered, adaptive pipeline and strengthening our monitoring and controls, we made Magic Pocket more resilient to workload changes.",
-      "tags": [
-        "engineering",
-        "internal",
         "infrastructure"
       ]
     },
@@ -4520,23 +4548,6 @@
       ]
     },
     {
-      "id": "etsy:https://www.etsy.com/codeascraft/behind-the-scenes---a-glimpse-to-tax-calculations?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
-      "sourceId": "etsy",
-      "title": "Behind the Scenes - A Glimpse into Tax Calculations",
-      "url": "https://www.etsy.com/codeascraft/behind-the-scenes---a-glimpse-to-tax-calculations?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
-      "publishedAt": "2025-03-29T10:03:23+00:00",
-      "excerpt": "In the past, sellers were responsible for managing and fulfilling their own tax obligations. However, more and more jurisdictions are now requiring marketplaces such as Etsy to collect the tax from buyers and remit the tax to the relevant a",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "reliability",
-        "data",
-        "databases"
-      ]
-    },
-    {
       "id": "asos:https://medium.com/asos-techblog/how-we-revamped-the-asos-qa-engineering-competency-8255246ae9c1?source=rss----6757df096022---4",
       "sourceId": "asos",
       "title": "How we revamped the ASOS QA engineering competency",
@@ -4651,24 +4662,6 @@
         "backend",
         "mobile",
         "reliability"
-      ]
-    },
-    {
-      "id": "booking:https://medium.com/booking-com-development/fitting-scrum-for-software-development-part-ii-367045569c9a?source=rss----1c36c35f9c76---4",
-      "sourceId": "booking",
-      "title": "Fitting Scrum for Software Development \u2014 Part II",
-      "url": "https://medium.com/booking-com-development/fitting-scrum-for-software-development-part-ii-367045569c9a?source=rss----1c36c35f9c76---4",
-      "publishedAt": "2025-02-27T14:06:58+00:00",
-      "excerpt": "Scrum, Agile Fitting Scrum for Software Development \u2014 Part II Break down stories like a boss and a few more tricks source Many software teams use Scrum, but it comes with challenges. While it originated in software development, its creators",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "reliability",
-        "security",
-        "frontend",
-        "databases"
       ]
     },
     {
