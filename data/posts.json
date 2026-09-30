@@ -1,9 +1,158 @@
 {
-  "generatedAt": "2026-09-30T12:39:59.888917+00:00",
+  "generatedAt": "2026-09-30T22:19:00.791393+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/100-million-donations/",
+      "sourceId": "cloudflare",
+      "title": "Cloudflare Impact reaches $100 million in donations",
+      "url": "https://blog.cloudflare.com/100-million-donations/",
+      "publishedAt": "2026-09-30T13:01:55+00:00",
+      "excerpt": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public s",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/auto-router/",
+      "sourceId": "cloudflare",
+      "title": "Cut your AI spend with AI Gateway's Auto Router",
+      "url": "https://blog.cloudflare.com/auto-router/",
+      "publishedAt": "2026-09-30T13:00:00+00:00",
+      "excerpt": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut ",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/real-time-issue-detection/",
+      "sourceId": "cloudflare",
+      "title": "Detect and send production issues straight to your agent",
+      "url": "https://blog.cloudflare.com/real-time-issue-detection/",
+      "publishedAt": "2026-09-30T13:00:00+00:00",
+      "excerpt": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/simplifying-domains/",
+      "sourceId": "cloudflare",
+      "title": "Simplifying domains for people and agents",
+      "url": "https://blog.cloudflare.com/simplifying-domains/",
+      "publishedAt": "2026-09-30T13:00:00+00:00",
+      "excerpt": "Cloudflare Registrar\u2019s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/monetization-gateway-beta/",
+      "sourceId": "cloudflare",
+      "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+      "url": "https://blog.cloudflare.com/monetization-gateway-beta/",
+      "publishedAt": "2026-09-30T13:00:00+00:00",
+      "excerpt": "Cloudflare\u2019s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/ai-model-overuse-user-insights/",
+      "sourceId": "cloudflare",
+      "title": "Identify AI model overuse with User Insights",
+      "url": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
+      "publishedAt": "2026-09-30T13:00:00+00:00",
+      "excerpt": "AI Gateway User Insights now adds task, model, turn, and user categories to help teams understand AI adoption and make better model decisions. This is available free to AI Gateway users.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/faster-agent-sandboxes/",
+      "sourceId": "cloudflare",
+      "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+      "url": "https://blog.cloudflare.com/faster-agent-sandboxes/",
+      "publishedAt": "2026-09-30T12:58:00+00:00",
+      "excerpt": "Cloudflare Containers now start 6x faster, let your agent choose each sandbox's image and instance type at runtime, and support filesystem snapshots in public beta, all controlled from a Durable Object.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/agentic-web/",
+      "sourceId": "cloudflare",
+      "title": "The Internet has a second audience",
+      "url": "https://blog.cloudflare.com/agentic-web/",
+      "publishedAt": "2026-09-30T12:58:00+00:00",
+      "excerpt": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/etsy-peak-traffic-prep/",
+      "sourceId": "sentry",
+      "title": "How Etsy gets its mobile apps ready for peak traffic",
+      "url": "https://blog.sentry.io/etsy-peak-traffic-prep/",
+      "publishedAt": "2026-09-30T09:00:00+00:00",
+      "excerpt": "How Etsy's mobile team preps for peak traffic: a three-phase code slush, a break-glass alert list, surface-level tagging, and what a crash costs in GMS.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/async-python-profiler/",
+      "sourceId": "datadog",
+      "title": "How we built an async-aware Python profiler",
+      "url": "https://www.datadoghq.com/blog/engineering/async-python-profiler/",
+      "publishedAt": "2026-09-30T00:00:00+00:00",
+      "excerpt": "Learn how we made Python profiling async-aware while reducing profiler overhead and preserving context across asyncio tasks.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
+      ]
+    },
     {
       "id": "airbnb:https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
       "sourceId": "airbnb",
@@ -114,67 +263,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/adaptive-ai-waf-testing/",
-      "sourceId": "cloudflare",
-      "title": "We tested our own WAF with frontier AI models. Here\u2019s what we found",
-      "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
-      "publishedAt": "2026-09-29T13:00:00+00:00",
-      "excerpt": "We built a WAF tester that adapted each request based on what the WAF blocked or passed. This helped us explore variations that a fixed test might miss. We ran it across six attack categories on an authorized staging environment and discove",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/post-quantum-visibility/",
-      "sourceId": "cloudflare",
-      "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
-      "url": "https://blog.cloudflare.com/post-quantum-visibility/",
-      "publishedAt": "2026-09-29T13:00:00+00:00",
-      "excerpt": "Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "data"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/application-profiles/",
-      "sourceId": "cloudflare",
-      "title": "Enforce positive security with Cloudflare Application Profiles",
-      "url": "https://blog.cloudflare.com/application-profiles/",
-      "publishedAt": "2026-09-29T13:00:00+00:00",
-      "excerpt": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/ipsec-downgrade-protection/",
-      "sourceId": "cloudflare",
-      "title": "Preventing quantum downgrade attacks against IPsec",
-      "url": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
-      "publishedAt": "2026-09-29T13:00:00+00:00",
-      "excerpt": "A sophisticated attacker with a quantum computer can exploit a protocol design flaw to downgrade post-quantum IPsec tunnels to classical crypto. We helped the IETF develop a transcript authentication extension to prevent these attacks.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "dropbox:https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native",
       "sourceId": "dropbox",
       "title": "Evolving our calendar assistant Reclaim to be AI-native without starting over",
@@ -215,21 +303,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/how-fast-is-the-web/",
-      "sourceId": "cloudflare",
-      "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
-      "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
-      "publishedAt": "2026-09-28T14:43:05+00:00",
-      "excerpt": "Cloudflare is open-sourcing the BEACON dataset, making billions of anonymized Real User Monitoring (RUM) performance records publicly available on Google BigQuery. Explore real-world Core Web Vitals, soft navigation metrics, and performance",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "nubank:https://building.nu.com/beyond-a-b-testing-designing-experiments-when-the-space-is-too-large-to-explore/",
       "sourceId": "nubank",
       "title": "Beyond A/B Testing: Designing Experiments When the Space Is Too Large to Explore",
@@ -240,53 +313,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/voidzero-update/",
-      "sourceId": "cloudflare",
-      "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
-      "url": "https://blog.cloudflare.com/voidzero-update/",
-      "publishedAt": "2026-09-28T13:00:00+00:00",
-      "excerpt": "Since joining Cloudflare, VoidZero has delivered more than 80 releases that drastically speed up JavaScript compilation, linting, and testing. From a 10x faster React compiler to Vite+ 1.0, here\u2019s how we are building faster tools for develo",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "frontend"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/kitesurf-update/",
-      "sourceId": "cloudflare",
-      "title": "The road to the agentic browser: A Kitesurf update",
-      "url": "https://blog.cloudflare.com/kitesurf-update/",
-      "publishedAt": "2026-09-28T13:00:00+00:00",
-      "excerpt": "We\u2019ve updated Kitesurf, our Workers-based browser for AI agents, with WebMCP support, improved DOM performance, and terminal-based rendering. With over 730,000 Web Platform subtests passing, agents can now navigate complex sites faster.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "frontend"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/emdash-cms-plugin-registry/",
-      "sourceId": "cloudflare",
-      "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
-      "url": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
-      "publishedAt": "2026-09-28T13:00:00+00:00",
-      "excerpt": "EmDash 1.0 is a stable, open source CMS built for Astro, with agent-friendly workflows, secure sandboxed plugins, and a decentralized registry that keeps publishers in control.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -1951,20 +1977,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/57-bugs-to-1/",
-      "sourceId": "sentry",
-      "title": "From 57 bugs to 1, thanks to Seer",
-      "url": "https://blog.sentry.io/57-bugs-to-1/",
-      "publishedAt": "2026-07-23T09:00:00+00:00",
-      "excerpt": "Learn how to automate bug fixes using Sentry, Seer, and cloud coding agents to clear your backlog.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "canva:https://www.canva.dev/blog/engineering/session-revocations-at-scale/",
       "sourceId": "canva",
       "title": "Session revocations at scale",
@@ -3403,21 +3415,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/stopping-hackerbot-claw-with-bewaire/",
-      "sourceId": "datadog",
-      "title": "When an AI agent came knocking: Catching malicious contributions in Datadog\u2019s open source repos",
-      "url": "https://www.datadoghq.com/blog/engineering/stopping-hackerbot-claw-with-bewaire/",
-      "publishedAt": "2026-03-09T00:00:00+00:00",
-      "excerpt": "Learn how Datadog detected and resolved issues from hackerbot-claw, an AI-powered automated attack campaign.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure"
       ]
     },
     {
