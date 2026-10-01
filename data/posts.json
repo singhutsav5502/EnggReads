@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T13:22:32.820723+00:00",
+  "generatedAt": "2026-10-01T22:43:37.558046+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -62,6 +62,63 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/distributed-datafusion/",
+      "sourceId": "datadog",
+      "title": "How we extended Apache DataFusion to execute one query across many machines",
+      "url": "https://www.datadoghq.com/blog/engineering/distributed-datafusion/",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Learn how Datadog built Distributed DataFusion to scale interactive Apache DataFusion queries across multiple machines.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
+      "sourceId": "janestreet",
+      "title": "A resilient kernel log reporter",
+      "url": "https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/linux-engineering-depot-fuse-index/",
+      "sourceId": "janestreet",
+      "title": "A FUSE server for our in-house storage backend",
+      "url": "https://blog.janestreet.com/linux-engineering-depot-fuse-index/",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Designing Neki for performance",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1443,20 +1500,6 @@
         "internal",
         "frontend",
         "security"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/the-history-of-postgres-sharding",
-      "sourceId": "planetscale",
-      "title": "The history of Postgres sharding",
-      "url": "https://planetscale.com/blog/the-history-of-postgres-sharding",
-      "publishedAt": "2026-08-24T00:00:00+00:00",
-      "excerpt": "Over the past 20 years, many companies have achieved such a scale that their database could no longer support the workload assigned to it. The solution is almost universally to shard the database, but only when absolutely necessary due to t",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -2883,20 +2926,6 @@
       ]
     },
     {
-      "id": "janestreet:https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "sourceId": "janestreet",
-      "title": "strace-ui, Bonsai_term, and the TUI renaissance",
-      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "publishedAt": "2026-05-26T00:00:00+00:00",
-      "excerpt": "We\u2019ve always found strace useful but somewhat hard to work with. Its output is often inscrutable, it\u2019s hard to follow subprocesses or threads, and if you want to filter syscalls you have to rerun the trace with a flag for each one. What you",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
-      ]
-    },
-    {
       "id": "instacart:https://tech.instacart.com/how-ai-changes-the-role-of-applied-scientists-895192d5e114?source=rss----587883b5d2ee---4",
       "sourceId": "instacart",
       "title": "How AI Changes the Role of Applied Scientists",
@@ -3089,20 +3118,6 @@
         "data",
         "infrastructure",
         "reliability"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/",
-      "sourceId": "janestreet",
-      "title": "Using group theory to explore the space of positional encodings for attention",
-      "url": "https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/",
-      "publishedAt": "2026-04-22T00:00:00+00:00",
-      "excerpt": "Attention is a computational primitive at the core of modern language models, allowing internal representations to reference and influence each other. It\u2019s how these models handle sequential data in the first place.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
@@ -3349,22 +3364,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/",
-      "sourceId": "datadog",
-      "title": "When upserts don\u2019t update but still write: Debugging Postgres performance at scale",
-      "url": "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/",
-      "publishedAt": "2026-03-23T00:00:00+00:00",
-      "excerpt": "When a high-volume upsert doubled disk writes, Datadog engineers traced the issue to Postgres WAL behavior and rewrote the query to eliminate hidden costs.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure",
-        "databases"
       ]
     },
     {
