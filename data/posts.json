@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-01T06:00:16.622660+00:00",
+  "generatedAt": "2026-10-01T13:22:32.820723+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+      "sourceId": "cloudflare",
+      "title": "One year later: Sovereign AI and the fight for choice",
+      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+      "publishedAt": "2026-10-01T13:04:19+00:00",
+      "excerpt": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/managed-cloudflare-os/",
+      "sourceId": "cloudflare",
+      "title": "Cloudflare OS: your company\u2019s agent workspace, managed for you",
+      "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
+      "publishedAt": "2026-10-01T13:00:00+00:00",
+      "excerpt": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We\u2019re opening the waitlist for fully managed deployments that you\u2019ll be able to launch in a few cli",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "sourceId": "cloudflare",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "publishedAt": "2026-10-01T13:00:00+00:00",
+      "excerpt": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
+      "sourceId": "cloudflare",
+      "title": "Support for modern cryptographic algorithms in Workers",
+      "url": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
+      "publishedAt": "2026-10-01T13:00:00+00:00",
+      "excerpt": "Cloudflare Workers is adding opt-in support for post-quantum-resistant algorithms ML-KEM and ML-DSA. You can try it today.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/100-million-donations/",
       "sourceId": "cloudflare",
@@ -285,66 +345,6 @@
         "infrastructure",
         "frontend",
         "devops"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-      "sourceId": "cloudflare",
-      "title": "Using AI to chart a course for our post-quantum migration",
-      "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-      "publishedAt": "2026-09-29T13:00:00+00:00",
-      "excerpt": "We\u2019re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here\u2019s what we\u2019ve learned so far.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/cloudflare-certificate-authority/",
-      "sourceId": "cloudflare",
-      "title": "Building a certificate authority for the whole Internet",
-      "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
-      "publishedAt": "2026-09-29T13:00:00+00:00",
-      "excerpt": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open web",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/ai-era-framework/",
-      "sourceId": "cloudflare",
-      "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
-      "url": "https://blog.cloudflare.com/ai-era-framework/",
-      "publishedAt": "2026-09-29T13:00:00+00:00",
-      "excerpt": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/pq-ca-with-mtcs/",
-      "sourceId": "cloudflare",
-      "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
-      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
-      "publishedAt": "2026-09-29T13:00:00+00:00",
-      "excerpt": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare\u2019s new certificate authority will support MTC issuance at",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
