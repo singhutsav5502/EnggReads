@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T22:19:00.791393+00:00",
+  "generatedAt": "2026-10-01T06:00:16.622660+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -151,6 +151,91 @@
         "internal",
         "reliability",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/wrought-2026/",
+      "sourceId": "janestreet",
+      "title": "What the interns have wrought, special jumbo 2026 edition",
+      "url": "https://blog.janestreet.com/wrought-2026/",
+      "publishedAt": "2026-09-30T00:00:00+00:00",
+      "excerpt": "It\u2019s time again to review some of what Jane Street\u2019s interns built over the summer, though this year we\u2019re going to try to cover more projects and in more depth. In particular we\u2019re including projects from teams and roles whose work has his",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/wrought-2026-sp/",
+      "sourceId": "janestreet",
+      "title": "What the SP interns have wrought, 2026 edition",
+      "url": "https://blog.janestreet.com/wrought-2026-sp/",
+      "publishedAt": "2026-09-30T00:00:00+00:00",
+      "excerpt": "",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/trading-off-compute-for-memory-with-activation-checkpointing/",
+      "sourceId": "janestreet",
+      "title": "Trading off compute for memory with activation checkpointing",
+      "url": "https://blog.janestreet.com/trading-off-compute-for-memory-with-activation-checkpointing/",
+      "publishedAt": "2026-09-30T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/tdoe-intern-projects-2026/",
+      "sourceId": "janestreet",
+      "title": "What the TDOE interns have wrought, 2026 edition",
+      "url": "https://blog.janestreet.com/tdoe-intern-projects-2026/",
+      "publishedAt": "2026-09-30T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/mitigating-memorization-in-llms/",
+      "sourceId": "janestreet",
+      "title": "Mitigating memorization in LLMs",
+      "url": "https://blog.janestreet.com/mitigating-memorization-in-llms/",
+      "publishedAt": "2026-09-30T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects \u2013 for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "sourceId": "janestreet",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "publishedAt": "2026-09-30T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects \u2013 for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture",
+        "ai"
       ]
     },
     {
@@ -3505,21 +3590,6 @@
       ]
     },
     {
-      "id": "janestreet:https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-      "sourceId": "janestreet",
-      "title": "Can you reverse engineer our neural network?",
-      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-      "publishedAt": "2026-02-24T00:00:00+00:00",
-      "excerpt": "A lot of \u201ccapture-the-flag\u201d style ML puzzles give you a black box neural net, and your job is to figure out what it does. When we were thinking of creating our own ML puzzle early last year, we wanted to do something a little different. We ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "ai"
-      ]
-    },
-    {
       "id": "lyft:https://eng.lyft.com/scaling-localization-with-ai-at-lyft-b04dca99e6ee?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "Scaling Localization with AI at Lyft",
@@ -3626,34 +3696,6 @@
         "internal",
         "culture",
         "data"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/advent-of-fpga-challenge-2025-results/",
-      "sourceId": "janestreet",
-      "title": "Results from the Advent of FPGA Challenge",
-      "url": "https://blog.janestreet.com/advent-of-fpga-challenge-2025-results/",
-      "publishedAt": "2026-02-11T00:00:00+00:00",
-      "excerpt": "At the end of last year, we decided to try something new: a challenge that would run alongside Advent of Code , where we asked the community to show us how they could design hardware to solve the same problems. We had no idea what level of ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "sourceId": "janestreet",
-      "title": "I design with Claude more than Figma now",
-      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "publishedAt": "2026-02-05T00:00:00+00:00",
-      "excerpt": "For a long time I was skeptical of LLMs\u2014whenever I reached for them I was disappointed by the results. Last year I tried Copilot and Cursor to tweak a game I\u2019d built, and neither generated working changes. At a previous job I tried Gemini t",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
@@ -3797,20 +3839,6 @@
       ]
     },
     {
-      "id": "janestreet:https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-      "sourceId": "janestreet",
-      "title": "Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations",
-      "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-      "publishedAt": "2026-01-06T00:00:00+00:00",
-      "excerpt": "I recently ported the Hardcaml_step_testbench library , one of the libraries that we use at Jane Street for Hardcaml simulations, from using monads to using algebraic effects, a new OCaml 5 feature. This blog post walks through what algebra",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
-      ]
-    },
-    {
       "id": "zalando:https://engineering.zalando.com/posts/2025/12/contributing-to-debezium.html",
       "sourceId": "zalando",
       "title": "Contributing to Debezium: Fixing Logical Replication at Scale",
@@ -3851,20 +3879,6 @@
         "internal",
         "devops",
         "databases"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/getting-from-tested-to-battle-tested/",
-      "sourceId": "janestreet",
-      "title": "Getting from tested to battle-tested",
-      "url": "https://blog.janestreet.com/getting-from-tested-to-battle-tested/",
-      "publishedAt": "2025-12-03T00:00:00+00:00",
-      "excerpt": "Testing is an essential part of building reliable software. It\u2019s a form of documentation, a reminder of mistakes of the past, and a boost of confidence when you want to refactor. But mostly, testing is a way of showing that your code is cor",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
@@ -3911,20 +3925,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/advent-of-fpga-challenge-2025/",
-      "sourceId": "janestreet",
-      "title": "Advent of FPGA \u2014 A Jane Street Challenge",
-      "url": "https://blog.janestreet.com/advent-of-fpga-challenge-2025/",
-      "publishedAt": "2025-11-24T00:00:00+00:00",
-      "excerpt": "Update: We got over 200 submissions to this challenge, spanning a wide variety of HDL languages and hardware platforms! We featured our favorite submissions in the results blog post, check it out here",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
