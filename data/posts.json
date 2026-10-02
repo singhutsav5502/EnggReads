@@ -1,9 +1,159 @@
 {
-  "generatedAt": "2026-10-02T12:41:18.189763+00:00",
+  "generatedAt": "2026-10-02T22:16:58.048261+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/streamline/",
+      "sourceId": "cloudflare",
+      "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+      "url": "https://blog.cloudflare.com/streamline/",
+      "publishedAt": "2026-10-02T16:13:45+00:00",
+      "excerpt": "Streamline demonstrates how to build long-running, continuous video processing pipelines by pairing Cloudflare Workers and Durable Objects with a containerized media engine.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/one-observability-platform/",
+      "sourceId": "cloudflare",
+      "title": "8 major updates to Cloudflare Observability",
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
+      "publishedAt": "2026-10-02T13:00:00+00:00",
+      "excerpt": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "reliability",
+        "data"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/enterprise-for-all-update/",
+      "sourceId": "cloudflare",
+      "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+      "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
+      "publishedAt": "2026-10-02T13:00:00+00:00",
+      "excerpt": "A year after pledging to eliminate two-tier product access, Cloudflare has expanded Logpush, multi-account governance, and higher platform limits to all accounts. Here is an update on our progress, how we dogfood these tools internally, and",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+      "sourceId": "cloudflare",
+      "title": "Follow the thread: a new dashboard to investigate account abuse",
+      "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+      "publishedAt": "2026-10-02T13:00:00+00:00",
+      "excerpt": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/protected-quick-tunnels/",
+      "sourceId": "cloudflare",
+      "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+      "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
+      "publishedAt": "2026-10-02T13:00:00+00:00",
+      "excerpt": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/civil-society-automation/",
+      "sourceId": "cloudflare",
+      "title": "Building for good: How civil society organizations are automating on Cloudflare",
+      "url": "https://blog.cloudflare.com/civil-society-automation/",
+      "publishedAt": "2026-10-02T13:00:00+00:00",
+      "excerpt": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+      "sourceId": "cloudflare",
+      "title": "2026 Birthday week: network performance update",
+      "url": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+      "publishedAt": "2026-10-02T13:00:00+00:00",
+      "excerpt": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/seer-mcp-cli-or-coding-agent/",
+      "sourceId": "sentry",
+      "title": "Seer, the Sentry MCP and CLI, or your own coding agent: where each one fits",
+      "url": "https://blog.sentry.io/seer-mcp-cli-or-coding-agent/",
+      "publishedAt": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Seer, the Sentry agent plugin, the CLI, and coding agents aren't competing options. Here's what each one does that the others don't.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/how-recurring-network-maintenance-exposed-6-bugs/",
+      "sourceId": "janestreet",
+      "title": "How recurring network maintenance exposed 6 bugs",
+      "url": "https://blog.janestreet.com/how-recurring-network-maintenance-exposed-6-bugs/",
+      "publishedAt": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Jane Street does a lot of network maintenance over the weekends. In each maintenance, a cabinet may lose connectivity for 15 to 25 minutes. Our internal Kafka infrastructure is supposed to be resilient to these partitions, and reconnect whe",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture",
+        "data"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/asic-puzzle-results/",
+      "sourceId": "janestreet",
+      "title": "Results from the ASIC puzzle",
+      "url": "https://blog.janestreet.com/asic-puzzle-results/",
+      "publishedAt": "2026-10-02T00:00:00+00:00",
+      "excerpt": "",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
       "sourceId": "cloudflare",
@@ -128,111 +278,6 @@
       "url": "https://blog.cloudflare.com/100-million-donations/",
       "publishedAt": "2026-09-30T13:01:55+00:00",
       "excerpt": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public s",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/auto-router/",
-      "sourceId": "cloudflare",
-      "title": "Cut your AI spend with AI Gateway's Auto Router",
-      "url": "https://blog.cloudflare.com/auto-router/",
-      "publishedAt": "2026-09-30T13:00:00+00:00",
-      "excerpt": "Cloudflare AI Gateway now features a model router that evaluates request complexity using an edge-deployed classifier to select the optimal model. By balancing expected output quality against token costs, organizations can dramatically cut ",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/real-time-issue-detection/",
-      "sourceId": "cloudflare",
-      "title": "Detect and send production issues straight to your agent",
-      "url": "https://blog.cloudflare.com/real-time-issue-detection/",
-      "publishedAt": "2026-09-30T13:00:00+00:00",
-      "excerpt": "You can now use built-in error monitoring in Cloudflare Workers to group production failures and send stack traces, logs, traces, and application context directly to a coding agent to investigate further and open a pull request.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/simplifying-domains/",
-      "sourceId": "cloudflare",
-      "title": "Simplifying domains for people and agents",
-      "url": "https://blog.cloudflare.com/simplifying-domains/",
-      "publishedAt": "2026-09-30T13:00:00+00:00",
-      "excerpt": "Cloudflare Registrar\u2019s new search delivers fast, transparent results across 420+ extensions using Workers, Durable Objects, and WebSockets. Its expanded API and cf CLI also let agents search, register, and transfer domains.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/monetization-gateway-beta/",
-      "sourceId": "cloudflare",
-      "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
-      "url": "https://blog.cloudflare.com/monetization-gateway-beta/",
-      "publishedAt": "2026-09-30T13:00:00+00:00",
-      "excerpt": "Cloudflare\u2019s AI Gateway, Ceramic.ai, Stocktwits, and more are using the Cloudflare Monetization Gateway today to charge agents for access to tokens, APIs, and MCP tools. U.S.-based sellers can now apply for access to the closed beta.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/ai-model-overuse-user-insights/",
-      "sourceId": "cloudflare",
-      "title": "Identify AI model overuse with User Insights",
-      "url": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
-      "publishedAt": "2026-09-30T13:00:00+00:00",
-      "excerpt": "AI Gateway User Insights now adds task, model, turn, and user categories to help teams understand AI adoption and make better model decisions. This is available free to AI Gateway users.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/faster-agent-sandboxes/",
-      "sourceId": "cloudflare",
-      "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
-      "url": "https://blog.cloudflare.com/faster-agent-sandboxes/",
-      "publishedAt": "2026-09-30T12:58:00+00:00",
-      "excerpt": "Cloudflare Containers now start 6x faster, let your agent choose each sandbox's image and instance type at runtime, and support filesystem snapshots in public beta, all controlled from a Durable Object.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/agentic-web/",
-      "sourceId": "cloudflare",
-      "title": "The Internet has a second audience",
-      "url": "https://blog.cloudflare.com/agentic-web/",
-      "publishedAt": "2026-09-30T12:58:00+00:00",
-      "excerpt": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access.",
       "tags": [
         "recommended",
         "infrastructure",
@@ -618,20 +663,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "sourceId": "deliveroo",
-      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
-      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
       "sourceId": "planetscale",
       "title": "Anatomy of a (Postgres) search engine",
@@ -643,6 +674,20 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "sourceId": "deliveroo",
+      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
@@ -2039,20 +2084,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/session-replay-unreal-engine/",
-      "sourceId": "sentry",
-      "title": "Session Replay for Unreal Engine: see the crash before the crash",
-      "url": "https://blog.sentry.io/session-replay-unreal-engine/",
-      "publishedAt": "2026-07-24T09:00:00+00:00",
-      "excerpt": "The Sentry Unreal Engine SDK now records the last seconds of gameplay and attaches the footage to crash reports, so you can watch what led to the crash.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/how-grab-builds-and-runs-ai-agents-at-scale",
       "sourceId": "grab",
       "title": "Agent platform (Part 1): How we help Grab build and run AI agents at scale",
@@ -2640,21 +2671,6 @@
       ]
     },
     {
-      "id": "janestreet:https://blog.janestreet.com/oxcaml-typesafe-reference-counting-python/",
-      "sourceId": "janestreet",
-      "title": "Using OxCaml to implement type-safe reference counting between OCaml and Python",
-      "url": "https://blog.janestreet.com/oxcaml-typesafe-reference-counting-python/",
-      "publishedAt": "2026-06-15T00:00:00+00:00",
-      "excerpt": "Jane Street is known for being an OCaml shop, but for years now Python has been our second major programming language, acting as the primary tool for data analysis and (especially importantly these days) machine learning. Most of our trader",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "ai"
-      ]
-    },
-    {
       "id": "dropbox:https://dropbox.tech/security/dropbox-mcp-dash-design-code-security",
       "sourceId": "dropbox",
       "title": "How Dropbox uses MCP and Dash to close the design-to-code security gap",
@@ -2760,20 +2776,6 @@
         "internal",
         "devops",
         "security"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-      "sourceId": "janestreet",
-      "title": "Formal methods and the future of programming",
-      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-      "publishedAt": "2026-06-07T00:00:00+00:00",
-      "excerpt": "I\u2019ve been telling people for the last 25 years that Jane Street as an organization was just not interested in formal methods.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
