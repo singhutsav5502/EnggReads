@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:42:58.270933+00:00",
+  "generatedAt": "2026-10-02T12:41:18.189763+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -80,20 +80,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Designing Neki for performance",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -119,6 +105,20 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Designing Neki for performance",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -618,20 +618,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "sourceId": "planetscale",
-      "title": "Anatomy of a (Postgres) search engine",
-      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
       "sourceId": "deliveroo",
       "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
@@ -643,6 +629,20 @@
         "internal",
         "data",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "sourceId": "planetscale",
+      "title": "Anatomy of a (Postgres) search engine",
+      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
