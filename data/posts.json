@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-10-04T12:25:59.637769+00:00",
+  "generatedAt": "2026-10-04T21:31:19.178520+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/one-observability-platform/",
+      "sourceId": "cloudflare",
+      "title": "8 major updates to Cloudflare Observability",
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
+      "publishedAt": "2026-10-02T18:00:00+00:00",
+      "excerpt": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "reliability",
+        "data"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/streamline/",
       "sourceId": "cloudflare",
@@ -17,23 +34,6 @@
         "security",
         "engineering",
         "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/one-observability-platform/",
-      "sourceId": "cloudflare",
-      "title": "8 major updates to Cloudflare Observability",
-      "url": "https://blog.cloudflare.com/one-observability-platform/",
-      "publishedAt": "2026-10-02T13:00:00+00:00",
-      "excerpt": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "reliability",
-        "data"
       ]
     },
     {
