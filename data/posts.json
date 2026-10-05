@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-05T05:46:22.317094+00:00",
+  "generatedAt": "2026-10-05T14:46:34.241139+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/one-year-later-1111-interns/",
+      "sourceId": "cloudflare",
+      "title": "One year later: the power of 1.1.1.1 interns",
+      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+      "publishedAt": "2026-10-05T13:00:00+00:00",
+      "excerpt": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies ",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "grab:https://engineering.grab.com/powering-ai-led-research-through-simulation",
+      "sourceId": "grab",
+      "title": "Powering AI-led research through simulation",
+      "url": "https://engineering.grab.com/powering-ai-led-research-through-simulation",
+      "publishedAt": "2026-10-05T00:00:00+00:00",
+      "excerpt": "The short story Consider a Friday evening. A food order arrives from a mall in the city center. One driver is nearby; another is finishing a drop-off and will be available shortly; a second order from the same mall may or may not appear in ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "devops"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/one-observability-platform/",
       "sourceId": "cloudflare",
@@ -269,21 +299,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/100-million-donations/",
-      "sourceId": "cloudflare",
-      "title": "Cloudflare Impact reaches $100 million in donations",
-      "url": "https://blog.cloudflare.com/100-million-donations/",
-      "publishedAt": "2026-09-30T13:01:55+00:00",
-      "excerpt": "This week, Cloudflare's Impact programs will reach $100 million in donated services. This milestone means that thousands of entities including journalists, civil society, state and local governments, election management bodies, and public s",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -565,6 +580,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -577,20 +606,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -2602,23 +2617,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/scaling-out-distroless-adoption-with-ai",
-      "sourceId": "grab",
-      "title": "Scaling out Distroless adoption With AI",
-      "url": "https://engineering.grab.com/scaling-out-distroless-adoption-with-ai",
-      "publishedAt": "2026-06-22T00:00:00+00:00",
-      "excerpt": "Distroless adoption at Grab Grab is migrating from heavy base images to Distroless images to reduce security risks. By limiting each container to the application and its runtime dependencies, we shed non-essential binaries and associated Co",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "security",
-        "databases",
-        "devops"
       ]
     },
     {
