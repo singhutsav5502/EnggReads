@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:31:19.178520+00:00",
+  "generatedAt": "2026-10-05T05:46:22.317094+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -562,6 +562,21 @@
         "infrastructure",
         "devops",
         "frontend"
+      ]
+    },
+    {
+      "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
+      "sourceId": "grab",
+      "title": "Automated merchant review summary system with integrated feedback",
+      "url": "https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Introduction Merchant reviews contain useful details about food quality, portion size, packaging, and value. Finding these details often requires reading many comments. Aggregate ratings simplify comparisons, but they do not explain what sh",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "ai"
       ]
     },
     {
@@ -2604,25 +2619,6 @@
         "security",
         "databases",
         "devops"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/part-2-palana-architecture",
-      "sourceId": "grab",
-      "title": "Palana (Part 2): Architecting isolation, identity, and auditability for AI agents",
-      "url": "https://engineering.grab.com/part-2-palana-architecture",
-      "publishedAt": "2026-06-21T00:00:00+00:00",
-      "excerpt": "Introduction In Part 1 , we introduced Palana , Grab\u2019s Kubernetes-native secure execution platform for autonomous AI agents. We discussed the underlying need for isolated environments and covered its core design principles: treating isolati",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "security",
-        "frontend"
       ]
     },
     {
