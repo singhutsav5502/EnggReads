@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-06T00:05:42.710515+00:00",
+  "generatedAt": "2026-10-06T06:25:52.129678+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 358,
   "posts": [
+    {
+      "id": "grab:https://engineering.grab.com/price-sensitivity-profiling-using-llm",
+      "sourceId": "grab",
+      "title": "Smarter personalization: How property data helps us understand user price sensitivity",
+      "url": "https://engineering.grab.com/price-sensitivity-profiling-using-llm",
+      "publishedAt": "2026-10-06T00:23:00+00:00",
+      "excerpt": "Introduction Existing systems estimate user price sensitivity primarily from spending behavior or demographic proxies. They do not systematically account for residential property values, which can indicate a user\u2019s financial circumstances. ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "ai"
+      ]
+    },
     {
       "id": "gusto:https://engineering.gusto.com/gusto-went-to-ldx3-nyc-d06db21cde62?source=rss----645edd256348---4",
       "sourceId": "gusto",
@@ -2318,24 +2333,6 @@
         "data",
         "infrastructure",
         "frontend"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/counter-service-storage-migration",
-      "sourceId": "grab",
-      "title": "Migrating Counter Service storage: Design choices and learnings",
-      "url": "https://engineering.grab.com/counter-service-storage-migration",
-      "publishedAt": "2026-07-03T00:00:00+00:00",
-      "excerpt": "Introduction Counter Service is used across Grab\u2019s anti-fraud platform to answer time-windowed count questions, such as recent ride requests by a user or failed payment attempts on a card. The service handles tens of thousands of queries pe",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "infrastructure",
-        "reliability",
-        "databases",
-        "devops"
       ]
     },
     {
