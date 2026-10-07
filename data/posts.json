@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-10-07T13:29:32.879685+00:00",
+  "generatedAt": "2026-10-07T23:07:53.465019+00:00",
   "feedCount": 37,
-  "fetchedOk": 34,
-  "postCount": 348,
+  "fetchedOk": 35,
+  "postCount": 358,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/agentic-security-operations/",
+      "sourceId": "cloudflare",
+      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+      "url": "https://blog.cloudflare.com/agentic-security-operations/",
+      "publishedAt": "2026-10-07T16:30:36+00:00",
+      "excerpt": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded rec",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/leaky-buckets-in-software-explained",
+      "sourceId": "planetscale",
+      "title": "What today's software owes to Bronze Age clocks",
+      "url": "https://planetscale.com/blog/leaky-buckets-in-software-explained",
+      "publishedAt": "2026-10-07T00:00:00+00:00",
+      "excerpt": "Here's a deceptively simple question: should this function execute? Sometimes, the answer is obvious. Is the user logged in? Does their role have the required permissions? Sometimes it's less obvious. Are there sufficient resources availabl",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "ai"
+      ]
+    },
     {
       "id": "github:https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
       "sourceId": "github",
@@ -366,21 +397,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "sourceId": "cloudflare",
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "publishedAt": "2026-10-01T13:00:00+00:00",
-      "excerpt": "Cloudflare is hosting a competition to see who will build the next Git platform for an era of AI agents. Artifacts is in open beta, with Workers bindings, data jurisdiction controls, and event subscriptions for repository changes.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/distributed-datafusion/",
       "sourceId": "datadog",
       "title": "How we extended Apache DataFusion to execute one query across many machines",
@@ -392,6 +408,20 @@
         "engineering",
         "internal",
         "reliability",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Designing Neki for performance",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
         "infrastructure"
       ]
     },
@@ -421,20 +451,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Designing Neki for performance",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -827,6 +843,20 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "sourceId": "deliveroo",
+      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
@@ -1488,21 +1518,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/dealing-with-large-tables-in-postgres",
-      "sourceId": "planetscale",
-      "title": "Problems with large tables in Postgres",
-      "url": "https://planetscale.com/blog/dealing-with-large-tables-in-postgres",
-      "publishedAt": "2026-08-25T00:00:00+00:00",
-      "excerpt": "Tell me to stop when I name the largest table in your database: logs , ledger , notifications , feed , events , chonk ... admit it, I got it, right? Product success leads to lots of data, lots of data leads to big tables, but big tables lea",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability"
       ]
     },
     {
@@ -3379,6 +3394,22 @@
       ]
     },
     {
+      "id": "deliveroo:https://deliveroo.engineering/2026/02/27/unlocking-ai-innovation-through-automated-governance.html",
+      "sourceId": "deliveroo",
+      "title": "Unlocking AI innovation through automated governance",
+      "url": "https://deliveroo.engineering/2026/02/27/unlocking-ai-innovation-through-automated-governance.html",
+      "publishedAt": "2026-02-27T00:00:00+00:00",
+      "excerpt": "Over the past two years, we\u2019ve witnessed a Cambrian explosion of AI development, with Generative and Agentic AI capturing stakeholders\u2019 attention. AI/ML Engineers are delivering real business value by intermixing LLMs and agentic systems wi",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "reliability",
+        "devops"
+      ]
+    },
+    {
       "id": "instacart:https://tech.instacart.com/our-early-journey-to-transform-instacarts-discovery-recommendations-with-llms-cf4591a8602b?source=rss----587883b5d2ee---4",
       "sourceId": "instacart",
       "title": "Our Early Journey to Transform Instacart\u2019s Discovery Recommendations with LLMs",
@@ -3466,6 +3497,20 @@
         "reliability",
         "security",
         "databases"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/02/16/demystifying-ai-agents.html",
+      "sourceId": "deliveroo",
+      "title": "De-mystifying AI Agent Applications",
+      "url": "https://deliveroo.engineering/2026/02/16/demystifying-ai-agents.html",
+      "publishedAt": "2026-02-16T00:00:00+00:00",
+      "excerpt": "LLMs, MCPs, RAG. There are lots of acronyms in the AI space, but what do they all mean? Dear reader, despite being a software engineer who works in the machine learning space, I confess there was a time I wasn\u2019t really sure. Fortunately, wi",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
@@ -3778,6 +3823,22 @@
       ]
     },
     {
+      "id": "deliveroo:https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
+      "sourceId": "deliveroo",
+      "title": "Engineering at Deliveroo India: How We Build, Collaborate, and Grow",
+      "url": "https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
+      "publishedAt": "2025-11-06T00:00:00+00:00",
+      "excerpt": "Hey everyone, I\u2019m Kartik Visvanathan , an Engineering Manager at Deliveroo, based in India. I joined the team in 2023, and it\u2019s been an exciting ride ever since. I\u2019ve built some truly impactful products here, including an advertising platfo",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "reliability",
+        "mobile"
+      ]
+    },
+    {
       "id": "asos:https://medium.com/asos-techblog/android-clean-architecture-understanding-the-data-layer-a8df03b508c2?source=rss----6757df096022---4",
       "sourceId": "asos",
       "title": "Android Clean Architecture: Understanding the Data Layer",
@@ -3974,6 +4035,20 @@
       ]
     },
     {
+      "id": "deliveroo:https://deliveroo.engineering/2025/09/12/cost-optimisation-in-ecs.html",
+      "sourceId": "deliveroo",
+      "title": "Cost Optimisation in ECS: Integrating Spot Instances at Scale",
+      "url": "https://deliveroo.engineering/2025/09/12/cost-optimisation-in-ecs.html",
+      "publishedAt": "2025-09-12T00:00:00+00:00",
+      "excerpt": "At Deliveroo, we\u2019re always refining how we scale - especially when it comes to managing compute costs in the cloud. After optimising our Amazon ECS workloads with Reserved Instances and Savings Plans, we saw an opportunity to push further u",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "reliability"
+      ]
+    },
+    {
       "id": "zendesk:https://zendesk.engineering/heartbeats-75cd476b7b04?source=rss----a88376ea904a---4",
       "sourceId": "zendesk",
       "title": "Heartbeats",
@@ -4097,6 +4172,23 @@
         "data",
         "infrastructure",
         "ai"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2025/07/02/deliveroo-ml-platform.html",
+      "sourceId": "deliveroo",
+      "title": "Deliveroo's Machine Learning Platform: Powering the Future of ML",
+      "url": "https://deliveroo.engineering/2025/07/02/deliveroo-ml-platform.html",
+      "publishedAt": "2025-07-02T00:00:00+00:00",
+      "excerpt": "Enter Deliveroo\u2019s ML Platform For the past three years, we have been building Deliveroo\u2019s Machine Learning Platform, or the ML Platform as we like to call it. The ML Platform boosts our model-building and deployment capabilities by standard",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "infrastructure",
+        "reliability",
+        "databases"
       ]
     },
     {
@@ -4358,6 +4450,19 @@
       ]
     },
     {
+      "id": "deliveroo:https://deliveroo.engineering/2025/03/24/my-journey-so-far-as-a-senior-staff-engineer.html",
+      "sourceId": "deliveroo",
+      "title": "Antonio Troina: My Journey So Far as a Senior Staff Software Engineer",
+      "url": "https://deliveroo.engineering/2025/03/24/my-journey-so-far-as-a-senior-staff-engineer.html",
+      "publishedAt": "2025-03-24T00:00:00+00:00",
+      "excerpt": "Could you introduce yourself and your role at Deliveroo? I\u2019m Antonio, a Senior Staff Engineer at Deliveroo. I have been with Deliveroo for six and a half years, overseeing the entire New Verticals domain as well as the Catalogues space, as ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data"
+      ]
+    },
+    {
       "id": "zendesk:https://zendesk.engineering/less-is-more-improving-job-execution-by-ditching-the-job-executor-d00eff680de4?source=rss----a88376ea904a---4",
       "sourceId": "zendesk",
       "title": "Less is More: Improving job execution by ditching the job executor",
@@ -4370,6 +4475,21 @@
         "backend",
         "infrastructure",
         "databases"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2025/03/13/roo-tech-showcase-blog.html",
+      "sourceId": "deliveroo",
+      "title": "Women in Tech presents: Roo Tech Showcase",
+      "url": "https://deliveroo.engineering/2025/03/13/roo-tech-showcase-blog.html",
+      "publishedAt": "2025-03-13T00:00:00+00:00",
+      "excerpt": "The Women in Tech Employee Resource Group (ERG) at Deliveroo was officially founded in 2023, and we are proud to represent an amazing community of female employees who identify as working in Tech at Deliveroo. This includes, but is not limi",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "frontend",
+        "mobile"
       ]
     },
     {
@@ -4444,6 +4564,19 @@
         "frontend",
         "infrastructure",
         "ai"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2025/02/20/my-journey-so-far.html",
+      "sourceId": "deliveroo",
+      "title": "Gina Wiley: My Journey So Far as a Senior Engineering Manager",
+      "url": "https://deliveroo.engineering/2025/02/20/my-journey-so-far.html",
+      "publishedAt": "2025-02-20T00:00:00+00:00",
+      "excerpt": "Could you introduce yourself and your role at Deliveroo? I\u2019m Gina, I\u2019m a Senior Engineering Manager at Deliveroo. I lead our Consumer Experience group in our New Verticals engineering team, and I\u2019ve been at Deliveroo for five years. Could y",
+      "tags": [
+        "engineering",
+        "internal",
+        "data"
       ]
     },
     {
@@ -4541,6 +4674,19 @@
         "internal",
         "infrastructure",
         "ai"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2025/02/06/experimentation-principles.html",
+      "sourceId": "deliveroo",
+      "title": "Deliveroo experimentation principles",
+      "url": "https://deliveroo.engineering/2025/02/06/experimentation-principles.html",
+      "publishedAt": "2025-02-06T00:00:00+00:00",
+      "excerpt": "Experimentation at Deliveroo has significantly boosted our innovation as a company. It has allowed us to explore new ideas, protected us from unforeseen challenges by preventing wasted time and resources on ineffective initiatives, and prom",
+      "tags": [
+        "engineering",
+        "internal",
+        "data"
       ]
     },
     {
