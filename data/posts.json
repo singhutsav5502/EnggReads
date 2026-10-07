@@ -1,9 +1,100 @@
 {
-  "generatedAt": "2026-10-06T06:25:52.129678+00:00",
+  "generatedAt": "2026-10-07T06:04:39.768975+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 358,
   "posts": [
+    {
+      "id": "github:https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "sourceId": "github",
+      "title": "Building Git infrastructure for agent-scale development",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "publishedAt": "2026-10-06T20:57:56+00:00",
+      "excerpt": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/root-ksk-2024-rollover/",
+      "sourceId": "cloudflare",
+      "title": "The keys to the Internet change on October 11. Are you ready?",
+      "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+      "publishedAt": "2026-10-06T17:50:11+00:00",
+      "excerpt": "On October 11, 2026, the DNS root switches to a new key-signing key (KSK-2024). Learn what this means for you, and how RFC 8509 trust anchor sentinels allow you to test whether your DNS resolver is ready for the rollover.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "airbnb:https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4",
+      "sourceId": "airbnb",
+      "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+      "url": "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4",
+      "publishedAt": "2026-10-06T17:01:04+00:00",
+      "excerpt": "How we capture real production database traffic at Airbnb and replay it offline to load-test, plan capacity, and de-risk upgrades. By: Zuofei Wang , Erluo Li Introduction At Airbnb, MySQL-compatible databases are a critical backbone of our ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "reliability",
+        "databases"
+      ]
+    },
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/metrics-board-building-an-agent-ready-metrics-layer-2c8fefe68756?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Metrics Board: Building an Agent-ready Metrics Layer",
+      "url": "https://medium.com/pinterest-engineering/metrics-board-building-an-agent-ready-metrics-layer-2c8fefe68756?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-10-06T16:01:02+00:00",
+      "excerpt": "Michele Ceccacci; Software Engineer I | Jason Coffman; Sr. Software Engineer | Colm O\u2019Shaughnessy; Software Engineer II | Laura Palmer; Staff Product Manager | Adam Podraza; Manager, Engineering | Surya Karri; Manager, Engineering At Pinter",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "reliability"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+      "sourceId": "meta",
+      "title": "NTS: Authenticated Time at Meta",
+      "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+      "publishedAt": "2026-10-06T16:00:06+00:00",
+      "excerpt": "Meta\u2019s public time service now speaks NTS (Network Time Security, RFC 8915) at nts.meta.com. Packets are authenticated, so a device can verify the time came from us and was not modified on the way. Our NTS servers hold no per-client state. ",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure",
+        "security"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/unreal-mcp-sentry/",
+      "sourceId": "sentry",
+      "title": "Unreal MCP now speaks Sentry",
+      "url": "https://blog.sentry.io/unreal-mcp-sentry/",
+      "publishedAt": "2026-10-06T09:00:00+00:00",
+      "excerpt": "Unreal Engine 5.8's Unreal MCP lets coding agents drive the editor. Sentry's plugin adds tools and skills to set up Sentry and debug crashes.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
     {
       "id": "grab:https://engineering.grab.com/price-sensitivity-profiling-using-llm",
       "sourceId": "grab",
@@ -17,6 +108,20 @@
         "data",
         "mobile",
         "ai"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/config-management-orchestrator-for-windows/",
+      "sourceId": "janestreet",
+      "title": "Building and testing a config management orchestrator for Windows",
+      "url": "https://blog.janestreet.com/config-management-orchestrator-for-windows/",
+      "publishedAt": "2026-10-06T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
       ]
     },
     {
@@ -49,6 +154,20 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "sourceId": "janestreet",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "publishedAt": "2026-10-05T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
       ]
     },
     {
@@ -262,21 +381,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
-      "sourceId": "cloudflare",
-      "title": "Support for modern cryptographic algorithms in Workers",
-      "url": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
-      "publishedAt": "2026-10-01T13:00:00+00:00",
-      "excerpt": "Cloudflare Workers is adding opt-in support for post-quantum-resistant algorithms ML-KEM and ML-DSA. You can try it today.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/distributed-datafusion/",
       "sourceId": "datadog",
       "title": "How we extended Apache DataFusion to execute one query across many machines",
@@ -288,6 +392,20 @@
         "engineering",
         "internal",
         "reliability",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Designing Neki for performance",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
         "infrastructure"
       ]
     },
@@ -317,20 +435,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Designing Neki for performance",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -599,6 +703,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -611,20 +729,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -964,20 +1068,6 @@
         "infrastructure",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
-      "sourceId": "janestreet",
-      "title": "A study of sequence weighting at scale",
-      "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
-      "publishedAt": "2026-09-14T00:00:00+00:00",
-      "excerpt": "TL;DR: We study the scaling laws of data weighting across in-house and open-weight LMs, finding non-monotonic behavior across scales. We vary the weight assigned to sequences during training and measure how strongly the model\u2019s loss reducti",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
@@ -1755,49 +1845,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
-      "sourceId": "meta",
-      "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta\u2019s Ads Ranking",
-      "url": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
-      "publishedAt": "2026-08-05T19:20:20+00:00",
-      "excerpt": "Every day, Meta\u2019s recommendation platforms handle billions of user interactions, generating rich temporal signals that capture individual preferences and intent across products, ads, and content. In our 2024 post on sequence learning for ad",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/otel-spans-errors-sentry-trace/",
-      "sourceId": "sentry",
-      "title": "Your OTel spans, our errors: A Sentry love story in one trace",
-      "url": "https://blog.sentry.io/otel-spans-errors-sentry-trace/",
-      "publishedAt": "2026-08-05T09:00:00+00:00",
-      "excerpt": "The OtlpIntegration bridges OTel traces and Sentry errors. Keep your OTel setup, add Sentry for errors, and see both in one trace waterfall.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-      "sourceId": "janestreet",
-      "title": "Can you reverse engineer an ASIC?",
-      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-      "publishedAt": "2026-08-05T00:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
-      ]
-    },
-    {
       "id": "github:https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
       "sourceId": "github",
       "title": "Turn one giant AI-generated pull request to a reviewable stack",
@@ -2277,21 +2324,6 @@
       ]
     },
     {
-      "id": "github:https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
-      "sourceId": "github",
-      "title": "Better tools made Copilot code review worse. Here\u2019s how we actually improved it.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
-      "publishedAt": "2026-07-10T15:57:47+00:00",
-      "excerpt": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here\u2019s how we actually improv",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "devops"
-      ]
-    },
-    {
       "id": "snap:https://eng.snap.com/specs_gnss",
       "sourceId": "snap",
       "title": "GNSS Tracking for Specs",
@@ -2455,23 +2487,6 @@
       ]
     },
     {
-      "id": "pinterest:https://medium.com/pinterest-engineering/automated-schema-evolution-in-pinterests-next-generation-db-ingestion-framework-36c5c07070de?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Automated Schema Evolution in Pinterest\u2019s Next-Generation DB Ingestion Framework",
-      "url": "https://medium.com/pinterest-engineering/automated-schema-evolution-in-pinterests-next-generation-db-ingestion-framework-36c5c07070de?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-06-24T18:01:01+00:00",
-      "excerpt": "Yisheng Zhou | Software Engineer II Liang Mou | Sr Staff Software Engineer Gabriel Raphael Garcia Montoya | Staff Software Engineer Istvan Podor | Staff Software Engineer Introduction In the first post of this series , we introduced Pintere",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability",
-        "databases",
-        "devops"
-      ]
-    },
-    {
       "id": "mozilla:https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
       "sourceId": "mozilla",
       "title": "PACT: Anonymous Credentials for the Web",
@@ -2615,21 +2630,6 @@
         "data",
         "infrastructure",
         "reliability",
-        "databases"
-      ]
-    },
-    {
-      "id": "airbnb:https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4",
-      "sourceId": "airbnb",
-      "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
-      "url": "https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4",
-      "publishedAt": "2026-06-09T17:01:02+00:00",
-      "excerpt": "How Airbnb\u2019s data engineers and analytics engineers built a consistent and flexible data modeling framework to support the expansion into Homes, Experiences, and Services. By : Patrick Lam , Namrata Lamba , Jamie Stober With the May 2025 Su",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
         "databases"
       ]
     },
