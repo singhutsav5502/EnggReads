@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-10-08T06:10:08.954421+00:00",
+  "generatedAt": "2026-10-08T13:36:02.540216+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
-  "postCount": 358,
+  "postCount": 357,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/radar-redesign/",
+      "sourceId": "cloudflare",
+      "title": "Bridging technical depth and usability: The story behind Radar\u2019s redesign",
+      "url": "https://blog.cloudflare.com/radar-redesign/",
+      "publishedAt": "2026-10-08T13:00:00+00:00",
+      "excerpt": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience \u2014 including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized compo",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "reliability"
+      ]
+    },
+    {
+      "id": "zalando:https://engineering.zalando.com/posts/2026/10/thundering-herd-of-circuit-breakers.html",
+      "sourceId": "zalando",
+      "title": "Thundering herd of circuit breakers",
+      "url": "https://engineering.zalando.com/posts/2026/10/thundering-herd-of-circuit-breakers.html",
+      "publishedAt": "2026-10-07T22:00:00+00:00",
+      "excerpt": "A client-side circuit breaker stays open for hours, blocking 95% of traffic, and won't close. Our service shows no sign of being unhealthy. To understand the anomaly, we build a custom span visualizer on top of OpenTelemetry trace data and ",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/agentic-security-operations/",
       "sourceId": "cloudflare",
@@ -382,21 +411,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/managed-cloudflare-os/",
-      "sourceId": "cloudflare",
-      "title": "Cloudflare OS: your company\u2019s agent workspace, managed for you",
-      "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
-      "publishedAt": "2026-10-01T13:00:00+00:00",
-      "excerpt": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems. We\u2019re opening the waitlist for fully managed deployments that you\u2019ll be able to launch in a few cli",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/distributed-datafusion/",
       "sourceId": "datadog",
       "title": "How we extended Apache DataFusion to execute one query across many machines",
@@ -719,6 +733,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -731,20 +759,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -832,20 +846,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "sourceId": "deliveroo",
-      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
-      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
       "sourceId": "planetscale",
       "title": "Anatomy of a (Postgres) search engine",
@@ -857,6 +857,20 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "sourceId": "deliveroo",
+      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
@@ -2029,20 +2043,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "spotify:https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/",
-      "sourceId": "spotify",
-      "title": "Indexing the Data Lake for Online Point Queries",
-      "url": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/",
-      "publishedAt": "2026-07-27T20:34:28+00:00",
-      "excerpt": "Companies like Spotify need vast quantities of data accessible at low latency for online services and,... The post Indexing the Data Lake for Online Point Queries appeared first on Spotify Engineering .",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure"
       ]
     },
     {
@@ -3729,20 +3729,6 @@
       ]
     },
     {
-      "id": "zalando:https://engineering.zalando.com/posts/2025/12/we-hacked-ourselves-so-you-dont-have-to.html",
-      "sourceId": "zalando",
-      "title": "The Day Our Own Queries DoS\u2019ed Us: Inside Zalando Search",
-      "url": "https://engineering.zalando.com/posts/2025/12/we-hacked-ourselves-so-you-dont-have-to.html",
-      "publishedAt": "2025-12-16T23:00:00+00:00",
-      "excerpt": "Once upon a time, during a normal Sunday, our team ran into an unexpected challenge: an Elasticsearch cluster that suddenly became sluggish and unresponsive due to a self-inflicted Denial of Service (DoS) attack (of course we didn't know it",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/litestream-vfs/",
       "sourceId": "fly",
       "title": "Litestream VFS",
@@ -3805,22 +3791,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
-      "sourceId": "deliveroo",
-      "title": "Engineering at Deliveroo India: How We Build, Collaborate, and Grow",
-      "url": "https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
-      "publishedAt": "2025-11-06T00:00:00+00:00",
-      "excerpt": "Hey everyone, I\u2019m Kartik Visvanathan , an Engineering Manager at Deliveroo, based in India. I joined the team in 2023, and it\u2019s been an exciting ride ever since. I\u2019ve built some truly impactful products here, including an advertising platfo",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability",
-        "mobile"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/everyone-write-an-agent/",
       "sourceId": "fly",
       "title": "You Should Write An Agent",
@@ -3836,6 +3806,22 @@
         "ai",
         "security",
         "databases"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
+      "sourceId": "deliveroo",
+      "title": "Engineering at Deliveroo India: How We Build, Collaborate, and Grow",
+      "url": "https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
+      "publishedAt": "2025-11-06T00:00:00+00:00",
+      "excerpt": "Hey everyone, I\u2019m Kartik Visvanathan , an Engineering Manager at Deliveroo, based in India. I joined the team in 2023, and it\u2019s been an exciting ride ever since. I\u2019ve built some truly impactful products here, including an advertising platfo",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "reliability",
+        "mobile"
       ]
     },
     {
