@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-09T06:13:52.628575+00:00",
+  "generatedAt": "2026-10-09T13:22:13.583380+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "sourceId": "cloudflare",
+      "title": "Deno is joining Cloudflare",
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "publishedAt": "2026-10-09T12:50:00+00:00",
+      "excerpt": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "booking:https://medium.com/booking-com-development/how-we-migrated-europes-largest-data-lake-on-time-and-without-turning-the-lights-off-61ee8a07db76?source=rss----1c36c35f9c76---4",
+      "sourceId": "booking",
+      "title": "How We Migrated Europe\u2019s Largest Data Lake: On Time and Without Turning the Lights Off",
+      "url": "https://medium.com/booking-com-development/how-we-migrated-europes-largest-data-lake-on-time-and-without-turning-the-lights-off-61ee8a07db76?source=rss----1c36c35f9c76---4",
+      "publishedAt": "2026-10-09T07:56:02+00:00",
+      "excerpt": "This blog post was written by Dennis Abrazhevich and Koen van Berge Henegouwen. The Biggest Data Migration in Europe We\u2019ve all heard those dramatic lines in films boasting about \u201cthe largest data leak in history .\u201d * But while blockbusters ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/radar-redesign/",
       "sourceId": "cloudflare",
@@ -422,21 +452,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
-      "sourceId": "cloudflare",
-      "title": "One year later: Sovereign AI and the fight for choice",
-      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
-      "publishedAt": "2026-10-01T13:04:19+00:00",
-      "excerpt": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -4348,24 +4363,6 @@
         "ai",
         "data",
         "devops"
-      ]
-    },
-    {
-      "id": "booking:https://medium.com/booking-com-development/anomaly-detection-in-time-series-using-statistical-analysis-cc587b21d008?source=rss----1c36c35f9c76---4",
-      "sourceId": "booking",
-      "title": "Anomaly Detection in Time Series Using Statistical Analysis",
-      "url": "https://medium.com/booking-com-development/anomaly-detection-in-time-series-using-statistical-analysis-cc587b21d008?source=rss----1c36c35f9c76---4",
-      "publishedAt": "2025-04-15T18:45:36+00:00",
-      "excerpt": "Setting up alerts for metrics isn\u2019t always straightforward. In some cases, a simple threshold works just fine \u2014 for example, monitoring disk space on a device. You can just set an alert at 10% remaining, and you\u2019re covered. The same goes fo",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "ai",
-        "reliability",
-        "frontend",
-        "mobile"
       ]
     },
     {
