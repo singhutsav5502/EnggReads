@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-09T13:22:13.583380+00:00",
+  "generatedAt": "2026-10-09T22:41:21.242553+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "From Activity to Intent: Generating User Journeys with LLMs",
+      "url": "https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-10-09T15:01:02+00:00",
+      "excerpt": "Lin Zhu | Sr. Staff Machine Learning Engineer; Manan Kalra | Machine Learning Engineer II; Byung Eun Jeon | Sr. Machine Learning Engineer; Ye Liu | Staff Machine Learning Engineer; Xiangyi Chen | Sr. Machine Learning Engineer; Jaewon Yang |",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "frontend"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/deno-joins-cloudflare/",
       "sourceId": "cloudflare",
@@ -31,6 +46,21 @@
         "internal",
         "data",
         "infrastructure",
+        "ai"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/tracing-for-all-js-platforms/",
+      "sourceId": "sentry",
+      "title": "Sentry JavaScript SDK v11 adds tracing for all JS platforms",
+      "url": "https://blog.sentry.io/tracing-for-all-js-platforms/",
+      "publishedAt": "2026-10-09T00:00:00+00:00",
+      "excerpt": "Sentry's v11 JavaScript SDKs trace dependencies with a code transformer instead of OpenTelemetry instrumentation, adding Cloudflare Workers, Bun, and Deno",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
         "ai"
       ]
     },
@@ -777,20 +807,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -803,6 +819,20 @@
         "data",
         "mobile",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1754,20 +1784,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/claude-routines-agent-triage/",
-      "sourceId": "sentry",
-      "title": "Automated agent triage with Agent Tracing and Claude Routines",
-      "url": "https://blog.sentry.io/claude-routines-agent-triage/",
-      "publishedAt": "2026-08-13T09:00:00+00:00",
-      "excerpt": "How Sentry uses a Claude Routine and the Sentry MCP to automatically triage 800 AI agent conversations overnight and file bugs.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "airbnb:https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4",
       "sourceId": "airbnb",
       "title": "Flexible Authentication: Reimagining authentication for millions of users at Airbnb",
@@ -2486,21 +2502,6 @@
         "internal",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Achieving Near-Linear Training Scalability for Pinterest\u2019s Foundation Models",
-      "url": "https://medium.com/pinterest-engineering/achieving-near-linear-training-scalability-for-pinterests-foundation-models-14d4f59fe6f6?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-06-25T16:01:02+00:00",
-      "excerpt": "Sheng Huang | Software Engineer, AI Platform; Pong Eksombatchai | Machine Learning Engineer, Applied Sciences; Saurabh Vishwas Joshi | Software Engineer, AI Platform; Gaurav Arora | Software Engineer, AI Platform; Karthik Anantha Padmanabha",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "infrastructure"
       ]
     },
     {
