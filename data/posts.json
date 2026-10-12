@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-10-12T06:03:19.578845+00:00",
+  "generatedAt": "2026-10-12T15:32:54.340064+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/transformers-on-logpush/",
+      "sourceId": "cloudflare",
+      "title": "Filter, reshape, and redact logs before export with Transformers",
+      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
+      "publishedAt": "2026-10-12T14:44:59+00:00",
+      "excerpt": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "zalando:https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html",
+      "sourceId": "zalando",
+      "title": "Automating Data Ingestion with a RAG Flywheel",
+      "url": "https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html",
+      "publishedAt": "2026-10-11T22:00:00+00:00",
+      "excerpt": "Automating schema mapping for diverse supplier data using a RAG Flywheel and LLMs.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "pinterest:https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
@@ -427,21 +455,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/network-performance-birthday-week-2026/",
-      "sourceId": "cloudflare",
-      "title": "2026 Birthday week: network performance update",
-      "url": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
-      "publishedAt": "2026-10-02T13:00:00+00:00",
-      "excerpt": "Cloudflare now ranks as the fastest provider across 74% of the top 1,000 global networks. By incorporating background telemetry from Cloudflare Challenge Pages, we have expanded our real-user measurement scale while maintaining user privacy",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/seer-mcp-cli-or-coding-agent/",
       "sourceId": "sentry",
       "title": "Seer, the Sentry MCP and CLI, or your own coding agent: where each one fits",
@@ -500,6 +513,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Designing Neki for performance",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -525,20 +552,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Designing Neki for performance",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -3730,19 +3743,6 @@
         "internal",
         "devops",
         "databases"
-      ]
-    },
-    {
-      "id": "zalando:https://engineering.zalando.com/posts/2025/12/contributing-to-debezium.html",
-      "sourceId": "zalando",
-      "title": "Contributing to Debezium: Fixing Logical Replication at Scale",
-      "url": "https://engineering.zalando.com/posts/2025/12/contributing-to-debezium.html",
-      "publishedAt": "2025-12-18T23:00:00+00:00",
-      "excerpt": "How we contributed two features to Debezium to solve WAL growth and enable safer logical replication for our event streaming infrastructure",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
