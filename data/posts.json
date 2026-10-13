@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-13T00:44:44.620548+00:00",
+  "generatedAt": "2026-10-13T14:16:34.649836+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "grab:https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
+      "sourceId": "grab",
+      "title": "GrabMart data for faster disease outbreak detection",
+      "url": "https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
+      "publishedAt": "2026-10-13T00:23:00+00:00",
+      "excerpt": "Abstract Retail purchases can supplement clinical surveillance because changes in demand for some over-the-counter (OTC) products may appear before confirmed case reports. This article describes an early-stage concept for analysing aggregat",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "ai"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
       "sourceId": "meta",
@@ -394,6 +409,20 @@
       ]
     },
     {
+      "id": "janestreet:https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "sourceId": "janestreet",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "publishedAt": "2026-10-05T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/powering-ai-led-research-through-simulation",
       "sourceId": "grab",
       "title": "Powering AI-led research through simulation",
@@ -406,20 +435,6 @@
         "data",
         "mobile",
         "devops"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "sourceId": "janestreet",
-      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "publishedAt": "2026-10-05T00:00:00+00:00",
-      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
       ]
     },
     {
@@ -573,20 +588,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Designing Neki for performance",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -612,6 +613,20 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Designing Neki for performance",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -2381,21 +2396,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/our-journey-to-apache-iceberg-adoption",
-      "sourceId": "grab",
-      "title": "Scaling Grab's Data Lake: Our journey to Apache Iceberg adoption",
-      "url": "https://engineering.grab.com/our-journey-to-apache-iceberg-adoption",
-      "publishedAt": "2026-07-10T00:00:00+00:00",
-      "excerpt": "Introduction: The evolution of Grab\u2019s Data Lake At Grab\u2019s scale, managing petabytes of data across billions of S3 objects demands more than a storage layer. It demands a robust architectural primitive that supports the high-concurrency need",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai"
       ]
     },
     {
