@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-10-12T15:32:54.340064+00:00",
+  "generatedAt": "2026-10-13T00:44:44.620548+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+      "sourceId": "meta",
+      "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+      "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+      "publishedAt": "2026-10-12T21:19:18+00:00",
+      "excerpt": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric ",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+      "sourceId": "meta",
+      "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+      "url": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+      "publishedAt": "2026-10-12T16:01:32+00:00",
+      "excerpt": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We\u2019re s",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+      "sourceId": "meta",
+      "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+      "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+      "publishedAt": "2026-10-12T16:00:50+00:00",
+      "excerpt": "At Meta, we\u2019ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand across opportunistic capacity, without compromis",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/transformers-on-logpush/",
       "sourceId": "cloudflare",
@@ -17,6 +62,21 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/what-gets-toasted-in-postgres",
+      "sourceId": "planetscale",
+      "title": "What gets TOASTed in Postgres",
+      "url": "https://planetscale.com/blog/what-gets-toasted-in-postgres",
+      "publishedAt": "2026-10-12T00:00:00+00:00",
+      "excerpt": "Insert 2,000 copies of the letter x into a table with an int ID and a text column, and Postgres stores all 2,000 bytes uncompressed. Insert 2,001, and Postgres compresses the value to 26 bytes with LZ4. That one extra byte is enough to trig",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "frontend"
       ]
     },
     {
@@ -334,20 +394,6 @@
       ]
     },
     {
-      "id": "janestreet:https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "sourceId": "janestreet",
-      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "publishedAt": "2026-10-05T00:00:00+00:00",
-      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/powering-ai-led-research-through-simulation",
       "sourceId": "grab",
       "title": "Powering AI-led research through simulation",
@@ -360,6 +406,20 @@
         "data",
         "mobile",
         "devops"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "sourceId": "janestreet",
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "publishedAt": "2026-10-05T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
       ]
     },
     {
@@ -1456,20 +1516,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/what-is-a-neki-router",
-      "sourceId": "planetscale",
-      "title": "What is a Neki router?",
-      "url": "https://planetscale.com/blog/what-is-a-neki-router",
-      "publishedAt": "2026-09-01T00:00:00+00:00",
-      "excerpt": "The core challenge in operating a sharded database is deciding which shard(s) should execute a query. Each query passes through two plans. The Neki router builds the first plan using the data topology to decide which shard(s) receive the wo",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "zalando:https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html",
       "sourceId": "zalando",
       "title": "Scaling Reliable Experimentation in a Two-Sided AdTech Marketplace: ZMS Budget Split",
@@ -1621,36 +1667,6 @@
         "infrastructure",
         "devops",
         "frontend"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
-      "sourceId": "meta",
-      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
-      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
-      "publishedAt": "2026-08-24T18:02:29+00:00",
-      "excerpt": "Training and serving frontier AI models depends on fast, reliable networks that move data between GPUs without wasting compute cycles. To meet this challenge at scale, Meta designed MetaRoCE \u2013 a clean-sheet RDMA transport protocol purpose-b",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
-      "sourceId": "meta",
-      "title": "MTIA 300: Meta\u2019s First Training Chip with Built-in NICs and Communication-Offloading Engines",
-      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
-      "publishedAt": "2026-08-24T17:45:52+00:00",
-      "excerpt": "MTIA 300 is the first of Meta\u2019s family of in-house training and inference accelerators optimized for training ranking and recommendation models. We\u2019re sharing how MTIA 300\u2019s built-in NIC chiplets allow it to meet the communication needs ass",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
       ]
     },
     {
@@ -1809,22 +1825,6 @@
         "data",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
-      "sourceId": "meta",
-      "title": "How We\u2019re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
-      "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
-      "publishedAt": "2026-08-12T13:00:28+00:00",
-      "excerpt": "WhatsApp is committed to helping people stay safe while protecting the privacy of their messages. As scam tactics evolve \u2014 from impersonation to social engineering to AI-generated lures \u2014 we\u2019re always evolving as well, so that our protectio",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure",
-        "security"
       ]
     },
     {
