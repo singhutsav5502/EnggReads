@@ -1,9 +1,70 @@
 {
-  "generatedAt": "2026-10-13T14:16:34.649836+00:00",
+  "generatedAt": "2026-10-13T22:48:14.943877+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "airbnb:https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4",
+      "sourceId": "airbnb",
+      "title": "CASTLE: training natural language search before the first real query",
+      "url": "https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4",
+      "publishedAt": "2026-10-13T17:01:02+00:00",
+      "excerpt": "How we addressed the cold-start problem for Airbnb\u2019s natural language search by jointly generating synthetic training data \u2014 queries and relevance labels \u2014 from de-identified booking and search signals. By : Wendy Ran Wei , Hao Li , Weiwei ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/d1-control-plane/",
+      "sourceId": "cloudflare",
+      "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+      "url": "https://blog.cloudflare.com/d1-control-plane/",
+      "publishedAt": "2026-10-13T16:20:18+00:00",
+      "excerpt": "A deep dive into how D1 architected its control plane to scale and manage millions of databases, while keeping data plane query operations at the edge. We share guiding principles on how to build on the Developer Platform effectively.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+      "sourceId": "meta",
+      "title": "Meta\u2019s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+      "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+      "publishedAt": "2026-10-13T16:01:00+00:00",
+      "excerpt": "Last year, we introduced GEM, the industry\u2019s largest recommendation system (RecSys) foundation model. GEM established Meta\u2019s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building on this foundation, o",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/rewinding-the-exponential/",
+      "sourceId": "cloudflare",
+      "title": "Rewinding the exponential: How we keep hardware usage down",
+      "url": "https://blog.cloudflare.com/rewinding-the-exponential/",
+      "publishedAt": "2026-10-13T15:51:41+00:00",
+      "excerpt": "Our strategies to optimize our data pipeline throughput without compromising data quality.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "data"
+      ]
+    },
     {
       "id": "grab:https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
       "sourceId": "grab",
@@ -500,36 +561,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/protected-quick-tunnels/",
-      "sourceId": "cloudflare",
-      "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
-      "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
-      "publishedAt": "2026-10-02T13:00:00+00:00",
-      "excerpt": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/civil-society-automation/",
-      "sourceId": "cloudflare",
-      "title": "Building for good: How civil society organizations are automating on Cloudflare",
-      "url": "https://blog.cloudflare.com/civil-society-automation/",
-      "publishedAt": "2026-10-02T13:00:00+00:00",
-      "excerpt": "Some of the world's leading organizations are building the future of non-profit work with Cloudflare.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/seer-mcp-cli-or-coding-agent/",
       "sourceId": "sentry",
       "title": "Seer, the Sentry MCP and CLI, or your own coding agent: where each one fits",
@@ -618,7 +649,7 @@
     {
       "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
       "sourceId": "planetscale",
-      "title": "Designing Neki for performance",
+      "title": "Building a faster, lazier router for Postgres",
       "url": "https://planetscale.com/blog/designing-neki-for-performance",
       "publishedAt": "2026-10-01T00:00:00+00:00",
       "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
@@ -895,20 +926,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -921,6 +938,20 @@
         "data",
         "mobile",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1008,20 +1039,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "sourceId": "planetscale",
-      "title": "Anatomy of a (Postgres) search engine",
-      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
       "sourceId": "deliveroo",
       "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
@@ -1033,6 +1050,20 @@
         "internal",
         "data",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "sourceId": "planetscale",
+      "title": "Anatomy of a (Postgres) search engine",
+      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1468,21 +1499,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
-      "sourceId": "meta",
-      "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
-      "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
-      "publishedAt": "2026-09-02T09:00:29+00:00",
-      "excerpt": "We\u2019ve built an AI agent that acts as a secondary expert for a given domain, making deep specialist knowledge readily available and preserved for anyone in an organization to access, share, and build upon. This is not a typical domain-specif",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
       ]
     },
     {
@@ -2288,22 +2304,6 @@
         "internal",
         "data",
         "frontend"
-      ]
-    },
-    {
-      "id": "airbnb:https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4",
-      "sourceId": "airbnb",
-      "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
-      "url": "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4",
-      "publishedAt": "2026-07-14T17:01:03+00:00",
-      "excerpt": "Training an LLM is the easy part. The hard part is designing experiments and evaluations that you can trust enough to know whether the new model is actually an improvement. By : Baharak Saberidokht Introduction Shipping a production LLM sys",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "ai",
-        "reliability"
       ]
     },
     {
