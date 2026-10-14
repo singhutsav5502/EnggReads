@@ -1,9 +1,240 @@
 {
-  "generatedAt": "2026-10-14T17:14:57.558858+00:00",
+  "generatedAt": "2026-10-14T21:43:54.022345+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/yandex-outage/",
+      "sourceId": "cloudflare",
+      "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "publishedAt": "2026-10-14T20:24:19+00:00",
+      "excerpt": "When strikes hit Yandex data centers, many assumed Russian bot operations went dark. Cloudflare data reveals that while search crawling stopped, malicious bots simply migrated to other networks.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "reliability"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Integrating Netflix\u2019s Foundation Model into Personalization applications",
+      "url": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T20:02:22+00:00",
+      "excerpt": "Authors: Divya Gadde , Ko-Jen Hsiao , Dhaval Patel and Moumita Bhattacharya The motivation for building the Netflix Foundation Model for personalization was laid out in this previous blog post. The Netflix homepage is powered by several spe",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "DataJunction as Netflix\u2019s answer to the missing piece of the modern data stack",
+      "url": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:59:08+00:00",
+      "excerpt": "by Olek Gorajek , Samuel Redai , Yian Shang Intro Our Netflix journey from data to dashboards, particularly within the space of the experimentation platform, always presented a unique set of challenges. This blog post aims to illuminate the",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "frontend"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Measuring the Impact of Personalized Recommendations",
+      "url": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:57:43+00:00",
+      "excerpt": "By Kevin Zielnicki, Guy Aridor, Aur\u00e9lien Bibaut, Allen Tran, Winston Chou, and Nathan Kallus Introduction Personalization is everywhere on the internet. It shapes the products we discover, the stories we read, the music we hear, and the mov",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "frontend"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+      "url": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:56:08+00:00",
+      "excerpt": "By Oleksii Tkachuk , Rajiv Shringi , Chris Lohfink , Abe Ratnofsky , Kartik Sathyanarayanan Introduction In an earlier post , we introduced the TimeSeries Abstraction, our high-throughput, low-latency platform designed to store and query te",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "reliability",
+        "security"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Behind the Scenes: Evolving Netflix\u2019s Ads Event Pipeline for Live \u2014 Part II",
+      "url": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:51:35+00:00",
+      "excerpt": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a stand",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "reliability",
+        "security",
+        "databases",
+        "devops"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Netflix Conductor: The Next Chapter",
+      "url": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:50:17+00:00",
+      "excerpt": "Netflix Conductor : The Next Chapter by Aravindan Ramkumar on behalf of the Conductor team Conductor is the workflow orchestration engine Netflix uses to stitch micro-services into reliable, observable business processes. If you\u2019ve followed",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "reliability",
+        "mobile",
+        "databases",
+        "devops"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Running Apache Spark experiments in my sleep (and on a plane)",
+      "url": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:49:11+00:00",
+      "excerpt": "By Prashanth Gedde Narayanaswamy As one of Netflix\u2019s largest and critical data pipelines, member-sessionizer consolidates tens of billions of hourly client events, encompassing user taps, playbacks, and engagement signals, into individual v",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "devops"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
+      "url": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:48:49+00:00",
+      "excerpt": "By Emma Yanyang Kong , JJ Tan , Ishan Gupta , Lars Olds , Claire Campbell , David Fagnan , Ratna Kavuri , Rohan Gosain , Veli Balin , Minsu Jang , Louis Garcia Introduction Any team generating text with an LLM at scale hits the same problem",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai",
+        "mobile",
+        "devops"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
+      "url": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:48:20+00:00",
+      "excerpt": "By Violetta Pidvolotska and Naveen Mareddy Stratum is Netflix\u2019s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of media workloads \u2014 inc",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "reliability"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Reliable GPU compute for large training & inference jobs",
+      "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-14T19:47:42+00:00",
+      "excerpt": "Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Open Netflix, and the home screen is assembled for",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai",
+        "reliability"
+      ]
+    },
+    {
+      "id": "github:https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "sourceId": "github",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "publishedAt": "2026-10-14T19:11:33+00:00",
+      "excerpt": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops",
+        "databases"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/flutter-sdk-10/",
+      "sourceId": "sentry",
+      "title": "Sentry's Flutter SDK 10.0: Streaming Traces and More Accurate Crash-Free Rates",
+      "url": "https://blog.sentry.io/flutter-sdk-10/",
+      "publishedAt": "2026-10-14T09:00:00+00:00",
+      "excerpt": "Flutter SDK 10.0: streaming traces by default, accurate crash-free rates, dedicated app startup traces, and expanded Dio network error capture.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "ebay:https://innovation.ebayinc.com/stories/inside-minerva-building-scalable-observability-for-ebays-monetization-platform/",
+      "sourceId": "ebay",
+      "title": "Inside Minerva: building scalable observability for eBay\u2019s monetization platform",
+      "url": "https://innovation.ebayinc.com/stories/inside-minerva-building-scalable-observability-for-ebays-monetization-platform/",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "excerpt": "How eBay built a scalable observability platform that combines asynchronous data processing, ClickHouse analytics, and configurable monitoring to detect and investigate monetization anomalies without compromising real-time fee processing.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "reliability",
+        "data"
+      ]
+    },
     {
       "id": "planetscale:https://planetscale.com/blog/neki-volatile-expressions",
       "sourceId": "planetscale",
@@ -560,21 +791,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/account-abuse-protection-dashboard/",
-      "sourceId": "cloudflare",
-      "title": "Follow the thread: a new dashboard to investigate account abuse",
-      "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
-      "publishedAt": "2026-10-02T13:00:00+00:00",
-      "excerpt": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/seer-mcp-cli-or-coding-agent/",
       "sourceId": "sentry",
       "title": "Seer, the Sentry MCP and CLI, or your own coding agent: where each one fits",
@@ -892,23 +1108,6 @@
       ]
     },
     {
-      "id": "netflix:https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
-      "url": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-09-25T16:01:03+00:00",
-      "excerpt": "By Dhruv Pratap Introduction Organizations that have been around for a while usually run two identity systems side by side. One belongs to the cloud provider: IAM roles, instance profiles, execution roles. The other is your own, and it is t",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "reliability",
-        "security"
-      ]
-    },
-    {
       "id": "pinterest:https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ingestion-framework-4c7da6e4cc8f?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
       "title": "Partition Finalization in Pinterest\u2019s Next-Generation DB Ingestion Framework",
@@ -1154,22 +1353,6 @@
         "infrastructure",
         "reliability",
         "data"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Leave the Class Path in the Rearview Mirror",
-      "url": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-09-18T16:01:02+00:00",
-      "excerpt": "Introducing composable, module system native and agent friendly command line tools for modern Java development By Danny Thomas, JVM Ecosystem Team Recent work on the Java language to pave the on-ramp has made it easier than ever to start a ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "security"
       ]
     },
     {
@@ -1590,22 +1773,6 @@
       ]
     },
     {
-      "id": "netflix:https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "MAPS: Netflix\u2019s Multimodal Asset Personalization at Scale",
-      "url": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-08-28T16:01:02+00:00",
-      "excerpt": "By Emma Yanyang Kong , Aditya Deshpande , Asad Abbasi , Bowei Yan , David Fagnan , Ashish Rastogi , Dhaval Patel , Ray Zhang Introduction The Netflix experience is a journey of discovery. Every visual cue, from the artwork on a title to the",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/datacollection-control-panel/",
       "sourceId": "sentry",
       "title": "From one switch to a control panel: meet `dataCollection`",
@@ -1671,20 +1838,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/evaluate-session-replay-software/",
-      "sourceId": "sentry",
-      "title": "How to evaluate session replay software: a developer's guide",
-      "url": "https://blog.sentry.io/evaluate-session-replay-software/",
-      "publishedAt": "2026-08-26T09:00:00+00:00",
-      "excerpt": "Compare session replay tools on recording methodology, privacy architecture, integration depth, overhead, AI-readability, and mobile support",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "github:https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
       "sourceId": "github",
       "title": "Your alt text passes automated checks. That doesn\u2019t mean it\u2019s any good.",
@@ -1712,22 +1865,6 @@
         "internal",
         "frontend",
         "security"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "A Tale of Two Flink Autoscalers",
-      "url": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-08-21T16:01:01+00:00",
-      "excerpt": "Samuel Yeboah , Francesco Di Chiara and Mingliang Liu Today, Netflix runs two Flink autoscalers. That is exactly one more than we want. We built the first one in-house years ago, when there was no mature option suited to our platform. The s",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "frontend"
       ]
     },
     {
@@ -1920,22 +2057,6 @@
       ]
     },
     {
-      "id": "netflix:https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 \u2014 Querying the graph with gRPC\u2026",
-      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-08-07T16:01:02+00:00",
-      "excerpt": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 \u2014 Querying the graph with gRPC execution API Authors: Nilesh Mishra and Ajit Koti This is the third entry of a multi-part blog series describing how we built a Real-Time Distri",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "security"
-      ]
-    },
-    {
       "id": "github:https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
       "sourceId": "github",
       "title": "Turn one giant AI-generated pull request to a reviewable stack",
@@ -2013,22 +2134,6 @@
       ]
     },
     {
-      "id": "netflix:https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Modeling Device Capabilities for Analytics",
-      "url": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-07-31T16:01:02+00:00",
-      "excerpt": "by Aarti Laddha , Richard Diaz-Cool , Rishika Idnani , Venkatesh Selveraj Netflix supports a vast and evolving set of features and content types, ranging from 4K streaming and immersive audio to live streaming and cloud gaming, across a div",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "reliability"
-      ]
-    },
-    {
       "id": "github:https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "sourceId": "github",
       "title": "Don\u2019t stop early: Case-folding source code at memory speed",
@@ -2041,22 +2146,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-07-30T20:10:15+00:00",
-      "excerpt": "Authors: Ying Li , Arjun Rao , Shradha Sehgal Introduction Recommendations sit at the heart of the Netflix experience. Our current production models rely on thousands of hand\u2011crafted features over users, items, and interactions, along with ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai"
       ]
     },
     {
@@ -2259,40 +2348,6 @@
       ]
     },
     {
-      "id": "netflix:https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "In-House LLM Serving at Netflix",
-      "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-07-17T21:32:39+00:00",
-      "excerpt": "By AI Platform\u2019s Model Runtime team and Inference team Introduction Most organizations consume LLMs through hosted APIs. Netflix went further \u2014 we run the full stack ourselves, from model deployment through inference, inside our existing pr",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai",
-        "reliability",
-        "frontend",
-        "devops"
-      ]
-    },
-    {
-      "id": "github:https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-      "sourceId": "github",
-      "title": "The cost of saying yes has changed",
-      "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-      "publishedAt": "2026-07-17T16:46:47+00:00",
-      "excerpt": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog .",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "devops"
-      ]
-    },
-    {
       "id": "yelp:https://engineeringblog.yelp.com/2026/07/migrating-to-graphql-codegen.html",
       "sourceId": "yelp",
       "title": "Migrating from Apollo Tooling to GraphQL Codegen at Yelp",
@@ -2349,24 +2404,6 @@
         "internal",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
-      "url": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-07-13T22:44:11+00:00",
-      "excerpt": "By Parth Jain , Rakesh Sukumar , Yingwu Zhao , Renzo Sanchez-Silva & Nathan Fisher A deep dive into the engineering challenges of building a real-time service dependency map at Netflix scale: from streaming architectures and distributed agg",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai",
-        "reliability",
-        "databases"
       ]
     },
     {
@@ -2471,22 +2508,6 @@
         "infrastructure",
         "data",
         "devops"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
-      "url": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-06-29T13:01:02+00:00",
-      "excerpt": "Authors: Lequn Wang , J iangwei Pan , and Linas Baltrunas Figure 1. Autoregressive homepage generation. GenPage builds a Netflix homepage one row or entity at a time, each one conditioned on what\u2019s already on the page and the user\u2019s context",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai"
       ]
     },
     {
@@ -4870,19 +4891,6 @@
       "url": "https://innovation.ebayinc.com/stories/ebay-empowers-sellers-with-innovative-tools-at-ebay-open-2024/",
       "publishedAt": "2024-09-25T07:00:00+00:00",
       "excerpt": "eBay's commitment to innovation takes center stage at eBay Open 2024.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "ebay:https://innovation.ebayinc.com/stories/how-ebays-ai-tools-helped-this-seller-work-smarter-not-harder/",
-      "sourceId": "ebay",
-      "title": "How eBay\u2019s AI Tools Helped This Seller \u2018Work Smarter, Not Harder\u2019",
-      "url": "https://innovation.ebayinc.com/stories/how-ebays-ai-tools-helped-this-seller-work-smarter-not-harder/",
-      "publishedAt": "2024-09-25T07:00:00+00:00",
-      "excerpt": "Ashley Moulder uses eBay\u2019s background removal tool to save time and make her listings shine.",
       "tags": [
         "engineering",
         "internal",
