@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:44:54.000883+00:00",
+  "generatedAt": "2026-10-15T11:34:38.204707+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -179,7 +179,7 @@
       "title": "Reliable GPU compute for large training & inference jobs",
       "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
       "publishedAt": "2026-10-14T19:47:42+00:00",
-      "excerpt": "Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Open Netflix, and the home screen is assembled for",
+      "excerpt": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar Open Netflix, and the home screen is assembled for",
       "tags": [
         "recommended",
         "engineering",
@@ -1139,6 +1139,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1151,20 +1165,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1252,20 +1252,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "sourceId": "deliveroo",
-      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
-      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
       "sourceId": "planetscale",
       "title": "Anatomy of a (Postgres) search engine",
@@ -1277,6 +1263,20 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "sourceId": "deliveroo",
+      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
