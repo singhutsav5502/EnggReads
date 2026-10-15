@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-10-15T17:04:42.477408+00:00",
+  "generatedAt": "2026-10-15T21:26:15.980326+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+      "sourceId": "meta",
+      "title": "How Meta Built Forum With AI-Native Engineering",
+      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+      "publishedAt": "2026-10-15T19:00:03+00:00",
+      "excerpt": "Meta\u2019s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle. We\u2019re shar",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
+      "sourceId": "meta",
+      "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
+      "url": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
+      "publishedAt": "2026-10-15T18:30:29+00:00",
+      "excerpt": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective ",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure",
+        "reliability"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/programmable-gateway-dlp/",
+      "sourceId": "cloudflare",
+      "title": "A fully programmable secure web gateway",
+      "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+      "publishedAt": "2026-10-15T17:11:12+00:00",
+      "excerpt": "Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
       "sourceId": "meta",
@@ -39,7 +85,7 @@
     {
       "id": "cloudflare:https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
       "sourceId": "cloudflare",
-      "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+      "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
       "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
       "publishedAt": "2026-10-15T13:00:00+00:00",
       "excerpt": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests \u2014 making the experience better for users and website owners alike.",
@@ -791,23 +837,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/one-observability-platform/",
-      "sourceId": "cloudflare",
-      "title": "8 major updates to Cloudflare Observability",
-      "url": "https://blog.cloudflare.com/one-observability-platform/",
-      "publishedAt": "2026-10-02T18:00:00+00:00",
-      "excerpt": "Cloudflare is launching eight major updates that bring logs, traces, analytics, alerts, dashboards, querying, and telemetry export into one observability platform, with simpler and more predictable pricing.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "reliability",
-        "data"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/seer-mcp-cli-or-coding-agent/",
       "sourceId": "sentry",
       "title": "Seer, the Sentry MCP and CLI, or your own coding agent: where each one fits",
@@ -1156,6 +1185,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1168,20 +1211,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1269,20 +1298,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "sourceId": "deliveroo",
-      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
-      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
       "sourceId": "planetscale",
       "title": "Anatomy of a (Postgres) search engine",
@@ -1297,6 +1312,20 @@
       ]
     },
     {
+      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "sourceId": "deliveroo",
+      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
+      ]
+    },
+    {
       "id": "gusto:https://engineering.gusto.com/judgment-based-api-governance-at-scale-43fe38e0dcb0?source=rss----645edd256348---4",
       "sourceId": "gusto",
       "title": "Judgment-Based API Governance at Scale",
@@ -1308,37 +1337,6 @@
         "internal",
         "backend",
         "ai"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
-      "sourceId": "meta",
-      "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
-      "url": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
-      "publishedAt": "2026-09-21T16:00:37+00:00",
-      "excerpt": "We\u2019re open-sourcing Rebalancer, the assignment-problem solver that has been used to solve resource allocation problems throughout Meta for over nine years. Rebalancer separates several related concerns: how to specify an assignment problem,",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
-      "sourceId": "meta",
-      "title": "Inside Petal: Building the World\u2019s First Petabit-Class Transoceanic Subsea Cable",
-      "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
-      "publishedAt": "2026-09-21T12:00:00+00:00",
-      "excerpt": "Petal, the next step in Meta\u2019s subsea innovation, will be the first subsea cable to deliver petabit capacity at transoceanic distances, connecting France and the United States over approximately 7,000 km (4,300 mi). Expected to enter servic",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure",
-        "devops"
       ]
     },
     {
