@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:43:54.022345+00:00",
+  "generatedAt": "2026-10-15T04:44:54.000883+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -1252,20 +1252,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "sourceId": "planetscale",
-      "title": "Anatomy of a (Postgres) search engine",
-      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
       "sourceId": "deliveroo",
       "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
@@ -1277,6 +1263,20 @@
         "internal",
         "data",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "sourceId": "planetscale",
+      "title": "Anatomy of a (Postgres) search engine",
+      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
