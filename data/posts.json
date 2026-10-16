@@ -1,9 +1,58 @@
 {
-  "generatedAt": "2026-10-16T11:29:01.806059+00:00",
+  "generatedAt": "2026-10-16T16:42:18.462656+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "netflix:https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+      "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-16T16:01:02+00:00",
+      "excerpt": "Prasanna Vijayanathan , Renzo Sanchez-Silva When Jake Paul and Mike Tyson stepped into the ring in November 2024, we delivered the fight to roughly 65 million concurrent streams. On an ordinary day our infrastructure takes in more than 2 bi",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai",
+        "reliability",
+        "frontend",
+        "databases"
+      ]
+    },
+    {
+      "id": "spotify:https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/",
+      "sourceId": "spotify",
+      "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
+      "url": "https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/",
+      "publishedAt": "2026-10-16T14:29:18+00:00",
+      "excerpt": "At Spotify, every surface and interaction is personalized to you as a user: the content on the Home page, the... The post Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM appeared first on Spotify",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/verified-bots-accountability/",
+      "sourceId": "cloudflare",
+      "title": "Continuous accountability for Verified bots",
+      "url": "https://blog.cloudflare.com/verified-bots-accountability/",
+      "publishedAt": "2026-10-16T13:00:00+00:00",
+      "excerpt": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
       "sourceId": "meta",
@@ -282,23 +331,6 @@
       ]
     },
     {
-      "id": "netflix:https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Reliable GPU compute for large training & inference jobs",
-      "url": "https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-10-14T19:47:42+00:00",
-      "excerpt": "How we detect failing GPUs and network fabric, remediate machines automatically, and let long-running jobs survive hardware loss. Authors: Nick Rutigliano , Argha C , Samartha Chandrashekar Open Netflix, and the home screen is assembled for",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "ai",
-        "reliability"
-      ]
-    },
-    {
       "id": "github:https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
       "sourceId": "github",
       "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
@@ -430,6 +462,21 @@
         "internal",
         "data",
         "mobile",
+        "ai"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/flex-model-an-event-driven-feature-engineering-system/",
+      "sourceId": "janestreet",
+      "title": "Flex Model: an event-driven feature engineering system",
+      "url": "https://blog.janestreet.com/flex-model-an-event-driven-feature-engineering-system/",
+      "publishedAt": "2026-10-13T00:00:00+00:00",
+      "excerpt": "Neural networks are a tool we use heavily in many trading strategies. But raw market data can\u2019t be fed to a neural net as-is. It\u2019s an unstructured input that needs normalization and feature extraction first.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture",
         "ai"
       ]
     },
@@ -808,21 +855,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/one-year-later-1111-interns/",
-      "sourceId": "cloudflare",
-      "title": "One year later: the power of 1.1.1.1 interns",
-      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
-      "publishedAt": "2026-10-05T13:00:00+00:00",
-      "excerpt": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies ",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
       "sourceId": "janestreet",
       "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
@@ -1048,21 +1080,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "janestreet:https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "sourceId": "janestreet",
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "publishedAt": "2026-09-30T00:00:00+00:00",
-      "excerpt": "The following is part of a series of posts about 2026 summer intern projects \u2013 for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "ai"
       ]
     },
     {
@@ -1313,20 +1330,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "sourceId": "deliveroo",
-      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
-      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
       "sourceId": "planetscale",
       "title": "Anatomy of a (Postgres) search engine",
@@ -1338,6 +1341,20 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "sourceId": "deliveroo",
+      "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+      "url": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+      "publishedAt": "2026-09-22T00:00:00+00:00",
+      "excerpt": "Why churn prediction matters We partner with thousands of restaurants across our markets to bring our customers an unbeatable selection of food and cuisines. We work hard to find and onboard new restaurants to our platform to improve the cu",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
       ]
     },
     {
@@ -1978,21 +1995,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "spotify:https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/",
-      "sourceId": "spotify",
-      "title": "When Can LLMs Replace Humans in A/B Tests?",
-      "url": "https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/",
-      "publishedAt": "2026-08-13T18:57:22+00:00",
-      "excerpt": "TL;DR: LLM predictions can stand in for human outcomes in A/B tests, but only by assumption, not by design.... The post When Can LLMs Replace Humans in A/B Tests? appeared first on Spotify Engineering .",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "ai"
       ]
     },
     {
