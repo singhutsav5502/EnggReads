@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-10-19T13:23:49.698528+00:00",
+  "generatedAt": "2026-10-19T22:23:42.794210+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "sourceId": "cloudflare",
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "publishedAt": "2026-10-19T19:12:53+00:00",
+      "excerpt": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "ai"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+      "sourceId": "meta",
+      "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+      "publishedAt": "2026-10-19T16:00:47+00:00",
+      "excerpt": "Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into L",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "sourceId": "meta",
+      "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "publishedAt": "2026-10-19T15:30:37+00:00",
+      "excerpt": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we\u2019ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It rout",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure",
+        "reliability",
+        "data"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
       "sourceId": "meta",
@@ -542,21 +590,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
-      "sourceId": "meta",
-      "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
-      "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
-      "publishedAt": "2026-10-12T16:00:50+00:00",
-      "excerpt": "At Meta, we\u2019ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand across opportunistic capacity, without compromis",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "cloudflare:https://blog.cloudflare.com/transformers-on-logpush/",
       "sourceId": "cloudflare",
       "title": "Filter, reshape, and redact logs before export with Transformers",
@@ -718,22 +751,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/agentic-security-operations/",
-      "sourceId": "cloudflare",
-      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-      "url": "https://blog.cloudflare.com/agentic-security-operations/",
-      "publishedAt": "2026-10-07T16:30:36+00:00",
-      "excerpt": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded rec",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/leaky-buckets-in-software-explained",
       "sourceId": "planetscale",
       "title": "What today's software owes to Bronze Age clocks",
@@ -792,22 +809,6 @@
         "data",
         "ai",
         "reliability"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-      "sourceId": "meta",
-      "title": "NTS: Authenticated Time at Meta",
-      "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-      "publishedAt": "2026-10-06T16:00:06+00:00",
-      "excerpt": "Meta\u2019s public time service now speaks NTS (Network Time Security, RFC 8915) at nts.meta.com. Packets are authenticated, so a device can verify the time came from us and was not modified on the way. Our NTS servers hold no per-client state. ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure",
-        "security"
       ]
     },
     {
