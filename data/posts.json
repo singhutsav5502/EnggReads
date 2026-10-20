@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:12:28.793012+00:00",
+  "generatedAt": "2026-10-20T21:39:45.879340+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -48,6 +48,21 @@
         "internal",
         "reliability",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
+      "sourceId": "sentry",
+      "title": "The Sentry Android SDK is now 20-30% faster!",
+      "url": "https://blog.sentry.io/android-sdk-faster-startup/",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "excerpt": "Sentry Android SDK 8.54.0 initializes 20-30% faster. See how build-time options, faster DSN parsing, and shared thread pools cut startup cost.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "mobile"
       ]
     },
     {
@@ -1005,6 +1020,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1030,20 +1059,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1280,6 +1295,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1292,20 +1321,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1836,21 +1851,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/datacollection-control-panel/",
-      "sourceId": "sentry",
-      "title": "From one switch to a control panel: meet `dataCollection`",
-      "url": "https://blog.sentry.io/datacollection-control-panel/",
-      "publishedAt": "2026-08-28T09:00:00+00:00",
-      "excerpt": "Sentry SDKs replace the `sendDefaultPii` boolean with `dataCollection`, granular options for user data, headers, bodies, GenAI data, and more.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend",
-        "ai"
       ]
     },
     {
