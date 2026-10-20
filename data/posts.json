@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-10-20T11:43:21.849948+00:00",
+  "generatedAt": "2026-10-20T17:12:28.793012+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "wise:https://medium.com/wise-engineering/observability-at-scale-every-byte-counts-80f5e505d710?source=rss----f2565bbe9c46---4",
+      "sourceId": "wise",
+      "title": "Observability At Scale \u2014 Every Byte Counts",
+      "url": "https://medium.com/wise-engineering/observability-at-scale-every-byte-counts-80f5e505d710?source=rss----f2565bbe9c46---4",
+      "publishedAt": "2026-10-20T13:03:15+00:00",
+      "excerpt": "Observability At Scale \u2014 Every Byte Counts How five changes cut our monthly observability spend by 40%. Co-authored by Andrew Marwood Photo by Kaique Rocha on Pexels Opening Wise\u2019s mission is to build the best way to move and manage the wor",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "infrastructure",
+        "reliability",
+        "security",
+        "devops"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/neki-updates-and-preparing-for-production",
+      "sourceId": "planetscale",
+      "title": "Neki update: $50 Metal, read-only replicas, Azure, and more",
+      "url": "https://planetscale.com/blog/neki-updates-and-preparing-for-production",
+      "publishedAt": "2026-10-20T04:00:00+00:00",
+      "excerpt": "Neki, our sharded Postgres, has been in platform preview for about a month. The team continues to work towards the path to production-readiness, and we've added quite a few new features and capabilities since launch. Here's a quick look at ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+      "sourceId": "datadog",
+      "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
+      "url": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "excerpt": "Datadog built Turnstile to evaluate signed attestations and enforce software supply chain policies before container images are deployed.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/obsessive-inference-optimization/",
       "sourceId": "cloudflare",
@@ -1234,20 +1280,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1260,6 +1292,20 @@
         "data",
         "mobile",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1565,20 +1611,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-      "sourceId": "planetscale",
-      "title": "118 million queries per second on Neki",
-      "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-      "publishedAt": "2026-09-11T00:00:00+00:00",
-      "excerpt": "We released Neki in platform preview yesterday. To celebrate the release, we wanted to test out running 1 million queries per second on Neki. We hit this goal pretty quickly on 5 shards and decided to see how much further we could push it. ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -3193,21 +3225,6 @@
       "tags": [
         "engineering",
         "internal",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/",
-      "sourceId": "datadog",
-      "title": "How we built a real-world evaluation platform for autonomous SRE agents at scale",
-      "url": "https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/",
-      "publishedAt": "2026-04-07T00:00:00+00:00",
-      "excerpt": "Find out how we built a scalable evaluation platform for Datadog\u2019s Bits AI SRE agent that replays real incidents, detects regressions, and measures agent performance across production scenarios.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
         "infrastructure"
       ]
     },
@@ -5193,28 +5210,6 @@
         "backend",
         "infrastructure",
         "security"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/wise-tech-stack-2022-edition-a6ac089a382f?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "Wise Tech Stack (2022 edition)",
-      "url": "https://medium.com/wise-engineering/wise-tech-stack-2022-edition-a6ac089a382f?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2022-12-07T08:04:11+00:00",
-      "excerpt": "Intro Two years passed since our last tech stack post . TransferWise became Wise and Wise became a public company. We\u2019ve opened more offices in more locations and remote work was never as common. We faced more regulatory scrutiny, went thro",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "security",
-        "frontend",
-        "mobile",
-        "data",
-        "databases",
-        "devops"
       ]
     },
     {
