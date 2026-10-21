@@ -1,9 +1,68 @@
 {
-  "generatedAt": "2026-10-21T11:55:05.013689+00:00",
+  "generatedAt": "2026-10-21T17:15:41.193044+00:00",
   "feedCount": 37,
-  "fetchedOk": 35,
-  "postCount": 357,
+  "fetchedOk": 34,
+  "postCount": 345,
   "posts": [
+    {
+      "id": "github:https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "sourceId": "github",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "publishedAt": "2026-10-21T16:00:00+00:00",
+      "excerpt": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "sourceId": "cloudflare",
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "publishedAt": "2026-10-21T13:56:45+00:00",
+      "excerpt": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from r",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/webmcp-commerce/",
+      "sourceId": "cloudflare",
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "publishedAt": "2026-10-21T13:00:00+00:00",
+      "excerpt": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/another-year-another-1-000-000-to-open-source-maintainers/",
+      "sourceId": "sentry",
+      "title": "We just gave a million dollars to Open Source maintainers",
+      "url": "https://blog.sentry.io/another-year-another-1-000-000-to-open-source-maintainers/",
+      "publishedAt": "2026-10-21T09:00:00+00:00",
+      "excerpt": "Sentry raised its Open Source budget from $750,000 to $1,000,000 this year. Here's why, and how we split it among maintainers and foundations.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
     {
       "id": "grab:https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
       "sourceId": "grab",
@@ -16,6 +75,21 @@
         "internal",
         "data",
         "mobile",
+        "reliability"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/i-dont-like-delete-cascade",
+      "sourceId": "planetscale",
+      "title": "I don't trust ON DELETE CASCADE",
+      "url": "https://planetscale.com/blog/i-dont-like-delete-cascade",
+      "publishedAt": "2026-10-21T00:00:00+00:00",
+      "excerpt": "Postgres ON DELETE CASCADE is very tempting to use at first. Fully integrity checked, atomic deletion of your data. You don't need to write any application code to clean up related rows, you simply set up your foreign keys, then issue a sin",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
         "reliability"
       ]
     },
@@ -681,21 +755,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/transformers-on-logpush/",
-      "sourceId": "cloudflare",
-      "title": "Filter, reshape, and redact logs before export with Transformers",
-      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
-      "publishedAt": "2026-10-12T14:44:59+00:00",
-      "excerpt": "Logpush now supports Transformers, allowing teams to filter, redact, and reshape log streams using SQL before export. Powered by Apache DataFusion and Apache Arrow, Transformers apply those changes directly to log data before it reaches the",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/what-gets-toasted-in-postgres",
       "sourceId": "planetscale",
       "title": "What gets TOASTed in Postgres",
@@ -736,21 +795,6 @@
         "data",
         "ai",
         "frontend"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/deno-joins-cloudflare/",
-      "sourceId": "cloudflare",
-      "title": "Deno is joining Cloudflare",
-      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
-      "publishedAt": "2026-10-09T12:50:00+00:00",
-      "excerpt": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -1309,20 +1353,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1335,6 +1365,20 @@
         "data",
         "mobile",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1477,20 +1521,6 @@
         "infrastructure",
         "reliability",
         "data"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/the-architecture-of-neki",
-      "sourceId": "planetscale",
-      "title": "The architecture of Neki",
-      "url": "https://planetscale.com/blog/the-architecture-of-neki",
-      "publishedAt": "2026-09-18T00:00:00+00:00",
-      "excerpt": "Meet Neki: sharding for Postgres. Neki allows applications to connect to massive, sharded databases over a single connection string. This post takes apart the architecture from the bottom up, one piece at a time, starting with what's undern",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1796,20 +1826,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/metrics-caught-ai-size-estimate/",
-      "sourceId": "sentry",
-      "title": "Application Metrics caught my broken size estimator",
-      "url": "https://blog.sentry.io/metrics-caught-ai-size-estimate/",
-      "publishedAt": "2026-09-01T09:00:00+00:00",
-      "excerpt": "The numbers your app lives on don't belong in logs or on sampled spans. Here's how a browser video converter's KPIs made the case for Application Metrics.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/rust-tracing-opentelemetry/",
       "sourceId": "datadog",
       "title": "Making Rust observability reliable at scale with OpenTelemetry",
@@ -1931,20 +1947,6 @@
         "infrastructure",
         "devops",
         "frontend"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-      "sourceId": "mozilla",
-      "title": "Intent to Ship: JPEG XL",
-      "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-      "publishedAt": "2026-08-24T15:32:15+00:00",
-      "excerpt": "It isn\u2019t often that new image formats land in browsers. In the early 2000s we had JPEG, GIF, and PNG. The 2010s gave us WebP, which was a modest step up from JPEG. But the 2020s have given us two new image formats that are a big step up fro",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
       ]
     },
     {
@@ -2195,21 +2197,6 @@
         "ai",
         "security",
         "data",
-        "devops"
-      ]
-    },
-    {
-      "id": "github:https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "sourceId": "github",
-      "title": "Don\u2019t stop early: Case-folding source code at memory speed",
-      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "publishedAt": "2026-07-31T16:00:00+00:00",
-      "excerpt": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don\u2019t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
         "devops"
       ]
     },
@@ -2565,20 +2552,6 @@
         "internal",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
-      "sourceId": "mozilla",
-      "title": "PACT: Anonymous Credentials for the Web",
-      "url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
-      "publishedAt": "2026-06-23T15:29:52+00:00",
-      "excerpt": "This is the technical companion to our update on Distilled, \u201cKeeping the web open and private in the bot era.\u201d Here we take a deeper look at the problem space, the design we\u2019re proposing, and the problems still left to solve. Bots (and priv",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
       ]
     },
     {
@@ -3004,20 +2977,6 @@
       ]
     },
     {
-      "id": "mozilla:https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-      "sourceId": "mozilla",
-      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-      "publishedAt": "2026-05-07T16:01:21+00:00",
-      "excerpt": "Two weeks ago we announced that we had identified and fixed an unprecedented number of latent security bugs in Firefox with the help of Claude Mythos Preview and other AI models. In this post, we\u2019ll go into more detail about how we approach",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
-      ]
-    },
-    {
       "id": "uber:https://medium.com/uber-under-the-hood/why-dont-two-identical-orders-cost-the-same-3fcfd58fc42a?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "Why Don\u2019t Two Identical Orders Cost the Same?",
@@ -3029,20 +2988,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web/",
-      "sourceId": "mozilla",
-      "title": "Trustworthy JavaScript for the Open Web",
-      "url": "https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web/",
-      "publishedAt": "2026-05-05T15:49:11+00:00",
-      "excerpt": "The open web is a critical platform for applications that handle highly sensitive data, from private communications to financial transactions and medical records. Traditionally, servers are trusted to deliver the appropriate code and resour",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
       ]
     },
     {
@@ -3491,20 +3436,6 @@
       ]
     },
     {
-      "id": "mozilla:https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "sourceId": "mozilla",
-      "title": "Why is WebAssembly a second-class language on the web?",
-      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "publishedAt": "2026-02-26T16:02:36+00:00",
-      "excerpt": "This post is an expanded version of a presentation I gave at the 2025 WebAssembly CG meeting in Munich. WebAssembly has come a long way since its first release in 2017. The first version of WebAssembly was already a great fit for low-level ",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
-      ]
-    },
-    {
       "id": "zendesk:https://zendesk.engineering/how-to-lead-with-compassion-without-losing-yourself-2834d29387f4?source=rss----a88376ea904a---4",
       "sourceId": "zendesk",
       "title": "How to lead with compassion without losing yourself",
@@ -3515,20 +3446,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
-      "sourceId": "mozilla",
-      "title": "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148",
-      "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
-      "publishedAt": "2026-02-24T13:00:02+00:00",
-      "excerpt": "Cross-site scripting (XSS) remains one of the most prevalent vulnerabilities on the web. The new standardized Sanitizer API provides a straightforward way for web developers to sanitize untrusted HTML before inserting it into the DOM. Firef",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
       ]
     },
     {
@@ -3576,20 +3493,6 @@
         "internal",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2026/02/launching-interop-2026/",
-      "sourceId": "mozilla",
-      "title": "Launching Interop 2026",
-      "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/",
-      "publishedAt": "2026-02-12T17:07:24+00:00",
-      "excerpt": "The Interop Project is a cross-browser initiative to improve web compatibility in areas that offer the most benefit to both users and developers. The group, including Apple, Google, Igalia, Microsoft, and Mozilla, takes proposals of feature",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
       ]
     },
     {
@@ -4154,21 +4057,6 @@
       ]
     },
     {
-      "id": "mozilla:https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
-      "sourceId": "mozilla",
-      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
-      "url": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
-      "publishedAt": "2025-08-19T16:03:19+00:00",
-      "excerpt": "Firefox is now the first and the only browser to deploy fast and comprehensive certificate revocation checking that does not reveal your browsing activity to anyone (not even to Mozilla). Tens of millions of TLS server certificates are issu",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security",
-        "devops"
-      ]
-    },
-    {
       "id": "canva:https://www.canva.dev/blog/engineering/draw-in-present-mode/",
       "sourceId": "canva",
       "title": "From Intern Project to Production: How I Shipped the Draw Tool for Canva's Present Mode",
@@ -4456,20 +4344,6 @@
       ]
     },
     {
-      "id": "mozilla:https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/",
-      "sourceId": "mozilla",
-      "title": "Improving Firefox Stability in the Enterprise by Reducing DLL Injection",
-      "url": "https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/",
-      "publishedAt": "2025-03-25T18:31:16+00:00",
-      "excerpt": "Beginning in version 138, Firefox will offer an alternative to DLL injection for Data Loss Prevention (DLP) deployments in enterprise environments. DLL Injection DLL injection into Firefox is a topic we\u2019ve covered on the Hacks blog before. ",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
-      ]
-    },
-    {
       "id": "deliveroo:https://deliveroo.engineering/2025/03/24/my-journey-so-far-as-a-senior-staff-engineer.html",
       "sourceId": "deliveroo",
       "title": "Antonio Troina: My Journey So Far as a Senior Staff Software Engineer",
@@ -4630,20 +4504,6 @@
         "backend",
         "ai",
         "reliability"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2025/02/interop-2025/",
-      "sourceId": "mozilla",
-      "title": "Launching Interop 2025",
-      "url": "https://hacks.mozilla.org/2025/02/interop-2025/",
-      "publishedAt": "2025-02-13T16:59:13+00:00",
-      "excerpt": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024\u2019s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements,",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
       ]
     },
     {
@@ -4870,20 +4730,6 @@
       ]
     },
     {
-      "id": "mozilla:https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
-      "sourceId": "mozilla",
-      "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
-      "url": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
-      "publishedAt": "2024-10-16T13:32:30+00:00",
-      "excerpt": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security"
-      ]
-    },
-    {
       "id": "square:https://developer.squareup.com/blog/enhancing-data-quality-using-better-designed-etls",
       "sourceId": "square",
       "title": "Enhancing Data Quality Using Better Designed ETLs",
@@ -4951,21 +4797,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "mozilla:https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
-      "sourceId": "mozilla",
-      "title": "0Din: A GenAI Bug Bounty Program \u2013 Securing Tomorrow\u2019s AI Together",
-      "url": "https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
-      "publishedAt": "2024-08-08T18:39:13+00:00",
-      "excerpt": "As AI continues to evolve, so do the threats against it. As these GenAI systems become more sophisticated and widely adopted, ensuring their security and ethical use becomes paramount. 0Din is a groundbreaking GenAI bug bounty program dedic",
-      "tags": [
-        "engineering",
-        "internal",
-        "frontend",
-        "security",
-        "ai"
       ]
     },
     {
