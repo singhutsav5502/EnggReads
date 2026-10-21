@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-20T21:39:45.879340+00:00",
+  "generatedAt": "2026-10-21T04:54:01.261181+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "grab:https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
+      "sourceId": "grab",
+      "title": "App stability at scale with a layered defense",
+      "url": "https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
+      "publishedAt": "2026-10-21T00:23:00+00:00",
+      "excerpt": "Introduction Artificial intelligence (AI) coding assistants have changed how fast we can ship. They have not changed how mobile users experience a crash. That gap is the pressure every mobile stability program now operates under. The Grab s",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "reliability"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/emudhra-certificate-compromise/",
+      "sourceId": "cloudflare",
+      "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+      "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+      "publishedAt": "2026-10-20T22:20:16+00:00",
+      "excerpt": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "wise:https://medium.com/wise-engineering/observability-at-scale-every-byte-counts-80f5e505d710?source=rss----f2565bbe9c46---4",
       "sourceId": "wise",
@@ -754,22 +784,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/radar-redesign/",
-      "sourceId": "cloudflare",
-      "title": "Bridging technical depth and usability: The story behind Radar\u2019s redesign",
-      "url": "https://blog.cloudflare.com/radar-redesign/",
-      "publishedAt": "2026-10-08T13:00:00+00:00",
-      "excerpt": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience \u2014 including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized compo",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "reliability"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/flutter-android-scope-sync/",
       "sourceId": "sentry",
       "title": "Reducing Android scope-sync overhead in Sentry Flutter",
@@ -1020,20 +1034,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1059,6 +1059,20 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -2271,26 +2285,6 @@
         "internal",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/how-grab-builds-and-runs-ai-agents-at-scale",
-      "sourceId": "grab",
-      "title": "Agent platform (Part 1): How we help Grab build and run AI agents at scale",
-      "url": "https://engineering.grab.com/how-grab-builds-and-runs-ai-agents-at-scale",
-      "publishedAt": "2026-07-24T00:00:10+00:00",
-      "excerpt": "Part 1: From one support bot to a framework At Grab, AI agents have evolved from interesting team prototypes into production services used every day by millions of merchants, drivers, and consumers. Today, more than 500 services run on our ",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "frontend",
-        "databases",
-        "devops"
       ]
     },
     {
