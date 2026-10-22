@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-22T11:57:54.187085+00:00",
+  "generatedAt": "2026-10-22T17:13:57.425886+00:00",
   "feedCount": 37,
-  "fetchedOk": 34,
-  "postCount": 345,
+  "fetchedOk": 35,
+  "postCount": 357,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/k-isms/",
+      "sourceId": "cloudflare",
+      "title": "Localizing compliance at scale: achieving South Korea\u2019s ISMS certification",
+      "url": "https://blog.cloudflare.com/k-isms/",
+      "publishedAt": "2026-10-22T13:00:00+00:00",
+      "excerpt": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "fly:https://fly.io/blog/sprites-block-device/",
       "sourceId": "fly",
@@ -696,22 +711,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/rewinding-the-exponential/",
-      "sourceId": "cloudflare",
-      "title": "Rewinding the exponential: How we keep hardware usage down",
-      "url": "https://blog.cloudflare.com/rewinding-the-exponential/",
-      "publishedAt": "2026-10-13T15:51:41+00:00",
-      "excerpt": "Our strategies to optimize our data pipeline throughput without compromising data quality.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "data"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
       "sourceId": "grab",
       "title": "GrabMart data for faster disease outbreak detection",
@@ -1095,20 +1094,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1134,6 +1119,20 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1370,20 +1369,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1396,6 +1381,20 @@
         "data",
         "mobile",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1964,6 +1963,20 @@
         "infrastructure",
         "devops",
         "frontend"
+      ]
+    },
+    {
+      "id": "mozilla:https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+      "sourceId": "mozilla",
+      "title": "Intent to Ship: JPEG XL",
+      "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+      "publishedAt": "2026-08-24T15:32:15+00:00",
+      "excerpt": "It isn\u2019t often that new image formats land in browsers. In the early 2000s we had JPEG, GIF, and PNG. The 2010s gave us WebP, which was a modest step up from JPEG. But the 2020s have given us two new image formats that are a big step up fro",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
       ]
     },
     {
@@ -2572,6 +2585,20 @@
       ]
     },
     {
+      "id": "mozilla:https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
+      "sourceId": "mozilla",
+      "title": "PACT: Anonymous Credentials for the Web",
+      "url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
+      "publishedAt": "2026-06-23T15:29:52+00:00",
+      "excerpt": "This is the technical companion to our update on Distilled, \u201cKeeping the web open and private in the bot era.\u201d Here we take a deeper look at the problem space, the design we\u2019re proposing, and the problems still left to solve. Bots (and priv",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
+      ]
+    },
+    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/ai-assisted-storage-migration/",
       "sourceId": "datadog",
       "title": "How we migrated a live routing system using AI-assisted refactoring",
@@ -2994,6 +3021,20 @@
       ]
     },
     {
+      "id": "mozilla:https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "sourceId": "mozilla",
+      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "publishedAt": "2026-05-07T16:01:21+00:00",
+      "excerpt": "Two weeks ago we announced that we had identified and fixed an unprecedented number of latent security bugs in Firefox with the help of Claude Mythos Preview and other AI models. In this post, we\u2019ll go into more detail about how we approach",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
+      ]
+    },
+    {
       "id": "uber:https://medium.com/uber-under-the-hood/why-dont-two-identical-orders-cost-the-same-3fcfd58fc42a?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "Why Don\u2019t Two Identical Orders Cost the Same?",
@@ -3005,6 +3046,20 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "mozilla:https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web/",
+      "sourceId": "mozilla",
+      "title": "Trustworthy JavaScript for the Open Web",
+      "url": "https://hacks.mozilla.org/2026/05/trustworthy-javascript-for-the-open-web/",
+      "publishedAt": "2026-05-05T15:49:11+00:00",
+      "excerpt": "The open web is a critical platform for applications that handle highly sensitive data, from private communications to financial transactions and medical records. Traditionally, servers are trusted to deliver the appropriate code and resour",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
       ]
     },
     {
@@ -3453,6 +3508,20 @@
       ]
     },
     {
+      "id": "mozilla:https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "sourceId": "mozilla",
+      "title": "Why is WebAssembly a second-class language on the web?",
+      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "publishedAt": "2026-02-26T16:02:36+00:00",
+      "excerpt": "This post is an expanded version of a presentation I gave at the 2025 WebAssembly CG meeting in Munich. WebAssembly has come a long way since its first release in 2017. The first version of WebAssembly was already a great fit for low-level ",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
+      ]
+    },
+    {
       "id": "zendesk:https://zendesk.engineering/how-to-lead-with-compassion-without-losing-yourself-2834d29387f4?source=rss----a88376ea904a---4",
       "sourceId": "zendesk",
       "title": "How to lead with compassion without losing yourself",
@@ -3463,6 +3532,20 @@
         "engineering",
         "internal",
         "backend"
+      ]
+    },
+    {
+      "id": "mozilla:https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
+      "sourceId": "mozilla",
+      "title": "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148",
+      "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
+      "publishedAt": "2026-02-24T13:00:02+00:00",
+      "excerpt": "Cross-site scripting (XSS) remains one of the most prevalent vulnerabilities on the web. The new standardized Sanitizer API provides a straightforward way for web developers to sanitize untrusted HTML before inserting it into the DOM. Firef",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
       ]
     },
     {
@@ -3510,6 +3593,20 @@
         "internal",
         "data",
         "ai"
+      ]
+    },
+    {
+      "id": "mozilla:https://hacks.mozilla.org/2026/02/launching-interop-2026/",
+      "sourceId": "mozilla",
+      "title": "Launching Interop 2026",
+      "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/",
+      "publishedAt": "2026-02-12T17:07:24+00:00",
+      "excerpt": "The Interop Project is a cross-browser initiative to improve web compatibility in areas that offer the most benefit to both users and developers. The group, including Apple, Google, Igalia, Microsoft, and Mozilla, takes proposals of feature",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
       ]
     },
     {
@@ -4059,6 +4156,21 @@
       ]
     },
     {
+      "id": "mozilla:https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
+      "sourceId": "mozilla",
+      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
+      "url": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
+      "publishedAt": "2025-08-19T16:03:19+00:00",
+      "excerpt": "Firefox is now the first and the only browser to deploy fast and comprehensive certificate revocation checking that does not reveal your browsing activity to anyone (not even to Mozilla). Tens of millions of TLS server certificates are issu",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security",
+        "devops"
+      ]
+    },
+    {
       "id": "canva:https://www.canva.dev/blog/engineering/draw-in-present-mode/",
       "sourceId": "canva",
       "title": "From Intern Project to Production: How I Shipped the Draw Tool for Canva's Present Mode",
@@ -4346,6 +4458,20 @@
       ]
     },
     {
+      "id": "mozilla:https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/",
+      "sourceId": "mozilla",
+      "title": "Improving Firefox Stability in the Enterprise by Reducing DLL Injection",
+      "url": "https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/",
+      "publishedAt": "2025-03-25T18:31:16+00:00",
+      "excerpt": "Beginning in version 138, Firefox will offer an alternative to DLL injection for Data Loss Prevention (DLP) deployments in enterprise environments. DLL Injection DLL injection into Firefox is a topic we\u2019ve covered on the Hacks blog before. ",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
+      ]
+    },
+    {
       "id": "deliveroo:https://deliveroo.engineering/2025/03/24/my-journey-so-far-as-a-senior-staff-engineer.html",
       "sourceId": "deliveroo",
       "title": "Antonio Troina: My Journey So Far as a Senior Staff Software Engineer",
@@ -4506,6 +4632,20 @@
         "backend",
         "ai",
         "reliability"
+      ]
+    },
+    {
+      "id": "mozilla:https://hacks.mozilla.org/2025/02/interop-2025/",
+      "sourceId": "mozilla",
+      "title": "Launching Interop 2025",
+      "url": "https://hacks.mozilla.org/2025/02/interop-2025/",
+      "publishedAt": "2025-02-13T16:59:13+00:00",
+      "excerpt": "Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024\u2019s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements,",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
       ]
     },
     {
@@ -4732,6 +4872,20 @@
       ]
     },
     {
+      "id": "mozilla:https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+      "sourceId": "mozilla",
+      "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
+      "url": "https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
+      "publishedAt": "2024-10-16T13:32:30+00:00",
+      "excerpt": "Discover the latest release of Llamafile 0.8.14, an open-source AI tool by Mozilla Builders. With a new command-line chat interface, enhanced performance, and support for powerful models, Llamafile makes it easy to run large language models",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security"
+      ]
+    },
+    {
       "id": "square:https://developer.squareup.com/blog/enhancing-data-quality-using-better-designed-etls",
       "sourceId": "square",
       "title": "Enhancing Data Quality Using Better Designed ETLs",
@@ -4799,6 +4953,21 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "mozilla:https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+      "sourceId": "mozilla",
+      "title": "0Din: A GenAI Bug Bounty Program \u2013 Securing Tomorrow\u2019s AI Together",
+      "url": "https://hacks.mozilla.org/2024/08/0din-a-genai-bug-bounty-program-securing-tomorrows-ai-together/",
+      "publishedAt": "2024-08-08T18:39:13+00:00",
+      "excerpt": "As AI continues to evolve, so do the threats against it. As these GenAI systems become more sophisticated and widely adopted, ensuring their security and ethical use becomes paramount. 0Din is a groundbreaking GenAI bug bounty program dedic",
+      "tags": [
+        "engineering",
+        "internal",
+        "frontend",
+        "security",
+        "ai"
       ]
     },
     {
