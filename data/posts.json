@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-10-22T17:13:57.425886+00:00",
+  "generatedAt": "2026-10-22T21:39:44.217005+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "snap:https://eng.snap.com/alchemist",
+      "sourceId": "snap",
+      "title": "Alchemist: Agentic ML Experimentation",
+      "url": "https://eng.snap.com/alchemist",
+      "publishedAt": "2026-10-30T07:00:00+00:00",
+      "excerpt": "Alchemist brings human-in-the-loop agents and a deterministic harness to ML experimentation at Snapchat, reducing feature-selection cycles from four weeks to two.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "mobile"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/k-isms/",
       "sourceId": "cloudflare",
@@ -17,6 +31,20 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/when-you-need-a-metric/",
+      "sourceId": "sentry",
+      "title": "Should you use a log or a metric?",
+      "url": "https://blog.sentry.io/when-you-need-a-metric/",
+      "publishedAt": "2026-10-22T09:00:00+00:00",
+      "excerpt": "If you already log it, you can probably just count the logs. Here's when a question deserves its own metric, shown with one signup handler.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
       ]
     },
     {
@@ -1369,6 +1397,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1381,20 +1423,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1672,20 +1700,6 @@
         "internal",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/debugging-our-ai-search-assistant-with-agent-tracing/",
-      "sourceId": "sentry",
-      "title": "Debugging our AI search assistant with agent tracing",
-      "url": "https://blog.sentry.io/debugging-our-ai-search-assistant-with-agent-tracing/",
-      "publishedAt": "2026-09-11T09:00:00+00:00",
-      "excerpt": "See how Sentry engineers used AI Conversations to debug a natural language search assistant and fix a tricky query generation bug.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
       ]
     },
     {
@@ -3439,20 +3453,6 @@
       "title": "Inside Snap's Experimentation Platform: Leveraging NVIDIA GPUs for Accelerated Data Processing",
       "url": "https://eng.snap.com/snap-nvidia-gcp",
       "publishedAt": "2026-03-16T07:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "mobile"
-      ]
-    },
-    {
-      "id": "snap:https://eng.snap.com/spatial_interaction",
-      "sourceId": "snap",
-      "title": "Building the Spatial Interaction and Interface Frameworks for Specs",
-      "url": "https://eng.snap.com/spatial_interaction",
-      "publishedAt": "2026-03-13T07:00:00+00:00",
       "excerpt": "",
       "tags": [
         "engineering",
