@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:39:44.217005+00:00",
+  "generatedAt": "2026-10-23T04:56:21.800480+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -16,6 +16,24 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-22T22:19:12+00:00",
+      "excerpt": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "reliability",
+        "security",
+        "devops"
       ]
     },
     {
@@ -616,22 +634,6 @@
         "ai",
         "mobile",
         "devops"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
-      "url": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-10-14T19:48:20+00:00",
-      "excerpt": "By Violetta Pidvolotska and Naveen Mareddy Stratum is Netflix\u2019s internal serverless media processing platform, shaped by over a decade of experience developing large-scale distributed systems. It powers a wide range of media workloads \u2014 inc",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "reliability"
       ]
     },
     {
@@ -1886,7 +1888,7 @@
     {
       "id": "lyft:https://eng.lyft.com/rerouting-the-stream-how-lyft-moved-to-the-apache-flink-operator-36f20246d250?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
-      "title": "Rerouting the Stream: How Lyft Moved to the Apache Flink Operator",
+      "title": "Rerouting the Stream: How Lyft Moved to the Apache Flink Kubernetes Operator",
       "url": "https://eng.lyft.com/rerouting-the-stream-how-lyft-moved-to-the-apache-flink-operator-36f20246d250?source=rss----25cd379abb8---4",
       "publishedAt": "2026-08-31T19:08:16+00:00",
       "excerpt": "Written by Maheep Myneni , Arda Kuyumcu , and Prem Santosh Udaya Shankar at Lyft. Why We Migrated : Technical Debt Meets Modern Streaming Demands Over the past several quarters, Lyft\u2019s Streaming Compute team retired our internally developed",
