@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:56:21.800480+00:00",
+  "generatedAt": "2026-10-23T11:43:36.874938+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -16,6 +16,23 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "fly:https://fly.io/blog/feng-shui-for-robots/",
+      "sourceId": "fly",
+      "title": "Feng Shui for Robots: The Fly MCP Server",
+      "url": "https://fly.io/blog/feng-shui-for-robots/",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "excerpt": "In Databricks\u2019 State of AI Agents 2026 report, there\u2019s a chart from Neon\u2019s telemetry that\u2019s somehow both mind-blowing and unsurprising. In October 2023, AI agents created 0.1% of the databases on Neon. By October 2025 they created 80% of th",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "frontend",
+        "databases"
       ]
     },
     {
@@ -1124,6 +1141,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1149,20 +1180,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -4043,22 +4060,6 @@
         "data",
         "ai",
         "devops"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/litestream-v050-is-here/",
-      "sourceId": "fly",
-      "title": "Litestream v0.5.0 is Here",
-      "url": "https://fly.io/blog/litestream-v050-is-here/",
-      "publishedAt": "2025-10-02T00:00:00+00:00",
-      "excerpt": "I\u2019m Ben Johnson, and I work on Litestream at Fly.io. Litestream makes it easy to build SQLite-backed full-stack applications with resilience to server failure. It\u2019s open source, runs anywhere, and it\u2019s easy to get started . Litestream is th",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "databases"
       ]
     },
     {
