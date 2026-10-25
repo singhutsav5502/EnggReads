@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:36:56.935925+00:00",
+  "generatedAt": "2026-10-25T16:27:16.840398+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -294,21 +294,6 @@
       ]
     },
     {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
-      "sourceId": "datadog",
-      "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
-      "url": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
-      "publishedAt": "2026-10-20T00:00:00+00:00",
-      "excerpt": "Datadog built Turnstile to evaluate signed attestations and enforce software supply chain policies before container images are deployed.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
       "sourceId": "sentry",
       "title": "The Sentry Android SDK is now 20-30% faster!",
@@ -321,6 +306,21 @@
         "reliability",
         "frontend",
         "mobile"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+      "sourceId": "datadog",
+      "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
+      "url": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "excerpt": "Datadog built Turnstile to evaluate signed attestations and enforce software supply chain policies before container images are deployed.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
       ]
     },
     {
