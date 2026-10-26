@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:09:31.656128+00:00",
+  "generatedAt": "2026-10-26T22:42:20.989170+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -16,6 +16,72 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "sourceId": "cloudflare",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "publishedAt": "2026-10-26T22:01:23+00:00",
+      "excerpt": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Making Failure Diagnosis Reliable with Pensive AI",
+      "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-26T17:04:57+00:00",
+      "excerpt": "By Praneeth Yenugutala , Victor Dusa , Anastasia Samoilova , Megan Ren , Justin Wei , Marcelo Mayworm At Netflix, data and machine learning practitioners run millions of workloads each day across orchestration systems and compute engines su",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai",
+        "reliability"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Multi\u2011Ratio Video Resizing for Mobile Feed and Marketing",
+      "url": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-10-26T16:01:02+00:00",
+      "excerpt": "Serdar Cellat , Yuchen Xie , Bernadette Marcu , Blaid Burgess , Cody Jarrett , Carlos Pereira , Qing Shi , Samuel Carvajal , Manuel Pamplona , Dorothy Jung , Feiko Ritsema , Benjamin Klein , Alex Woo , Eugene Lok , Anna Pulido , Rebecka Swe",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai",
+        "mobile"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+      "sourceId": "meta",
+      "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+      "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+      "publishedAt": "2026-10-26T16:00:07+00:00",
+      "excerpt": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster. Highlights IceP",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure",
+        "reliability",
+        "data"
       ]
     },
     {
@@ -545,21 +611,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
-      "sourceId": "cloudflare",
-      "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
-      "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
-      "publishedAt": "2026-10-15T13:00:00+00:00",
-      "excerpt": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests \u2014 making the experience better for users and website owners alike.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "Integrating Netflix\u2019s Foundation Model into Personalization applications",
@@ -640,41 +691,6 @@
         "reliability",
         "security",
         "databases",
-        "devops"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Netflix Conductor: The Next Chapter",
-      "url": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-10-14T19:50:17+00:00",
-      "excerpt": "Netflix Conductor : The Next Chapter by Aravindan Ramkumar on behalf of the Conductor team Conductor is the workflow orchestration engine Netflix uses to stitch micro-services into reliable, observable business processes. If you\u2019ve followed",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "reliability",
-        "mobile",
-        "databases",
-        "devops"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Running Apache Spark experiments in my sleep (and on a plane)",
-      "url": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-10-14T19:49:11+00:00",
-      "excerpt": "By Prashanth Gedde Narayanaswamy As one of Netflix\u2019s largest and critical data pipelines, member-sessionizer consolidates tens of billions of hourly client events, encompassing user taps, playbacks, and engagement signals, into individual v",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
         "devops"
       ]
     },
@@ -804,21 +820,6 @@
       "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
       "publishedAt": "2026-10-12T21:19:18+00:00",
       "excerpt": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
-      "sourceId": "meta",
-      "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
-      "url": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
-      "publishedAt": "2026-10-12T16:01:32+00:00",
-      "excerpt": "Meta has begun deploying Media over QUIC (MoQ), an emerging open protocol for real-time video streaming at scale. MoQ will help simplify our protocol stack for live streaming video and enhance overall user experience for live video. We\u2019re s",
       "tags": [
         "recommended",
         "engineering",
@@ -1151,6 +1152,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1176,20 +1191,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1426,6 +1427,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1438,20 +1453,6 @@
         "data",
         "mobile",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
