@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:17:43.471048+00:00",
+  "generatedAt": "2026-10-27T18:03:55.310108+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -16,6 +16,95 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "gusto:https://engineering.gusto.com/how-spec-driven-development-shaped-my-new-way-of-engineering-ee0acb6d02b4?source=rss----645edd256348---4",
+      "sourceId": "gusto",
+      "title": "How Spec-Driven Development Shaped My New Way of Engineering",
+      "url": "https://engineering.gusto.com/how-spec-driven-development-shaped-my-new-way-of-engineering-ee0acb6d02b4?source=rss----645edd256348---4",
+      "publishedAt": "2026-10-27T17:43:13+00:00",
+      "excerpt": "Before adopting spec-driven development (SDD), I spent a lot of my time renegotiating with AI agents before we reached a plan I was happy with. Worse, without persisted artifacts or structured task tracking, agents would routinely suffer co",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/27/security/privacylib/",
+      "sourceId": "meta",
+      "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+      "url": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+      "publishedAt": "2026-10-27T16:00:12+00:00",
+      "excerpt": "This latest deep dive into Meta\u2019s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta\u2019s diverse data and processing systems. Historically, supporting a new requirement me",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+      "sourceId": "meta",
+      "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+      "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+      "publishedAt": "2026-10-27T15:59:24+00:00",
+      "excerpt": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more than one, and missing",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+      "sourceId": "cloudflare",
+      "title": "What took the Internet offline in Q3 2026",
+      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+      "publishedAt": "2026-10-27T13:00:00+00:00",
+      "excerpt": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/beagle-ai-agent-workflows/",
+      "sourceId": "sentry",
+      "title": "How a beagle-shaped AI agent ships code to madewithvuejs.com",
+      "url": "https://blog.sentry.io/beagle-ai-agent-workflows/",
+      "publishedAt": "2026-10-27T09:00:00+00:00",
+      "excerpt": "Meet Milly, the AI agent at madewithvuejs.com that scouts content, ships features, and fixes production bugs using GitHub, Linear, and the Sentry MCP.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/what-was-the-turning-point-for-postgres",
+      "sourceId": "planetscale",
+      "title": "What was the turning point for Postgres?",
+      "url": "https://planetscale.com/blog/what-was-the-turning-point-for-postgres",
+      "publishedAt": "2026-10-27T00:00:00+00:00",
+      "excerpt": "Postgres is the most popular database choice among developers. Postgres is the default choice for agents, powering countless applications where those new to app building don't even know what a database is. Every major cloud offers hosted Po",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "ai",
+        "security",
+        "frontend"
       ]
     },
     {
@@ -595,22 +684,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/deploy-with-void/",
-      "sourceId": "cloudflare",
-      "title": "Deploy with Void",
-      "url": "https://blog.cloudflare.com/deploy-with-void/",
-      "publishedAt": "2026-10-15T14:00:00+00:00",
-      "excerpt": "Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "devops"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "Integrating Netflix\u2019s Foundation Model into Personalization applications",
@@ -769,21 +842,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
-      "sourceId": "meta",
-      "title": "Meta\u2019s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
-      "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
-      "publishedAt": "2026-10-13T16:01:00+00:00",
-      "excerpt": "Last year, we introduced GEM, the industry\u2019s largest recommendation system (RecSys) foundation model. GEM established Meta\u2019s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building on this foundation, o",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
       "sourceId": "grab",
       "title": "GrabMart data for faster disease outbreak detection",
@@ -811,21 +869,6 @@
         "internal",
         "culture",
         "ai"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
-      "sourceId": "meta",
-      "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
-      "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
-      "publishedAt": "2026-10-12T21:19:18+00:00",
-      "excerpt": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
       ]
     },
     {
@@ -1427,20 +1470,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1453,6 +1482,20 @@
         "data",
         "mobile",
         "ai"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1525,20 +1568,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "sourceId": "planetscale",
-      "title": "Anatomy of a (Postgres) search engine",
-      "url": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
-      "publishedAt": "2026-09-22T00:00:00+00:00",
-      "excerpt": "Databases use indexes to make queries fast. Rather than check every row in a table for a matching value, look up that value in an index and seek directly to the right rows. Most database indexes are b-trees or b+trees , which sort a column'",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "deliveroo:https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
       "sourceId": "deliveroo",
       "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
@@ -1563,21 +1592,6 @@
         "engineering",
         "internal",
         "backend",
-        "ai"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/sentry-laravel-ai-integration/",
-      "sourceId": "sentry",
-      "title": "Building Sentry's Laravel AI Integration",
-      "url": "https://blog.sentry.io/sentry-laravel-ai-integration/",
-      "publishedAt": "2026-09-21T09:00:00+00:00",
-      "excerpt": "How we built zero-config Agent Tracing for Laravel AI, from AI code review to matching LLM calls with HTTP requests.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend",
         "ai"
       ]
     },
@@ -3209,22 +3223,6 @@
         "data",
         "frontend",
         "mobile"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/building-resilient-mobile-apps-a-layered-testing-strategy-for-long-term-stability-d035c78bad31?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Building Resilient Mobile Apps: A Layered Testing Strategy for Long-Term Stability",
-      "url": "https://engineering.gusto.com/building-resilient-mobile-apps-a-layered-testing-strategy-for-long-term-stability-d035c78bad31?source=rss----645edd256348---4",
-      "publishedAt": "2026-04-14T19:06:10+00:00",
-      "excerpt": "Mobile teams shipping on a weekly cadence need automated confidence that changes won\u2019t break what\u2019s already working. At Gusto, our iOS codebase had unit tests, but coverage was uneven, and we hadn\u2019t yet adopted snapshot testing. Major upgra",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "reliability",
-        "mobile",
-        "devops"
       ]
     },
     {
