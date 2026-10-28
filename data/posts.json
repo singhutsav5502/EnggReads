@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:59:51.433515+00:00",
+  "generatedAt": "2026-10-28T22:38:16.717887+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -16,6 +16,36 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+      "sourceId": "meta",
+      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+      "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+      "publishedAt": "2026-10-28T16:00:01+00:00",
+      "excerpt": "This post describes the next generation of Meta Andromeda, Meta\u2019s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system sco",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/agent-tracing-use-cases/",
+      "sourceId": "sentry",
+      "title": "Five things you can do with Sentry\u2019s Agent Tracing",
+      "url": "https://blog.sentry.io/agent-tracing-use-cases/",
+      "publishedAt": "2026-10-28T09:00:00+00:00",
+      "excerpt": "Five Sentry Agent Tracing recipes: turn agent conversations into evals, automate triage, track LLM costs, alert on spend, and send OTel spans to Sentry.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "ai"
       ]
     },
     {
@@ -449,21 +479,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
-      "sourceId": "sentry",
-      "title": "The Sentry Android SDK is now 20-30% faster!",
-      "url": "https://blog.sentry.io/android-sdk-faster-startup/",
-      "publishedAt": "2026-10-20T00:00:00+00:00",
-      "excerpt": "Sentry Android SDK 8.54.0 initializes 20-30% faster. See how build-time options, faster DSN parsing, and shared thread pools cut startup cost.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend",
-        "mobile"
-      ]
-    },
-    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
       "sourceId": "datadog",
       "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
@@ -476,6 +491,21 @@
         "internal",
         "reliability",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
+      "sourceId": "sentry",
+      "title": "The Sentry Android SDK is now 20-30% faster!",
+      "url": "https://blog.sentry.io/android-sdk-faster-startup/",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "excerpt": "Sentry Android SDK 8.54.0 initializes 20-30% faster. See how build-time options, faster DSN parsing, and shared thread pools cut startup cost.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "mobile"
       ]
     },
     {
@@ -665,22 +695,6 @@
         "security",
         "engineering",
         "internal"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
-      "sourceId": "meta",
-      "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
-      "url": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
-      "publishedAt": "2026-10-15T16:00:59+00:00",
-      "excerpt": "Ke Mao, Mark Harman, and Yue Jia have been recognized with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026 Most Influential Paper Award for their 2016 research, \u201cSapienz: multi-objective automated testi",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure",
-        "mobile"
       ]
     },
     {
@@ -1470,6 +1484,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "sourceId": "planetscale",
+      "title": "When to choose x86-64 vs aarch64",
+      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
+      "publishedAt": "2026-09-25T00:00:00+00:00",
+      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
       "sourceId": "grab",
       "title": "Automated merchant review summary system with integrated feedback",
@@ -1485,20 +1513,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "zalando:https://engineering.zalando.com/posts/2026/09/agentic-platform-open-sourcing-agentic-identity-broker.html",
       "sourceId": "zalando",
       "title": "Agentic Platform: Open-Sourcing the Agentic Identity Broker",
@@ -1509,20 +1523,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/bfcache-metrics/",
-      "sourceId": "sentry",
-      "title": "Measuring the back/forward cache with Application Metrics",
-      "url": "https://blog.sentry.io/bfcache-metrics/",
-      "publishedAt": "2026-09-24T00:00:00+00:00",
-      "excerpt": "A bfcache hit leaves no trace in ordinary metrics. Here's how Sentry's bfcacheMetricsIntegration makes back/forward cache health measurable.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
       ]
     },
     {
