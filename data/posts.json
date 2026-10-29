@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T13:07:45.683737+00:00",
+  "generatedAt": "2026-10-29T22:47:52.500532+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -19,18 +19,61 @@
       ]
     },
     {
+      "id": "meta:https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+      "sourceId": "meta",
+      "title": "Catching Bugs Before They Land: JiTTesting\u2019s Human-on-the-Loop Approach at Full Scale",
+      "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+      "publishedAt": "2026-10-29T16:00:12+00:00",
+      "excerpt": "Over the last year we\u2019ve been sharing our work leveraging large language models to catch bugs on the fly \u2014 a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we\u2019re sharing the results and positive impact we\u2019ve seen with C",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "cloudflare:https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
       "sourceId": "cloudflare",
       "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
       "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
       "publishedAt": "2026-10-29T12:55:00+00:00",
-      "excerpt": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers ",
+      "excerpt": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns.",
       "tags": [
         "recommended",
         "infrastructure",
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/measuring-soft-navigation-web-vitals/",
+      "sourceId": "sentry",
+      "title": "Measuring soft navigation web vitals",
+      "url": "https://blog.sentry.io/measuring-soft-navigation-web-vitals/",
+      "publishedAt": "2026-10-29T00:00:00+00:00",
+      "excerpt": "The Sentry JavaScript SDK v11 reports LCP, CLS, and INP for soft navigations. Here's what that reveals about your SPA, with interactive demos.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption",
+      "sourceId": "planetscale",
+      "title": "Designing a planned switchover for minimum disruption",
+      "url": "https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption",
+      "publishedAt": "2026-10-29T00:00:00+00:00",
+      "excerpt": "A Neki shard consists of one Postgres primary and multiple replicas. The primary accepts writes; the replicas do not. From time to time, we need one of those replicas to take over as the primary. We may be replacing a (Kubernetes) pod, upgr",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -494,21 +537,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
-      "sourceId": "sentry",
-      "title": "The Sentry Android SDK is now 20-30% faster!",
-      "url": "https://blog.sentry.io/android-sdk-faster-startup/",
-      "publishedAt": "2026-10-20T00:00:00+00:00",
-      "excerpt": "Sentry Android SDK 8.54.0 initializes 20-30% faster. See how build-time options, faster DSN parsing, and shared thread pools cut startup cost.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend",
-        "mobile"
-      ]
-    },
-    {
       "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
       "sourceId": "datadog",
       "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
@@ -521,6 +549,21 @@
         "internal",
         "reliability",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
+      "sourceId": "sentry",
+      "title": "The Sentry Android SDK is now 20-30% faster!",
+      "url": "https://blog.sentry.io/android-sdk-faster-startup/",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "excerpt": "Sentry Android SDK 8.54.0 initializes 20-30% faster. See how build-time options, faster DSN parsing, and shared thread pools cut startup cost.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "mobile"
       ]
     },
     {
@@ -664,22 +707,6 @@
         "internal",
         "ai",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
-      "sourceId": "meta",
-      "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
-      "url": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
-      "publishedAt": "2026-10-15T18:30:29+00:00",
-      "excerpt": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure",
-        "reliability"
       ]
     },
     {
@@ -1412,20 +1439,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/big-improvements-to-seer-agent/",
-      "sourceId": "sentry",
-      "title": "Big improvements to Seer Agent",
-      "url": "https://blog.sentry.io/big-improvements-to-seer-agent/",
-      "publishedAt": "2026-09-29T07:00:00+00:00",
-      "excerpt": "Seer Agent can now write to your Sentry projects and pull in infrastructure data from Datadog and Google Cloud Platform \u2014 turning it from a debugging rubber duck into a full-time assistant.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "yelp:https://engineeringblog.yelp.com/2026/09/the-making-of-the-yelp-assistant-ui.html",
       "sourceId": "yelp",
       "title": "The making of the Yelp Assistant UI",
@@ -1548,20 +1561,6 @@
       "publishedAt": "2026-09-23T07:00:00+00:00",
       "excerpt": "Meaningful AI gains depend on rethinking workflows, measuring real outcomes, and keeping human judgment at the center of how work gets done.",
       "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/searching-hn-with-tin",
-      "sourceId": "planetscale",
-      "title": "TIN Postgres search is faster, better, and cheaper",
-      "url": "https://planetscale.com/blog/searching-hn-with-tin",
-      "publishedAt": "2026-09-23T00:00:00+00:00",
-      "excerpt": "Last week Rishi Raj Jain built an app to search Hacker News posts and comments using Postgres full-text search, hosted on Neon Lakebase. It's a good app and a good demo video except for one thing: this tilde. Why can't Lakebase provide an e",
-      "tags": [
-        "databases",
         "engineering",
         "internal",
         "infrastructure"
