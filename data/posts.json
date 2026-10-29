@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:52:55.879522+00:00",
+  "generatedAt": "2026-10-29T13:07:45.683737+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -16,6 +16,21 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+      "sourceId": "cloudflare",
+      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+      "publishedAt": "2026-10-29T12:55:00+00:00",
+      "excerpt": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers ",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
       ]
     },
     {
@@ -479,21 +494,6 @@
       ]
     },
     {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
-      "sourceId": "datadog",
-      "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
-      "url": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
-      "publishedAt": "2026-10-20T00:00:00+00:00",
-      "excerpt": "Datadog built Turnstile to evaluate signed attestations and enforce software supply chain policies before container images are deployed.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
       "sourceId": "sentry",
       "title": "The Sentry Android SDK is now 20-30% faster!",
@@ -506,6 +506,21 @@
         "reliability",
         "frontend",
         "mobile"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+      "sourceId": "datadog",
+      "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
+      "url": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "excerpt": "Datadog built Turnstile to evaluate signed attestations and enforce software supply chain policies before container images are deployed.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
       ]
     },
     {
@@ -680,21 +695,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/programmable-gateway-dlp/",
-      "sourceId": "cloudflare",
-      "title": "A fully programmable secure web gateway",
-      "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
-      "publishedAt": "2026-10-15T17:11:12+00:00",
-      "excerpt": "Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
