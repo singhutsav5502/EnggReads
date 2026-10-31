@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:24:31.364069+00:00",
+  "generatedAt": "2026-10-31T05:49:01.576408+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
@@ -31,6 +31,19 @@
         "internal",
         "infrastructure",
         "mobile"
+      ]
+    },
+    {
+      "id": "zalando:https://engineering.zalando.com/posts/2026/10/upgrading-mlflow-pipelines.html",
+      "sourceId": "zalando",
+      "title": "Upgrading MLflow Pipelines Across a Python Version Boundary",
+      "url": "https://engineering.zalando.com/posts/2026/10/upgrading-mlflow-pipelines.html",
+      "publishedAt": "2026-10-29T23:00:00+00:00",
+      "excerpt": "How we migrated production MLflow models from Python 3.10 to 3.12 without retraining, using a \"Load and Repack\" strategy to recover cloudpickle-serialized artifacts and future-proof our ML architecture.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -322,6 +335,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "sourceId": "planetscale",
+      "title": "Shard design doesn't start from your tables",
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "fly:https://fly.io/blog/feng-shui-for-robots/",
       "sourceId": "fly",
       "title": "Feng Shui for Robots: The Fly MCP Server",
@@ -336,20 +363,6 @@
         "devops",
         "frontend",
         "databases"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "sourceId": "planetscale",
-      "title": "Shard design doesn't start from your tables",
-      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -3736,19 +3749,6 @@
       "url": "https://innovation.ebayinc.com/stories/ai-trends-to-watch-in-2026/",
       "publishedAt": "2026-01-16T08:00:00+00:00",
       "excerpt": "We asked leaders across eBay for the most transformative tech trends to watch in the year ahead. Here\u2019s what they had to say.",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "zalando:https://engineering.zalando.com/posts/2026/01/publication-replenishment-engine.html",
-      "sourceId": "zalando",
-      "title": "Paper Announcement: A Practical Approach to Replenishment Optimization with Extended (R, s, Q) Policy and Probabilistic Models",
-      "url": "https://engineering.zalando.com/posts/2026/01/publication-replenishment-engine.html",
-      "publishedAt": "2026-01-14T23:00:00+00:00",
-      "excerpt": "Learn how the ZEOS replenishment optimization system achieves up to 22.1% GMV uplift by unifying probabilistic demand forecasting with risk-aware discrete event simulation.",
       "tags": [
         "engineering",
         "internal",
