@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-03T01:01:29.358232+00:00",
+  "generatedAt": "2026-11-03T14:21:27.335717+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "wise:https://medium.com/wise-engineering/from-onboarding-to-production-how-i-built-dynamic-vendor-switching-at-wise-876942d6031f?source=rss----f2565bbe9c46---4",
+      "sourceId": "wise",
+      "title": "From Onboarding to Production: How I Built Dynamic Vendor Switching at Wise",
+      "url": "https://medium.com/wise-engineering/from-onboarding-to-production-how-i-built-dynamic-vendor-switching-at-wise-876942d6031f?source=rss----f2565bbe9c46---4",
+      "publishedAt": "2026-11-03T09:52:56+00:00",
+      "excerpt": "When I joined Wise, I was expecting the standard new-joiner experience: documentation, shadowing sessions, maybe a small bug fix or two to ease in. What I got instead was a real problem, a blank design doc, and a team ready to help me solve",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "reliability",
+        "databases"
+      ]
+    },
     {
       "id": "gusto:https://engineering.gusto.com/what-slash-commands-actually-do-76cf4c288f5c?source=rss----645edd256348---4",
       "sourceId": "gusto",
@@ -1279,6 +1294,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1304,20 +1333,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -5184,21 +5199,6 @@
         "backend",
         "security",
         "devops"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/how-we-integrated-spiffe-oauth2-0-and-spring-boot-39a6faf41f96?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "How we Integrated SPIFFE, Oauth2.0 and Spring Boot",
-      "url": "https://medium.com/wise-engineering/how-we-integrated-spiffe-oauth2-0-and-spring-boot-39a6faf41f96?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2022-12-14T09:36:48+00:00",
-      "excerpt": "How we Integrated SPIFFE, OAuth2 and Spring Boot At Wise the Security Engineering team supports the Security Squad by developing tools and building technical controls relevant to the security maturity of existing technological setup. We wor",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "infrastructure",
-        "security"
       ]
     },
     {
