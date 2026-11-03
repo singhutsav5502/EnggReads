@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-03T14:21:27.335717+00:00",
+  "generatedAt": "2026-11-03T23:26:05.671537+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "meta:https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+      "sourceId": "meta",
+      "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+      "url": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+      "publishedAt": "2026-11-03T17:00:35+00:00",
+      "excerpt": "Facebook Feature Framework (F3) is Meta\u2019s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
     {
       "id": "wise:https://medium.com/wise-engineering/from-onboarding-to-production-how-i-built-dynamic-vendor-switching-at-wise-876942d6031f?source=rss----f2565bbe9c46---4",
       "sourceId": "wise",
@@ -17,6 +32,34 @@
         "backend",
         "reliability",
         "databases"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/performance-wins-traces-coding-agent/",
+      "sourceId": "sentry",
+      "title": "Finding performance wins in our own traces with a coding agent",
+      "url": "https://blog.sentry.io/performance-wins-traces-coding-agent/",
+      "publishedAt": "2026-11-03T09:00:00+00:00",
+      "excerpt": "How we used a coding agent and the Sentry MCP to find backend performance wins in Sentry's own traces and remove hundreds of millions of queries a week.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/the-hidden-latency-inside-your-database",
+      "sourceId": "planetscale",
+      "title": "The hidden latency inside your database",
+      "url": "https://planetscale.com/blog/the-hidden-latency-inside-your-database",
+      "publishedAt": "2026-11-03T00:00:00+00:00",
+      "excerpt": "Network-attached storage is a fine choice and a bad default. Application performance 101 says you want to move your application as close as possible to your database. The shorter that distance across the network, the faster reads and writes",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -753,21 +796,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
-      "sourceId": "meta",
-      "title": "How Meta Built Forum With AI-Native Engineering",
-      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
-      "publishedAt": "2026-10-15T19:00:03+00:00",
-      "excerpt": "Meta\u2019s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle. We\u2019re shar",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "github:https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
       "sourceId": "github",
       "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
@@ -1236,20 +1264,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/seer-mcp-cli-or-coding-agent/",
-      "sourceId": "sentry",
-      "title": "Seer, the Sentry MCP and CLI, or your own coding agent: where each one fits",
-      "url": "https://blog.sentry.io/seer-mcp-cli-or-coding-agent/",
-      "publishedAt": "2026-10-02T00:00:00+00:00",
-      "excerpt": "Seer, the Sentry agent plugin, the CLI, and coding agents aren't competing options. Here's what each one does that the others don't.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/how-recurring-network-maintenance-exposed-6-bugs/",
       "sourceId": "janestreet",
       "title": "How recurring network maintenance exposed 6 bugs",
@@ -1294,20 +1308,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1333,6 +1333,20 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1538,20 +1552,6 @@
         "infrastructure",
         "devops",
         "frontend"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "sourceId": "planetscale",
-      "title": "When to choose x86-64 vs aarch64",
-      "url": "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64",
-      "publishedAt": "2026-09-25T00:00:00+00:00",
-      "excerpt": "Not all cloud vCPUs are created equal. When you create a PlanetScale Postgres or Neki database, you have to choose between aarch64 (ARM) and x86-64 . Two clusters on different architectures can have the same vCPU count and RAM, yet perform ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
