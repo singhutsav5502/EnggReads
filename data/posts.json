@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-02T16:01:46.513331+00:00",
+  "generatedAt": "2026-11-03T01:01:29.358232+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "gusto:https://engineering.gusto.com/what-slash-commands-actually-do-76cf4c288f5c?source=rss----645edd256348---4",
+      "sourceId": "gusto",
+      "title": "What Slash Commands Actually Do",
+      "url": "https://engineering.gusto.com/what-slash-commands-actually-do-76cf4c288f5c?source=rss----645edd256348---4",
+      "publishedAt": "2026-11-02T21:04:05+00:00",
+      "excerpt": "Somebody at Gusto asked, during one of our internal AI AMAs, whether /login was costing them tokens. The answer came back yes, relayed into our Claude Code channel a few minutes later: /login \"is an LLM call, which will take more time and e",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "ai",
+        "security"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/dns-targeted-zone-builds/",
       "sourceId": "cloudflare",
@@ -17,6 +32,21 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/android-profilingmanager-perfetto/",
+      "sourceId": "sentry",
+      "title": "Android profiling now uses Perfetto via ProfilingManager",
+      "url": "https://blog.sentry.io/android-profilingmanager-perfetto/",
+      "publishedAt": "2026-11-02T09:00:00+00:00",
+      "excerpt": "Sentry Android SDK 8.51.0 profiles Android 15+ devices with Perfetto via ProfilingManager: fewer tracer crashes, lower overhead, better profiles",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "mobile"
       ]
     },
     {
@@ -1288,20 +1318,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/etsy-peak-traffic-prep/",
-      "sourceId": "sentry",
-      "title": "How Etsy gets its mobile apps ready for peak traffic",
-      "url": "https://blog.sentry.io/etsy-peak-traffic-prep/",
-      "publishedAt": "2026-09-30T09:00:00+00:00",
-      "excerpt": "How Etsy's mobile team preps for peak traffic: a three-phase code slush, a break-glass alert list, surface-level tagging, and what a crash costs in GMS.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
       ]
     },
     {
@@ -2678,24 +2694,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/storage-is-the-missing-piece-for-agent-built-software-ede96ac7ac27?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Storage Is the Missing Piece for Agent-Built Software",
-      "url": "https://engineering.gusto.com/storage-is-the-missing-piece-for-agent-built-software-ede96ac7ac27?source=rss----645edd256348---4",
-      "publishedAt": "2026-06-16T15:59:27+00:00",
-      "excerpt": "Gusto, like most companies building with LLMs, is amassing a LOT of software : one-off projects, Claude Artifacts, HTML visualizations, dashboards, and my own growing fleet of personal tools. The agent loop made building 100 times easier, b",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "reliability",
-        "security",
-        "databases",
-        "devops"
       ]
     },
     {
