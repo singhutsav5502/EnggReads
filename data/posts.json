@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-11-04T06:30:12.521564+00:00",
+  "generatedAt": "2026-11-04T19:48:47.231794+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 357,
   "posts": [
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Scaling Model Evaluation at Pinterest with Ray (Part 4)",
+      "url": "https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-11-04T16:01:04+00:00",
+      "excerpt": "Vishnu Arun | Tech Lead, Feature Importance Platform; Anderson Lam | Sr Software Engineer; Andrew Qiu | Machine Learning Engineer I; Helena Xu | Data Scientist I; Tianyou Wang | Data Scientist II Introduction In our multi-part blog series, ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "sourceId": "cloudflare",
+      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "publishedAt": "2026-11-04T14:00:00+00:00",
+      "excerpt": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
       "sourceId": "meta",
@@ -695,22 +724,6 @@
         "reliability",
         "frontend",
         "mobile"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/obsessive-inference-optimization/",
-      "sourceId": "cloudflare",
-      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
-      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
-      "publishedAt": "2026-10-19T19:12:53+00:00",
-      "excerpt": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal",
-        "ai"
       ]
     },
     {
@@ -2373,20 +2386,6 @@
         "internal",
         "backend",
         "frontend"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Pinner Progression: Better Use-Case Representation Driving Weekly Active User Growth at Pinterest",
-      "url": "https://medium.com/pinterest-engineering/pinner-progression-better-use-case-representation-driving-weekly-active-user-growth-at-pinterest-bd2131ab238a?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-07-27T16:01:02+00:00",
-      "excerpt": "Part 1 of 2 Authors Personalization (Homefeed): Yuke Yan, Chuxi Wang, Andreanne Lemay, Olafur Gudmundsson, Anna Kiyantseva, Krystal Benitez, Jongho Kim, Jiacong He, Rahul Goutam, James Li, Dylan Wang User Understanding: Simin Li, Sufyan Sul",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
       ]
     },
     {
