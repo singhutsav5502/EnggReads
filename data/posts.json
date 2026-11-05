@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-11-04T19:48:47.231794+00:00",
+  "generatedAt": "2026-11-05T06:53:15.629348+00:00",
   "feedCount": 37,
-  "fetchedOk": 35,
-  "postCount": 357,
+  "fetchedOk": 32,
+  "postCount": 330,
   "posts": [
+    {
+      "id": "zendesk:https://zendesk.engineering/inside-the-open-service-directory-specification-the-agreement-behind-a-support-listing-f86144253242?source=rss----a88376ea904a---4",
+      "sourceId": "zendesk",
+      "title": "Inside the Open Service Directory specification: the agreement behind a support listing",
+      "url": "https://zendesk.engineering/inside-the-open-service-directory-specification-the-agreement-behind-a-support-listing-f86144253242?source=rss----a88376ea904a---4",
+      "publishedAt": "2026-11-05T02:01:03+00:00",
+      "excerpt": "Part 1 of 3: For support-platform engineers making their services discoverable, and developers connecting AI assistants to them. A customer can ask an AI assistant to make an appointment, request a replacement, or follow up on an issue. The",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
     {
       "id": "pinterest:https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
@@ -49,21 +62,6 @@
       ]
     },
     {
-      "id": "wise:https://medium.com/wise-engineering/from-onboarding-to-production-how-i-built-dynamic-vendor-switching-at-wise-876942d6031f?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "From Onboarding to Production: How I Built Dynamic Vendor Switching at Wise",
-      "url": "https://medium.com/wise-engineering/from-onboarding-to-production-how-i-built-dynamic-vendor-switching-at-wise-876942d6031f?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2026-11-03T09:52:56+00:00",
-      "excerpt": "When I joined Wise, I was expecting the standard new-joiner experience: documentation, shadowing sessions, maybe a small bug fix or two to ease in. What I got instead was a real problem, a blank design doc, and a team ready to help me solve",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "reliability",
-        "databases"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/performance-wins-traces-coding-agent/",
       "sourceId": "sentry",
       "title": "Finding performance wins in our own traces with a coding agent",
@@ -89,21 +87,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/what-slash-commands-actually-do-76cf4c288f5c?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "What Slash Commands Actually Do",
-      "url": "https://engineering.gusto.com/what-slash-commands-actually-do-76cf4c288f5c?source=rss----645edd256348---4",
-      "publishedAt": "2026-11-02T21:04:05+00:00",
-      "excerpt": "Somebody at Gusto asked, during one of our internal AI AMAs, whether /login was costing them tokens. The answer came back yes, relayed into our Claude Code channel a few minutes later: /login \"is an LLM call, which will take more time and e",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "security"
       ]
     },
     {
@@ -264,19 +247,6 @@
         "reliability",
         "frontend",
         "ai"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/how-spec-driven-development-shaped-my-new-way-of-engineering-ee0acb6d02b4?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "How Spec-Driven Development Shaped My New Way of Engineering",
-      "url": "https://engineering.gusto.com/how-spec-driven-development-shaped-my-new-way-of-engineering-ee0acb6d02b4?source=rss----645edd256348---4",
-      "publishedAt": "2026-10-27T17:43:13+00:00",
-      "excerpt": "Before adopting spec-driven development (SDD), I spent a lot of my time renegotiating with AI agents before we reached a plan I was happy with. Worse, without persisted artifacts or structured task tracking, agents would routinely suffer co",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
@@ -663,23 +633,6 @@
         "security",
         "engineering",
         "internal"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/observability-at-scale-every-byte-counts-80f5e505d710?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "Observability At Scale \u2014 Every Byte Counts",
-      "url": "https://medium.com/wise-engineering/observability-at-scale-every-byte-counts-80f5e505d710?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2026-10-20T13:03:15+00:00",
-      "excerpt": "Observability At Scale \u2014 Every Byte Counts How five changes cut our monthly observability spend by 40%. Co-authored by Andrew Marwood Photo by Kaique Rocha on Pexels Opening Wise\u2019s mission is to build the best way to move and manage the wor",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "infrastructure",
-        "reliability",
-        "security",
-        "devops"
       ]
     },
     {
@@ -1231,23 +1184,6 @@
       ]
     },
     {
-      "id": "gusto:https://engineering.gusto.com/gusto-went-to-ldx3-nyc-d06db21cde62?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Gusto Went to LDX3 NYC",
-      "url": "https://engineering.gusto.com/gusto-went-to-ldx3-nyc-d06db21cde62?source=rss----645edd256348---4",
-      "publishedAt": "2026-10-05T21:56:04+00:00",
-      "excerpt": "In September, Gusto attended LDX3 NYC \u2014 a conference entirely dedicated to leadership in tech. There were managers, directors, tech leads, and senior engineers. Attendees jumped between the technical and management stage, learning about \u201cRe",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "security",
-        "mobile",
-        "devops"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
       "sourceId": "janestreet",
       "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
@@ -1321,6 +1257,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1346,20 +1296,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1523,6 +1459,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260927-a-kubernetes-resource-that-doesnt-exist-caching-ci-images-on-ephemeral-runners/",
+      "sourceId": "mercari",
+      "title": "A Kubernetes Resource That Doesn\u2019t Exist: Caching CI Images on Ephemeral Runners",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260927-a-kubernetes-resource-that-doesnt-exist-caching-ci-images-on-ephemeral-runners/",
+      "publishedAt": "2026-09-28T14:00:46+00:00",
+      "excerpt": "Hi, I\u2019m Anirudh, a Platform Infrastructure Engineer at Mercari. At Mercari, we depend heavily on GitHub for all of our CI pipelines. We manage our own self-hosted runners using GitHub\u2019s Actions Runner Controller (ARC) which are deployed on ",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "planetscale:https://planetscale.com/blog/hot-shards-hotter-tenants",
       "sourceId": "planetscale",
       "title": "Handling hot shards",
@@ -1635,36 +1584,6 @@
         "internal",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/judgment-based-api-governance-at-scale-43fe38e0dcb0?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Judgment-Based API Governance at Scale",
-      "url": "https://engineering.gusto.com/judgment-based-api-governance-at-scale-43fe38e0dcb0?source=rss----645edd256348---4",
-      "publishedAt": "2026-09-21T17:48:28+00:00",
-      "excerpt": "Introduction As products and engineering organizations grow, their API grows with them. New features get shipped, old design patterns coexist with new ones, and decisions that once felt obvious become harder to apply consistently across the",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai"
-      ]
-    },
-    {
-      "id": "nytimes:https://open.nytimes.com/designing-the-front-door-to-our-subscriptions-6bb2ed3f5338?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "Designing the Front Door to Our Subscriptions",
-      "url": "https://open.nytimes.com/designing-the-front-door-to-our-subscriptions-6bb2ed3f5338?source=rss----51e1d1745b32---4",
-      "publishedAt": "2026-09-17T18:00:05+00:00",
-      "excerpt": "Illustration by Suvi Suitiala By Tracie Lee (VP of Design, Growth & Platforms) & Pamela Glass (Director of Design, Growth) The mission of The New York Times is clear: We seek the truth and help people understand the world. Fulfilling that t",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data",
-        "frontend"
       ]
     },
     {
@@ -1831,21 +1750,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/mcp-explained-by-a-cat-plotting-world-domination-80607945fcab?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "MCP, Explained by a Cat Plotting World Domination",
-      "url": "https://engineering.gusto.com/mcp-explained-by-a-cat-plotting-world-domination-80607945fcab?source=rss----645edd256348---4",
-      "publishedAt": "2026-09-09T17:52:58+00:00",
-      "excerpt": "An Abyssinian Blue sits at a laptop, paw on the trackpad planning a dire conspiracy. Every hat we take off a small business owner\u2019s head becomes a promise. Payroll has to talk to accounting software, calendars have to talk to HR systems and",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "security"
       ]
     },
     {
@@ -2236,22 +2140,6 @@
       ]
     },
     {
-      "id": "gusto:https://engineering.gusto.com/building-virtuous-pdf-how-gusto-replaced-a-deprecated-library-with-a-modern-pdf-microservice-b37c481eaa03?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Building Virtuous PDF: How Gusto Replaced a Deprecated Library with a Modern PDF Microservice",
-      "url": "https://engineering.gusto.com/building-virtuous-pdf-how-gusto-replaced-a-deprecated-library-with-a-modern-pdf-microservice-b37c481eaa03?source=rss----645edd256348---4",
-      "publishedAt": "2026-08-10T14:55:30+00:00",
-      "excerpt": "The problem with our old setup PDF generation is a core part of Gusto\u2019s business. To serve our customers, we generate reports, invoices, tax documents, employee handbooks, and more. Many of these features relied on a now-deprecated library:",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "security",
-        "frontend",
-        "databases"
-      ]
-    },
-    {
       "id": "github:https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
       "sourceId": "github",
       "title": "Turn one giant AI-generated pull request to a reviewable stack",
@@ -2277,21 +2165,6 @@
         "engineering",
         "internal",
         "data",
-        "frontend"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/eval-driven-design-systems-part-2-5b989d492281?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Eval-Driven Design Systems (Part 2)",
-      "url": "https://engineering.gusto.com/eval-driven-design-systems-part-2-5b989d492281?source=rss----645edd256348---4",
-      "publishedAt": "2026-08-03T18:02:56+00:00",
-      "excerpt": "From plausible to production-ready: schema-grounded code replaces hallucinated props with verified, type-safe components. In our previous post , we treated Zod schemas as agent-readable contracts. But a schema is just a hypothesis; without ",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
         "frontend"
       ]
     },
@@ -2326,6 +2199,20 @@
         "security",
         "data",
         "devops"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
+      "sourceId": "mercari",
+      "title": "Bridging the Gap Between Passwords and Passkeys with Risk-Based Authentication",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
+      "publishedAt": "2026-07-30T18:15:04+00:00",
+      "excerpt": "This is the third post in our series on passkeys and phishing-resistant accounts at Mercari. The earlier posts are: Mercari\u2019s Passkey Adoption (2023) and Mercari Phishing-Resistant Accounts with Passkey (2025). Background: A Recap of Our Jo",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
       ]
     },
     {
@@ -2372,20 +2259,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "gusto:https://engineering.gusto.com/eval-driven-design-systems-8f781dc2dacb?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Eval-Driven Design Systems (Part 1)",
-      "url": "https://engineering.gusto.com/eval-driven-design-systems-8f781dc2dacb?source=rss----645edd256348---4",
-      "publishedAt": "2026-07-27T19:37:21+00:00",
-      "excerpt": "From plausible to production-ready: schema-grounded code replaces hallucinated props with verified, type-safe components. Three things are wrong. One line of code. size=\u201dlg\u201d. intent=\u201dconfirm\u201d: that prop doesn\u2019t exist anywhere in our schema.",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "frontend"
       ]
     },
     {
@@ -2537,21 +2410,6 @@
       ]
     },
     {
-      "id": "gusto:https://engineering.gusto.com/taste-over-tooling-craftsmanship-in-the-post-execution-era-891fbdcd5fe3?source=rss----645edd256348---4",
-      "sourceId": "gusto",
-      "title": "Taste Over Tooling: Craftsmanship in the Post-Execution Era",
-      "url": "https://engineering.gusto.com/taste-over-tooling-craftsmanship-in-the-post-execution-era-891fbdcd5fe3?source=rss----645edd256348---4",
-      "publishedAt": "2026-07-13T21:41:11+00:00",
-      "excerpt": "Photo by Bozhin Karaivanov on Unsplash As AI agents commoditize the execution of code, the leverage moves to the two things a machine can\u2019t do for you: deciding what belongs on the menu, and knowing when a finished plate is wrong. Introduct",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "reliability"
-      ]
-    },
-    {
       "id": "snap:https://eng.snap.com/specs_gnss",
       "sourceId": "snap",
       "title": "GNSS Tracking for Specs",
@@ -2641,6 +2499,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
+      "sourceId": "mercari",
+      "title": "Rethinking Payment APIs at Merpay: The Exchange Abstraction",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
+      "publishedAt": "2026-06-29T11:00:26+00:00",
+      "excerpt": "This article is the 19th entry in Merpay & Mercoin Tech Openness Month 2026. Background We are the Payment Platform team at Merpay. Our systems sit beneath almost every movement of money in the Merpay ecosystem \u2014 customers paying partners, ",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "uber:https://medium.com/uber-under-the-hood/the-1-barrier-to-ev-adoption-has-shifted-heres-what-that-means-for-drivers-6fe032e78a55?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "The #1 Barrier to EV Adoption Has Shifted. Here\u2019s What That Means for Drivers",
@@ -2711,6 +2582,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
+      "sourceId": "mercari",
+      "title": "Scaling Myself: How I Run 22 Claude Code Sessions for DS4 Migration",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
+      "publishedAt": "2026-06-22T10:00:24+00:00",
+      "excerpt": "This article is the 15th entry in Merpay & Mercoin Tech Openness Month 2026. In this age of AI, most of us have built our own work setups around it. This article is not a proclamation that mine is the best; other setups might work better fo",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "snap:https://eng.snap.com/spatial_intelligence",
       "sourceId": "snap",
       "title": "Measuring Spatial Intelligence in LLMs",
@@ -2725,16 +2609,18 @@
       ]
     },
     {
-      "id": "paypal:https://medium.com/paypal-tech/we-have-moved-to-https-developer-paypal-com-community-blog-2acf7cb138a6?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "We have moved to https://developer.paypal.com/community/blog",
-      "url": "https://medium.com/paypal-tech/we-have-moved-to-https-developer-paypal-com-community-blog-2acf7cb138a6?source=rss----6423323524ba---4",
-      "publishedAt": "2026-06-15T21:19:29+00:00",
-      "excerpt": "The PayPal Developer Blog has a new home. You\u2019ll continue to find the latest developer news, tutorials, product updates, and engineering insights here: https://developer.paypal.com/community/blog Thanks for being part of the PayPal develope",
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
+      "sourceId": "mercari",
+      "title": "Build First, Discuss Later: How Prototypes Speed Up Product Decisions",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
+      "publishedAt": "2026-06-15T10:00:16+00:00",
+      "excerpt": "I\u2019m Kubomi, an iOS engineer at Merpay, Inc. This article is the 10th entry in Merpay & Mercoin Tech Openness Month 2026. Generative AI has made it easier for engineers to build prototypes quickly. Recently, I tried building a working protot",
       "tags": [
         "engineering",
         "internal",
-        "backend"
+        "infrastructure",
+        "ai",
+        "mobile"
       ]
     },
     {
@@ -2782,6 +2668,20 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
+      "sourceId": "mercari",
+      "title": "Four Mechanisms Behind EGP Code, an AI-Powered Landing Page Editor",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
+      "publishedAt": "2026-06-10T11:00:58+00:00",
+      "excerpt": "Hi, I\u2019m @mattsuu a frontend engineer at Merpay. This is Day 7 of Merpay & Mercoin Tech Openness Month 2026. EGP Code is an internal editor for building landing pages (LPs) with AI. We covered the background in Why we built EGP Code, an HTML",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "frontend"
+      ]
+    },
+    {
       "id": "lyft:https://eng.lyft.com/from-chaos-to-clarity-2ab50856d0c8?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "From Chaos to Clarity: How We Built a Unified, Self-Routing Support Ops Ticketing System at Lyft",
@@ -2798,20 +2698,16 @@
       ]
     },
     {
-      "id": "nytimes:https://open.nytimes.com/building-the-crossplay-board-6de68c8574f9?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "Building the Crossplay Board",
-      "url": "https://open.nytimes.com/building-the-crossplay-board-6de68c8574f9?source=rss----51e1d1745b32---4",
-      "publishedAt": "2026-06-08T16:46:30+00:00",
-      "excerpt": "How We Made a 15X15 Game Surface Feel at Home on Andriod Illustration by Lehel Kov\u00e1cs By Shafik Quoraishee What Is Crossplay? The New York Times Games team has been building daily puzzles for quite a while: Wordle, Spelling Bee, Connections",
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
+      "sourceId": "mercari",
+      "title": "Designing a Credit-Management Microservice for Partner Invoice Payment",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
+      "publishedAt": "2026-06-09T10:00:59+00:00",
+      "excerpt": "Hello. I\u2019m imamu, a Backend Engineer on Merpay\u2019s Payment & Customer Platform (PCP) team. This article is Day 6 of Merpay & Mercoin Tech Openness Month 2026. Introduction \"Partner invoicing\" is a deferred payment method for partners (such as",
       "tags": [
-        "recommended",
         "engineering",
         "internal",
-        "culture",
-        "data",
-        "infrastructure",
-        "mobile"
+        "infrastructure"
       ]
     },
     {
@@ -2874,6 +2770,20 @@
         "internal",
         "reliability",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
+      "sourceId": "mercari",
+      "title": "Why we built EGP Code, an HTML-based AI editor for landing pages",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
+      "publishedAt": "2026-06-03T10:00:35+00:00",
+      "excerpt": "Hi, I\u2019m @mattsuu, a frontend engineer at Merpay. This is Day 2 of Merpay & Mercoin Tech Openness Month 2026. Our team is responsible for developing Engagement Platform (EGP), a suite of internal tools for marketers and Project Managers (PMs",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "frontend"
       ]
     },
     {
@@ -3160,6 +3070,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
+      "sourceId": "mercari",
+      "title": "mercari-pm-agent Design \u2014 Automating the PM Workflow with Claude Code Skills and MCP",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
+      "publishedAt": "2026-04-28T10:00:04+00:00",
+      "excerpt": "Introduction Hello. I\u2019m Shogo Kikuchi, a PM intern on Mercari. During my internship, I developed a Claude Code Skill called mercari-pm-agent. It is an agent that can handle, within a single session, the end-to-end workflow PMs go through: \u201c",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "lyft:https://eng.lyft.com/how-we-built-a-smarter-pickup-experience-for-gated-communities-47416e9df029?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "How We Built a Smarter Pickup Experience for Gated Communities",
@@ -3233,23 +3156,6 @@
       ]
     },
     {
-      "id": "nytimes:https://open.nytimes.com/implementing-dark-mode-in-the-games-app-be7241ddb7ba?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "How The New York Times Games Team Delivered Accessible, Cross-Platform Dark Mode",
-      "url": "https://open.nytimes.com/implementing-dark-mode-in-the-games-app-be7241ddb7ba?source=rss----51e1d1745b32---4",
-      "publishedAt": "2026-04-16T15:35:45+00:00",
-      "excerpt": "Bringing accessible, brand-consistent dark mode to life in The New York Times Games app through cross-platform design and engineering collaboration. Illustration by Allie Sullberg By Vanessa Johnson, Daniel Falokun, Michael Ingber and Oleks",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data",
-        "frontend",
-        "mobile"
-      ]
-    },
-    {
       "id": "uber:https://medium.com/uber-under-the-hood/room-for-both-what-indias-uber-bike-shutdowns-reveal-about-auto-and-bike-demand-b411e7498546?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "Room for Both: Complementarity in India\u2019s Auto and Bike Markets",
@@ -3290,6 +3196,33 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
+      "sourceId": "mercari",
+      "title": "Enabling AI usage at Mercari with Secure Devin Management",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
+      "publishedAt": "2026-04-03T10:25:21+00:00",
+      "excerpt": "Introduction Hello. I am @hi120ki, an AI Security engineer at Mercari. At Mercari, we have rolled out Devin, an AI Agent service, to multiple teams across the company. Devin is a service that can autonomously investigate code, write code, a",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260401-legacy-image-provider-to-cloudflare-images-traffic-estimation-and-safe-rollout/",
+      "sourceId": "mercari",
+      "title": "Legacy Image Provider to Cloudflare Images: Traffic Estimation and Safe Rollout",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260401-legacy-image-provider-to-cloudflare-images-traffic-estimation-and-safe-rollout/",
+      "publishedAt": "2026-04-02T09:00:26+00:00",
+      "excerpt": "Abstract Retiring a legacy image resizing path sounds straightforward until you realize how many \u201cinvisible\u201d callers exist: long-lived app versions, embedded clients, partner integrations, and bots. In our case, Mercari Platform Network tea",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "uber:https://medium.com/uber-under-the-hood/the-real-cost-of-commission-caps-why-price-controls-hurt-riders-and-drivers-ee91feb2ac27?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "The Real Cost of Commission Caps: Why Price Controls Hurt Riders and Drivers",
@@ -3316,6 +3249,21 @@
         "internal",
         "backend",
         "reliability"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260327-876b78716e/",
+      "sourceId": "mercari",
+      "title": "Safe Chunked Execution for Large-Scale Data Updates and Deletions",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260327-876b78716e/",
+      "publishedAt": "2026-03-30T16:38:44+00:00",
+      "excerpt": "I\u2019m taka-h from the DBRE (DataBase Reliability Engineering) team. Large-scale data updates and deletions can often be expressed straightforwardly in SQL, but executing them all at once introduces significant operational risk. For example, l",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "reliability",
+        "databases"
       ]
     },
     {
@@ -3661,39 +3609,6 @@
       ]
     },
     {
-      "id": "nytimes:https://open.nytimes.com/the-right-team-for-the-job-from-engineering-to-product-a-superpower-for-developer-platform-a290e65970ea?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "The Right Team for the Job: From Engineering to Product: A Superpower for Developer Platform\u2026",
-      "url": "https://open.nytimes.com/the-right-team-for-the-job-from-engineering-to-product-a-superpower-for-developer-platform-a290e65970ea?source=rss----51e1d1745b32---4",
-      "publishedAt": "2026-02-11T21:52:17+00:00",
-      "excerpt": "The Right Team for the Job: From Engineering to Product: A Superpower for Developer Platform Strategy Introducing Danny Cassidy, Senior Technical Product Manager, Developer Productivity in Developer Platforms Illustration by Claire Merchlin",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data",
-        "infrastructure",
-        "frontend",
-        "devops"
-      ]
-    },
-    {
-      "id": "nytimes:https://open.nytimes.com/building-the-new-york-times-product-team-the-right-team-for-the-job-ff9b43222537?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "Building The New York Times Product Team: The Right Team for the Job",
-      "url": "https://open.nytimes.com/building-the-new-york-times-product-team-the-right-team-for-the-job-ff9b43222537?source=rss----51e1d1745b32---4",
-      "publishedAt": "2026-02-11T21:42:32+00:00",
-      "excerpt": "Illustration by Giacomo Bagnara By Nikki Larson, Erica Vendetti and Michael Beach Our mission is simple: We seek the truth and help people understand the world. Accomplishing that mission requires each of us to build trust, seek out differe",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data"
-      ]
-    },
-    {
       "id": "booking:https://medium.com/booking-com-development/the-necessity-of-imperfection-21c289c87515?source=rss----1c36c35f9c76---4",
       "sourceId": "booking",
       "title": "The necessity of imperfection",
@@ -3782,26 +3697,6 @@
         "devops",
         "security",
         "databases"
-      ]
-    },
-    {
-      "id": "nytimes:https://open.nytimes.com/how-the-new-york-times-is-scaling-unit-test-coverage-using-ai-tools-fa796bf9b8d2?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "How The New York Times is scaling Unit Test Coverage using AI Tools",
-      "url": "https://open.nytimes.com/how-the-new-york-times-is-scaling-unit-test-coverage-using-ai-tools-fa796bf9b8d2?source=rss----51e1d1745b32---4",
-      "publishedAt": "2026-01-13T18:51:55+00:00",
-      "excerpt": "How AI tools are helping our software engineers write better tests at scale Illustration by Nick Little By Eric Chima and Leonardo Quixad\u00e1 At The New York Times, we\u2019re all excited to build fresh new experiences that delight our users. Our p",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data",
-        "ai",
-        "reliability",
-        "security",
-        "frontend",
-        "devops"
       ]
     },
     {
@@ -3981,22 +3876,6 @@
       ]
     },
     {
-      "id": "nytimes:https://open.nytimes.com/designing-a-digital-times-museum-for-all-405331352189?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "Designing a Digital New York Times Museum",
-      "url": "https://open.nytimes.com/designing-a-digital-times-museum-for-all-405331352189?source=rss----51e1d1745b32---4",
-      "publishedAt": "2025-10-15T18:30:40+00:00",
-      "excerpt": "How five product design interns created an award-winning virtual museum experience for employees Illustration by Lucas Burtin By Nuoran Chen, Mina Chung, Frannie Ello, Christina Su, and Bella Rinne A key element of The New York Times Produc",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data",
-        "frontend"
-      ]
-    },
-    {
       "id": "etsy:https://www.etsy.com/codeascraft/understanding-etsyas-vast-inventory-with-llms?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
       "sourceId": "etsy",
       "title": "Understanding Etsy\u2019s Vast Inventory with LLMs",
@@ -4046,39 +3925,6 @@
         "devops",
         "reliability",
         "security",
-        "frontend"
-      ]
-    },
-    {
-      "id": "nytimes:https://open.nytimes.com/scaling-subscriptions-at-the-new-york-times-with-real-time-causal-machine-learning-5f23a7b24ff4?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "Scaling Subscriptions at The New York Times with Real-Time Causal Machine Learning",
-      "url": "https://open.nytimes.com/scaling-subscriptions-at-the-new-york-times-with-real-time-causal-machine-learning-5f23a7b24ff4?source=rss----51e1d1745b32---4",
-      "publishedAt": "2025-10-03T15:19:24+00:00",
-      "excerpt": "How real-time algorithms and causal ML transformed our digital subscription funnel from static paywalls to dynamic, millisecond decision-making Illustration by Mathieu Labrecque The New York Times became a subscription-first news and lifest",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data",
-        "ai",
-        "devops"
-      ]
-    },
-    {
-      "id": "nytimes:https://open.nytimes.com/the-new-york-times-games-path-to-dark-mode-345dfe464e1a?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "The New York Times Games\u2019 Path to Dark Mode",
-      "url": "https://open.nytimes.com/the-new-york-times-games-path-to-dark-mode-345dfe464e1a?source=rss----51e1d1745b32---4",
-      "publishedAt": "2025-09-25T15:25:52+00:00",
-      "excerpt": "How we designed a deceptively complex feature Illustration by Alessandro Gottardo By Joel Urena, Jenna Kim, Kenneth Ofosu, Shaka Clark, Raven Adaramola, Dylan Campbell At least once a day, our players requested a Dark Mode feature for The N",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data",
         "frontend"
       ]
     },
@@ -4189,21 +4035,6 @@
         "internal",
         "frontend",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "nytimes:https://open.nytimes.com/using-provocations-to-shake-the-status-quo-7e884b866310?source=rss----51e1d1745b32---4",
-      "sourceId": "nytimes",
-      "title": "Using Provocations to Shake the Status Quo",
-      "url": "https://open.nytimes.com/using-provocations-to-shake-the-status-quo-7e884b866310?source=rss----51e1d1745b32---4",
-      "publishedAt": "2025-07-22T16:23:11+00:00",
-      "excerpt": "The bold approach NYT Cooking used to define a strategy for recipe cards. Illustration by Ben Denzer By Jayne Lee In The New York Times Cooking, \u201ccards,\u201d or the containers that represent our content, are the first impression of our brand. T",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture",
-        "data"
       ]
     },
     {
@@ -4411,19 +4242,6 @@
       ]
     },
     {
-      "id": "paypal:https://medium.com/paypal-tech/the-following-is-a-repost-from-the-paypal-developer-blog-a6d90e2b0f39?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "PayPal Releases Agentic Toolkit to Accelerate Commerce",
-      "url": "https://medium.com/paypal-tech/the-following-is-a-repost-from-the-paypal-developer-blog-a6d90e2b0f39?source=rss----6423323524ba---4",
-      "publishedAt": "2025-04-14T20:27:50+00:00",
-      "excerpt": "The following is a repost from the PayPal Developer Blog . Building on the release of PayPal\u2019s MCP servers , PayPal is excited to introduce the PayPal Agentic Toolkit *. This toolkit empowers developers to seamlessly integrate PayPal\u2019s comp",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
-      ]
-    },
-    {
       "id": "ebay:https://innovation.ebayinc.com/stories/ebay-reduces-the-time-to-list-on-mobile-with-new-simplified-selling-tool-now-featuring-magical-listing-ai-technology/",
       "sourceId": "ebay",
       "title": "eBay Reduces the Time to List on Mobile With New Simplified Selling Tool, Now Featuring Magical Listing AI Technology",
@@ -4434,20 +4252,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "paypal:https://medium.com/paypal-tech/paypal-begins-rollout-of-mcp-servers-to-accelerate-agentic-commerce-ad560a1315ec?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "PayPal Begins Rollout of MCP Servers to Accelerate Agentic Commerce",
-      "url": "https://medium.com/paypal-tech/paypal-begins-rollout-of-mcp-servers-to-accelerate-agentic-commerce-ad560a1315ec?source=rss----6423323524ba---4",
-      "publishedAt": "2025-04-04T14:25:27+00:00",
-      "excerpt": "The following is a repost from the PayPal Developer Blog by Prakhar Mehrotra, SVP of Artificial Intelligence, PayPal At PayPal, we strive to make it easier for developers to access our services. Today, we are taking the first step to allow ",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai"
       ]
     },
     {
@@ -4609,39 +4413,6 @@
       ]
     },
     {
-      "id": "wise:https://medium.com/wise-engineering/data-inventory-4eff3f015553?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "Data Inventory",
-      "url": "https://medium.com/wise-engineering/data-inventory-4eff3f015553?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2025-02-19T14:24:14+00:00",
-      "excerpt": "The Data Governance team, part of Data Platform, develops and operates platform products through which autonomous teams can govern their data. The team\u2019s vision is to democratise data in a secure and compliant manner. Data Inventory was the",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "infrastructure",
-        "security",
-        "data",
-        "databases",
-        "devops"
-      ]
-    },
-    {
-      "id": "paypal:https://medium.com/paypal-tech/estimating-incremental-lift-in-customer-value-delta-cv-using-synthetic-control-522be5e3da3a?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "Estimating Incremental Lift in Customer Value (Delta CV) using Synthetic Control",
-      "url": "https://medium.com/paypal-tech/estimating-incremental-lift-in-customer-value-delta-cv-using-synthetic-control-522be5e3da3a?source=rss----6423323524ba---4",
-      "publishedAt": "2025-02-14T20:41:49+00:00",
-      "excerpt": "How we measure the impact of user actions and product adoptions at PayPal In today\u2019s competitive digital landscape, understanding user interactions with your products is essential for driving revenue and building lasting customer relationsh",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "reliability"
-      ]
-    },
-    {
       "id": "mozilla:https://hacks.mozilla.org/2025/02/interop-2025/",
       "sourceId": "mozilla",
       "title": "Launching Interop 2025",
@@ -4653,28 +4424,6 @@
         "internal",
         "frontend",
         "security"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/wise-tech-stack-2025-update-d0e63fe718c7?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "Wise Tech Stack (2025 update)",
-      "url": "https://medium.com/wise-engineering/wise-tech-stack-2025-update-d0e63fe718c7?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2025-02-12T13:34:08+00:00",
-      "excerpt": "Wise Engineering As of the financial year 2025, Wise supports 15.6 million active customers, moving approximately \u00a336 billion across borders each quarter. Approximately 65% of our transfers arrive instantly, and our Wise Platform facilitate",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "security",
-        "frontend",
-        "mobile",
-        "data",
-        "databases",
-        "devops"
       ]
     },
     {
@@ -4725,20 +4474,6 @@
       "url": "https://developer.squareup.com/blog/best-practices-for-using-third-party-apis",
       "publishedAt": "2025-02-05T10:30:00+00:00",
       "excerpt": "Optimizing third-party API integrations for your user experience",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "mobile"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/how-did-we-build-3d-animations-in-mobile-apps-515c3de87b74?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "How did we build 3D animations in mobile apps?",
-      "url": "https://medium.com/wise-engineering/how-did-we-build-3d-animations-in-mobile-apps-515c3de87b74?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2025-01-29T16:59:35+00:00",
-      "excerpt": "In March 2023, Wise launched its new brand \u2014 as part of it, we introduced a collection of bold new 3D illustrations. While visually stunning, our brand team had bigger ambitions to bring them to life and elevate Wise further. This took us o",
       "tags": [
         "engineering",
         "internal",
@@ -4803,22 +4538,6 @@
       ]
     },
     {
-      "id": "wise:https://medium.com/wise-engineering/grafana-mimir-compaction-from-bottleneck-to-savings-b26c6b0125a6?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "Grafana Mimir Compaction: From Bottleneck to Savings",
-      "url": "https://medium.com/wise-engineering/grafana-mimir-compaction-from-bottleneck-to-savings-b26c6b0125a6?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2025-01-15T11:55:57+00:00",
-      "excerpt": "Intro This technical blog article dives deep into a compaction bottleneck that was silently impacting our metrics infrastructure after we migrated from Thanos to Grafana Mimir. Follow along as we detail the investigation, solution, and the ",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "infrastructure",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "canva:https://www.canva.dev/blog/engineering/snowpipe-streaming/",
       "sourceId": "canva",
       "title": "The foundations of Canva\u2019s continuous data platform with Snowpipe Streaming",
@@ -4862,23 +4581,6 @@
       ]
     },
     {
-      "id": "zendesk:https://zendesk.engineering/simplifying-datastore-provisioning-with-kubernetes-operators-a403d9ecd99c?source=rss----a88376ea904a---4",
-      "sourceId": "zendesk",
-      "title": "Simplifying Datastore Provisioning with Kubernetes Operators",
-      "url": "https://zendesk.engineering/simplifying-datastore-provisioning-with-kubernetes-operators-a403d9ecd99c?source=rss----a88376ea904a---4",
-      "publishedAt": "2024-12-02T22:24:27+00:00",
-      "excerpt": "Introduction Welcome to the second blog post of our Self-Service Datastore series, where we share our journey towards creating a more efficient and reliable way to manage datastores at Zendesk. In today\u2019s dynamic application development lan",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "infrastructure",
-        "security",
-        "data",
-        "databases"
-      ]
-    },
-    {
       "id": "mozilla:https://hacks.mozilla.org/2024/10/llamafile-v0-8-14-a-new-ui-performance-gains-and-more/",
       "sourceId": "mozilla",
       "title": "Llamafile v0.8.14: a new UI, performance gains, and more",
@@ -4918,22 +4620,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/meaningful-availability-uptime-of-wise-b1439ddc6270?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "Measuring meaningful availability / uptime of Wise",
-      "url": "https://medium.com/wise-engineering/meaningful-availability-uptime-of-wise-b1439ddc6270?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2024-08-30T08:24:13+00:00",
-      "excerpt": "At Wise we\u2019re building the best way to move and manage the world\u2019s money \u2014 making it faster, cheaper, convenient and transparent. Product uptime and availability is contributing to three parts of our mission: An honest and meaningful uptime",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "reliability",
-        "mobile",
-        "databases"
       ]
     },
     {
@@ -5049,24 +4735,6 @@
       ]
     },
     {
-      "id": "paypal:https://medium.com/paypal-tech/scaling-paypals-ai-capabilities-with-paypal-cosmos-ai-platform-e67a48e04691?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "Scaling PayPal\u2019s AI Capabilities with PayPal Cosmos.AI Platform",
-      "url": "https://medium.com/paypal-tech/scaling-paypals-ai-capabilities-with-paypal-cosmos-ai-platform-e67a48e04691?source=rss----6423323524ba---4",
-      "publishedAt": "2024-05-02T16:27:03+00:00",
-      "excerpt": "By Jun Yang , Zhenyin Yang , and Srinivasan Manoharan , based on the AI/ML modernization journey taken by the PayPal Cosmos.AI Platform team in the past three years. Source: Dall-E 3 AI is a transformative technology that PayPal has been in",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "infrastructure",
-        "security",
-        "data",
-        "devops"
-      ]
-    },
-    {
       "id": "square:https://developer.squareup.com/blog/leveraging-linux-internals-to-supercharge-osquery-malware-detection",
       "sourceId": "square",
       "title": "Leveraging Linux Internals to Supercharge Osquery Malware Detection",
@@ -5079,125 +4747,6 @@
         "backend",
         "mobile",
         "security"
-      ]
-    },
-    {
-      "id": "paypal:https://medium.com/paypal-tech/leveraging-spark-3-and-nvidias-gpus-to-reduce-cloud-cost-by-up-to-70-for-big-data-pipelines-e0bc02ec4f88?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "Leveraging Spark 3 and NVIDIA\u2019s GPUs to Reduce Cloud Cost by up to 70% for Big Data Pipelines",
-      "url": "https://medium.com/paypal-tech/leveraging-spark-3-and-nvidias-gpus-to-reduce-cloud-cost-by-up-to-70-for-big-data-pipelines-e0bc02ec4f88?source=rss----6423323524ba---4",
-      "publishedAt": "2024-02-21T16:42:14+00:00",
-      "excerpt": "By Ilay Chen and Tomer Akirav At PayPal, hundreds of thousands of Apache Spark jobs run on an hourly basis, processing petabytes of data and requiring a high volume of resources. To handle the growth of machine learning solutions, PayPal re",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "data"
-      ]
-    },
-    {
-      "id": "paypal:https://medium.com/paypal-tech/declarative-feature-engineering-at-paypal-eddcae81c06d?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "Declarative Feature Engineering at PayPal",
-      "url": "https://medium.com/paypal-tech/declarative-feature-engineering-at-paypal-eddcae81c06d?source=rss----6423323524ba---4",
-      "publishedAt": "2023-12-11T15:56:51+00:00",
-      "excerpt": "Photo by fabio on Unsplash PayPal supports over 400 million active consumers and merchants worldwide. Every minute there are several thousand payment transactions. To prevent fraud in real-time at such a scale, we need to streamline our ML ",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai",
-        "data"
-      ]
-    },
-    {
-      "id": "paypal:https://medium.com/paypal-tech/streamlining-developer-productivity-with-the-paypal-visual-studio-code-extension-7518aaeb2957?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "Streamlining Developer Productivity with the PayPal Visual Studio Code Extension",
-      "url": "https://medium.com/paypal-tech/streamlining-developer-productivity-with-the-paypal-visual-studio-code-extension-7518aaeb2957?source=rss----6423323524ba---4",
-      "publishedAt": "2023-12-07T20:51:45+00:00",
-      "excerpt": "In the ever-evolving landscape of software development, productivity and efficiency have become paramount to success. Developers are constantly juggling multiple tasks, from navigating complex codebases to integrating third-party services, ",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "devops"
-      ]
-    },
-    {
-      "id": "paypal:https://medium.com/paypal-tech/managing-recurring-payments-with-apple-pay-using-paypal-826881f1ffcb?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "Managing Recurring Payments with Apple Pay Using PayPal",
-      "url": "https://medium.com/paypal-tech/managing-recurring-payments-with-apple-pay-using-paypal-826881f1ffcb?source=rss----6423323524ba---4",
-      "publishedAt": "2023-11-20T14:41:42+00:00",
-      "excerpt": "Recurring payments have become an integral part of the modern digital economy, offering convenience and predictability for both consumers and businesses. Our previous post highlighted different methods of integrating Apple Pay\u00ae with PayPal.",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "security"
-      ]
-    },
-    {
-      "id": "paypal:https://medium.com/paypal-tech/accept-e-commerce-payments-easily-with-paypals-buttons-component-2b719529e035?source=rss----6423323524ba---4",
-      "sourceId": "paypal",
-      "title": "Accept E-Commerce Payments Easily with PayPal\u2019s Buttons Component",
-      "url": "https://medium.com/paypal-tech/accept-e-commerce-payments-easily-with-paypals-buttons-component-2b719529e035?source=rss----6423323524ba---4",
-      "publishedAt": "2023-10-24T16:07:59+00:00",
-      "excerpt": "Accepting online payments is now a universal must-have, catering to everyone from solo entrepreneurs to massive global corporations. PayPal\u2019s Standard Checkout allows for seamless integration of PayPal\u2019s Payment Buttons component into your ",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "security",
-        "frontend"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/avoiding-kubernetes-pod-topology-spread-constraint-pitfalls-d369bb04689e?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "Avoiding Kubernetes Pod Topology Spread Constraint Pitfalls",
-      "url": "https://medium.com/wise-engineering/avoiding-kubernetes-pod-topology-spread-constraint-pitfalls-d369bb04689e?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2023-03-28T09:12:41+00:00",
-      "excerpt": "In the Wise Cloud Platform squad we take resiliency, capacity planning and costs seriously. We are always looking for ways to improve how services running on our self-managed Kubernetes clusters in AWS can be made more resistant to system f",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "infrastructure",
-        "devops"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/how-wise-bootstraps-spinnaker-using-argocd-2765e9373b61?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "How Wise bootstraps Spinnaker using ArgoCD",
-      "url": "https://medium.com/wise-engineering/how-wise-bootstraps-spinnaker-using-argocd-2765e9373b61?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2023-02-20T12:24:46+00:00",
-      "excerpt": "Spinnaker and ArgoCD logos Deploying your deployment tool In our 2 part series , we discussed the state of our CI/CD systems and wrapped up with our vision for CD at Wise, and why we chose Spinnaker. Here\u2019s how we set up Spinnaker from scra",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "infrastructure",
-        "security",
-        "devops"
-      ]
-    },
-    {
-      "id": "wise:https://medium.com/wise-engineering/improving-the-developer-experience-our-application-security-journey-part-3-757e0e6d32e4?source=rss----f2565bbe9c46---4",
-      "sourceId": "wise",
-      "title": "Improving the Developer Experience \u2014 Our Application Security Journey (Part 3)",
-      "url": "https://medium.com/wise-engineering/improving-the-developer-experience-our-application-security-journey-part-3-757e0e6d32e4?source=rss----f2565bbe9c46---4",
-      "publishedAt": "2023-01-17T11:19:44+00:00",
-      "excerpt": "Improving the Developer Experience \u2014 Our Application Security Journey (Part 3) This is the third in a series of articles on the state of Application Security at Wise, describing our integration of security in the Software Development Lifecy",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "security",
-        "devops"
       ]
     },
     {
