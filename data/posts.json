@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-05T19:59:33.620809+00:00",
+  "generatedAt": "2026-11-06T06:53:06.682258+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 358,
   "posts": [
+    {
+      "id": "github:https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "sourceId": "github",
+      "title": "Inside GitHub\u2019s new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "publishedAt": "2026-11-05T20:23:21+00:00",
+      "excerpt": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub\u2019s new Git storage architecture appeared first on The GitHub Blog .",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/trusted-agent-delegation/",
       "sourceId": "cloudflare",
@@ -1390,20 +1405,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1429,6 +1430,20 @@
         "engineering",
         "internal",
         "culture"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -2304,21 +2319,6 @@
         "security",
         "frontend",
         "databases"
-      ]
-    },
-    {
-      "id": "github:https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
-      "sourceId": "github",
-      "title": "Turn one giant AI-generated pull request to a reviewable stack",
-      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
-      "publishedAt": "2026-08-04T16:47:18+00:00",
-      "excerpt": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on ",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "devops"
       ]
     },
     {
