@@ -1,9 +1,56 @@
 {
-  "generatedAt": "2026-11-06T06:53:06.682258+00:00",
+  "generatedAt": "2026-11-06T19:27:15.676476+00:00",
   "feedCount": 37,
   "fetchedOk": 35,
   "postCount": 358,
   "posts": [
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Safe and Efficient Multi-Epoch Embedding Training",
+      "url": "https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-11-06T16:01:03+00:00",
+      "excerpt": "Authors: Shruthi Hariharan | Machine Learning Engineer II; Konish Dutta | Machine Learning Engineer II; Abhinav Naikawadi | Sr. Machine Learning Engineer; Zhihua Zhang | Machine Learning Engineer II; Rakshita Nagalla | Sr. Machine Learning ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/vole-mole/",
+      "sourceId": "cloudflare",
+      "title": "The post-quantum future of web privacy",
+      "url": "https://blog.cloudflare.com/vole-mole/",
+      "publishedAt": "2026-11-06T14:00:00+00:00",
+      "excerpt": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "fly:https://fly.io/blog/well-that-wasnt-fun/",
+      "sourceId": "fly",
+      "title": "Well, That Wasn't Fun: October 16 '26",
+      "url": "https://fly.io/blog/well-that-wasnt-fun/",
+      "publishedAt": "2026-11-06T00:00:00+00:00",
+      "excerpt": "October 16, 2026 began like any other day at Fly.io (meaning, we were anticipating only a medium amount of chaos). By that evening, we had patched and rebooted our entire fleet in response to a Linux kernel bug . The full rollout took 10 ho",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "reliability",
+        "security",
+        "databases"
+      ]
+    },
     {
       "id": "github:https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
       "sourceId": "github",
@@ -682,21 +729,6 @@
       "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
       "publishedAt": "2026-10-21T13:56:45+00:00",
       "excerpt": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from r",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/webmcp-commerce/",
-      "sourceId": "cloudflare",
-      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-      "url": "https://blog.cloudflare.com/webmcp-commerce/",
-      "publishedAt": "2026-10-21T13:00:00+00:00",
-      "excerpt": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
       "tags": [
         "recommended",
         "infrastructure",
@@ -1405,6 +1437,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
+      "sourceId": "planetscale",
+      "title": "Building a faster, lazier router for Postgres",
+      "url": "https://planetscale.com/blog/designing-neki-for-performance",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "janestreet:https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
       "sourceId": "janestreet",
       "title": "A resilient kernel log reporter",
@@ -1430,20 +1476,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -2101,20 +2133,6 @@
         "frontend",
         "databases",
         "devops"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/scaling-conditional-learned-retrieval-for-pinterest-home-feed-ecfba7e5a426?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Scaling Conditional Learned Retrieval for Pinterest Home Feed",
-      "url": "https://medium.com/pinterest-engineering/scaling-conditional-learned-retrieval-for-pinterest-home-feed-ecfba7e5a426?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-08-26T14:01:05+00:00",
-      "excerpt": "Devin Kreuzer | Sr. Machine Learning Engineer; Yichi Wang | Machine Learning Engineer I; Sujan Reddy Ale | Machine Learning Engineer I; Zelun Wang | Sr. Machine Learning Engineer; Hongtao Lin | Sr. Machine Learning Engineer; Piyush Maheshwa",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai"
       ]
     },
     {
@@ -3332,6 +3350,23 @@
       ]
     },
     {
+      "id": "fly:https://fly.io/blog/paperclip-on-a-sprite/",
+      "sourceId": "fly",
+      "title": "Run Paperclip AI on a Sprite",
+      "url": "https://fly.io/blog/paperclip-on-a-sprite/",
+      "publishedAt": "2026-04-01T00:00:00+00:00",
+      "excerpt": "Paperclip is extremely hot right now. I\u2019m not going to explain what it is in any detail here because you have YouTube. But in short: it\u2019s an open-source orchestration platform that lets you set up teams of AI agents that operate like a comp",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "frontend",
+        "databases"
+      ]
+    },
+    {
       "id": "slack:https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/",
       "sourceId": "slack",
       "title": "From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus",
@@ -3525,6 +3560,23 @@
       ]
     },
     {
+      "id": "fly:https://fly.io/blog/local-llm-on-a-sprite/",
+      "sourceId": "fly",
+      "title": "Run a Local LLM on a CPU With BitNet and a Sprite",
+      "url": "https://fly.io/blog/local-llm-on-a-sprite/",
+      "publishedAt": "2026-03-16T00:00:00+00:00",
+      "excerpt": "There\u2019s a wave of absurdly efficient local inference engines showing up. Models quantized so aggressively that they run on CPUs, no GPU required, at speeds that are actually usable. Microsoft\u2019s BitNet is one of them: 1.58-bit quantization, ",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "ai",
+        "frontend"
+      ]
+    },
+    {
       "id": "zalando:https://engineering.zalando.com/posts/2026/03/why-we-ditched-flink-table-api-joins-cutting-state.html",
       "sourceId": "zalando",
       "title": "Why We Ditched Flink Table API Joins: Cutting State by 75% with DataStream Unions",
@@ -3609,6 +3661,22 @@
         "internal",
         "frontend",
         "security"
+      ]
+    },
+    {
+      "id": "fly:https://fly.io/blog/context-engineering-is-just-writing-things-down/",
+      "sourceId": "fly",
+      "title": "Context Engineering Is Just Writing Things Down",
+      "url": "https://fly.io/blog/context-engineering-is-just-writing-things-down/",
+      "publishedAt": "2026-02-23T00:00:00+00:00",
+      "excerpt": "\u201cContext engineering\u201d is the internet\u2019s new shibboleth. Fine. We\u2019ve had worse. So here\u2019s an argument starter: The only interesting thing about OpenClaw is its context engineering. The way it manages and inserts memory into agent context. Ye",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "databases"
       ]
     },
     {
@@ -3721,6 +3789,58 @@
       ]
     },
     {
+      "id": "fly:https://fly.io/blog/agent-swarms-on-sprites/",
+      "sourceId": "fly",
+      "title": "Agent Swarms on Sprites",
+      "url": "https://fly.io/blog/agent-swarms-on-sprites/",
+      "publishedAt": "2026-02-09T00:00:00+00:00",
+      "excerpt": "There\u2019s a lot of noise right now about agent teams and swarms. The idea is simple: instead of one code agent grinding through a task list, set up a group of agents that can split work, delegate, and check each other\u2019s output. It works. Mult",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "databases"
+      ]
+    },
+    {
+      "id": "fly:https://fly.io/blog/closing-the-loop/",
+      "sourceId": "fly",
+      "title": "Closing the Loop: The Missing Ingredient in Agentic Development",
+      "url": "https://fly.io/blog/closing-the-loop/",
+      "publishedAt": "2026-02-05T00:00:00+00:00",
+      "excerpt": "Remember when coding with AI meant copying code from a chat window, pasting it into your editor, running it, copying the error, pasting it back into the chat, etc. Yeah that sucked. We were middleware. Now we have agents that can read and w",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "ai",
+        "reliability",
+        "frontend",
+        "databases"
+      ]
+    },
+    {
+      "id": "fly:https://fly.io/blog/i-build-everything-in-sprites-now/",
+      "sourceId": "fly",
+      "title": "I Build Everything In Sprites Now",
+      "url": "https://fly.io/blog/i-build-everything-in-sprites-now/",
+      "publishedAt": "2026-02-03T00:00:00+00:00",
+      "excerpt": "I just realised I build everything in Sprites now. It feels weird to say because Sprites are still really new (even for people who work at Fly.io). They\u2019re obviously super exciting for people building agents, but when I finally \u201cgot\u201d Sprite",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "security",
+        "databases"
+      ]
+    },
+    {
       "id": "booking:https://medium.com/booking-com-development/the-necessity-of-imperfection-21c289c87515?source=rss----1c36c35f9c76---4",
       "sourceId": "booking",
       "title": "The necessity of imperfection",
@@ -3734,22 +3854,6 @@
         "infrastructure",
         "frontend",
         "devops"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/litestream-writable-vfs/",
-      "sourceId": "fly",
-      "title": "Litestream Writable VFS",
-      "url": "https://fly.io/blog/litestream-writable-vfs/",
-      "publishedAt": "2026-01-29T00:00:00+00:00",
-      "excerpt": "I\u2019m Ben Johnson, and I work on Litestream at Fly.io. Litestream is the missing backup/restore system for SQLite. It\u2019s free, open-source software that should run anywhere, and you can read more about it here . Each time we write about it, we",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "databases"
       ]
     },
     {
@@ -3795,23 +3899,6 @@
       ]
     },
     {
-      "id": "fly:https://fly.io/blog/design-and-implementation/",
-      "sourceId": "fly",
-      "title": "The Design & Implementation of Sprites",
-      "url": "https://fly.io/blog/design-and-implementation/",
-      "publishedAt": "2026-01-14T00:00:00+00:00",
-      "excerpt": "We\u2019re Fly.io, and this is the place in the post where we\u2019d normally tell you that our job is to take your containers and run them on our own hardware all around the world. But last week, we launched Sprites , and they don\u2019t work that way at",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "security",
-        "databases"
-      ]
-    },
-    {
       "id": "nytimes:https://open.nytimes.com/how-the-new-york-times-is-scaling-unit-test-coverage-using-ai-tools-fa796bf9b8d2?source=rss----51e1d1745b32---4",
       "sourceId": "nytimes",
       "title": "How The New York Times is scaling Unit Test Coverage using AI Tools",
@@ -3829,38 +3916,6 @@
         "security",
         "frontend",
         "devops"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/code-and-let-live/",
-      "sourceId": "fly",
-      "title": "Code And Let Live",
-      "url": "https://fly.io/blog/code-and-let-live/",
-      "publishedAt": "2026-01-09T00:00:00+00:00",
-      "excerpt": "The state of the art in agent isolation is a read-only sandbox. At Fly.io, we\u2019ve been selling that story for years, and we\u2019re calling it: ephemeral sandboxes are obsolete. Stop killing your sandboxes every time you use them. My argument won",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "databases"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/litestream-vfs/",
-      "sourceId": "fly",
-      "title": "Litestream VFS",
-      "url": "https://fly.io/blog/litestream-vfs/",
-      "publishedAt": "2025-12-11T00:00:00+00:00",
-      "excerpt": "I\u2019m Ben Johnson, and I work on Litestream at Fly.io. Litestream is the missing backup/restore system for SQLite. It\u2019s free, open-source software that should run anywhere, and you can read more about it here . Again with the sandwiches: assu",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "databases"
       ]
     },
     {
@@ -3910,24 +3965,6 @@
       ]
     },
     {
-      "id": "fly:https://fly.io/blog/everyone-write-an-agent/",
-      "sourceId": "fly",
-      "title": "You Should Write An Agent",
-      "url": "https://fly.io/blog/everyone-write-an-agent/",
-      "publishedAt": "2025-11-06T00:00:00+00:00",
-      "excerpt": "Some concepts are easy to grasp in the abstract. Boiling water: apply heat and wait. Others you really need to try. You only think you understand how a bicycle works, until you learn to ride one. There are big ideas in computing that are ea",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "ai",
-        "security",
-        "databases"
-      ]
-    },
-    {
       "id": "deliveroo:https://deliveroo.engineering/2025/11/06/engineering-at-deliveroo-india.html",
       "sourceId": "deliveroo",
       "title": "Engineering at Deliveroo India: How We Build, Collaborate, and Grow",
@@ -3974,23 +4011,6 @@
         "reliability",
         "frontend",
         "data"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/corrosion/",
-      "sourceId": "fly",
-      "title": "Corrosion",
-      "url": "https://fly.io/blog/corrosion/",
-      "publishedAt": "2025-10-22T00:00:00+00:00",
-      "excerpt": "Fly.io transmogrifies Docker containers into Fly Machines: micro-VMs running on our own hardware all over the world. The hardest part of running this platform isn\u2019t managing the servers, and it isn\u2019t operating the network; it\u2019s gluing those",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "reliability",
-        "databases"
       ]
     },
     {
@@ -4056,24 +4076,6 @@
         "frontend",
         "data",
         "devops"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/kurt-got-got/",
-      "sourceId": "fly",
-      "title": "Kurt Got Got",
-      "url": "https://fly.io/blog/kurt-got-got/",
-      "publishedAt": "2025-10-08T00:00:00+00:00",
-      "excerpt": "The $FLY Airdrop is live! Claim your share of the token powering Fly.io\u2019s global network of 3M+ apps and (\ud83e\udd2e) own a piece of the sky! We know. Our Twitter got owned. We knew within moments of it happening. We know exactly how it happened. No",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "reliability",
-        "security",
-        "frontend"
       ]
     },
     {
