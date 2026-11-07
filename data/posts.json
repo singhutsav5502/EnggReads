@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:08:08.468736+00:00",
+  "generatedAt": "2026-11-07T21:54:29.476527+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
@@ -653,6 +653,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "sourceId": "planetscale",
+      "title": "Shard design doesn't start from your tables",
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "fly:https://fly.io/blog/feng-shui-for-robots/",
       "sourceId": "fly",
       "title": "Feng Shui for Robots: The Fly MCP Server",
@@ -667,20 +681,6 @@
         "devops",
         "frontend",
         "databases"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "sourceId": "planetscale",
-      "title": "Shard design doesn't start from your tables",
-      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -866,21 +866,6 @@
       ]
     },
     {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
-      "sourceId": "datadog",
-      "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
-      "url": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
-      "publishedAt": "2026-10-20T00:00:00+00:00",
-      "excerpt": "Datadog built Turnstile to evaluate signed attestations and enforce software supply chain policies before container images are deployed.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
       "sourceId": "sentry",
       "title": "The Sentry Android SDK is now 20-30% faster!",
@@ -893,6 +878,21 @@
         "reliability",
         "frontend",
         "mobile"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+      "sourceId": "datadog",
+      "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
+      "url": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "excerpt": "Datadog built Turnstile to evaluate signed attestations and enforce software supply chain policies before container images are deployed.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
       ]
     },
     {
