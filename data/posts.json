@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-06T19:27:15.676476+00:00",
+  "generatedAt": "2026-11-07T06:03:35.540945+00:00",
   "feedCount": 37,
-  "fetchedOk": 35,
-  "postCount": 358,
+  "fetchedOk": 36,
+  "postCount": 368,
   "posts": [
     {
       "id": "pinterest:https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss----4c5a5f6279b6---4",
@@ -283,6 +283,20 @@
       ]
     },
     {
+      "id": "janestreet:https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "sourceId": "janestreet",
+      "title": "Our software engineering interviews are changing (a little)",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "publishedAt": "2026-11-02T00:00:00+00:00",
+      "excerpt": "Over the last few years, LLMs have changed how software gets built and that\u2019s no different for us at Jane Street. Most of our engineers now use them every day not only for writing code, but also for reading, debugging, and reviewing code, a",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
+      ]
+    },
+    {
       "id": "cloudflare:https://blog.cloudflare.com/emudhra-patching/",
       "sourceId": "cloudflare",
       "title": "4 real? Tracking exploitation and patching of eMudhra\u2019s weak keys",
@@ -322,6 +336,19 @@
         "engineering",
         "internal",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/from-using-ai-to-operating-with-ai-what-changes-in-product-management-when-the-bottlenecks-disappear/",
+      "sourceId": "nubank",
+      "title": "From using AI to operating with AI: What changes in product management when the bottlenecks disappear",
+      "url": "https://building.nu.com/from-using-ai-to-operating-with-ai-what-changes-in-product-management-when-the-bottlenecks-disappear/",
+      "publishedAt": "2026-10-29T16:30:40+00:00",
+      "excerpt": "How a Lead Product Manager at Nubank turned problem definition into her main tool for working with AI agents, and why judgment stays with the PM The post From using AI to operating with AI: What changes in product management when the bottle",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
       ]
     },
     {
@@ -395,6 +422,19 @@
         "internal",
         "ai",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/beyond-the-dashboard-what-i-learned-about-data-without-an-analytical-background/",
+      "sourceId": "nubank",
+      "title": "Beyond the dashboard: What I learned about data without an analytical background",
+      "url": "https://building.nu.com/beyond-the-dashboard-what-i-learned-about-data-without-an-analytical-background/",
+      "publishedAt": "2026-10-28T14:21:45+00:00",
+      "excerpt": "How moving from manufacturing engineering into a senior business analyst role taught me that SQL and Scala can be learned quickly, and that the real work starts with \"so what?\" The post Beyond the dashboard: What I learned about data withou",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
       ]
     },
     {
@@ -738,6 +778,19 @@
       ]
     },
     {
+      "id": "nubank:https://building.nu.com/from-support-to-root-cause-what-a-cx-person-really-does-at-nubank/",
+      "sourceId": "nubank",
+      "title": "From support to root cause: what a CX person really does at Nubank",
+      "url": "https://building.nu.com/from-support-to-root-cause-what-a-cx-person-really-does-at-nubank/",
+      "publishedAt": "2026-10-21T12:57:09+00:00",
+      "excerpt": "Why solving the customer's case is only half the job, and how data and artificial intelligence help solve the other half. The post From support to root cause: what a CX person really does at Nubank appeared first on Building Nubank .",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
       "id": "sentry:https://blog.sentry.io/another-year-another-1-000-000-to-open-source-maintainers/",
       "sourceId": "sentry",
       "title": "We just gave a million dollars to Open Source maintainers",
@@ -875,6 +928,19 @@
       ]
     },
     {
+      "id": "nubank:https://building.nu.com/the-code-was-the-easy-part-lessons-from-contributing-to-the-clojure-language/",
+      "sourceId": "nubank",
+      "title": "The code was the easy part: Lessons from contributing to the Clojure language",
+      "url": "https://building.nu.com/the-code-was-the-easy-part-lessons-from-contributing-to-the-clojure-language/",
+      "publishedAt": "2026-10-19T13:51:12+00:00",
+      "excerpt": "What two Clojure core contributions taught me about debugging, compatibility, and making technical reasoning understandable to others. The post The code was the easy part: Lessons from contributing to the Clojure language appeared first on ",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
       "id": "meta:https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
       "sourceId": "meta",
       "title": "Inside Prometheus: Meta\u2019s Journey to a Gigawatt-Scale Supercluster",
@@ -937,6 +1003,20 @@
         "internal",
         "infrastructure",
         "devops"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/squeezing-2x-mfu-out-of-our-training-runs/",
+      "sourceId": "nubank",
+      "title": "Squeezing ~2\u00d7 MFU out of our training runs",
+      "url": "https://building.nu.com/squeezing-2x-mfu-out-of-our-training-runs/",
+      "publishedAt": "2026-10-15T17:53:22+00:00",
+      "excerpt": "How attention-kernel selection, compiler integration, and optimizer implementation shape Transformer model training speed The post Squeezing ~2\u00d7 MFU out of our training runs appeared first on Building Nubank .",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "ai"
       ]
     },
     {
@@ -1037,6 +1117,19 @@
         "infrastructure",
         "devops",
         "databases"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/feature-stores-in-real-time-ml-part-3-examples-from-nubank/",
+      "sourceId": "nubank",
+      "title": "Feature stores in real-time ML, part 3: Examples from Nubank",
+      "url": "https://building.nu.com/feature-stores-in-real-time-ml-part-3-examples-from-nubank/",
+      "publishedAt": "2026-10-14T14:36:17+00:00",
+      "excerpt": "Written by: Felipe Almeida, with contributions from Luiz Felix, V\u00edvian Miranda, Lucas Nolasco, and Caroline Custodio. This is part 3 of a 3-part series on Feature Stores for Real-time ML. View part 1 and part 2. Quick recap and introduction",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
       ]
     },
     {
@@ -1550,20 +1643,6 @@
       ]
     },
     {
-      "id": "janestreet:https://blog.janestreet.com/mitigating-memorization-in-llms/",
-      "sourceId": "janestreet",
-      "title": "Mitigating memorization in LLMs",
-      "url": "https://blog.janestreet.com/mitigating-memorization-in-llms/",
-      "publishedAt": "2026-09-30T00:00:00+00:00",
-      "excerpt": "The following is part of a series of posts about 2026 summer intern projects \u2013 for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
-      ]
-    },
-    {
       "id": "airbnb:https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
       "sourceId": "airbnb",
       "title": "Personalization without user identity",
@@ -1636,6 +1715,19 @@
         "engineering",
         "internal",
         "data"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/beyond-a-b-testing-designing-experiments-when-the-space-is-too-large-to-explore/",
+      "sourceId": "nubank",
+      "title": "Beyond A/B Testing: Designing Experiments When the Space Is Too Large to Explore",
+      "url": "https://building.nu.com/beyond-a-b-testing-designing-experiments-when-the-space-is-too-large-to-explore/",
+      "publishedAt": "2026-09-28T14:21:31+00:00",
+      "excerpt": "A practical guide to D-optimal designs, Fedorov's algorithm, and how business restrictions shape what we can test and estimate The post Beyond A/B Testing: Designing Experiments When the Space Is Too Large to Explore appeared first on Build",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
       ]
     },
     {
@@ -1786,6 +1878,20 @@
       ]
     },
     {
+      "id": "nubank:https://building.nu.com/when-the-team-plays-pix-pauses-what-the-world-cup-teaches-us-about-outliers/",
+      "sourceId": "nubank",
+      "title": "When the team plays, Pix pauses: what the World Cup teaches us about outliers",
+      "url": "https://building.nu.com/when-the-team-plays-pix-pauses-what-the-world-cup-teaches-us-about-outliers/",
+      "publishedAt": "2026-09-17T15:17:19+00:00",
+      "excerpt": "How World Cup matches turn everyday payment patterns into outliers and what those anomalies can teach us about data, risk, and reliability The post When the team plays, Pix pauses: what the World Cup teaches us about outliers appeared first",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "reliability"
+      ]
+    },
+    {
       "id": "pinterest:https://medium.com/pinterest-engineering/beyond-two-towers-launching-the-3-tower-engagement-co-train-model-part-2-0b96167d2c14?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
       "title": "Beyond Two Towers: Launching the 3-Tower Engagement Co-Train Model (Part 2)",
@@ -1830,6 +1936,20 @@
       ]
     },
     {
+      "id": "nubank:https://building.nu.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
+      "sourceId": "nubank",
+      "title": "Designing Claude for ears, not eyes: An accessibility skill for blind and low-vision users",
+      "url": "https://building.nu.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
+      "publishedAt": "2026-09-16T14:09:16+00:00",
+      "excerpt": "How a cognitively diverse IT team at Nubank, they coded screen reader-friendly rules into Claude's instructions, treating auditory comprehension as an engineering constraint The post Designing Claude for ears, not eyes: An accessibility ski",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "frontend"
+      ]
+    },
+    {
       "id": "yelp:https://engineeringblog.yelp.com/2026/09/ml-ranking-with-nrtsearch.html",
       "sourceId": "yelp",
       "title": "ML based ranking using Nrtsearch",
@@ -1856,6 +1976,19 @@
         "data",
         "infrastructure",
         "ai"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
+      "sourceId": "nubank",
+      "title": "Beyond the data: what a Business Analyst does at Nubank",
+      "url": "https://building.nu.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
+      "publishedAt": "2026-09-15T12:14:41+00:00",
+      "excerpt": "Understand how Business Analysts at Nubank use data, context, and experimentation to guide product decisions. The post Beyond the data: what a Business Analyst does at Nubank appeared first on Building Nubank .",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
       ]
     },
     {
