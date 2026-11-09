@@ -1,9 +1,86 @@
 {
-  "generatedAt": "2026-11-09T06:41:08.292587+00:00",
+  "generatedAt": "2026-11-09T22:25:23.512629+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 368,
   "posts": [
+    {
+      "id": "spotify:https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/",
+      "sourceId": "spotify",
+      "title": "AI Product Management at Spotify: A View From Three Angles",
+      "url": "https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles/",
+      "publishedAt": "2026-11-09T17:53:35+00:00",
+      "excerpt": "Almost every article or podcast about product management and AI refers to \"the AI PM\" as one job. But what... The post AI Product Management at Spotify: A View From Three Angles appeared first on Spotify Engineering .",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+      "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-11-09T17:01:02+00:00",
+      "excerpt": "By Shreya S Ramanujam , Yongce Li , Afshine Amidi , Sina Ghiassian , Benjamin Klein . Introduction Picture this \u2014 you\u2019re home after a long day at work and can\u2019t wait to catch up on Bridgerton. You log on to Netflix, search for \u201cBridgerton\u201d ",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai",
+        "reliability",
+        "security"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "sourceId": "meta",
+      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "publishedAt": "2026-11-09T17:00:12+00:00",
+      "excerpt": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device control. The design represents the CPU an",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "sourceId": "cloudflare",
+      "title": "Launching the Vite Ecosystem Fund",
+      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "publishedAt": "2026-11-09T13:00:00+00:00",
+      "excerpt": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/broken-release-database-load/",
+      "sourceId": "sentry",
+      "title": "How a broken release name overloaded our symbolication database",
+      "url": "https://blog.sentry.io/broken-release-database-load/",
+      "publishedAt": "2026-11-09T09:00:00+00:00",
+      "excerpt": "An unexpanded env var filled one release with 44M URL index rows. Capping lookups cut database CPU from 76% to 19% and symbolication timeouts by 98%.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "databases"
+      ]
+    },
     {
       "id": "pinterest:https://medium.com/pinterest-engineering/safe-and-efficient-multi-epoch-embedding-training-103bec2abc83?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
@@ -167,7 +244,7 @@
     {
       "id": "cloudflare:https://blog.cloudflare.com/personal-agents-visibility-control/",
       "sourceId": "cloudflare",
-      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "title": "See the agents, set the terms: New visibility and control for personal agents",
       "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
       "publishedAt": "2026-11-04T14:00:00+00:00",
       "excerpt": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
@@ -704,7 +781,7 @@
     {
       "id": "cloudflare:https://blog.cloudflare.com/k-isms/",
       "sourceId": "cloudflare",
-      "title": "Localizing compliance at scale: achieving South Korea\u2019s ISMS certification",
+      "title": "Localizing compliance at scale: Achieving South Korea\u2019s ISMS certification",
       "url": "https://blog.cloudflare.com/k-isms/",
       "publishedAt": "2026-10-22T13:00:00+00:00",
       "excerpt": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
@@ -760,21 +837,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "sourceId": "cloudflare",
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "publishedAt": "2026-10-21T13:56:45+00:00",
-      "excerpt": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from r",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -941,22 +1003,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "sourceId": "meta",
-      "title": "Inside Prometheus: Meta\u2019s Journey to a Gigawatt-Scale Supercluster",
-      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "publishedAt": "2026-10-19T13:00:10+00:00",
-      "excerpt": "With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale supercluster, is already complete and we\u2019re wo",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure",
-        "reliability"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
@@ -1082,25 +1128,6 @@
         "data",
         "reliability",
         "security"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "Behind the Scenes: Evolving Netflix\u2019s Ads Event Pipeline for Live \u2014 Part II",
-      "url": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-10-14T19:51:35+00:00",
-      "excerpt": "By Yogesh Nagarur Introduction In Part 1 of this series , we shared how Netflix built the Ads Event pipeline and approached it as a system design problem: replacing fragmented pipelines with a centralized collection, enrichment, and a stand",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "reliability",
-        "security",
-        "databases",
-        "devops"
       ]
     },
     {
@@ -1394,20 +1421,6 @@
         "data",
         "ai",
         "reliability"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/unreal-mcp-sentry/",
-      "sourceId": "sentry",
-      "title": "Unreal MCP now speaks Sentry",
-      "url": "https://blog.sentry.io/unreal-mcp-sentry/",
-      "publishedAt": "2026-10-06T09:00:00+00:00",
-      "excerpt": "Unreal Engine 5.8's Unreal MCP lets coding agents drive the editor. Sentry's plugin adds tools and skills to set up Sentry and debug crashes.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
       ]
     },
     {
@@ -2090,20 +2103,6 @@
       "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
       "publishedAt": "2026-09-08T13:18:44+00:00",
       "excerpt": "Clearing the confusion about what Bayesian A/B testing is. The post Why Spotify Is Not Using Bayesian A/B Testing appeared first on Spotify Engineering .",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "spotify:https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/",
-      "sourceId": "spotify",
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90/",
-      "publishedAt": "2026-09-03T16:06:40+00:00",
-      "excerpt": "Most of what an AI coding agent does for me isn't thinking. It's I/O. The post Portal by Spotify cut my Claude Code token usage by 90% appeared first on Spotify Engineering .",
       "tags": [
         "engineering",
         "internal",
