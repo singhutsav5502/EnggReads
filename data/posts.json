@@ -1,9 +1,56 @@
 {
-  "generatedAt": "2026-11-11T06:30:43.308963+00:00",
+  "generatedAt": "2026-11-11T19:39:06.794466+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 366,
   "posts": [
+    {
+      "id": "meta:https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+      "sourceId": "meta",
+      "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+      "url": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+      "publishedAt": "2026-11-11T17:00:38+00:00",
+      "excerpt": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others. The challenge is deciding where to allocate it",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/choosing-quepaxa/",
+      "sourceId": "cloudflare",
+      "title": "Choosing QuePaxa, an unusual consensus algorithm",
+      "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+      "publishedAt": "2026-11-11T14:24:46+00:00",
+      "excerpt": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/migrate-from-heroku-to-planetscale",
+      "sourceId": "planetscale",
+      "title": "How we migrate TBs from Heroku without logical replication",
+      "url": "https://planetscale.com/blog/migrate-from-heroku-to-planetscale",
+      "publishedAt": "2026-11-11T00:00:00+00:00",
+      "excerpt": "Since we launched PlanetScale Postgres, companies have been moving to it from just about every Postgres provider out there, and Heroku Postgres is no exception. Our team has helped many customers leave Heroku, ranging from small databases o",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security",
+        "frontend",
+        "devops"
+      ]
+    },
     {
       "id": "lyft:https://eng.lyft.com/beyond-test-cards-a-fake-payment-provider-for-testing-at-scale-c69dddadb115?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
@@ -62,6 +109,21 @@
         "internal",
         "reliability",
         "frontend"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/monitor-ci-performance-sentry/",
+      "sourceId": "sentry",
+      "title": "Monitor your CI performance using Sentry",
+      "url": "https://blog.sentry.io/monitor-ci-performance-sentry/",
+      "publishedAt": "2026-11-10T09:00:00+00:00",
+      "excerpt": "We turned GitHub Actions workflows into Sentry traces to find slow CI steps and cut run time. Here's how to set it up for your own workflows.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "devops"
       ]
     },
     {
@@ -756,23 +818,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
-      "sourceId": "meta",
-      "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
-      "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
-      "publishedAt": "2026-10-26T16:00:07+00:00",
-      "excerpt": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster. Highlights IceP",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "data"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
@@ -864,21 +909,6 @@
         "reliability",
         "security",
         "devops"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/k-isms/",
-      "sourceId": "cloudflare",
-      "title": "Localizing compliance at scale: Achieving South Korea\u2019s ISMS certification",
-      "url": "https://blog.cloudflare.com/k-isms/",
-      "publishedAt": "2026-10-22T13:00:00+00:00",
-      "excerpt": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -1362,21 +1392,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/tracing-for-all-js-platforms/",
-      "sourceId": "sentry",
-      "title": "Sentry JavaScript SDK v11 adds tracing for all JS platforms",
-      "url": "https://blog.sentry.io/tracing-for-all-js-platforms/",
-      "publishedAt": "2026-10-09T00:00:00+00:00",
-      "excerpt": "Sentry's v11 JavaScript SDKs trace dependencies with a code transformer instead of OpenTelemetry instrumentation, adding Cloudflare Workers, Bun, and Deno",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend",
-        "ai"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/tin-v106",
       "sourceId": "planetscale",
       "title": "TIN v1.0.6: 2-3x faster, with support for stemming",
@@ -1609,20 +1624,6 @@
         "engineering",
         "internal",
         "culture"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/designing-neki-for-performance",
-      "sourceId": "planetscale",
-      "title": "Building a faster, lazier router for Postgres",
-      "url": "https://planetscale.com/blog/designing-neki-for-performance",
-      "publishedAt": "2026-10-01T00:00:00+00:00",
-      "excerpt": "Nothing is as fast as not doing anything. That sounds obvious, but it is also surprisingly easy to forget when building software. Neki adds a layer between a PostgreSQL client and PostgreSQL. We need that layer to route queries to shards an",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
