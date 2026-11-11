@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-11-10T19:46:30.542771+00:00",
+  "generatedAt": "2026-11-11T06:30:43.308963+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 366,
   "posts": [
+    {
+      "id": "lyft:https://eng.lyft.com/beyond-test-cards-a-fake-payment-provider-for-testing-at-scale-c69dddadb115?source=rss----25cd379abb8---4",
+      "sourceId": "lyft",
+      "title": "Beyond Test Cards: A Fake Payment Provider for Testing at Scale",
+      "url": "https://eng.lyft.com/beyond-test-cards-a-fake-payment-provider-for-testing-at-scale-c69dddadb115?source=rss----25cd379abb8---4",
+      "publishedAt": "2026-11-10T20:55:40+00:00",
+      "excerpt": "Image generated with Google Gemini, 2026 Written by Savelii Kolesnikov , Jay Patel , and Ivanna Sivak Background Lyft processes billions in payments annually, and that volume continues to grow. Agentic coding has drastically accelerated fea",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "reliability",
+        "databases"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
       "sourceId": "meta",
@@ -46,6 +62,20 @@
         "internal",
         "reliability",
         "frontend"
+      ]
+    },
+    {
+      "id": "snap:https://eng.snap.com/sema",
+      "sourceId": "snap",
+      "title": "SEMA: Letting an Agent Run the Slow Ends of the Model-Improvement Loop",
+      "url": "https://eng.snap.com/sema",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "excerpt": "SEMA, a self-evolving multi-agent system, decides which ideas Snap\u2019s ads-ranking models should try next and proves them in live experiments, cutting active engineer time per model iteration by 21\u00d7.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "mobile"
       ]
     },
     {
@@ -3659,20 +3689,6 @@
       ]
     },
     {
-      "id": "snap:https://eng.snap.com/snap-nvidia-gcp",
-      "sourceId": "snap",
-      "title": "Inside Snap's Experimentation Platform: Leveraging NVIDIA GPUs for Accelerated Data Processing",
-      "url": "https://eng.snap.com/snap-nvidia-gcp",
-      "publishedAt": "2026-03-16T07:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "mobile"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/local-llm-on-a-sprite/",
       "sourceId": "fly",
       "title": "Run a Local LLM on a CPU With BitNet and a Sprite",
@@ -3790,22 +3806,6 @@
         "internal",
         "devops",
         "databases"
-      ]
-    },
-    {
-      "id": "lyft:https://eng.lyft.com/scaling-localization-with-ai-at-lyft-b04dca99e6ee?source=rss----25cd379abb8---4",
-      "sourceId": "lyft",
-      "title": "Scaling Localization with AI at Lyft",
-      "url": "https://eng.lyft.com/scaling-localization-with-ai-at-lyft-b04dca99e6ee?source=rss----25cd379abb8---4",
-      "publishedAt": "2026-02-19T17:28:41+00:00",
-      "excerpt": "Written by Stefan Zier For years, Lyft\u2019s localization infrastructure relied exclusively on human translation. While this model usually ensured excellent quality, it was bound by multi-day turnarounds and costs that scaled linearly with ever",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "ai",
-        "devops"
       ]
     },
     {
