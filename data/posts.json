@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-11-12T07:15:59.685491+00:00",
+  "generatedAt": "2026-11-12T19:58:09.920775+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 366,
   "posts": [
+    {
+      "id": "sentry:https://blog.sentry.io/slopware-factory/",
+      "sourceId": "sentry",
+      "title": "We have a Slopware Factory",
+      "url": "https://blog.sentry.io/slopware-factory/",
+      "publishedAt": "2026-11-12T16:30:00+00:00",
+      "excerpt": "What a state of the art software factory looks like this week: Junior, our Slack intern, turns a one-line ask into a merged PR for $1.32.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "How Pinterest Improved Analytics Agent Compliance with Loop Engineering",
+      "url": "https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-11-12T16:01:06+00:00",
+      "excerpt": "Skyler Zheng | Software Engineer II; Chris Moradi | Staff Data Scientist; Lu Liu | Staff Software Engineer; Aman Gairola | Manager II; Michael Chau | Manager II The Compliance Problem Compliance means following the right steps at the right ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai"
+      ]
+    },
     {
       "id": "zendesk:https://zendesk.engineering/building-an-open-service-directory-registry-for-your-platforms-support-services-4074b0cffc3c?source=rss----a88376ea904a---4",
       "sourceId": "zendesk",
@@ -1259,20 +1287,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/flutter-sdk-10/",
-      "sourceId": "sentry",
-      "title": "Sentry's Flutter SDK 10.0: Streaming Traces and More Accurate Crash-Free Rates",
-      "url": "https://blog.sentry.io/flutter-sdk-10/",
-      "publishedAt": "2026-10-14T09:00:00+00:00",
-      "excerpt": "Flutter SDK 10.0: streaming traces by default, accurate crash-free rates, dedicated app startup traces, and expanded Dio network error capture.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "ebay:https://innovation.ebayinc.com/stories/inside-minerva-building-scalable-observability-for-ebays-monetization-platform/",
       "sourceId": "ebay",
       "title": "Inside Minerva: building scalable observability for eBay\u2019s monetization platform",
@@ -2210,22 +2224,6 @@
         "internal",
         "infrastructure",
         "devops"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/becoming-an-ai-team-866d6b567803?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Becoming an AI Team",
-      "url": "https://medium.com/pinterest-engineering/becoming-an-ai-team-866d6b567803?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-09-01T15:01:06+00:00",
-      "excerpt": "John Grass | Sr. Manager, Engineering A Fundamental Transformation An AI team is fundamentally more than just a group whose members incorporate AI tools into their existing workflows. The journey to becoming an AI team necessitates a fundam",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "reliability",
-        "databases"
       ]
     },
     {
