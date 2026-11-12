@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-11-11T19:39:06.794466+00:00",
+  "generatedAt": "2026-11-12T07:15:59.685491+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 366,
   "posts": [
+    {
+      "id": "zendesk:https://zendesk.engineering/building-an-open-service-directory-registry-for-your-platforms-support-services-4074b0cffc3c?source=rss----a88376ea904a---4",
+      "sourceId": "zendesk",
+      "title": "Building an Open Service Directory registry for your platform\u2019s support services",
+      "url": "https://zendesk.engineering/building-an-open-service-directory-registry-for-your-platforms-support-services-4074b0cffc3c?source=rss----a88376ea904a---4",
+      "publishedAt": "2026-11-12T02:01:06+00:00",
+      "excerpt": "Part 2 of 3: For engineers building or operating a registry for their platform\u2019s support services. In Part 1 , we described CoolFlow\u2019s appointment support as an entry and showed how clients can check its endorsement. We\u2019ll keep that same en",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
     {
       "id": "meta:https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
       "sourceId": "meta",
@@ -4803,20 +4816,6 @@
         "data",
         "databases",
         "devops"
-      ]
-    },
-    {
-      "id": "zendesk:https://zendesk.engineering/leading-while-learning-why-great-managers-dont-have-all-the-answers-f297cc383d01?source=rss----a88376ea904a---4",
-      "sourceId": "zendesk",
-      "title": "Leading while learning: why great managers don\u2019t have all the answers",
-      "url": "https://zendesk.engineering/leading-while-learning-why-great-managers-dont-have-all-the-answers-f297cc383d01?source=rss----a88376ea904a---4",
-      "publishedAt": "2025-02-10T08:02:06+00:00",
-      "excerpt": "Leading while learning Why great managers don\u2019t have all the answers I used to think leaders had to have all the right answers. Now I know that the best ones have all the right questions. Early in my career, I admired managers who seemed to",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "security"
       ]
     },
     {
