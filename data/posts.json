@@ -1,9 +1,83 @@
 {
-  "generatedAt": "2026-11-13T06:50:18.748113+00:00",
+  "generatedAt": "2026-11-13T19:45:39.659385+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 366,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "sourceId": "cloudflare",
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "publishedAt": "2026-11-13T19:26:07+00:00",
+      "excerpt": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare\u2019s observations and recommended countermeasures.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+      "sourceId": "meta",
+      "title": "Cuttlefish on Mac: Running Android\u2019s Virtual Device Framework Natively on Apple Silicon",
+      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+      "publishedAt": "2026-11-13T17:00:39+00:00",
+      "excerpt": "How Meta's Reality Labs brought Cuttlefish and its QEMU backend to macOS and Apple silicon. [...] Read More... The post Cuttlefish on Mac: Running Android\u2019s Virtual Device Framework Natively on Apple Silicon appeared first on Engineering at",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure",
+        "mobile"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/making-ai-initiatives-work-for-machine-learning-engineering/",
+      "sourceId": "nubank",
+      "title": "Making AI initiatives work for Machine Learning Engineering",
+      "url": "https://building.nu.com/making-ai-initiatives-work-for-machine-learning-engineering/",
+      "publishedAt": "2026-11-13T14:39:07+00:00",
+      "excerpt": "Before building with AI, ask three questions: what problem you're solving, how you'll measure success, and whether the solution can serve others The post Making AI initiatives work for Machine Learning Engineering appeared first on Building",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend",
+        "ai"
+      ]
+    },
+    {
+      "id": "nubank:https://building.nu.com/when-the-code-is-hard-to-trust-the-hidden-cost-of-technical-uncertainty/",
+      "sourceId": "nubank",
+      "title": "When the code is hard to trust: The hidden cost of technical uncertainty",
+      "url": "https://building.nu.com/when-the-code-is-hard-to-trust-the-hidden-cost-of-technical-uncertainty/",
+      "publishedAt": "2026-11-13T14:13:48+00:00",
+      "excerpt": "Even in collaborative engineering teams, fragile systems can make developers hesitate before changing a single line The post When the code is hard to trust: The hidden cost of technical uncertainty appeared first on Building Nubank .",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
+      "id": "fly:https://fly.io/blog/throwing-out-the-phonebook/",
+      "sourceId": "fly",
+      "title": "Throwing Out The Phonebook",
+      "url": "https://fly.io/blog/throwing-out-the-phonebook/",
+      "publishedAt": "2026-11-13T00:00:00+00:00",
+      "excerpt": "There\u2019s really only one hard problem in software engineering: synchronization. OK, maybe two: cache invalidation and synchronization. Synchronization is the harder one though, especially when the thing on the other side is eventually consis",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "databases"
+      ]
+    },
     {
       "id": "sentry:https://blog.sentry.io/slopware-factory/",
       "sourceId": "sentry",
@@ -317,6 +391,20 @@
         "reliability",
         "security",
         "databases"
+      ]
+    },
+    {
+      "id": "janestreet:https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
+      "sourceId": "janestreet",
+      "title": "Writing a DSL for high performance parallel programming in OxCaml",
+      "url": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
+      "publishedAt": "2026-11-06T00:00:00+00:00",
+      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "culture"
       ]
     },
     {
@@ -749,21 +837,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
-      "sourceId": "meta",
-      "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
-      "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
-      "publishedAt": "2026-10-27T15:59:24+00:00",
-      "excerpt": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more than one, and missing",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "cloudflare:https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
       "sourceId": "cloudflare",
       "title": "What took the Internet offline in Q3 2026",
@@ -880,21 +953,6 @@
       "url": "https://blog.cloudflare.com/origin-range-requests/",
       "publishedAt": "2026-10-23T18:22:59+00:00",
       "excerpt": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-      "sourceId": "cloudflare",
-      "title": "Bringing post-quantum cryptography to geographically fenced key management",
-      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-      "publishedAt": "2026-10-23T18:06:56+00:00",
-      "excerpt": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
       "tags": [
         "recommended",
         "infrastructure",
@@ -1711,20 +1769,6 @@
       ]
     },
     {
-      "id": "janestreet:https://blog.janestreet.com/tdoe-intern-projects-2026/",
-      "sourceId": "janestreet",
-      "title": "What the TDOE interns have wrought, 2026 edition",
-      "url": "https://blog.janestreet.com/tdoe-intern-projects-2026/",
-      "publishedAt": "2026-09-30T00:00:00+00:00",
-      "excerpt": "The following is part of a series of posts about 2026 summer intern projects\u2014for more, see \u201cWhat the interns have wrought, special jumbo 2026 edition\u201d",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "culture"
-      ]
-    },
-    {
       "id": "airbnb:https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
       "sourceId": "airbnb",
       "title": "Personalization without user identity",
@@ -2018,20 +2062,6 @@
       ]
     },
     {
-      "id": "nubank:https://building.nu.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
-      "sourceId": "nubank",
-      "title": "Designing Claude for ears, not eyes: An accessibility skill for blind and low-vision users",
-      "url": "https://building.nu.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
-      "publishedAt": "2026-09-16T14:09:16+00:00",
-      "excerpt": "How a cognitively diverse IT team at Nubank, they coded screen reader-friendly rules into Claude's instructions, treating auditory comprehension as an engineering constraint The post Designing Claude for ears, not eyes: An accessibility ski",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "frontend"
-      ]
-    },
-    {
       "id": "yelp:https://engineeringblog.yelp.com/2026/09/ml-ranking-with-nrtsearch.html",
       "sourceId": "yelp",
       "title": "ML based ranking using Nrtsearch",
@@ -2058,19 +2088,6 @@
         "data",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nu.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
-      "sourceId": "nubank",
-      "title": "Beyond the data: what a Business Analyst does at Nubank",
-      "url": "https://building.nu.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
-      "publishedAt": "2026-09-15T12:14:41+00:00",
-      "excerpt": "Understand how Business Analysts at Nubank use data, context, and experimentation to guide product decisions. The post Beyond the data: what a Business Analyst does at Nubank appeared first on Building Nubank .",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
@@ -3930,23 +3947,6 @@
         "ai",
         "reliability",
         "frontend",
-        "databases"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/i-build-everything-in-sprites-now/",
-      "sourceId": "fly",
-      "title": "I Build Everything In Sprites Now",
-      "url": "https://fly.io/blog/i-build-everything-in-sprites-now/",
-      "publishedAt": "2026-02-03T00:00:00+00:00",
-      "excerpt": "I just realised I build everything in Sprites now. It feels weird to say because Sprites are still really new (even for people who work at Fly.io). They\u2019re obviously super exciting for people building agents, but when I finally \u201cgot\u201d Sprite",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "security",
         "databases"
       ]
     },
