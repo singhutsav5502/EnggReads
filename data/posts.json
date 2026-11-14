@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-11-13T19:45:39.659385+00:00",
+  "generatedAt": "2026-11-14T06:29:47.267615+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 366,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/kitesurf-open-source/",
+      "sourceId": "cloudflare",
+      "title": "Kitesurf is now open source",
+      "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+      "publishedAt": "2026-11-13T20:20:21+00:00",
+      "excerpt": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal",
+        "frontend",
+        "devops"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
       "sourceId": "cloudflare",
@@ -944,21 +961,6 @@
         "internal",
         "infrastructure",
         "data"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/origin-range-requests/",
-      "sourceId": "cloudflare",
-      "title": "Origin Range Requests: Serving large files without range-request tuning",
-      "url": "https://blog.cloudflare.com/origin-range-requests/",
-      "publishedAt": "2026-10-23T18:22:59+00:00",
-      "excerpt": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
