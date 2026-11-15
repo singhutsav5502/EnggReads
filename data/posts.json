@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:39:08.815171+00:00",
+  "generatedAt": "2026-11-15T18:53:49.420987+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 366,
@@ -964,20 +964,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "sourceId": "planetscale",
-      "title": "Shard design doesn't start from your tables",
-      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/feng-shui-for-robots/",
       "sourceId": "fly",
       "title": "Feng Shui for Robots: The Fly MCP Server",
@@ -992,6 +978,20 @@
         "devops",
         "frontend",
         "databases"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "sourceId": "planetscale",
+      "title": "Shard design doesn't start from your tables",
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
