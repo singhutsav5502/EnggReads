@@ -1,9 +1,66 @@
 {
-  "generatedAt": "2026-11-16T06:36:29.088240+00:00",
+  "generatedAt": "2026-11-16T22:09:29.749538+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
-  "postCount": 366,
+  "postCount": 367,
   "posts": [
+    {
+      "id": "gusto:https://engineering.gusto.com/the-case-for-ai-guardrails-how-we-switched-ai-from-copy-pasta-to-building-the-way-we-want-c4559b820e65?source=rss----645edd256348---4",
+      "sourceId": "gusto",
+      "title": "The Case for AI Guardrails: How We Switched AI from Copy-Pasta to Building the Way We Want",
+      "url": "https://engineering.gusto.com/the-case-for-ai-guardrails-how-we-switched-ai-from-copy-pasta-to-building-the-way-we-want-c4559b820e65?source=rss----645edd256348---4",
+      "publishedAt": "2026-11-16T19:01:53+00:00",
+      "excerpt": "If a Rule is Not Encoded, It\u2019s Not Enforceable From \u201cTook A Snap\u201d As we embraced AI agents creating code, we observed agents copying and pasting legacy patterns from our codebase into new pull requests. Our six-month, company-wide initiativ",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
+      "id": "pinterest:https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471?source=rss----4c5a5f6279b6---4",
+      "sourceId": "pinterest",
+      "title": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure\u2026",
+      "url": "https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471?source=rss----4c5a5f6279b6---4",
+      "publishedAt": "2026-11-16T16:01:03+00:00",
+      "excerpt": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure at Scale Authors : Sharon Xie, Sr. Staff Software Engineer | Zhenxiao Luo, Sr Staff Software Engineer |Yi Pan, Principal Software Engineer | V",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "reliability",
+        "databases"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/sentry-conventions/",
+      "sourceId": "sentry",
+      "title": "Naming is hard, semantics are hard(er): Inside Sentry Conventions",
+      "url": "https://blog.sentry.io/sentry-conventions/",
+      "publishedAt": "2026-11-16T11:00:00+00:00",
+      "excerpt": "How Sentry Conventions keep attribute names and their meaning aligned across our SDKs, our ingestion pipeline, and the Sentry product.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/sentry-dotnet-sdk-7/",
+      "sourceId": "sentry",
+      "title": "Sentry's .NET SDK 7.0 is ready for .NET 11",
+      "url": "https://blog.sentry.io/sentry-dotnet-sdk-7/",
+      "publishedAt": "2026-11-16T09:00:00+00:00",
+      "excerpt": "Sentry's .NET SDK 7.0 adds .NET 11 support, UseSentry() for worker services, Quartz.NET cron monitors, and breaking changes to check before you upgrade.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/kitesurf-open-source/",
       "sourceId": "cloudflare",
@@ -1072,20 +1129,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/another-year-another-1-000-000-to-open-source-maintainers/",
-      "sourceId": "sentry",
-      "title": "We just gave a million dollars to Open Source maintainers",
-      "url": "https://blog.sentry.io/another-year-another-1-000-000-to-open-source-maintainers/",
-      "publishedAt": "2026-10-21T09:00:00+00:00",
-      "excerpt": "Sentry raised its Open Source budget from $750,000 to $1,000,000 this year. Here's why, and how we split it among maintainers and foundations.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
       "sourceId": "grab",
       "title": "App stability at scale with a layered defense",
@@ -1159,21 +1202,6 @@
         "internal",
         "reliability",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/android-sdk-faster-startup/",
-      "sourceId": "sentry",
-      "title": "The Sentry Android SDK is now 20-30% faster!",
-      "url": "https://blog.sentry.io/android-sdk-faster-startup/",
-      "publishedAt": "2026-10-20T00:00:00+00:00",
-      "excerpt": "Sentry Android SDK 8.54.0 initializes 20-30% faster. See how build-time options, faster DSN parsing, and shared thread pools cut startup cost.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend",
-        "mobile"
       ]
     },
     {
@@ -2120,24 +2148,6 @@
         "internal",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "pinterest:https://medium.com/pinterest-engineering/building-pinterests-vlm-serving-stack-on-nvidia-dynamo-0dce6e93d0f3?source=rss----4c5a5f6279b6---4",
-      "sourceId": "pinterest",
-      "title": "Building Pinterest\u2019s VLM Serving Stack on NVIDIA Dynamo",
-      "url": "https://medium.com/pinterest-engineering/building-pinterests-vlm-serving-stack-on-nvidia-dynamo-0dce6e93d0f3?source=rss----4c5a5f6279b6---4",
-      "publishedAt": "2026-09-10T23:08:16+00:00",
-      "excerpt": "Lei Pan | Senior Software Engineer; Salina Wu | Senior Software Engineer; Cristian Lopez | Software Engineer I; Guangtong Bai | Staff Software Engineer; Soam Acharya | Principal Engineer; Saurabh Vishwas Joshi | Principal Engineer; Chia-Wei",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "infrastructure",
-        "reliability",
-        "frontend",
-        "devops"
       ]
     },
     {
