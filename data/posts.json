@@ -1,9 +1,118 @@
 {
-  "generatedAt": "2026-11-17T07:58:39.994235+00:00",
+  "generatedAt": "2026-11-17T20:58:40.430018+00:00",
   "feedCount": 37,
-  "fetchedOk": 36,
-  "postCount": 367,
+  "fetchedOk": 37,
+  "postCount": 379,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "sourceId": "cloudflare",
+      "title": "Quad9\u2019s withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "publishedAt": "2026-11-17T20:24:27+00:00",
+      "excerpt": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "github:https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "sourceId": "github",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "publishedAt": "2026-11-17T18:20:40+00:00",
+      "excerpt": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "devops"
+      ]
+    },
+    {
+      "id": "airbnb:https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+      "sourceId": "airbnb",
+      "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+      "url": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+      "publishedAt": "2026-11-17T18:01:03+00:00",
+      "excerpt": "Here\u2019s how Airbnb detects and replaces personal data in messages, reviews, and support chats before it reaches a model. By: Emelin Flores , Alex Klimov , Lee Formyduval , Bahador Nooraei Introduction Airbnb is built on trust. Every night th",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai",
+        "security"
+      ]
+    },
+    {
+      "id": "netflix:https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+      "sourceId": "netflix",
+      "title": "Engineering AI Discover",
+      "url": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+      "publishedAt": "2026-11-17T17:01:02+00:00",
+      "excerpt": "The challenges and decisions behind AI Discover\u2019s intelligence layer By Varun Khaitan , Peng Ren , Gary Tang , Itay Teller , Atif Faheem , Nipun Kumar , Donnie DeBoer , Eduardo Lundgren , Matteo Rinaldi , Raghav Bakshi We recently introduce",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "data",
+        "ai",
+        "reliability"
+      ]
+    },
+    {
+      "id": "lyft:https://eng.lyft.com/smooth-cruiser-at-lyft-built-for-safety-and-transparency-b6a461e16f2a?source=rss----25cd379abb8---4",
+      "sourceId": "lyft",
+      "title": "Smooth Cruiser at Lyft: Built for Safety and Transparency",
+      "url": "https://eng.lyft.com/smooth-cruiser-at-lyft-built-for-safety-and-transparency-b6a461e16f2a?source=rss----25cd379abb8---4",
+      "publishedAt": "2026-11-17T14:27:11+00:00",
+      "excerpt": "At Lyft, we want to ensure everyone on the Lyft platform is supported by smart, fair tools to improve their experience. This is the guiding principle behind Smooth Cruiser, our feature that provides Drivers with insights into their driving ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "ai",
+        "databases"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/sentry-native-sdk-1-0/",
+      "sourceId": "sentry",
+      "title": "Sentry\u2019s Native SDK gets its own crash backend (and more)",
+      "url": "https://blog.sentry.io/sentry-native-sdk-1-0/",
+      "publishedAt": "2026-11-17T09:00:00+00:00",
+      "excerpt": "Sentry\u2019s Native SDK 1.0 makes its own crash backend the default, brings out-of-process crash handling to Xbox and Android, and speeds up scope data.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend",
+        "mobile"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/how-we-scaled-metrics-aggregation/",
+      "sourceId": "datadog",
+      "title": "How we scaled metrics aggregation by moving durable state into storage",
+      "url": "https://www.datadoghq.com/blog/engineering/how-we-scaled-metrics-aggregation/",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "excerpt": "Learn how Datadog evolved metrics aggregation from fixed partition ownership to transferable state and, ultimately, storage-side reconciliation.",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
+      ]
+    },
     {
       "id": "gusto:https://engineering.gusto.com/the-case-for-ai-guardrails-how-we-switched-ai-from-copy-pasta-to-building-the-way-we-want-c4559b820e65?source=rss----645edd256348---4",
       "sourceId": "gusto",
@@ -31,6 +140,20 @@
         "ai",
         "reliability",
         "databases"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20261113-query-suggest-vector-search-reranking/",
+      "sourceId": "mercari",
+      "title": "Item-to-Query Recommendation at Mercari: Embedding-Based Retrieval and CTR-Based Reranking",
+      "url": "https://engineering.mercari.com/en/blog/entry/20261113-query-suggest-vector-search-reranking/",
+      "publishedAt": "2026-11-16T11:21:02+00:00",
+      "excerpt": "Introduction Hi! I\u2019m arr0w, a machine learning engineer at Mercari. In this post, I\u2019ll walk through how we improved Query Suggest on Mercari\u2019s item pages: the \"People also search for\" (\u4ed6\u306e\u4eba\u306f\u3053\u3061\u3089\u3082\u691c\u7d22) section at the bottom of each item page. Fo",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "ai"
       ]
     },
     {
@@ -283,6 +406,19 @@
         "engineering",
         "internal",
         "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20261110-ai-native-catalog-integration-at-mercari-with-llms-and-a-prompt-generation-agent/",
+      "sourceId": "mercari",
+      "title": "AI-Native Catalog Integration at Mercari with LLMs and a Prompt Generation Agent",
+      "url": "https://engineering.mercari.com/en/blog/entry/20261110-ai-native-catalog-integration-at-mercari-with-llms-and-a-prompt-generation-agent/",
+      "publishedAt": "2026-11-10T12:43:20+00:00",
+      "excerpt": "Introduction Hello! We are arr0w (ML) and utdoi (Backend), Product Engineers at Mercari. Our team, the Product Data Team, works on integrating product data held by external businesses to improve the coverage and quality of our product catal",
+      "tags": [
+        "engineering",
+        "internal",
         "infrastructure"
       ]
     },
@@ -957,21 +1093,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "sourceId": "cloudflare",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "publishedAt": "2026-10-26T22:01:23+00:00",
-      "excerpt": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "Making Failure Diagnosis Reliable with Pensive AI",
@@ -1021,6 +1142,20 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "sourceId": "planetscale",
+      "title": "Shard design doesn't start from your tables",
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "fly:https://fly.io/blog/feng-shui-for-robots/",
       "sourceId": "fly",
       "title": "Feng Shui for Robots: The Fly MCP Server",
@@ -1035,20 +1170,6 @@
         "devops",
         "frontend",
         "databases"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "sourceId": "planetscale",
-      "title": "Shard design doesn't start from your tables",
-      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -1067,20 +1188,6 @@
         "reliability",
         "security",
         "devops"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/when-you-need-a-metric/",
-      "sourceId": "sentry",
-      "title": "Should you use a log or a metric?",
-      "url": "https://blog.sentry.io/when-you-need-a-metric/",
-      "publishedAt": "2026-10-22T09:00:00+00:00",
-      "excerpt": "If you already log it, you can probably just count the logs. Here's when a question deserves its own metric, shown with one signup handler.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
       ]
     },
     {
@@ -1326,23 +1433,6 @@
         "infrastructure",
         "data",
         "frontend"
-      ]
-    },
-    {
-      "id": "netflix:https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
-      "sourceId": "netflix",
-      "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
-      "url": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
-      "publishedAt": "2026-10-14T19:56:08+00:00",
-      "excerpt": "By Oleksii Tkachuk , Rajiv Shringi , Chris Lohfink , Abe Ratnofsky , Kartik Sathyanarayanan Introduction In an earlier post , we introduced the TimeSeries Abstraction, our high-throughput, low-latency platform designed to store and query te",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "data",
-        "reliability",
-        "security"
       ]
     },
     {
@@ -1884,6 +1974,19 @@
         "engineering",
         "internal",
         "backend"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260927-a-kubernetes-resource-that-doesnt-exist-caching-ci-images-on-ephemeral-runners/",
+      "sourceId": "mercari",
+      "title": "A Kubernetes Resource That Doesn\u2019t Exist: Caching CI Images on Ephemeral Runners",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260927-a-kubernetes-resource-that-doesnt-exist-caching-ci-images-on-ephemeral-runners/",
+      "publishedAt": "2026-09-28T14:00:46+00:00",
+      "excerpt": "Hi, I\u2019m Anirudh, a Platform Infrastructure Engineer at Mercari. At Mercari, we depend heavily on GitHub for all of our CI pipelines. We manage our own self-hosted runners using GitHub\u2019s Actions Runner Controller (ARC) which are deployed on ",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -2523,21 +2626,6 @@
       ]
     },
     {
-      "id": "github:https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-      "sourceId": "github",
-      "title": "Using the GitHub Copilot SDK for Java",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-      "publishedAt": "2026-08-10T19:30:00+00:00",
-      "excerpt": "Enterprise Java developers have a new superpower\u2014drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "devops"
-      ]
-    },
-    {
       "id": "gusto:https://engineering.gusto.com/building-virtuous-pdf-how-gusto-replaced-a-deprecated-library-with-a-modern-pdf-microservice-b37c481eaa03?source=rss----645edd256348---4",
       "sourceId": "gusto",
       "title": "Building Virtuous PDF: How Gusto Replaced a Deprecated Library with a Modern PDF Microservice",
@@ -2616,6 +2704,20 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
+      "sourceId": "mercari",
+      "title": "Bridging the Gap Between Passwords and Passkeys with Risk-Based Authentication",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
+      "publishedAt": "2026-07-30T18:15:04+00:00",
+      "excerpt": "This is the third post in our series on passkeys and phishing-resistant accounts at Mercari. The earlier posts are: Mercari\u2019s Passkey Adoption (2023) and Mercari Phishing-Resistant Accounts with Passkey (2025). Background: A Recap of Our Jo",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/crowdsourced-taxonomy-verification",
       "sourceId": "grab",
       "title": "Crowdsourced taxonomy verification: A feedback-driven framework for refining knowledge graph relationships via online search interactions",
@@ -2629,22 +2731,6 @@
         "mobile",
         "ai",
         "frontend"
-      ]
-    },
-    {
-      "id": "airbnb:https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
-      "sourceId": "airbnb",
-      "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
-      "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
-      "publishedAt": "2026-07-28T17:01:03+00:00",
-      "excerpt": "How Airbnb teams build trustworthy Generative AI products by treating evaluation as a first-class engineering discipline; not an afterthought. Nestled into the lush hillside, this stunning modern retreat features striking natural wood archi",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "ai",
-        "reliability"
       ]
     },
     {
@@ -2913,6 +2999,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
+      "sourceId": "mercari",
+      "title": "Rethinking Payment APIs at Merpay: The Exchange Abstraction",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
+      "publishedAt": "2026-06-29T11:00:26+00:00",
+      "excerpt": "This article is the 19th entry in Merpay & Mercoin Tech Openness Month 2026. Background We are the Payment Platform team at Merpay. Our systems sit beneath almost every movement of money in the Merpay ecosystem \u2014 customers paying partners, ",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "uber:https://medium.com/uber-under-the-hood/the-1-barrier-to-ev-adoption-has-shifted-heres-what-that-means-for-drivers-6fe032e78a55?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "The #1 Barrier to EV Adoption Has Shifted. Here\u2019s What That Means for Drivers",
@@ -2983,6 +3082,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
+      "sourceId": "mercari",
+      "title": "Scaling Myself: How I Run 22 Claude Code Sessions for DS4 Migration",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
+      "publishedAt": "2026-06-22T10:00:24+00:00",
+      "excerpt": "This article is the 15th entry in Merpay & Mercoin Tech Openness Month 2026. In this age of AI, most of us have built our own work setups around it. This article is not a proclamation that mine is the best; other setups might work better fo",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "snap:https://eng.snap.com/spatial_intelligence",
       "sourceId": "snap",
       "title": "Measuring Spatial Intelligence in LLMs",
@@ -3007,6 +3119,21 @@
         "engineering",
         "internal",
         "backend"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
+      "sourceId": "mercari",
+      "title": "Build First, Discuss Later: How Prototypes Speed Up Product Decisions",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
+      "publishedAt": "2026-06-15T10:00:16+00:00",
+      "excerpt": "I\u2019m Kubomi, an iOS engineer at Merpay, Inc. This article is the 10th entry in Merpay & Mercoin Tech Openness Month 2026. Generative AI has made it easier for engineers to build prototypes quickly. Recently, I tried building a working protot",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "ai",
+        "mobile"
       ]
     },
     {
@@ -3054,6 +3181,20 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
+      "sourceId": "mercari",
+      "title": "Four Mechanisms Behind EGP Code, an AI-Powered Landing Page Editor",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
+      "publishedAt": "2026-06-10T11:00:58+00:00",
+      "excerpt": "Hi, I\u2019m @mattsuu a frontend engineer at Merpay. This is Day 7 of Merpay & Mercoin Tech Openness Month 2026. EGP Code is an internal editor for building landing pages (LPs) with AI. We covered the background in Why we built EGP Code, an HTML",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "frontend"
+      ]
+    },
+    {
       "id": "lyft:https://eng.lyft.com/from-chaos-to-clarity-2ab50856d0c8?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "From Chaos to Clarity: How We Built a Unified, Self-Routing Support Ops Ticketing System at Lyft",
@@ -3067,6 +3208,19 @@
         "infrastructure",
         "reliability",
         "databases"
+      ]
+    },
+    {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
+      "sourceId": "mercari",
+      "title": "Designing a Credit-Management Microservice for Partner Invoice Payment",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
+      "publishedAt": "2026-06-09T10:00:59+00:00",
+      "excerpt": "Hello. I\u2019m imamu, a Backend Engineer on Merpay\u2019s Payment & Customer Platform (PCP) team. This article is Day 6 of Merpay & Mercoin Tech Openness Month 2026. Introduction \"Partner invoicing\" is a deferred payment method for partners (such as",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -3149,6 +3303,20 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
+      "sourceId": "mercari",
+      "title": "Why we built EGP Code, an HTML-based AI editor for landing pages",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
+      "publishedAt": "2026-06-03T10:00:35+00:00",
+      "excerpt": "Hi, I\u2019m @mattsuu, a frontend engineer at Merpay. This is Day 2 of Merpay & Mercoin Tech Openness Month 2026. Our team is responsible for developing Engagement Platform (EGP), a suite of internal tools for marketers and Project Managers (PMs",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "frontend"
+      ]
+    },
+    {
       "id": "instacart:https://tech.instacart.com/from-scoring-to-spelling-rebuilding-ads-retrieval-at-instacart-cf36b4e8d1bb?source=rss----587883b5d2ee---4",
       "sourceId": "instacart",
       "title": "From Scoring to Spelling: Rebuilding Ads Retrieval at Instacart",
@@ -3175,22 +3343,6 @@
         "internal",
         "infrastructure",
         "data",
-        "ai"
-      ]
-    },
-    {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/scaling-malicious-code-detection/",
-      "sourceId": "datadog",
-      "title": "From single pull requests to full software packages: Detecting malicious code at scale",
-      "url": "https://www.datadoghq.com/blog/engineering/scaling-malicious-code-detection/",
-      "publishedAt": "2026-06-02T00:00:00+00:00",
-      "excerpt": "By combining stacked LLM evaluations with tool-driven investigation, we scaled malicious code detection from pull requests to dependency packages without sacrificing accuracy or cost control.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure",
         "ai"
       ]
     },
@@ -3419,6 +3571,19 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
+      "sourceId": "mercari",
+      "title": "mercari-pm-agent Design \u2014 Automating the PM Workflow with Claude Code Skills and MCP",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
+      "publishedAt": "2026-04-28T10:00:04+00:00",
+      "excerpt": "Introduction Hello. I\u2019m Shogo Kikuchi, a PM intern on Mercari. During my internship, I developed a Claude Code Skill called mercari-pm-agent. It is an agent that can handle, within a single session, the end-to-end workflow PMs go through: \u201c",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
+    {
       "id": "lyft:https://eng.lyft.com/how-we-built-a-smarter-pickup-experience-for-gated-communities-47416e9df029?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "How We Built a Smarter Pickup Experience for Gated Communities",
@@ -3519,6 +3684,20 @@
       ]
     },
     {
+      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
+      "sourceId": "mercari",
+      "title": "Enabling AI usage at Mercari with Secure Devin Management",
+      "url": "https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
+      "publishedAt": "2026-04-03T10:25:21+00:00",
+      "excerpt": "Introduction Hello. I am @hi120ki, an AI Security engineer at Mercari. At Mercari, we have rolled out Devin, an AI Agent service, to multiple teams across the company. Devin is a service that can autonomously investigate code, write code, a",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
+      ]
+    },
+    {
       "id": "uber:https://medium.com/uber-under-the-hood/the-real-cost-of-commission-caps-why-price-controls-hurt-riders-and-drivers-ee91feb2ac27?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "The Real Cost of Commission Caps: Why Price Controls Hurt Riders and Drivers",
@@ -3571,21 +3750,6 @@
       "url": "https://eng.lyft.com/predicting-rider-conversion-in-sparse-data-environments-with-bayesian-trees-07227ff92789?source=rss----25cd379abb8---4",
       "publishedAt": "2026-03-30T14:43:41+00:00",
       "excerpt": "At Lyft, understanding how riders go through our user experience is fundamental to operating a healthy marketplace. Specifically, it is important to have a robust model determining if a rider will actually request a ride after entering a de",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "ai"
-      ]
-    },
-    {
-      "id": "lyft:https://eng.lyft.com/beyond-a-b-testing-using-surrogacy-and-region-splits-to-measure-long-term-effects-in-marketplaces-9cb06d628f2d?source=rss----25cd379abb8---4",
-      "sourceId": "lyft",
-      "title": "Beyond A/B Testing: Using Surrogacy and Region-Splits to Measure Long-Term Effects in Marketplaces",
-      "url": "https://eng.lyft.com/beyond-a-b-testing-using-surrogacy-and-region-splits-to-measure-long-term-effects-in-marketplaces-9cb06d628f2d?source=rss----25cd379abb8---4",
-      "publishedAt": "2026-03-25T13:56:39+00:00",
-      "excerpt": "Image generated with Gemini 3 Pro (Google), 2026. Written by Amber Wang and Y oonji Kim at Lyft. Background Whenever you use the Lyft app, there is a complex balancing act happening behind the scenes. Various levers are used to keep the mar",
       "tags": [
         "engineering",
         "internal",
