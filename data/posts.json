@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T20:58:40.430018+00:00",
+  "generatedAt": "2026-11-18T06:16:24.678412+00:00",
   "feedCount": 37,
-  "fetchedOk": 37,
-  "postCount": 379,
+  "fetchedOk": 36,
+  "postCount": 367,
   "posts": [
     {
       "id": "cloudflare:https://blog.cloudflare.com/quad9-withdrawal-from-france/",
@@ -140,20 +140,6 @@
         "ai",
         "reliability",
         "databases"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20261113-query-suggest-vector-search-reranking/",
-      "sourceId": "mercari",
-      "title": "Item-to-Query Recommendation at Mercari: Embedding-Based Retrieval and CTR-Based Reranking",
-      "url": "https://engineering.mercari.com/en/blog/entry/20261113-query-suggest-vector-search-reranking/",
-      "publishedAt": "2026-11-16T11:21:02+00:00",
-      "excerpt": "Introduction Hi! I\u2019m arr0w, a machine learning engineer at Mercari. In this post, I\u2019ll walk through how we improved Query Suggest on Mercari\u2019s item pages: the \"People also search for\" (\u4ed6\u306e\u4eba\u306f\u3053\u3061\u3089\u3082\u691c\u7d22) section at the bottom of each item page. Fo",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "ai"
       ]
     },
     {
@@ -406,19 +392,6 @@
         "engineering",
         "internal",
         "ai",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20261110-ai-native-catalog-integration-at-mercari-with-llms-and-a-prompt-generation-agent/",
-      "sourceId": "mercari",
-      "title": "AI-Native Catalog Integration at Mercari with LLMs and a Prompt Generation Agent",
-      "url": "https://engineering.mercari.com/en/blog/entry/20261110-ai-native-catalog-integration-at-mercari-with-llms-and-a-prompt-generation-agent/",
-      "publishedAt": "2026-11-10T12:43:20+00:00",
-      "excerpt": "Introduction Hello! We are arr0w (ML) and utdoi (Backend), Product Engineers at Mercari. Our team, the Product Data Team, works on integrating product data held by external businesses to improve the coverage and quality of our product catal",
-      "tags": [
-        "engineering",
-        "internal",
         "infrastructure"
       ]
     },
@@ -1142,20 +1115,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "sourceId": "planetscale",
-      "title": "Shard design doesn't start from your tables",
-      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/feng-shui-for-robots/",
       "sourceId": "fly",
       "title": "Feng Shui for Robots: The Fly MCP Server",
@@ -1170,6 +1129,20 @@
         "devops",
         "frontend",
         "databases"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "sourceId": "planetscale",
+      "title": "Shard design doesn't start from your tables",
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1977,19 +1950,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260927-a-kubernetes-resource-that-doesnt-exist-caching-ci-images-on-ephemeral-runners/",
-      "sourceId": "mercari",
-      "title": "A Kubernetes Resource That Doesn\u2019t Exist: Caching CI Images on Ephemeral Runners",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260927-a-kubernetes-resource-that-doesnt-exist-caching-ci-images-on-ephemeral-runners/",
-      "publishedAt": "2026-09-28T14:00:46+00:00",
-      "excerpt": "Hi, I\u2019m Anirudh, a Platform Infrastructure Engineer at Mercari. At Mercari, we depend heavily on GitHub for all of our CI pipelines. We manage our own self-hosted runners using GitHub\u2019s Actions Runner Controller (ARC) which are deployed on ",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "pinterest:https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ingestion-framework-4c7da6e4cc8f?source=rss----4c5a5f6279b6---4",
       "sourceId": "pinterest",
       "title": "Partition Finalization in Pinterest\u2019s Next-Generation DB Ingestion Framework",
@@ -2704,20 +2664,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
-      "sourceId": "mercari",
-      "title": "Bridging the Gap Between Passwords and Passkeys with Risk-Based Authentication",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260730-bridging-the-gap-between-passwords-and-passkeys-with-risk-based-authentication/",
-      "publishedAt": "2026-07-30T18:15:04+00:00",
-      "excerpt": "This is the third post in our series on passkeys and phishing-resistant accounts at Mercari. The earlier posts are: Mercari\u2019s Passkey Adoption (2023) and Mercari Phishing-Resistant Accounts with Passkey (2025). Background: A Recap of Our Jo",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "security"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/crowdsourced-taxonomy-verification",
       "sourceId": "grab",
       "title": "Crowdsourced taxonomy verification: A feedback-driven framework for refining knowledge graph relationships via online search interactions",
@@ -2999,19 +2945,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
-      "sourceId": "mercari",
-      "title": "Rethinking Payment APIs at Merpay: The Exchange Abstraction",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260626-rethinking-payment-apis-at-merpay-the-exchange-abstraction/",
-      "publishedAt": "2026-06-29T11:00:26+00:00",
-      "excerpt": "This article is the 19th entry in Merpay & Mercoin Tech Openness Month 2026. Background We are the Payment Platform team at Merpay. Our systems sit beneath almost every movement of money in the Merpay ecosystem \u2014 customers paying partners, ",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "uber:https://medium.com/uber-under-the-hood/the-1-barrier-to-ev-adoption-has-shifted-heres-what-that-means-for-drivers-6fe032e78a55?source=rss----d3cda1fa1866---4",
       "sourceId": "uber",
       "title": "The #1 Barrier to EV Adoption Has Shifted. Here\u2019s What That Means for Drivers",
@@ -3082,19 +3015,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
-      "sourceId": "mercari",
-      "title": "Scaling Myself: How I Run 22 Claude Code Sessions for DS4 Migration",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260619-scaling-myself-how-i-run-22-claude-code-sessions-for-ds4-migration/",
-      "publishedAt": "2026-06-22T10:00:24+00:00",
-      "excerpt": "This article is the 15th entry in Merpay & Mercoin Tech Openness Month 2026. In this age of AI, most of us have built our own work setups around it. This article is not a proclamation that mine is the best; other setups might work better fo",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "snap:https://eng.snap.com/spatial_intelligence",
       "sourceId": "snap",
       "title": "Measuring Spatial Intelligence in LLMs",
@@ -3119,21 +3039,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
-      "sourceId": "mercari",
-      "title": "Build First, Discuss Later: How Prototypes Speed Up Product Decisions",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260615-build-first-discuss-later/",
-      "publishedAt": "2026-06-15T10:00:16+00:00",
-      "excerpt": "I\u2019m Kubomi, an iOS engineer at Merpay, Inc. This article is the 10th entry in Merpay & Mercoin Tech Openness Month 2026. Generative AI has made it easier for engineers to build prototypes quickly. Recently, I tried building a working protot",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "ai",
-        "mobile"
       ]
     },
     {
@@ -3181,20 +3086,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
-      "sourceId": "mercari",
-      "title": "Four Mechanisms Behind EGP Code, an AI-Powered Landing Page Editor",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260610-how-egp-code-works/",
-      "publishedAt": "2026-06-10T11:00:58+00:00",
-      "excerpt": "Hi, I\u2019m @mattsuu a frontend engineer at Merpay. This is Day 7 of Merpay & Mercoin Tech Openness Month 2026. EGP Code is an internal editor for building landing pages (LPs) with AI. We covered the background in Why we built EGP Code, an HTML",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "frontend"
-      ]
-    },
-    {
       "id": "lyft:https://eng.lyft.com/from-chaos-to-clarity-2ab50856d0c8?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "From Chaos to Clarity: How We Built a Unified, Self-Routing Support Ops Ticketing System at Lyft",
@@ -3208,19 +3099,6 @@
         "infrastructure",
         "reliability",
         "databases"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
-      "sourceId": "mercari",
-      "title": "Designing a Credit-Management Microservice for Partner Invoice Payment",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260608-partner-credit-service/",
-      "publishedAt": "2026-06-09T10:00:59+00:00",
-      "excerpt": "Hello. I\u2019m imamu, a Backend Engineer on Merpay\u2019s Payment & Customer Platform (PCP) team. This article is Day 6 of Merpay & Mercoin Tech Openness Month 2026. Introduction \"Partner invoicing\" is a deferred payment method for partners (such as",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -3300,20 +3178,6 @@
         "internal",
         "reliability",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
-      "sourceId": "mercari",
-      "title": "Why we built EGP Code, an HTML-based AI editor for landing pages",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260603-why-we-built-egp-code/",
-      "publishedAt": "2026-06-03T10:00:35+00:00",
-      "excerpt": "Hi, I\u2019m @mattsuu, a frontend engineer at Merpay. This is Day 2 of Merpay & Mercoin Tech Openness Month 2026. Our team is responsible for developing Engagement Platform (EGP), a suite of internal tools for marketers and Project Managers (PMs",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "frontend"
       ]
     },
     {
@@ -3571,19 +3435,6 @@
       ]
     },
     {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
-      "sourceId": "mercari",
-      "title": "mercari-pm-agent Design \u2014 Automating the PM Workflow with Claude Code Skills and MCP",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260427-mercari-pm-agent-design-automating-the-pm-workflow-with-claude-code-skills-and-mcp/",
-      "publishedAt": "2026-04-28T10:00:04+00:00",
-      "excerpt": "Introduction Hello. I\u2019m Shogo Kikuchi, a PM intern on Mercari. During my internship, I developed a Claude Code Skill called mercari-pm-agent. It is an agent that can handle, within a single session, the end-to-end workflow PMs go through: \u201c",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "lyft:https://eng.lyft.com/how-we-built-a-smarter-pickup-experience-for-gated-communities-47416e9df029?source=rss----25cd379abb8---4",
       "sourceId": "lyft",
       "title": "How We Built a Smarter Pickup Experience for Gated Communities",
@@ -3681,20 +3532,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "mercari:https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
-      "sourceId": "mercari",
-      "title": "Enabling AI usage at Mercari with Secure Devin Management",
-      "url": "https://engineering.mercari.com/en/blog/entry/20260403-secure-devin-management/",
-      "publishedAt": "2026-04-03T10:25:21+00:00",
-      "excerpt": "Introduction Hello. I am @hi120ki, an AI Security engineer at Mercari. At Mercari, we have rolled out Devin, an AI Agent service, to multiple teams across the company. Devin is a service that can autonomously investigate code, write code, a",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "security"
       ]
     },
     {
