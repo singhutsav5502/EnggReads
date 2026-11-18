@@ -1,9 +1,111 @@
 {
-  "generatedAt": "2026-11-18T07:34:29.204106+00:00",
+  "generatedAt": "2026-11-18T20:36:16.460094+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "nubank:https://building.nu.com/beyond-borders-why-international-talent-chooses-to-build-a-career-at-nubank/",
+      "sourceId": "nubank",
+      "title": "Beyond Borders: Why International Talent Chooses to Build a Career at Nubank",
+      "url": "https://building.nu.com/beyond-borders-why-international-talent-chooses-to-build-a-career-at-nubank/",
+      "publishedAt": "2026-11-18T18:08:14+00:00",
+      "excerpt": "From Brazil to the world: how different backgrounds, shared ambitions, and a culture of continuous learning are shaping the way we work at Nubank. The post Beyond Borders: Why International Talent Chooses to Build a Career at Nubank appeare",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+      "sourceId": "meta",
+      "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+      "publishedAt": "2026-11-18T17:00:00+00:00",
+      "excerpt": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models. Now, we\u2019re sharing how",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "meta:https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+      "sourceId": "meta",
+      "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem",
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+      "publishedAt": "2026-11-18T16:59:38+00:00",
+      "excerpt": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model space, creating a rising",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "ai",
+        "infrastructure",
+        "devops"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/java4shell-waf-protection/",
+      "sourceId": "cloudflare",
+      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+      "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
+      "publishedAt": "2026-11-18T14:52:10+00:00",
+      "excerpt": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtime",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "snap:https://eng.snap.com/gaussian_splatting",
+      "sourceId": "snap",
+      "title": "Bringing Real People into Your World: Animated Gaussian Splatting on Specs AR Glasses",
+      "url": "https://eng.snap.com/gaussian_splatting",
+      "publishedAt": "2026-11-18T14:26:21.886000+00:00",
+      "excerpt": "",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "mobile"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/sentry-bref-php-aws-lambda/",
+      "sourceId": "sentry",
+      "title": "Keeping it Bref: Sentry now supports PHP on AWS Lambda",
+      "url": "https://blog.sentry.io/sentry-bref-php-aws-lambda/",
+      "publishedAt": "2026-11-18T09:00:00+00:00",
+      "excerpt": "The new Sentry integration for Bref reports AWS Lambda timeouts, event handler failures, cold starts and AWS SDK calls in PHP applications.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
+      "sourceId": "planetscale",
+      "title": "PlanetScale ranks #24 in Deloitte's Technology Fast 500",
+      "url": "https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "excerpt": "PlanetScale is #24 on the 2026 Deloitte Technology Fast 500 , a ranking of the fastest-growing technology companies in North America. Now in its 32nd year, the list ranks companies by revenue growth over a three-year period. To qualify, com",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "sourceId": "cloudflare",
@@ -949,21 +1051,6 @@
       ]
     },
     {
-      "id": "meta:https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
-      "sourceId": "meta",
-      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
-      "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
-      "publishedAt": "2026-10-28T16:00:01+00:00",
-      "excerpt": "This post describes the next generation of Meta Andromeda, Meta\u2019s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system sco",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "nubank:https://building.nu.com/beyond-the-dashboard-what-i-learned-about-data-without-an-analytical-background/",
       "sourceId": "nubank",
       "title": "Beyond the dashboard: What I learned about data without an analytical background",
@@ -1002,50 +1089,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "meta:https://engineering.fb.com/2026/10/27/security/privacylib/",
-      "sourceId": "meta",
-      "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
-      "url": "https://engineering.fb.com/2026/10/27/security/privacylib/",
-      "publishedAt": "2026-10-27T16:00:12+00:00",
-      "excerpt": "This latest deep dive into Meta\u2019s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta\u2019s diverse data and processing systems. Historically, supporting a new requirement me",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "ai",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-      "sourceId": "cloudflare",
-      "title": "What took the Internet offline in Q3 2026",
-      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-      "publishedAt": "2026-10-27T13:00:00+00:00",
-      "excerpt": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
-      "id": "sentry:https://blog.sentry.io/beagle-ai-agent-workflows/",
-      "sourceId": "sentry",
-      "title": "How a beagle-shaped AI agent ships code to madewithvuejs.com",
-      "url": "https://blog.sentry.io/beagle-ai-agent-workflows/",
-      "publishedAt": "2026-10-27T09:00:00+00:00",
-      "excerpt": "Meet Milly, the AI agent at madewithvuejs.com that scouts content, ships features, and fixes production bugs using GitHub, Linear, and the Sentry MCP.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
       ]
     },
     {
@@ -1597,21 +1640,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/leaky-buckets-in-software-explained",
-      "sourceId": "planetscale",
-      "title": "What today's software owes to Bronze Age clocks",
-      "url": "https://planetscale.com/blog/leaky-buckets-in-software-explained",
-      "publishedAt": "2026-10-07T00:00:00+00:00",
-      "excerpt": "Here's a deceptively simple question: should this function execute? Sometimes, the answer is obvious. Is the user logged in? Does their role have the required permissions? Sometimes it's less obvious. Are there sufficient resources availabl",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "ai"
-      ]
-    },
-    {
       "id": "github:https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
       "sourceId": "github",
       "title": "Building Git infrastructure for agent-scale development",
@@ -2094,20 +2122,6 @@
         "infrastructure",
         "ai",
         "frontend"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nu.com/when-the-team-plays-pix-pauses-what-the-world-cup-teaches-us-about-outliers/",
-      "sourceId": "nubank",
-      "title": "When the team plays, Pix pauses: what the World Cup teaches us about outliers",
-      "url": "https://building.nu.com/when-the-team-plays-pix-pauses-what-the-world-cup-teaches-us-about-outliers/",
-      "publishedAt": "2026-09-17T15:17:19+00:00",
-      "excerpt": "How World Cup matches turn everyday payment patterns into outliers and what those anomalies can teach us about data, risk, and reliability The post When the team plays, Pix pauses: what the World Cup teaches us about outliers appeared first",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "reliability"
       ]
     },
     {
@@ -3675,20 +3689,6 @@
       "title": "Performance as a Core Product Feature",
       "url": "https://eng.snap.com/performance_as_a_feature",
       "publishedAt": "2026-03-19T07:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "mobile"
-      ]
-    },
-    {
-      "id": "snap:https://eng.snap.com/flowrida",
-      "sourceId": "snap",
-      "title": "From Monolith to Multi-Cluster",
-      "url": "https://eng.snap.com/flowrida",
-      "publishedAt": "2026-03-17T07:00:00+00:00",
       "excerpt": "",
       "tags": [
         "engineering",
