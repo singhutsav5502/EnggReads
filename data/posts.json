@@ -1,16 +1,74 @@
 {
-  "generatedAt": "2026-11-19T07:30:13.689535+00:00",
+  "generatedAt": "2026-11-19T20:41:29.494524+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "sourceId": "cloudflare",
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "publishedAt": "2026-11-19T14:00:00+00:00",
+      "excerpt": "On November 3, 2026 U.S. voters headed to the polls. Here\u2019s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "spotify:https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/",
+      "sourceId": "spotify",
+      "title": "When Can You Ship on Offline Evals Alone?",
+      "url": "https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/",
+      "publishedAt": "2026-11-19T13:34:19+00:00",
+      "excerpt": "TL;DR Teams building AI features want to skip slow A/B tests and decide from offline evals alone. This post... The post When Can You Ship on Offline Evals Alone? appeared first on Spotify Engineering .",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "datadog:https://www.datadoghq.com/blog/engineering/semantic-translation-otel/",
+      "sourceId": "datadog",
+      "title": "How Datadog resolves evolving OpenTelemetry semantics at query time",
+      "url": "https://www.datadoghq.com/blog/engineering/semantic-translation-otel/",
+      "publishedAt": "2026-11-19T00:00:00+00:00",
+      "excerpt": "OpenTelemetry conventions evolve, but queries still need to work across old, current, and Datadog-native telemetry. Learn how Datadog uses a knowledge graph and query-time translation to resolve conditional semantic equivalences and validat",
+      "tags": [
+        "recommended",
+        "engineering",
+        "internal",
+        "reliability",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/building-planetscale-with-insights-agent",
+      "sourceId": "planetscale",
+      "title": "Building PlanetScale with Insights Agent",
+      "url": "https://planetscale.com/blog/building-planetscale-with-insights-agent",
+      "publishedAt": "2026-11-19T00:00:00+00:00",
+      "excerpt": "We've always used PlanetScale to build PlanetScale. So when we built Insights Agent, our own databases were the first place we ran it to see what kind of gains we could get. Insights Agent identifies problematic queries or schema using Quer",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/open-clairic/",
       "sourceId": "cloudflare",
       "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
       "url": "https://blog.cloudflare.com/open-clairic/",
       "publishedAt": "2026-11-18T22:00:00+00:00",
-      "excerpt": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Wo",
+      "excerpt": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We\u2019re doing an open-weight release for both extraction models.",
       "tags": [
         "recommended",
         "infrastructure",
@@ -953,21 +1011,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/emudhra-patching/",
-      "sourceId": "cloudflare",
-      "title": "4 real? Tracking exploitation and patching of eMudhra\u2019s weak keys",
-      "url": "https://blog.cloudflare.com/emudhra-patching/",
-      "publishedAt": "2026-10-30T17:38:50+00:00",
-      "excerpt": "Four, just four: that\u2019s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here\u2019s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the res",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "snap:https://eng.snap.com/alchemist",
       "sourceId": "snap",
       "title": "Alchemist: Agentic ML Experimentation",
@@ -1158,20 +1201,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "sourceId": "planetscale",
-      "title": "Shard design doesn't start from your tables",
-      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/feng-shui-for-robots/",
       "sourceId": "fly",
       "title": "Feng Shui for Robots: The Fly MCP Server",
@@ -1186,6 +1215,20 @@
         "devops",
         "frontend",
         "databases"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "sourceId": "planetscale",
+      "title": "Shard design doesn't start from your tables",
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -1610,20 +1653,6 @@
         "data",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/tin-v106",
-      "sourceId": "planetscale",
-      "title": "TIN v1.0.6: 2-3x faster, with support for stemming",
-      "url": "https://planetscale.com/blog/tin-v106",
-      "publishedAt": "2026-10-08T00:00:00+00:00",
-      "excerpt": "Three weeks ago, we released TIN , the fastest full-text search index for Postgres. Some customers asked for stemming support. Another customer asked for heap attribute tiebreakers in top-k ORDER BY clauses. One competitor optimized their f",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
       ]
     },
     {
@@ -2269,20 +2298,6 @@
         "backend",
         "ai",
         "security"
-      ]
-    },
-    {
-      "id": "spotify:https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
-      "sourceId": "spotify",
-      "title": "Why Spotify Is Not Using Bayesian A/B Testing",
-      "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
-      "publishedAt": "2026-09-08T13:18:44+00:00",
-      "excerpt": "Clearing the confusion about what Bayesian A/B testing is. The post Why Spotify Is Not Using Bayesian A/B Testing appeared first on Spotify Engineering .",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure"
       ]
     },
     {
@@ -3177,21 +3192,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "datadog:https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/",
-      "sourceId": "datadog",
-      "title": "When failover isn\u2019t safe: Building high-availability PostgreSQL on Kubernetes",
-      "url": "https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/",
-      "publishedAt": "2026-06-04T00:00:00+00:00",
-      "excerpt": "During a reliability gameday, Datadog engineers discovered that their PostgreSQL clusters couldn\u2019t safely fail over. Here\u2019s how the team redesigned them for high availability using Patroni and synchronous replication.",
-      "tags": [
-        "recommended",
-        "engineering",
-        "internal",
-        "reliability",
-        "infrastructure"
       ]
     },
     {
