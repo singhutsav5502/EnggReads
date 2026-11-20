@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-19T20:41:29.494524+00:00",
+  "generatedAt": "2026-11-20T07:21:41.414878+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/nginx2root/",
+      "sourceId": "cloudflare",
+      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "url": "https://blog.cloudflare.com/nginx2root/",
+      "publishedAt": "2026-11-20T01:58:29+00:00",
+      "excerpt": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here\u2019s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/internet-traffic-2026-us-election/",
       "sourceId": "cloudflare",
@@ -964,21 +979,6 @@
         "backend",
         "ai",
         "security"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "sourceId": "cloudflare",
-      "title": "How we halved DNS build delay and cut memory use by 85%",
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "publishedAt": "2026-11-02T14:00:00+00:00",
-      "excerpt": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
