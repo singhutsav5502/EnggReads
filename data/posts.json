@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-11-20T07:21:41.414878+00:00",
+  "generatedAt": "2026-11-20T20:25:47.071900+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "sourceId": "cloudflare",
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "publishedAt": "2026-11-20T20:24:38+00:00",
+      "excerpt": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "sourceId": "cloudflare",
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "publishedAt": "2026-11-20T20:00:45+00:00",
+      "excerpt": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/nginx2root/",
       "sourceId": "cloudflare",
@@ -17,6 +47,23 @@
         "security",
         "engineering",
         "internal"
+      ]
+    },
+    {
+      "id": "fly:https://fly.io/blog/petsem/",
+      "sourceId": "fly",
+      "title": "Petsem: Sometimes Dead Is Better",
+      "url": "https://fly.io/blog/petsem/",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "excerpt": "It\u2019s a hard time to be in infosec. Not that it was ever easy, mind you, but nowadays it seems particularly bad, what with the speed at which LLM-powered attackers can explore, iterate, and exploit their victims. The balance of power has tip",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "ai",
+        "reliability"
       ]
     },
     {
@@ -796,21 +843,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/trusted-agent-delegation/",
-      "sourceId": "cloudflare",
-      "title": "Agents aren\u2019t humans (but they kinda are)",
-      "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
-      "publishedAt": "2026-11-05T17:03:04+00:00",
-      "excerpt": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "dropbox:https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox",
       "sourceId": "dropbox",
       "title": "How two engineer side projects became the agent taking action inside Dropbox",
@@ -891,21 +923,6 @@
         "internal",
         "data",
         "ai"
-      ]
-    },
-    {
-      "id": "cloudflare:https://blog.cloudflare.com/personal-agents-visibility-control/",
-      "sourceId": "cloudflare",
-      "title": "See the agents, set the terms: New visibility and control for personal agents",
-      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-      "publishedAt": "2026-11-04T14:00:00+00:00",
-      "excerpt": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
       ]
     },
     {
@@ -3941,25 +3958,6 @@
         "engineering",
         "internal",
         "devops",
-        "databases"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/closing-the-loop/",
-      "sourceId": "fly",
-      "title": "Closing the Loop: The Missing Ingredient in Agentic Development",
-      "url": "https://fly.io/blog/closing-the-loop/",
-      "publishedAt": "2026-02-05T00:00:00+00:00",
-      "excerpt": "Remember when coding with AI meant copying code from a chat window, pasting it into your editor, running it, copying the error, pasting it back into the chat, etc. Yeah that sucked. We were middleware. Now we have agents that can read and w",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "ai",
-        "reliability",
-        "frontend",
         "databases"
       ]
     },
