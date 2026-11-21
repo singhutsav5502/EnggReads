@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-21T07:14:58.779377+00:00",
+  "generatedAt": "2026-11-21T19:20:24.195858+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "booking:https://medium.com/booking-com-development/under-the-hood-of-booking-coms-search-engine-556d45341e2c?source=rss----1c36c35f9c76---4",
+      "sourceId": "booking",
+      "title": "Under the hood of Booking.com\u2019s search engine",
+      "url": "https://medium.com/booking-com-development/under-the-hood-of-booking-coms-search-engine-556d45341e2c?source=rss----1c36c35f9c76---4",
+      "publishedAt": "2026-11-21T16:51:29+00:00",
+      "excerpt": "Serving personalised offers at scale Ever wondered what happens when you hit search on Booking.com? Among millions of properties and trillions of room/date combinations available, how does it surface the most relevant one for you? Here\u2019s wh",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "databases"
+      ]
+    },
     {
       "id": "cloudflare:https://blog.cloudflare.com/ruby2shell-waf-protection/",
       "sourceId": "cloudflare",
@@ -4450,23 +4465,6 @@
         "security",
         "data",
         "databases"
-      ]
-    },
-    {
-      "id": "booking:https://medium.com/booking-com-development/unlocking-the-power-of-customization-how-our-enrichment-system-transforms-recommendation-data-e71832fc4ef4?source=rss----1c36c35f9c76---4",
-      "sourceId": "booking",
-      "title": "Unlocking the Power of Customization: How Our Enrichment System Transforms Recommendation Data\u2026",
-      "url": "https://medium.com/booking-com-development/unlocking-the-power-of-customization-how-our-enrichment-system-transforms-recommendation-data-e71832fc4ef4?source=rss----1c36c35f9c76---4",
-      "publishedAt": "2025-06-18T08:02:41+00:00",
-      "excerpt": "Unlocking the Power of Customization: How Our Enrichment System Transforms Recommendation Data Enrichments How are accurate property prices on Booking.com connected to machine learning that recommends appealing property photos? What about t",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "ai",
-        "reliability",
-        "frontend"
       ]
     },
     {
