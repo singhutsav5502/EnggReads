@@ -1,9 +1,162 @@
 {
-  "generatedAt": "2026-11-23T07:44:43.697963+00:00",
+  "generatedAt": "2026-11-23T23:57:06.413585+00:00",
   "feedCount": 37,
   "fetchedOk": 37,
   "postCount": 379,
   "posts": [
+    {
+      "id": "nubank:https://building.nu.com/people-first-ai-second-how-to-lead-an-ai-product-without-being-an-ai-expert/",
+      "sourceId": "nubank",
+      "title": "People first, AI second: How to lead an AI product without being an AI expert",
+      "url": "https://building.nu.com/people-first-ai-second-how-to-lead-an-ai-product-without-being-an-ai-expert/",
+      "publishedAt": "2026-11-23T18:15:44+00:00",
+      "excerpt": "What I've learned about deciding when AI belongs in a product, testing it before it exists and launching it without losing users' trust The post People first, AI second: How to lead an AI product without being an AI expert appeared first on",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
+      "id": "cloudflare:https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "sourceId": "cloudflare",
+      "title": "Probing DNS at Cloudflare",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "publishedAt": "2026-11-23T14:00:00+00:00",
+      "excerpt": "At Cloudflare we\u2019ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "security",
+        "engineering",
+        "internal"
+      ]
+    },
+    {
+      "id": "snap:https://eng.snap.com/pytorch",
+      "sourceId": "snap",
+      "title": "Trillion Parameter Scale Recommendation Models on PyTorch",
+      "url": "https://eng.snap.com/pytorch",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "excerpt": "",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "mobile"
+      ]
+    },
+    {
+      "id": "snap:https://eng.snap.com/mcp-gateway",
+      "sourceId": "snap",
+      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+      "url": "https://eng.snap.com/mcp-gateway",
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "excerpt": "How Snap's MCP Gateway makes every call from an AI agent pass as both the person and the agent: agent identities, attestation tokens, reviewed per-tool grants and central audit.",
+      "tags": [
+        "engineering",
+        "internal",
+        "infrastructure",
+        "mobile"
+      ]
+    },
+    {
+      "id": "fly:https://fly.io/blog/holding-the-door-for-agents/",
+      "sourceId": "fly",
+      "title": "Holding the Door for Agents",
+      "url": "https://fly.io/blog/holding-the-door-for-agents/",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "The agents, man. They\u2019re everywhere. At least 55% of deployments to Fly.io are now performed by agents. Bots passed humans in web traffic for the first time this year, mostly driven by the surge in agent use. Just a year ago, Cursor had 2.5",
+      "tags": [
+        "recommended",
+        "infrastructure",
+        "engineering",
+        "internal",
+        "devops",
+        "frontend",
+        "databases"
+      ]
+    },
+    {
+      "id": "grab:https://engineering.grab.com/part-1-ads-simulation-blogpost",
+      "sourceId": "grab",
+      "title": "Part 1: Simulation-first AI experimentation for ads at Grab",
+      "url": "https://engineering.grab.com/part-1-ads-simulation-blogpost",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "Introduction Ads delivery at Grab is increasingly an artificial intelligence (AI) decisioning problem. Every ad opportunity requires the system to infer user intent, predict engagement, balance advertiser returns, platform revenue, and user",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "ai",
+        "reliability",
+        "frontend"
+      ]
+    },
+    {
+      "id": "grab:https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better",
+      "sourceId": "grab",
+      "title": "Replaying merged changes: how we test whether a knowledge base makes coding agents better",
+      "url": "https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "Introduction Every session, you get a new teammate: a coding agent. It reads code faster than you and has seen more of it than your whole team put together. What it does not have is any memory of how your service got this way. It can see wh",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "ai",
+        "reliability",
+        "devops"
+      ]
+    },
+    {
+      "id": "grab:https://engineering.grab.com/how-grab-built-scarlet-blog",
+      "sourceId": "grab",
+      "title": "How Grab built Scarlet: the AI teammate that turns a Slack message into a production data pipeline",
+      "url": "https://engineering.grab.com/how-grab-built-scarlet-blog",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "Introduction In the blog From firefighting to building , we described the agents our Analytics Data Warehouse (ADW) team built to take routine work off data engineers. Scarlet was the Enhancement Agent in that post. It read a ticket, wrote ",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
+      "sourceId": "deliveroo",
+      "title": "The life of an undercover academic at Deliveroo: what moving from research to data science actually looks like",
+      "url": "https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "We are Miguel and Giorgia. Miguel joined Deliveroo as a Senior Data Scientist in early 2026, working on rider pricing, logistics and delivery speed, and Giorgia joined at the end of 2025, working on Dispatcher, the model that matches riders",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "devops"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
+      "sourceId": "planetscale",
+      "title": "Why you shouldn't do application-level sharding",
+      "url": "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "This is application-level sharding. When an OLTP database like Postgres or MySQL grows so large that it no longer \"fits\" on one server, the common approach to scaling is sharding. One way to do it is app-level sharding, where all the logic ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "reliability",
+        "data",
+        "devops"
+      ]
+    },
     {
       "id": "booking:https://medium.com/booking-com-development/under-the-hood-of-booking-coms-search-engine-556d45341e2c?source=rss----1c36c35f9c76---4",
       "sourceId": "booking",
@@ -599,23 +752,6 @@
       ]
     },
     {
-      "id": "grab:https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better",
-      "sourceId": "grab",
-      "title": "Replaying merged changes: how we test whether a knowledge base makes coding agents better",
-      "url": "https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better",
-      "publishedAt": "2026-11-11T00:00:00+00:00",
-      "excerpt": "Introduction Every session, you get a new teammate: a coding agent. It reads code faster than you and has seen more of it than your whole team put together. What it does not have is any memory of how your service got this way. It can see wh",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai",
-        "reliability",
-        "devops"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/migrate-from-heroku-to-planetscale",
       "sourceId": "planetscale",
       "title": "How we migrate TBs from Heroku without logical replication",
@@ -840,21 +976,6 @@
       ]
     },
     {
-      "id": "cloudflare:https://blog.cloudflare.com/vole-mole/",
-      "sourceId": "cloudflare",
-      "title": "The post-quantum future of web privacy",
-      "url": "https://blog.cloudflare.com/vole-mole/",
-      "publishedAt": "2026-11-06T14:00:00+00:00",
-      "excerpt": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "security",
-        "engineering",
-        "internal"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/well-that-wasnt-fun/",
       "sourceId": "fly",
       "title": "Well, That Wasn't Fun: October 16 '26",
@@ -1026,20 +1147,6 @@
         "internal",
         "reliability",
         "frontend"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/how-grab-built-scarlet-blog",
-      "sourceId": "grab",
-      "title": "How Grab built Scarlet: the AI teammate that turns a Slack message into a production data pipeline",
-      "url": "https://engineering.grab.com/how-grab-built-scarlet-blog",
-      "publishedAt": "2026-11-03T00:00:00+00:00",
-      "excerpt": "Introduction In the blog From firefighting to building , we described the agents our Analytics Data Warehouse (ADW) team built to take routine work off data engineers. Scarlet was the Enhancement Agent in that post. It read a ticket, wrote ",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile"
       ]
     },
     {
@@ -1688,21 +1795,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/what-gets-toasted-in-postgres",
-      "sourceId": "planetscale",
-      "title": "What gets TOASTed in Postgres",
-      "url": "https://planetscale.com/blog/what-gets-toasted-in-postgres",
-      "publishedAt": "2026-10-12T00:00:00+00:00",
-      "excerpt": "Insert 2,000 copies of the letter x into a table with an int ID and a text column, and Postgres stores all 2,000 bytes uncompressed. Insert 2,001, and Postgres compresses the value to 26 bytes with LZ4. That one extra byte is enough to trig",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "frontend"
-      ]
-    },
-    {
       "id": "zalando:https://engineering.zalando.com/posts/2026/10/structure-automating-data-ingestion-with-a-rag-flywheel.html",
       "sourceId": "zalando",
       "title": "Automating Data Ingestion with a RAG Flywheel",
@@ -2081,19 +2173,6 @@
         "engineering",
         "internal",
         "data"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nu.com/beyond-a-b-testing-designing-experiments-when-the-space-is-too-large-to-explore/",
-      "sourceId": "nubank",
-      "title": "Beyond A/B Testing: Designing Experiments When the Space Is Too Large to Explore",
-      "url": "https://building.nu.com/beyond-a-b-testing-designing-experiments-when-the-space-is-too-large-to-explore/",
-      "publishedAt": "2026-09-28T14:21:31+00:00",
-      "excerpt": "A practical guide to D-optimal designs, Fedorov's algorithm, and how business restrictions shape what we can test and estimate The post Beyond A/B Testing: Designing Experiments When the Space Is Too Large to Explore appeared first on Build",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
@@ -2685,21 +2764,6 @@
         "data",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/grab-bench-evaluating-ai",
-      "sourceId": "grab",
-      "title": "Grab Bench: Evaluating AI on Grab-shaped production work",
-      "url": "https://engineering.grab.com/grab-bench-evaluating-ai",
-      "publishedAt": "2026-08-12T00:00:00+00:00",
-      "excerpt": "Introduction What worried us wasn\u2019t the hallucination, it was the subtle plausibility. Answers an engineer could easily read past and accept: a right-looking Structured Query Language (SQL) query, a plausible tool call, an innocent profile ",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai"
       ]
     },
     {
@@ -3660,20 +3724,6 @@
       ]
     },
     {
-      "id": "snap:https://eng.snap.com/spectacles_supabase",
-      "sourceId": "snap",
-      "title": "Snap Cloud: A Backend for Spectacles, Powered by Supabase",
-      "url": "https://eng.snap.com/spectacles_supabase",
-      "publishedAt": "2026-04-17T07:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "mobile"
-      ]
-    },
-    {
       "id": "nytimes:https://open.nytimes.com/implementing-dark-mode-in-the-games-app-be7241ddb7ba?source=rss----51e1d1745b32---4",
       "sourceId": "nytimes",
       "title": "How The New York Times Games Team Delivered Accessible, Cross-Platform Dark Mode",
@@ -3877,20 +3927,6 @@
         "engineering",
         "internal",
         "backend"
-      ]
-    },
-    {
-      "id": "snap:https://eng.snap.com/performance_as_a_feature",
-      "sourceId": "snap",
-      "title": "Performance as a Core Product Feature",
-      "url": "https://eng.snap.com/performance_as_a_feature",
-      "publishedAt": "2026-03-19T07:00:00+00:00",
-      "excerpt": "",
-      "tags": [
-        "engineering",
-        "internal",
-        "infrastructure",
-        "mobile"
       ]
     },
     {
@@ -4122,22 +4158,6 @@
         "internal",
         "culture",
         "data"
-      ]
-    },
-    {
-      "id": "fly:https://fly.io/blog/agent-swarms-on-sprites/",
-      "sourceId": "fly",
-      "title": "Agent Swarms on Sprites",
-      "url": "https://fly.io/blog/agent-swarms-on-sprites/",
-      "publishedAt": "2026-02-09T00:00:00+00:00",
-      "excerpt": "There\u2019s a lot of noise right now about agent teams and swarms. The idea is simple: instead of one code agent grinding through a task list, set up a group of agents that can split work, delegate, and check each other\u2019s output. It works. Mult",
-      "tags": [
-        "recommended",
-        "infrastructure",
-        "engineering",
-        "internal",
-        "devops",
-        "databases"
       ]
     },
     {
@@ -5001,19 +5021,6 @@
         "internal",
         "infrastructure",
         "ai"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2025/02/06/experimentation-principles.html",
-      "sourceId": "deliveroo",
-      "title": "Deliveroo experimentation principles",
-      "url": "https://deliveroo.engineering/2025/02/06/experimentation-principles.html",
-      "publishedAt": "2025-02-06T00:00:00+00:00",
-      "excerpt": "Experimentation at Deliveroo has significantly boosted our innovation as a company. It has allowed us to explore new ideas, protected us from unforeseen challenges by preventing wasted time and resources on ineffective initiatives, and prom",
-      "tags": [
-        "engineering",
-        "internal",
-        "data"
       ]
     },
     {
