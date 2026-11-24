@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:57:06.413585+00:00",
+  "generatedAt": "2026-11-24T09:58:33.635995+00:00",
   "feedCount": 37,
   "fetchedOk": 37,
   "postCount": 379,
@@ -392,6 +392,23 @@
         "internal",
         "reliability",
         "frontend"
+      ]
+    },
+    {
+      "id": "grab:https://engineering.grab.com/shared-merchant-data-service",
+      "sourceId": "grab",
+      "title": "How a shared merchant data service can degrade gracefully",
+      "url": "https://engineering.grab.com/shared-merchant-data-service",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "excerpt": "Introduction When a cache becomes unreliable, a shared read service can struggle in ways that spread to the systems that depend on it. We saw this pattern in our merchant data service (MDS). Cache reads began timing out, fallback requests i",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "reliability",
+        "security",
+        "databases"
       ]
     },
     {
@@ -2651,21 +2668,6 @@
         "internal",
         "frontend",
         "security"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/jarvis-pro-route-firsr-answer-later",
-      "sourceId": "grab",
-      "title": "Building Jarvis Pro: Route first, answer later",
-      "url": "https://engineering.grab.com/jarvis-pro-route-firsr-answer-later",
-      "publishedAt": "2026-08-21T00:00:00+00:00",
-      "excerpt": "Introduction The first Jarvis Pro prototype could produce answers that sounded right. That was the problem. One early answer looked polished: it named the merchant, summarized the week, and recommended pushing promotions before the next rev",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai"
       ]
     },
     {
