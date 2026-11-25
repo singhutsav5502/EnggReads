@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-11-24T22:29:47.343015+00:00",
+  "generatedAt": "2026-11-25T08:41:16.211039+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "grab:https://engineering.grab.com/part-2-ads-simulation-blogpost",
+      "sourceId": "grab",
+      "title": "Part 2: Generative bidders for ads at Grab",
+      "url": "https://engineering.grab.com/part-2-ads-simulation-blogpost",
+      "publishedAt": "2026-11-25T00:00:00+00:00",
+      "excerpt": "Introduction Grab runs marketplaces where many important decisions unfold over time, rather than as one-step predictions. Mobility systems need to anticipate how taxi demand and driver supply may evolve across locations and time windows. Fo",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "mobile",
+        "ai"
+      ]
+    },
     {
       "id": "sentry:https://blog.sentry.io/expo-router-react-native-sdk/",
       "sourceId": "sentry",
@@ -72,23 +87,6 @@
         "internal",
         "infrastructure",
         "mobile"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
-      "sourceId": "planetscale",
-      "title": "Why you shouldn't do application-level sharding",
-      "url": "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
-      "publishedAt": "2026-11-23T00:00:00+00:00",
-      "excerpt": "This is application-level sharding. When an OLTP database like Postgres or MySQL grows so large that it no longer \"fits\" on one server, the common approach to scaling is sharding. One way to do it is app-level sharding, where all the logic ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability",
-        "data",
-        "devops"
       ]
     },
     {
@@ -168,6 +166,23 @@
         "internal",
         "data",
         "ai",
+        "devops"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
+      "sourceId": "planetscale",
+      "title": "Why you shouldn't do application-level sharding",
+      "url": "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "This is application-level sharding. When an OLTP database like Postgres or MySQL grows so large that it no longer \"fits\" on one server, the common approach to scaling is sharding. One way to do it is app-level sharding, where all the logic ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "reliability",
+        "data",
         "devops"
       ]
     },
@@ -409,21 +424,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
-      "sourceId": "planetscale",
-      "title": "PlanetScale ranks #24 in Deloitte's Technology Fast 500",
-      "url": "https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "excerpt": "PlanetScale is #24 on the 2026 Deloitte Technology Fast 500 , a ranking of the fastest-growing technology companies in North America. Now in its 32nd year, the list ranks companies by revenue growth over a three-year period. To qualify, com",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "security"
-      ]
-    },
-    {
       "id": "grab:https://engineering.grab.com/shared-merchant-data-service",
       "sourceId": "grab",
       "title": "How a shared merchant data service can degrade gracefully",
@@ -438,6 +438,21 @@
         "reliability",
         "security",
         "databases"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
+      "sourceId": "planetscale",
+      "title": "PlanetScale ranks #24 in Deloitte's Technology Fast 500",
+      "url": "https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "excerpt": "PlanetScale is #24 on the 2026 Deloitte Technology Fast 500 , a ranking of the fastest-growing technology companies in North America. Now in its 32nd year, the list ranks companies by revenue growth over a three-year period. To qualify, com",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
       ]
     },
     {
@@ -1387,20 +1402,6 @@
       ]
     },
     {
-      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "sourceId": "planetscale",
-      "title": "Shard design doesn't start from your tables",
-      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure"
-      ]
-    },
-    {
       "id": "fly:https://fly.io/blog/feng-shui-for-robots/",
       "sourceId": "fly",
       "title": "Feng Shui for Robots: The Fly MCP Server",
@@ -1415,6 +1416,20 @@
         "devops",
         "frontend",
         "databases"
+      ]
+    },
+    {
+      "id": "planetscale:https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "sourceId": "planetscale",
+      "title": "Shard design doesn't start from your tables",
+      "url": "https://planetscale.com/blog/shard-groups-the-unit-of-co-location",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "excerpt": "Previously, in The lifecycle of a sharded Postgres query , the router had to join customers and orders itself, because each table was sharded by its own ID. The fix was to shard orders by customer_id , hashed and mapped the same way as cust",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure"
       ]
     },
     {
@@ -2561,23 +2576,6 @@
         "engineering",
         "internal",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "grab:https://engineering.grab.com/data-mesh-at-grab-part-three",
-      "sourceId": "grab",
-      "title": "Data Mesh at Grab (Part III): Operationalizing data reliability with automated DPIs",
-      "url": "https://engineering.grab.com/data-mesh-at-grab-part-three",
-      "publishedAt": "2026-08-28T00:00:00+00:00",
-      "excerpt": "Introduction In the first two parts of this series , we described how Grab approaches data mesh through the Signals Marketplace: a way for teams to publish, discover, and reuse trusted data products across domains. Part II introduced the fo",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "mobile",
-        "ai",
-        "reliability",
-        "databases"
       ]
     },
     {
