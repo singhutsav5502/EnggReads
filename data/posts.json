@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-11-25T08:41:16.211039+00:00",
+  "generatedAt": "2026-11-25T21:44:51.082673+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "nubank:https://building.nu.com/continuity-is-engineered-not-given-how-i-learned-to-work-with-ai-agents-that-forget-everything/",
+      "sourceId": "nubank",
+      "title": "Continuity is engineered, not given: How I learned to work with AI agents that forget everything",
+      "url": "https://building.nu.com/continuity-is-engineered-not-given-how-i-learned-to-work-with-ai-agents-that-forget-everything/",
+      "publishedAt": "2026-11-25T16:20:02+00:00",
+      "excerpt": "Why every session with an AI agent is rebuilt from scratch, and the four rules I use to decide what the model sees, what it carries forward and what it never sees at all The post Continuity is engineered, not given: How I learned to work wi",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
+      "id": "sentry:https://blog.sentry.io/quadratic-webhook-autoscaler-ceiling/",
+      "sourceId": "sentry",
+      "title": "How one quadratic webhook handler pinned our autoscaler at its ceiling",
+      "url": "https://blog.sentry.io/quadratic-webhook-autoscaler-ceiling/",
+      "publishedAt": "2026-11-25T09:00:00+00:00",
+      "excerpt": "Our Control RPC autoscaler sat at 256 pods for hours. Three GitLab integration bugs had turned one webhook into millions of RPC calls.",
+      "tags": [
+        "engineering",
+        "internal",
+        "reliability",
+        "frontend"
+      ]
+    },
     {
       "id": "grab:https://engineering.grab.com/part-2-ads-simulation-blogpost",
       "sourceId": "grab",
@@ -1282,20 +1309,6 @@
       ]
     },
     {
-      "id": "sentry:https://blog.sentry.io/measuring-soft-navigation-web-vitals/",
-      "sourceId": "sentry",
-      "title": "Measuring soft navigation web vitals",
-      "url": "https://blog.sentry.io/measuring-soft-navigation-web-vitals/",
-      "publishedAt": "2026-10-29T00:00:00+00:00",
-      "excerpt": "The Sentry JavaScript SDK v11 reports LCP, CLS, and INP for soft navigations. Here's what that reveals about your SPA, with interactive demos.",
-      "tags": [
-        "engineering",
-        "internal",
-        "reliability",
-        "frontend"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption",
       "sourceId": "planetscale",
       "title": "Designing a planned switchover for minimum disruption",
@@ -1709,19 +1722,6 @@
         "infrastructure",
         "devops",
         "databases"
-      ]
-    },
-    {
-      "id": "nubank:https://building.nu.com/feature-stores-in-real-time-ml-part-3-examples-from-nubank/",
-      "sourceId": "nubank",
-      "title": "Feature stores in real-time ML, part 3: Examples from Nubank",
-      "url": "https://building.nu.com/feature-stores-in-real-time-ml-part-3-examples-from-nubank/",
-      "publishedAt": "2026-10-14T14:36:17+00:00",
-      "excerpt": "Written by: Felipe Almeida, with contributions from Luiz Felix, V\u00edvian Miranda, Lucas Nolasco, and Caroline Custodio. This is part 3 of a 3-part series on Feature Stores for Real-time ML. View part 1 and part 2. Quick recap and introduction",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend"
       ]
     },
     {
