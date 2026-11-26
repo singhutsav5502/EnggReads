@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:44:51.082673+00:00",
+  "generatedAt": "2026-11-26T08:26:03.844205+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -134,6 +134,23 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
+      "sourceId": "planetscale",
+      "title": "Why you shouldn't do application-level sharding",
+      "url": "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "This is application-level sharding. When an OLTP database like Postgres or MySQL grows so large that it no longer \"fits\" on one server, the common approach to scaling is sharding. One way to do it is app-level sharding, where all the logic ",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "reliability",
+        "data",
+        "devops"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/part-1-ads-simulation-blogpost",
       "sourceId": "grab",
       "title": "Part 1: Simulation-first AI experimentation for ads at Grab",
@@ -193,23 +210,6 @@
         "internal",
         "data",
         "ai",
-        "devops"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
-      "sourceId": "planetscale",
-      "title": "Why you shouldn't do application-level sharding",
-      "url": "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
-      "publishedAt": "2026-11-23T00:00:00+00:00",
-      "excerpt": "This is application-level sharding. When an OLTP database like Postgres or MySQL grows so large that it no longer \"fits\" on one server, the common approach to scaling is sharding. One way to do it is app-level sharding, where all the logic ",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "reliability",
-        "data",
         "devops"
       ]
     },
@@ -451,6 +451,21 @@
       ]
     },
     {
+      "id": "planetscale:https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
+      "sourceId": "planetscale",
+      "title": "PlanetScale ranks #24 in Deloitte's Technology Fast 500",
+      "url": "https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "excerpt": "PlanetScale is #24 on the 2026 Deloitte Technology Fast 500 , a ranking of the fastest-growing technology companies in North America. Now in its 32nd year, the list ranks companies by revenue growth over a three-year period. To qualify, com",
+      "tags": [
+        "databases",
+        "engineering",
+        "internal",
+        "infrastructure",
+        "security"
+      ]
+    },
+    {
       "id": "grab:https://engineering.grab.com/shared-merchant-data-service",
       "sourceId": "grab",
       "title": "How a shared merchant data service can degrade gracefully",
@@ -465,21 +480,6 @@
         "reliability",
         "security",
         "databases"
-      ]
-    },
-    {
-      "id": "planetscale:https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
-      "sourceId": "planetscale",
-      "title": "PlanetScale ranks #24 in Deloitte's Technology Fast 500",
-      "url": "https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "excerpt": "PlanetScale is #24 on the 2026 Deloitte Technology Fast 500 , a ranking of the fastest-growing technology companies in North America. Now in its 32nd year, the list ranks companies by revenue growth over a three-year period. To qualify, com",
-      "tags": [
-        "databases",
-        "engineering",
-        "internal",
-        "infrastructure",
-        "security"
       ]
     },
     {
