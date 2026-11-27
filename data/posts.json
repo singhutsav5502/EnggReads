@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-11-27T08:40:54.806118+00:00",
+  "generatedAt": "2026-11-27T21:21:43.978126+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
   "posts": [
+    {
+      "id": "nubank:https://building.nu.com/tech-folklore-when-engineering-decisions-outlive-their-reasoning/",
+      "sourceId": "nubank",
+      "title": "Tech Folklore: When engineering decisions outlive their reasoning",
+      "url": "https://building.nu.com/tech-folklore-when-engineering-decisions-outlive-their-reasoning/",
+      "publishedAt": "2026-11-27T17:26:45+00:00",
+      "excerpt": "How revisiting architectural assumptions, preserving technical context, and challenging inherited beliefs can lead to better engineering decisions The post Tech Folklore: When engineering decisions outlive their reasoning appeared first on ",
+      "tags": [
+        "engineering",
+        "internal",
+        "backend"
+      ]
+    },
+    {
+      "id": "spotify:https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt/",
+      "sourceId": "spotify",
+      "title": "September 29 Outage Incident Report: What we learnt",
+      "url": "https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt/",
+      "publishedAt": "2026-11-27T14:00:11+00:00",
+      "excerpt": "On September 29, Spotify experienced an outage that disrupted users\u2019 access to the platform. This outage was... The post September 29 Outage Incident Report: What we learnt appeared first on Spotify Engineering .",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "infrastructure",
+        "reliability"
+      ]
+    },
     {
       "id": "nubank:https://building.nu.com/continuity-is-engineered-not-given-how-i-learned-to-work-with-ai-agents-that-forget-everything/",
       "sourceId": "nubank",
@@ -182,6 +210,21 @@
       ]
     },
     {
+      "id": "deliveroo:https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
+      "sourceId": "deliveroo",
+      "title": "The life of an undercover academic at Deliveroo: what moving from research to data science actually looks like",
+      "url": "https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "We are Miguel and Giorgia. Miguel joined Deliveroo as a Senior Data Scientist in early 2026, working on rider pricing, logistics and delivery speed, and Giorgia joined at the end of 2025, working on Dispatcher, the model that matches riders",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
+        "devops"
+      ]
+    },
+    {
       "id": "planetscale:https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
       "sourceId": "planetscale",
       "title": "Why you shouldn't do application-level sharding",
@@ -195,21 +238,6 @@
         "infrastructure",
         "reliability",
         "data",
-        "devops"
-      ]
-    },
-    {
-      "id": "deliveroo:https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
-      "sourceId": "deliveroo",
-      "title": "The life of an undercover academic at Deliveroo: what moving from research to data science actually looks like",
-      "url": "https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
-      "publishedAt": "2026-11-23T00:00:00+00:00",
-      "excerpt": "We are Miguel and Giorgia. Miguel joined Deliveroo as a Senior Data Scientist in early 2026, working on rider pricing, logistics and delivery speed, and Giorgia joined at the end of 2025, working on Dispatcher, the model that matches riders",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
         "devops"
       ]
     },
@@ -1647,20 +1675,6 @@
       ]
     },
     {
-      "id": "nubank:https://building.nu.com/squeezing-2x-mfu-out-of-our-training-runs/",
-      "sourceId": "nubank",
-      "title": "Squeezing ~2\u00d7 MFU out of our training runs",
-      "url": "https://building.nu.com/squeezing-2x-mfu-out-of-our-training-runs/",
-      "publishedAt": "2026-10-15T17:53:22+00:00",
-      "excerpt": "How attention-kernel selection, compiler integration, and optimizer implementation shape Transformer model training speed The post Squeezing ~2\u00d7 MFU out of our training runs appeared first on Building Nubank .",
-      "tags": [
-        "engineering",
-        "internal",
-        "backend",
-        "ai"
-      ]
-    },
-    {
       "id": "netflix:https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
       "sourceId": "netflix",
       "title": "Integrating Netflix\u2019s Foundation Model into Personalization applications",
@@ -2353,21 +2367,6 @@
         "internal",
         "frontend",
         "infrastructure"
-      ]
-    },
-    {
-      "id": "spotify:https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
-      "sourceId": "spotify",
-      "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
-      "url": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
-      "publishedAt": "2026-09-16T19:13:53+00:00",
-      "excerpt": "Quality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex... The post AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity appeared first on Spotify Engin",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "infrastructure",
-        "reliability"
       ]
     },
     {
