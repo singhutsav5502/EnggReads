@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:21:43.978126+00:00",
+  "generatedAt": "2026-11-28T07:54:35.861269+00:00",
   "feedCount": 37,
   "fetchedOk": 36,
   "postCount": 367,
@@ -210,21 +210,6 @@
       ]
     },
     {
-      "id": "deliveroo:https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
-      "sourceId": "deliveroo",
-      "title": "The life of an undercover academic at Deliveroo: what moving from research to data science actually looks like",
-      "url": "https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
-      "publishedAt": "2026-11-23T00:00:00+00:00",
-      "excerpt": "We are Miguel and Giorgia. Miguel joined Deliveroo as a Senior Data Scientist in early 2026, working on rider pricing, logistics and delivery speed, and Giorgia joined at the end of 2025, working on Dispatcher, the model that matches riders",
-      "tags": [
-        "engineering",
-        "internal",
-        "data",
-        "ai",
-        "devops"
-      ]
-    },
-    {
       "id": "planetscale:https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
       "sourceId": "planetscale",
       "title": "Why you shouldn't do application-level sharding",
@@ -238,6 +223,21 @@
         "infrastructure",
         "reliability",
         "data",
+        "devops"
+      ]
+    },
+    {
+      "id": "deliveroo:https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
+      "sourceId": "deliveroo",
+      "title": "The life of an undercover academic at Deliveroo: what moving from research to data science actually looks like",
+      "url": "https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "excerpt": "We are Miguel and Giorgia. Miguel joined Deliveroo as a Senior Data Scientist in early 2026, working on rider pricing, logistics and delivery speed, and Giorgia joined at the end of 2025, working on Dispatcher, the model that matches riders",
+      "tags": [
+        "engineering",
+        "internal",
+        "data",
+        "ai",
         "devops"
       ]
     },
